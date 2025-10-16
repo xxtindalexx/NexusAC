@@ -1,8 +1,0 @@
-{
-  "AdminsAreImmune": false,
-  "CloakedPlayersAreImmune": true,
-  "EnableAntiBlink": true,
-  "AntiBlinkLogIntervalMilliseconds": 5000,
-  "AntiBlinkMonsterDoors": true,
-  "AntiBlinkZHeightLimit": 2.6
-}
