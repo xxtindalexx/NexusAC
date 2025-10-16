@@ -1,0 +1,107 @@
+{
+  "wcid": 49032157,
+  "weenieType": 38,
+  "boolStats": [
+    {
+      "key": 69,
+      "value": 0
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 2048
+    },
+    {
+      "key": 5,
+      "value": 10
+    },
+    {
+      "key": 8,
+      "value": 10
+    },
+    {
+      "key": 9,
+      "value": 0
+    },
+    {
+      "key": 11,
+      "value": 100
+    },
+    {
+      "key": 12,
+      "value": 1
+    },
+    {
+      "key": 13,
+      "value": 10
+    },
+    {
+      "key": 14,
+      "value": 10
+    },
+    {
+      "key": 15,
+      "value": 10
+    },
+    {
+      "key": 16,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 10
+    },
+    {
+      "key": 33,
+      "value": -1
+    },
+    {
+      "key": 93,
+      "value": 1044
+    },
+    {
+      "key": 114,
+      "value": 1
+    }
+  ],
+  "didStats": [
+    {
+      "key": 8,
+      "value": 100690334
+    },
+    {
+      "key": 50,
+      "value": 100692118
+    },
+    {
+      "key": 52,
+      "value": 100689403
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Luminance Exchange Token"
+    },
+    {
+      "key": 16,
+      "value": "A token that can be handed to Hera in the Abandoned Mine along with 150,000 luminance for a chance to spin the reward wheel for a prize."
+    },
+    {
+      "key": 20,
+      "value": "Luminance Exchange Tokens"
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2025-10-10T07:00:02.5258345Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

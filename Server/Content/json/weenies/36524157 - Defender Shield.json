@@ -1,0 +1,224 @@
+{
+  "wcid": 36524157,
+  "weenieType": 1,
+  "boolStats": [
+    {
+      "key": 22,
+      "value": 1
+    },
+    {
+      "key": 23,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 2
+    },
+    {
+      "key": 5,
+      "value": 300
+    },
+    {
+      "key": 9,
+      "value": 2097152
+    },
+    {
+      "key": 16,
+      "value": 1
+    },
+    {
+      "key": 18,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 2000
+    },
+    {
+      "key": 27,
+      "value": 2
+    },
+    {
+      "key": 28,
+      "value": 100
+    },
+    {
+      "key": 33,
+      "value": 1
+    },
+    {
+      "key": 36,
+      "value": 9999
+    },
+    {
+      "key": 51,
+      "value": 4
+    },
+    {
+      "key": 56,
+      "value": 100
+    },
+    {
+      "key": 93,
+      "value": 1044
+    },
+    {
+      "key": 106,
+      "value": 400
+    },
+    {
+      "key": 107,
+      "value": 3000
+    },
+    {
+      "key": 108,
+      "value": 3000
+    },
+    {
+      "key": 109,
+      "value": 200
+    },
+    {
+      "key": 114,
+      "value": 1
+    },
+    {
+      "key": 115,
+      "value": 500
+    },
+    {
+      "key": 150,
+      "value": 103
+    },
+    {
+      "key": 151,
+      "value": 2
+    },
+    {
+      "key": 377,
+      "value": 10
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33560395
+    },
+    {
+      "key": 3,
+      "value": 536870932
+    },
+    {
+      "key": 7,
+      "value": 268437521
+    },
+    {
+      "key": 8,
+      "value": 100671019
+    },
+    {
+      "key": 22,
+      "value": 872415275
+    },
+    {
+      "key": 37,
+      "value": 48
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 13,
+      "value": 100
+    },
+    {
+      "key": 14,
+      "value": 100
+    },
+    {
+      "key": 15,
+      "value": 100
+    },
+    {
+      "key": 16,
+      "value": 100
+    },
+    {
+      "key": 17,
+      "value": 100
+    },
+    {
+      "key": 18,
+      "value": 100
+    },
+    {
+      "key": 19,
+      "value": 100
+    },
+    {
+      "key": 39,
+      "value": 1.4
+    },
+    {
+      "key": 111,
+      "value": 1
+    },
+    {
+      "key": 159,
+      "value": 0.3
+    },
+    {
+      "key": 165,
+      "value": 1
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Defender Shield"
+    },
+    {
+      "key": 16,
+      "value": "Defend"
+    }
+  ],
+  "spellbook": [
+    {
+      "key": 2242,
+      "value": {
+        "casting_likelihood": 2
+      }
+    },
+    {
+      "key": 2244,
+      "value": {
+        "casting_likelihood": 2
+      }
+    },
+    {
+      "key": 4217,
+      "value": {
+        "casting_likelihood": 2
+      }
+    }
+  ],
+  "lastModified": "2025-10-05T16:43:55.5124777Z",
+  "modifiedBy": "ACE.Adapter",
+  "changelog": [
+    {
+      "created": "2025-10-05T16:31:39.0220561Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    },
+    {
+      "created": "2025-10-05T16:43:55.5121778Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "userChangeSummary": "Weenie exported from ACEmulator world database using ACE.Adapter",
+  "isDone": false
+}

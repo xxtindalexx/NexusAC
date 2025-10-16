@@ -1,0 +1,686 @@
+{
+  "wcid": 13375302,
+  "weenieType": 44,
+  "boolStats": [
+    {
+      "key": 22,
+      "value": 1
+    },
+    {
+      "key": 90,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 128
+    },
+    {
+      "key": 5,
+      "value": 1
+    },
+    {
+      "key": 11,
+      "value": 1
+    },
+    {
+      "key": 12,
+      "value": 1
+    },
+    {
+      "key": 13,
+      "value": 1
+    },
+    {
+      "key": 15,
+      "value": 80
+    },
+    {
+      "key": 16,
+      "value": 8
+    },
+    {
+      "key": 19,
+      "value": 80
+    },
+    {
+      "key": 33,
+      "value": -1
+    },
+    {
+      "key": 93,
+      "value": 1044
+    },
+    {
+      "key": 94,
+      "value": 16
+    },
+    {
+      "key": 151,
+      "value": 1
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33557119
+    },
+    {
+      "key": 3,
+      "value": 536870932
+    },
+    {
+      "key": 8,
+      "value": 100671480
+    },
+    {
+      "key": 22,
+      "value": 872415275
+    },
+    {
+      "key": 52,
+      "value": 100676435
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 39,
+      "value": 0.38
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Rare Nexus Chest"
+    },
+    {
+      "key": 14,
+      "value": "Grants random Rare-tier rewards. Have a look inside."
+    },
+    {
+      "key": 16,
+      "value": "..."
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 7,
+      "value": [
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0,
+              "extent": 1,
+              "msg": "You found 20 Nexus Tokens"
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 77,
+              "delay": 0,
+              "extent": 1
+            }
+          ],
+          "probability": 0.04
+        },
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0,
+              "extent": 1,
+              "msg": "You found 1 Experience Certificate"
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 77,
+              "delay": 0,
+              "extent": 1
+            }
+          ],
+          "probability": 0.08
+        },
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0,
+              "extent": 1,
+              "msg": "You found 40 Nexus Tokens"
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 77,
+              "delay": 0,
+              "extent": 1
+            }
+          ],
+          "probability": 0.12
+        },
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0,
+              "extent": 1,
+              "msg": "You found 50 MMDs"
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 77,
+              "delay": 0,
+              "extent": 1
+            }
+          ],
+          "probability": 0.16
+        },
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0,
+              "extent": 1,
+              "msg": "You found 100 MMDs"
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 77,
+              "delay": 0,
+              "extent": 1
+            }
+          ],
+          "probability": 0.2
+        },
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0,
+              "extent": 1,
+              "msg": "You found 15 Uber-Stakes Gambling Gems"
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 77,
+              "delay": 0,
+              "extent": 1
+            }
+          ],
+          "probability": 0.24
+        },
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0,
+              "extent": 1,
+              "msg": "You found 25 Uber-Stakes Gambling Gems"
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 77,
+              "delay": 0,
+              "extent": 1
+            }
+          ],
+          "probability": 0.28
+        },
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0,
+              "extent": 1,
+              "msg": "You found 2 Rookie's Lost Storage Keys"
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 77,
+              "delay": 0,
+              "extent": 1
+            }
+          ],
+          "probability": 0.32
+        },
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0,
+              "extent": 1,
+              "msg": "You found a Box of Twenty Nexus writs"
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 77,
+              "delay": 0,
+              "extent": 1
+            }
+          ],
+          "probability": 0.36
+        },
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0,
+              "extent": 1,
+              "msg": "You found an Arena Championship Belt Gem, Use this gem only when u have an open pack slot."
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 77,
+              "delay": 0,
+              "extent": 1
+            }
+          ],
+          "probability": 0.4
+        },
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0,
+              "extent": 1,
+              "msg": "You found 2 Experience Certificates"
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 77,
+              "delay": 0,
+              "extent": 1
+            }
+          ],
+          "probability": 0.44
+        },
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0,
+              "extent": 1,
+              "msg": "You found a Yellow Level 5 Aetheria"
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 77,
+              "delay": 0,
+              "extent": 1
+            }
+          ],
+          "probability": 0.48
+        },
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0,
+              "extent": 1,
+              "msg": "You found a Blue Level 5 Aetheria"
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 77,
+              "delay": 0,
+              "extent": 1
+            }
+          ],
+          "probability": 0.52
+        },
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0,
+              "extent": 1,
+              "msg": "You found 2 Waters of Enlightenment"
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 77,
+              "delay": 0,
+              "extent": 1
+            }
+          ],
+          "probability": 0.56
+        },
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0,
+              "extent": 1,
+              "msg": "You found 2 Value Morph Gems"
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 77,
+              "delay": 0,
+              "extent": 1
+            }
+          ],
+          "probability": 0.6
+        },
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0,
+              "extent": 1,
+              "msg": "You found an Oil of Creature Slaying"
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 77,
+              "delay": 0,
+              "extent": 1
+            }
+          ],
+          "probability": 0.64
+        },
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0,
+              "extent": 1,
+              "msg": "You found an Eternal Blunt"
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 77,
+              "delay": 0,
+              "extent": 1
+            }
+          ],
+          "probability": 0.68
+        },
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0,
+              "extent": 1,
+              "msg": "You found a Hera Vault Key"
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 77,
+              "delay": 0,
+              "extent": 1
+            }
+          ],
+          "probability": 0.72
+        },
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0,
+              "extent": 1,
+              "msg": "You found a Morph Gem of Focus"
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 77,
+              "delay": 0,
+              "extent": 1
+            }
+          ],
+          "probability": 0.76
+        },
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0,
+              "extent": 1,
+              "msg": "You found a Morph Gem of Endurance"
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 77,
+              "delay": 0,
+              "extent": 1
+            }
+          ],
+          "probability": 0.8
+        },
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0,
+              "extent": 1,
+              "msg": "You found a Morph Gem of Quickness"
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 77,
+              "delay": 0,
+              "extent": 1
+            }
+          ],
+          "probability": 0.84
+        },
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0,
+              "extent": 1,
+              "msg": "You found a Morph Gem of Willpower"
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 77,
+              "delay": 0,
+              "extent": 1
+            }
+          ],
+          "probability": 0.88
+        },
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0,
+              "extent": 1,
+              "msg": "You found a Morph Gem of Strength"
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 77,
+              "delay": 0,
+              "extent": 1
+            }
+          ],
+          "probability": 0.92
+        },
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0,
+              "extent": 1,
+              "msg": "You found a Red Level 5 Aetheria"
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 77,
+              "delay": 0,
+              "extent": 1
+            }
+          ],
+          "probability": 0.96
+        },
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0,
+              "extent": 1,
+              "msg": "You found 2 Luminance Exchange Tokens"
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 77,
+              "delay": 0,
+              "extent": 1
+            }
+          ],
+          "probability": 1
+        }
+      ]
+    }
+  ],
+  "lastModified": "2025-10-10T07:54:59.0585505Z",
+  "modifiedBy": "ACE.Adapter",
+  "changelog": [
+    {
+      "created": "2025-10-06T19:33:37.1653Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    },
+    {
+      "created": "2025-10-10T07:40:02.8891714Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    },
+    {
+      "created": "2025-10-10T07:54:59.0580454Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "userChangeSummary": "Weenie exported from ACEmulator world database using ACE.Adapter",
+  "isDone": false
+}

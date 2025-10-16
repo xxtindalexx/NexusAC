@@ -1,0 +1,139 @@
+{
+  "wcid": 72669157,
+  "weenieType": 22,
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 0
+    },
+    {
+      "key": 11,
+      "value": 1
+    },
+    {
+      "key": 13,
+      "value": 1
+    },
+    {
+      "key": 14,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 1
+    },
+    {
+      "key": 22,
+      "value": 1
+    },
+    {
+      "key": 69,
+      "value": 0
+    },
+    {
+      "key": 99,
+      "value": 0
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 16384
+    },
+    {
+      "key": 5,
+      "value": 30
+    },
+    {
+      "key": 16,
+      "value": 2097160
+    },
+    {
+      "key": 18,
+      "value": 64
+    },
+    {
+      "key": 19,
+      "value": 10000
+    },
+    {
+      "key": 33,
+      "value": -1
+    },
+    {
+      "key": 91,
+      "value": 1
+    },
+    {
+      "key": 92,
+      "value": 1
+    },
+    {
+      "key": 93,
+      "value": 1044
+    },
+    {
+      "key": 94,
+      "value": 640
+    },
+    {
+      "key": 267,
+      "value": 86400
+    },
+    {
+      "key": 369,
+      "value": 150
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33554784
+    },
+    {
+      "key": 3,
+      "value": 536870932
+    },
+    {
+      "key": 8,
+      "value": 100693001
+    },
+    {
+      "key": 22,
+      "value": 872415275
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "BlowMe"
+    },
+    {
+      "key": 13,
+      "value": "KeyofHallas"
+    },
+    {
+      "key": 14,
+      "value": "Use this key to open a Legendary Armor, Magic, or Weapon Chest."
+    },
+    {
+      "key": 16,
+      "value": "A key only heard about in whispers and myths."
+    },
+    {
+      "key": 33,
+      "value": "NinjaAcademyKeyPickup"
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2025-10-03T10:05:33.6744882Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

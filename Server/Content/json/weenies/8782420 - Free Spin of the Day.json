@@ -1,0 +1,201 @@
+{
+  "wcid": 8782420,
+  "weenieType": 38,
+  "boolStats": [
+    {
+      "key": 15,
+      "value": 1
+    },
+    {
+      "key": 22,
+      "value": 1
+    },
+    {
+      "key": 23,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 2048
+    },
+    {
+      "key": 3,
+      "value": 82
+    },
+    {
+      "key": 5,
+      "value": 50
+    },
+    {
+      "key": 8,
+      "value": 10
+    },
+    {
+      "key": 9,
+      "value": 0
+    },
+    {
+      "key": 11,
+      "value": 1
+    },
+    {
+      "key": 12,
+      "value": 1
+    },
+    {
+      "key": 13,
+      "value": 50
+    },
+    {
+      "key": 14,
+      "value": 10
+    },
+    {
+      "key": 15,
+      "value": 0
+    },
+    {
+      "key": 16,
+      "value": 8
+    },
+    {
+      "key": 18,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 0
+    },
+    {
+      "key": 33,
+      "value": 1
+    },
+    {
+      "key": 93,
+      "value": 3092
+    },
+    {
+      "key": 94,
+      "value": 16
+    },
+    {
+      "key": 106,
+      "value": 210
+    },
+    {
+      "key": 107,
+      "value": 50
+    },
+    {
+      "key": 108,
+      "value": 50
+    },
+    {
+      "key": 109,
+      "value": 0
+    },
+    {
+      "key": 110,
+      "value": 0
+    },
+    {
+      "key": 114,
+      "value": 1
+    },
+    {
+      "key": 280,
+      "value": 1000
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33556769
+    },
+    {
+      "key": 3,
+      "value": 536870932
+    },
+    {
+      "key": 6,
+      "value": 67111919
+    },
+    {
+      "key": 7,
+      "value": 268435723
+    },
+    {
+      "key": 8,
+      "value": 100673176
+    },
+    {
+      "key": 22,
+      "value": 872415275
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 167,
+      "value": 15
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Free Spin of the Day"
+    },
+    {
+      "key": 16,
+      "value": "Resets the Free Spin of the Day timer on use"
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 7,
+      "value": [
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 31,
+              "delay": 0,
+              "extent": 1,
+              "msg": "wheelcooldown"
+            }
+          ],
+          "probability": 1
+        }
+      ]
+    }
+  ],
+  "lastModified": "2025-10-06T18:27:01.2397102Z",
+  "modifiedBy": "ACE.Adapter",
+  "changelog": [
+    {
+      "created": "2025-09-15T21:24:04.2908146Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    },
+    {
+      "created": "2025-09-15T21:31:15.1342315Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    },
+    {
+      "created": "2025-10-06T18:26:29.5930203Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    },
+    {
+      "created": "2025-10-06T18:27:01.2393579Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "userChangeSummary": "Weenie exported from ACEmulator world database using ACE.Adapter",
+  "isDone": false
+}

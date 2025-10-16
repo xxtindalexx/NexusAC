@@ -1,0 +1,938 @@
+{
+  "wcid": 5700157,
+  "weenieType": 10,
+  "attributes": {
+    "strength": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 900
+    },
+    "endurance": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 900
+    },
+    "coordination": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 900
+    },
+    "quickness": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 900
+    },
+    "focus": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 300
+    },
+    "self": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 300
+    },
+    "health": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 549550,
+      "current": 550000
+    },
+    "stamina": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 23100,
+      "current": 24000
+    },
+    "mana": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 22700,
+      "current": 23000
+    }
+  },
+  "body": {
+    "body_part_table": [
+      {
+        "key": 0,
+        "value": {
+          "dtype": 1024,
+          "dval": 240,
+          "dvar": 0.75,
+          "acache": {
+            "base_armor": 950,
+            "armor_vs_slash": 475,
+            "armor_vs_pierce": 475,
+            "armor_vs_bludgeon": 475,
+            "armor_vs_cold": 475,
+            "armor_vs_fire": 475,
+            "armor_vs_acid": 475,
+            "armor_vs_electric": 475,
+            "armor_vs_nether": 0
+          },
+          "bh": 1,
+          "bpsd": {
+            "HLF": 0.4000000059604645,
+            "MLF": 0.10000000149011612,
+            "LLF": 0,
+            "HRF": 0.4000000059604645,
+            "MRF": 0.10000000149011612,
+            "LRF": 0,
+            "HLB": 0,
+            "MLB": 0,
+            "LLB": 0,
+            "HRB": 0,
+            "MRB": 0,
+            "LRB": 0
+          }
+        }
+      },
+      {
+        "key": 10,
+        "value": {
+          "dtype": 1024,
+          "dval": 240,
+          "dvar": 0.25,
+          "acache": {
+            "base_armor": 950,
+            "armor_vs_slash": 475,
+            "armor_vs_pierce": 475,
+            "armor_vs_bludgeon": 475,
+            "armor_vs_cold": 475,
+            "armor_vs_fire": 475,
+            "armor_vs_acid": 475,
+            "armor_vs_electric": 475,
+            "armor_vs_nether": 0
+          },
+          "bh": 3,
+          "bpsd": {
+            "HLF": 0,
+            "MLF": 0.20000000298023224,
+            "LLF": 0.800000011920929,
+            "HRF": 0,
+            "MRF": 0.20000000298023224,
+            "LRF": 0.800000011920929,
+            "HLB": 0,
+            "MLB": 0,
+            "LLB": 0,
+            "HRB": 0,
+            "MRB": 0,
+            "LRB": 0
+          }
+        }
+      },
+      {
+        "key": 13,
+        "value": {
+          "dtype": 1024,
+          "dval": 260,
+          "dvar": 0.25,
+          "acache": {
+            "base_armor": 950,
+            "armor_vs_slash": 475,
+            "armor_vs_pierce": 475,
+            "armor_vs_bludgeon": 475,
+            "armor_vs_cold": 475,
+            "armor_vs_fire": 475,
+            "armor_vs_acid": 475,
+            "armor_vs_electric": 475,
+            "armor_vs_nether": 0
+          },
+          "bh": 3,
+          "bpsd": {
+            "HLF": 0,
+            "MLF": 0,
+            "LLF": 0,
+            "HRF": 0,
+            "MRF": 0,
+            "LRF": 0,
+            "HLB": 0.10000000149011612,
+            "MLB": 0.30000001192092896,
+            "LLB": 0.699999988079071,
+            "HRB": 0.10000000149011612,
+            "MRB": 0.30000001192092896,
+            "LRB": 0.699999988079071
+          }
+        }
+      },
+      {
+        "key": 16,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0,
+          "acache": {
+            "base_armor": 950,
+            "armor_vs_slash": 475,
+            "armor_vs_pierce": 475,
+            "armor_vs_bludgeon": 475,
+            "armor_vs_cold": 475,
+            "armor_vs_fire": 475,
+            "armor_vs_acid": 475,
+            "armor_vs_electric": 475,
+            "armor_vs_nether": 0
+          },
+          "bh": 2,
+          "bpsd": {
+            "HLF": 0.6000000238418579,
+            "MLF": 0.699999988079071,
+            "LLF": 0.20000000298023224,
+            "HRF": 0.6000000238418579,
+            "MRF": 0.699999988079071,
+            "LRF": 0.20000000298023224,
+            "HLB": 0.8999999761581421,
+            "MLB": 0.699999988079071,
+            "LLB": 0.30000001192092896,
+            "HRB": 0.8999999761581421,
+            "MRB": 0.699999988079071,
+            "LRB": 0.30000001192092896
+          }
+        }
+      },
+      {
+        "key": 22,
+        "value": {
+          "dtype": 1024,
+          "dval": 280,
+          "dvar": 0.25,
+          "acache": {
+            "base_armor": 0,
+            "armor_vs_slash": 0,
+            "armor_vs_pierce": 0,
+            "armor_vs_bludgeon": 0,
+            "armor_vs_cold": 0,
+            "armor_vs_fire": 0,
+            "armor_vs_acid": 0,
+            "armor_vs_electric": 0,
+            "armor_vs_nether": 0
+          },
+          "bh": 0,
+          "bpsd": {
+            "HLF": 0,
+            "MLF": 0,
+            "LLF": 0,
+            "HRF": 0,
+            "MRF": 0,
+            "LRF": 0,
+            "HLB": 0,
+            "MLB": 0,
+            "LLB": 0,
+            "HRB": 0,
+            "MRB": 0,
+            "LRB": 0
+          }
+        }
+      }
+    ]
+  },
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 6,
+      "value": 1
+    },
+    {
+      "key": 11,
+      "value": 0
+    },
+    {
+      "key": 12,
+      "value": 1
+    },
+    {
+      "key": 13,
+      "value": 0
+    },
+    {
+      "key": 14,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 16
+    },
+    {
+      "key": 2,
+      "value": 71
+    },
+    {
+      "key": 6,
+      "value": -1
+    },
+    {
+      "key": 7,
+      "value": -1
+    },
+    {
+      "key": 16,
+      "value": 1
+    },
+    {
+      "key": 25,
+      "value": 450
+    },
+    {
+      "key": 27,
+      "value": 0
+    },
+    {
+      "key": 40,
+      "value": 2
+    },
+    {
+      "key": 68,
+      "value": 9
+    },
+    {
+      "key": 72,
+      "value": 22
+    },
+    {
+      "key": 81,
+      "value": 7
+    },
+    {
+      "key": 82,
+      "value": 0
+    },
+    {
+      "key": 93,
+      "value": 1032
+    },
+    {
+      "key": 101,
+      "value": 131
+    },
+    {
+      "key": 133,
+      "value": 2
+    },
+    {
+      "key": 140,
+      "value": 1
+    },
+    {
+      "key": 146,
+      "value": 70500000
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33558554
+    },
+    {
+      "key": 2,
+      "value": 150995263
+    },
+    {
+      "key": 3,
+      "value": 536871080
+    },
+    {
+      "key": 4,
+      "value": 805306426
+    },
+    {
+      "key": 6,
+      "value": 67114728
+    },
+    {
+      "key": 7,
+      "value": 268489983
+    },
+    {
+      "key": 8,
+      "value": 100675661
+    },
+    {
+      "key": 19,
+      "value": 85
+    },
+    {
+      "key": 22,
+      "value": 872415401
+    },
+    {
+      "key": 30,
+      "value": 85
+    },
+    {
+      "key": 35,
+      "value": 10002
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 1,
+      "value": 5
+    },
+    {
+      "key": 2,
+      "value": 0
+    },
+    {
+      "key": 3,
+      "value": 1
+    },
+    {
+      "key": 4,
+      "value": 3
+    },
+    {
+      "key": 5,
+      "value": 1
+    },
+    {
+      "key": 12,
+      "value": 0.5
+    },
+    {
+      "key": 13,
+      "value": 1.5
+    },
+    {
+      "key": 14,
+      "value": 1.5
+    },
+    {
+      "key": 15,
+      "value": 1.5
+    },
+    {
+      "key": 16,
+      "value": 1.5
+    },
+    {
+      "key": 17,
+      "value": 1.5
+    },
+    {
+      "key": 18,
+      "value": 1.5
+    },
+    {
+      "key": 19,
+      "value": 1.5
+    },
+    {
+      "key": 31,
+      "value": 24
+    },
+    {
+      "key": 34,
+      "value": 1
+    },
+    {
+      "key": 36,
+      "value": 1
+    },
+    {
+      "key": 39,
+      "value": 7.6
+    },
+    {
+      "key": 43,
+      "value": 20
+    },
+    {
+      "key": 64,
+      "value": 0.35
+    },
+    {
+      "key": 65,
+      "value": 0.35
+    },
+    {
+      "key": 66,
+      "value": 0.35
+    },
+    {
+      "key": 67,
+      "value": 0.15
+    },
+    {
+      "key": 68,
+      "value": 0.35
+    },
+    {
+      "key": 69,
+      "value": 0.35
+    },
+    {
+      "key": 70,
+      "value": 0.35
+    },
+    {
+      "key": 71,
+      "value": 1
+    },
+    {
+      "key": 72,
+      "value": 1
+    },
+    {
+      "key": 73,
+      "value": 1
+    },
+    {
+      "key": 74,
+      "value": 1
+    },
+    {
+      "key": 75,
+      "value": 1
+    },
+    {
+      "key": 77,
+      "value": 1
+    },
+    {
+      "key": 80,
+      "value": 2
+    },
+    {
+      "key": 104,
+      "value": 10
+    },
+    {
+      "key": 122,
+      "value": 2
+    },
+    {
+      "key": 125,
+      "value": 1
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Nether Dragon"
+    }
+  ],
+  "skills": [
+    {
+      "key": 6,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 0,
+        "init_level": 250,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 3
+      }
+    },
+    {
+      "key": 7,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 0,
+        "init_level": 230,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 3
+      }
+    },
+    {
+      "key": 15,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 0,
+        "init_level": 465,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 3
+      }
+    },
+    {
+      "key": 31,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 0,
+        "init_level": 405,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 3
+      }
+    },
+    {
+      "key": 32,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 0,
+        "init_level": 405,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 3
+      }
+    },
+    {
+      "key": 33,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 0,
+        "init_level": 405,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 3
+      }
+    },
+    {
+      "key": 34,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 0,
+        "init_level": 405,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 3
+      }
+    },
+    {
+      "key": 45,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 0,
+        "init_level": 380,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 3
+      }
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 3,
+      "value": [
+        {
+          "category": 3,
+          "emotes": [
+            {
+              "type": 113,
+              "delay": 0,
+              "extent": 1,
+              "heroxp64": 2500
+            },
+            {
+              "type": 16,
+              "delay": 0,
+              "extent": 1,
+              "msg": "%s has delivered the final blow to the Nether Dragon! The abyssal behemoth shrieks as its form collapses into a storm of voidfire. Its voice rumbles through the planes, 'Fools of the surface world... you have only shattered my vessel! My essence seeps into the cracks of your reality, and from the shadows I shall be reborn!' The Nether Dragon’s body dissolves into swirling tendrils of black flame, scattering into the ether as runes of ruin ignite across the cratered earth."
+            },
+            {
+              "type": 72,
+              "delay": 0,
+              "extent": 1
+            }
+          ],
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "key": 5,
+      "value": [
+        {
+          "category": 5,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0,
+              "extent": 1,
+              "motion": 268435539
+            },
+            {
+              "type": 16,
+              "delay": 0,
+              "extent": 1,
+              "msg": "A powerful Nether Dragon has emerged in the heart of the Darkest Crater! Gather your strength, heroes!!"
+            }
+          ],
+          "probability": 0.09,
+          "style": 2147483708,
+          "substyle": 1090519043
+        },
+        {
+          "category": 5,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0,
+              "extent": 1,
+              "motion": 268435538
+            }
+          ],
+          "probability": 0.05,
+          "style": 2147483708,
+          "substyle": 1090519043
+        },
+        {
+          "category": 5,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0,
+              "extent": 1,
+              "motion": 268435537
+            }
+          ],
+          "probability": 0.055,
+          "style": 2147483708,
+          "substyle": 1090519043
+        },
+        {
+          "category": 5,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0,
+              "extent": 1,
+              "motion": 268435539
+            }
+          ],
+          "probability": 0.025,
+          "style": 2147483709,
+          "substyle": 1090519043
+        },
+        {
+          "category": 5,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0,
+              "extent": 1,
+              "motion": 268435538
+            }
+          ],
+          "probability": 0.05,
+          "style": 2147483709,
+          "substyle": 1090519043
+        },
+        {
+          "category": 5,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0,
+              "extent": 1,
+              "motion": 268435537
+            }
+          ],
+          "probability": 0.055,
+          "style": 2147483709,
+          "substyle": 1090519043
+        }
+      ]
+    },
+    {
+      "key": 9,
+      "value": [
+        {
+          "category": 9,
+          "emotes": [
+            {
+              "type": 16,
+              "delay": 0,
+              "extent": 1,
+              "msg": "A powerful Nether Dragon has emerged in the heart of the Darkest Crater! Gather your strength, heroes!!"
+            }
+          ],
+          "probability": 1
+        },
+        {
+          "category": 9,
+          "emotes": [
+            {
+              "type": 16,
+              "delay": 0,
+              "extent": 1,
+              "msg": "A powerful Nether Dragon has emerged in the heart of the Darkest Crater! Gather your strength, heroes!!"
+            }
+          ],
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "key": 14,
+      "value": [
+        {
+          "category": 14,
+          "emotes": [
+            {
+              "type": 17,
+              "delay": 0,
+              "extent": 1,
+              "msg": "Warning! Rolling balls of death incoming!"
+            },
+            {
+              "type": 14,
+              "delay": 0,
+              "extent": 1,
+              "spellid": 5762
+            }
+          ],
+          "probability": 0.2
+        },
+        {
+          "category": 14,
+          "emotes": [
+            {
+              "type": 7,
+              "delay": 1,
+              "extent": 1,
+              "pscript": 144
+            },
+            {
+              "type": 17,
+              "delay": 0,
+              "extent": 1,
+              "msg": "Nether Dragon begins casting Ring of Death! WATCH OUT!"
+            },
+            {
+              "type": 5,
+              "delay": 2,
+              "extent": 1,
+              "motion": 1124073714
+            },
+            {
+              "type": 19,
+              "delay": 1,
+              "extent": 1,
+              "spellid": 5335
+            }
+          ],
+          "probability": 0.15
+        }
+      ]
+    },
+    {
+      "key": 17,
+      "value": [
+        {
+          "category": 17,
+          "emotes": [
+            {
+              "type": 16,
+              "delay": 0,
+              "extent": 1,
+              "msg": "%s Has engaged the Nether Drake!"
+            }
+          ],
+          "probability": 1
+        }
+      ]
+    }
+  ],
+  "spellbook": [
+    {
+      "key": 4239,
+      "value": {
+        "casting_likelihood": 2.0399999618530273
+      }
+    },
+    {
+      "key": 3056,
+      "value": {
+        "casting_likelihood": 2.0399999618530273
+      }
+    },
+    {
+      "key": 3038,
+      "value": {
+        "casting_likelihood": 2.0399999618530273
+      }
+    }
+  ],
+  "generatorTable": [
+    {
+      "delay": 0,
+      "frame": {
+        "origin": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "angles": {
+          "w": 1,
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      },
+      "initCreate": 7,
+      "maxNum": 7,
+      "objcell_id": 0,
+      "probability": -1,
+      "ptid": 0,
+      "shade": 0,
+      "slot": 0,
+      "stackSize": 0,
+      "type": 4214212,
+      "whenCreate": 1,
+      "whereCreate": 2
+    }
+  ],
+  "lastModified": "2025-10-15T05:49:23.5098375Z",
+  "modifiedBy": "ACE.Adapter",
+  "changelog": [
+    {
+      "created": "2025-10-12T06:44:40.8168596Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    },
+    {
+      "created": "2025-10-12T06:50:43.3577368Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    },
+    {
+      "created": "2025-10-12T06:55:46.1599308Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    },
+    {
+      "created": "2025-10-13T00:20:17.5136921Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    },
+    {
+      "created": "2025-10-13T07:38:12.1730126Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    },
+    {
+      "created": "2025-10-13T07:40:36.7337006Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    },
+    {
+      "created": "2025-10-13T08:05:57.8906858Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    },
+    {
+      "created": "2025-10-13T08:19:41.4221801Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    },
+    {
+      "created": "2025-10-15T05:49:23.5011878Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "userChangeSummary": "Weenie exported from ACEmulator world database using ACE.Adapter",
+  "isDone": false
+}

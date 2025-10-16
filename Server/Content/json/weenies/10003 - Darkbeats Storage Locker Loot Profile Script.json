@@ -1,0 +1,118 @@
+{
+  "wcid": 10003,
+  "weenieType": 53,
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 13,
+      "value": 1
+    },
+    {
+      "key": 14,
+      "value": 0
+    },
+    {
+      "key": 24,
+      "value": 1
+    },
+    {
+      "key": 71,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 128
+    },
+    {
+      "key": 5,
+      "value": 10
+    },
+    {
+      "key": 8,
+      "value": 10
+    },
+    {
+      "key": 9,
+      "value": 0
+    },
+    {
+      "key": 16,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 0
+    },
+    {
+      "key": 93,
+      "value": 52
+    },
+    {
+      "key": 155,
+      "value": 1
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33557058
+    },
+    {
+      "key": 8,
+      "value": 100671873
+    },
+    {
+      "key": 42,
+      "value": 311
+    },
+    {
+      "key": 44,
+      "value": 152
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 39,
+      "value": 0.1
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Cottage"
+    }
+  ],
+  "lastModified": "2025-09-06T03:19:02.8967253Z",
+  "modifiedBy": "ACE.Adapter",
+  "changelog": [
+    {
+      "created": "2025-09-03T18:48:11.6635046Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    },
+    {
+      "created": "2025-09-06T02:51:54.9379467Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    },
+    {
+      "created": "2025-09-06T03:17:00.1105713Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    },
+    {
+      "created": "2025-09-06T03:19:02.8964339Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "userChangeSummary": "Weenie exported from ACEmulator world database using ACE.Adapter",
+  "isDone": false
+}

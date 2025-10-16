@@ -1,0 +1,8 @@
+{
+  "key": "thread2",
+  "value": {
+    "fullname": "thread2",
+    "maxsolves": -1,
+    "mindelta": 21600
+  }
+}

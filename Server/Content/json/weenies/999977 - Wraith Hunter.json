@@ -1,0 +1,405 @@
+{
+  "wcid": 999977,
+  "weenieType": 10,
+  "attributes": {
+    "strength": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 100
+    },
+    "endurance": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 100
+    },
+    "coordination": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 100
+    },
+    "quickness": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 100
+    },
+    "focus": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 100
+    },
+    "self": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 100
+    },
+    "health": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 150,
+      "current": 150
+    },
+    "stamina": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 150,
+      "current": 150
+    },
+    "mana": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 150,
+      "current": 150
+    }
+  },
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 8,
+      "value": 1
+    },
+    {
+      "key": 12,
+      "value": 1
+    },
+    {
+      "key": 13,
+      "value": 0
+    },
+    {
+      "key": 19,
+      "value": 0
+    },
+    {
+      "key": 41,
+      "value": 1
+    },
+    {
+      "key": 42,
+      "value": 1
+    },
+    {
+      "key": 52,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 16
+    },
+    {
+      "key": 2,
+      "value": 31
+    },
+    {
+      "key": 3,
+      "value": 9
+    },
+    {
+      "key": 6,
+      "value": -1
+    },
+    {
+      "key": 7,
+      "value": -1
+    },
+    {
+      "key": 8,
+      "value": 120
+    },
+    {
+      "key": 16,
+      "value": 32
+    },
+    {
+      "key": 25,
+      "value": 100
+    },
+    {
+      "key": 27,
+      "value": 0
+    },
+    {
+      "key": 93,
+      "value": 6292504
+    },
+    {
+      "key": 95,
+      "value": 8
+    },
+    {
+      "key": 113,
+      "value": 1
+    },
+    {
+      "key": 133,
+      "value": 4
+    },
+    {
+      "key": 134,
+      "value": 16
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33554433
+    },
+    {
+      "key": 2,
+      "value": 150994945
+    },
+    {
+      "key": 3,
+      "value": 536870913
+    },
+    {
+      "key": 6,
+      "value": 67108990
+    },
+    {
+      "key": 7,
+      "value": 268435545
+    },
+    {
+      "key": 8,
+      "value": 100667446
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 39,
+      "value": 1
+    },
+    {
+      "key": 54,
+      "value": 5
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Wraith Hunter"
+    }
+  ],
+  "createList": [
+    {
+      "wcid": 889251,
+      "palette": 14,
+      "shade": 0,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 7,
+      "value": [
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 21,
+              "delay": 0,
+              "extent": 1,
+              "msg": "NexusWraithKTCompleted@2"
+            }
+          ],
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "key": 12,
+      "value": [
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0,
+              "extent": 1,
+              "msg": "You've already proven yourself against fighting the Wraiths. Come back in @tqc"
+            }
+          ],
+          "probability": 1,
+          "quest": "NexusWraithKTCompleted@2"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0,
+              "extent": 1,
+              "msg": "NexusWraithKT@KillTaskCompleted"
+            }
+          ],
+          "probability": 1,
+          "quest": "NexusWraithKT@KillTaskInProgress"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0,
+              "extent": 1,
+              "msg": "You’ve done it? Good. You deserve this."
+            },
+            {
+              "type": 49,
+              "delay": 0,
+              "extent": 1,
+              "min64": 0,
+              "max64": 5000000000,
+              "percent": 1
+            },
+            {
+              "type": 113,
+              "delay": 1,
+              "extent": 1,
+              "heroxp64": 55000
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 22,
+              "delay": 0,
+              "extent": 1,
+              "msg": "NexusWraithKTCompleted"
+            },
+            {
+              "type": 31,
+              "delay": 0,
+              "extent": 1,
+              "msg": "NexusWraithKT"
+            }
+          ],
+          "probability": 1,
+          "quest": "NexusWraithKT@KillTaskCompleted"
+        }
+      ]
+    },
+    {
+      "key": 13,
+      "value": [
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 30,
+              "delay": 0,
+              "extent": 1,
+              "msg": "NexusWraithKT@KillTaskInProgress",
+              "max": 2147483647,
+              "min": 1
+            }
+          ],
+          "probability": 1,
+          "quest": "NexusWraithKTCompleted@2"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0,
+              "extent": 1,
+              "msg": "You’ve killed %tqc out of %tqm Nexus Wraith."
+            },
+            {
+              "type": 10,
+              "delay": 1,
+              "extent": 1,
+              "msg": "You’re close. When you get them all, You'll know."
+            }
+          ],
+          "probability": 1,
+          "quest": "NexusWraithKT@KillTaskCompleted"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0,
+              "extent": 1,
+              "msg": "Those dark twisted creatures.. The wraiths, they did unspeakable things to people."
+            },
+            {
+              "type": 10,
+              "delay": 1,
+              "extent": 1,
+              "msg": "Take 100 of them out and i will give you a prize that i think is fit."
+            },
+            {
+              "type": 70,
+              "delay": 0,
+              "extent": 1,
+              "amount": 0,
+              "msg": "NexusWraithKT"
+            }
+          ],
+          "probability": 1,
+          "quest": "NexusWraithKT@KillTaskInProgress"
+        }
+      ]
+    }
+  ],
+  "lastModified": "2025-09-30T05:14:00.4830111Z",
+  "modifiedBy": "ACE.Adapter",
+  "changelog": [
+    {
+      "created": "2025-09-30T05:13:36.6242413Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    },
+    {
+      "created": "2025-09-30T05:14:00.4606985Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "userChangeSummary": "Weenie exported from ACEmulator world database using ACE.Adapter",
+  "isDone": false
+}

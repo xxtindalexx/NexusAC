@@ -1,0 +1,95 @@
+{
+  "clothingBaseEffects": {
+    "0x2000616": {
+      "cloObjectEffects": [
+        {
+          "index": 0,
+          "modelId": "0x1004CA1",
+          "cloTextureEffects": [
+            {
+              "oldTexture": "0x50032ED",
+              "newTexture": "0x50020DD"
+            },
+            {
+              "oldTexture": "0x50032EC",
+              "newTexture": "0x50021E6"
+            }
+          ]
+        }
+      ]
+    },
+    "0x2000615": {
+      "cloObjectEffects": [
+        {
+          "index": 0,
+          "modelId": "0x1004CA1",
+          "cloTextureEffects": [
+            {
+              "oldTexture": "0x50032ED",
+              "newTexture": "0x500301C"
+            },
+            {
+              "oldTexture": "0x50032EC",
+              "newTexture": "0x50021E6"
+            }
+          ]
+        }
+      ]
+    },
+    "0x2000617": {
+      "cloObjectEffects": [
+        {
+          "index": 0,
+          "modelId": "0x1004CA1",
+          "cloTextureEffects": [
+            {
+              "oldTexture": "0x50032ED",
+              "newTexture": "0x5002D89"
+            },
+            {
+              "oldTexture": "0x50032EC",
+              "newTexture": "0x50021E6"
+            }
+          ]
+        }
+      ]
+    },
+    "0x2000614": {
+      "cloObjectEffects": [
+        {
+          "index": 0,
+          "modelId": "0x1004CA1",
+          "cloTextureEffects": [
+            {
+              "oldTexture": "0x50032ED",
+              "newTexture": "0x50021F6"
+            },
+            {
+              "oldTexture": "0x50032EC",
+              "newTexture": "0x50021E6"
+            }
+          ]
+        }
+      ]
+    },
+    "0x200061C": {
+      "cloObjectEffects": [
+        {
+          "index": 0,
+          "modelId": "0x1004CA1",
+          "cloTextureEffects": [
+            {
+              "oldTexture": "0x50032ED",
+              "newTexture": "0x5002D16"
+            },
+            {
+              "oldTexture": "0x50032EC",
+              "newTexture": "0x50021E6"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "id": "0x10000927"
+}

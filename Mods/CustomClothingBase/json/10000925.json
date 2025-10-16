@@ -1,0 +1,157 @@
+{
+  "id": 268437797,
+  "clothingBaseEffects": {
+    "33559458": {
+      "cloObjectEffects": [
+        {
+          "index": 0,
+		  "comment": "Frost Saber (Blue)",
+          "modelId": 16796829,
+          "cloTextureEffects": [
+            {
+              "oldTexture": 83899117,
+              "newTexture": 83894493
+            },
+            {
+              "oldTexture": 83899116,
+              "newTexture": 83894758
+            }
+          ]
+        }
+      ]
+    },
+    "33559457": {
+      "cloObjectEffects": [
+        {
+          "index": 0,
+		  "comment": "Fire Saber (Red)",
+          "modelId": 16796829,
+          "cloTextureEffects": [
+            {
+              "oldTexture": 83899117,
+              "newTexture": 83898396
+            },
+            {
+              "oldTexture": 83899116,
+              "newTexture": 83894758
+            }
+          ]
+        }
+      ]
+    },
+    "33559460": {
+      "cloObjectEffects": [
+        {
+          "index": 0,
+		  "comment": "Lightning Saber (Purple)",
+          "modelId": 16796829,
+          "cloTextureEffects": [
+            {
+              "oldTexture": 83899117,
+              "newTexture": 83897737
+            },
+            {
+              "oldTexture": 83899116,
+              "newTexture": 83894758
+            }
+          ]
+        }
+      ]
+    },
+    "33559459": {
+      "cloObjectEffects": [
+        {
+          "index": 0,
+		  "comment": "Acid Saber (Green)",
+          "modelId": 16796829,
+          "cloTextureEffects": [
+            {
+              "oldTexture": 83899117,
+              "newTexture": 83894774
+            },
+            {
+              "oldTexture": 83899116,
+              "newTexture": 83894758
+            }
+          ]
+        }
+      ]
+    },
+    "33561671": {
+      "cloObjectEffects": [
+        {
+          "index": 0,
+		  "comment": "Pierce Saber (Yellow)",
+          "modelId": 16796829,
+          "cloTextureEffects": [
+            {
+              "oldTexture": 83899117,
+              "newTexture": 83897622
+            },
+            {
+              "oldTexture": 83899116,
+              "newTexture": 83894758
+            }
+          ]
+        }
+      ]
+    },
+    "33556645": {
+      "cloObjectEffects": [
+        {
+          "index": 0,
+		  "comment": "Bludge Saber (Prismatic)",
+          "modelId": 16796829,
+          "cloTextureEffects": [
+            {
+              "oldTexture": 83899117,
+              "newTexture": 83892425
+            },
+            {
+              "oldTexture": 83899116,
+              "newTexture": 83894758
+            }
+          ]
+        }
+      ]
+    },
+    "33560711": {
+      "cloObjectEffects": [
+        {
+          "index": 0,
+		  "comment": "Slash Saber (orange)",
+          "modelId": 16796829,
+          "cloTextureEffects": [
+            {
+              "oldTexture": 83899117,
+              "newTexture": 83894298
+            },
+            {
+              "oldTexture": 83899116,
+              "newTexture": 83894758
+            }
+          ]
+        }
+      ]
+    },
+    "33558799": {
+      "cloObjectEffects": [
+        {
+          "index": 0,
+		  "comment": "Void Saber (Pink)",
+          "modelId": 16796829,
+          "cloTextureEffects": [
+            {
+              "oldTexture": 83899117,
+              "newTexture": 83893866
+            },
+            {
+              "oldTexture": 83899116,
+              "newTexture": 83894758
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

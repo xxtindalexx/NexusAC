@@ -1,0 +1,95 @@
+{
+  "wcid": 32189152,
+  "weenieType": 51,
+  "boolStats": [
+    {
+      "key": 69,
+      "value": 0
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 128
+    },
+    {
+      "key": 5,
+      "value": 1
+    },
+    {
+      "key": 8,
+      "value": 1
+    },
+    {
+      "key": 9,
+      "value": 0
+    },
+    {
+      "key": 11,
+      "value": 1
+    },
+    {
+      "key": 12,
+      "value": 1
+    },
+    {
+      "key": 13,
+      "value": 1
+    },
+    {
+      "key": 14,
+      "value": 1
+    },
+    {
+      "key": 15,
+      "value": 1
+    },
+    {
+      "key": 16,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 1
+    },
+    {
+      "key": 33,
+      "value": 1
+    },
+    {
+      "key": 93,
+      "value": 1044
+    }
+  ],
+  "didStats": [
+    {
+      "key": 8,
+      "value": 100688417
+    },
+    {
+      "key": 52,
+      "value": 100676436
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Refer A Friend Token"
+    },
+    {
+      "key": 16,
+      "value": "Using an XP Trinket with this token is Prohibited. Please See Rules and understand them before use."
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2025-08-22T15:08:08.8756397Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

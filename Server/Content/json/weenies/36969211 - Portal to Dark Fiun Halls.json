@@ -1,0 +1,117 @@
+{
+  "wcid": 36969211,
+  "weenieType": 7,
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 12,
+      "value": 1
+    },
+    {
+      "key": 13,
+      "value": 1
+    },
+    {
+      "key": 14,
+      "value": 1
+    },
+    {
+      "key": 15,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 65536
+    },
+    {
+      "key": 16,
+      "value": 32
+    },
+    {
+      "key": 86,
+      "value": 180
+    },
+    {
+      "key": 93,
+      "value": 3084
+    },
+    {
+      "key": 111,
+      "value": 1
+    },
+    {
+      "key": 133,
+      "value": 4
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33555925
+    },
+    {
+      "key": 2,
+      "value": 150994947
+    },
+    {
+      "key": 8,
+      "value": 100667499
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 54,
+      "value": -0.1
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Portal to Dark Fiun Halls"
+    },
+    {
+      "key": 16,
+      "value": "This portal goes to the Dark Fiun Halls"
+    }
+  ],
+  "posStats": [
+    {
+      "key": 2,
+      "value": {
+        "frame": {
+          "origin": {
+            "x": 11.736,
+            "y": -150.022,
+            "z": 0.005
+          },
+          "angles": {
+            "w": 0.707107,
+            "x": 0,
+            "y": 0,
+            "z": -0.707107
+          }
+        },
+        "objcell_id": 26084219
+      }
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2025-09-19T03:55:00.9843235Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

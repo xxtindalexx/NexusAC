@@ -1,0 +1,95 @@
+{
+  "ClothingBaseEffects": {
+    "0x0200034E": {
+      "CloObjectEffects": [
+        {
+          "Index": 0,
+          "ModelId": "0x1004278",
+          "CloTextureEffects": [
+            {
+              "OldTexture": "0x5000E21",
+              "NewTexture": "0x5002CC9"
+            },
+            {
+              "OldTexture": "0x5000E1F",
+              "NewTexture": "0x5002CC9"
+            }
+          ]
+        },
+        {
+          "Index": 1,
+          "ModelId": "0x1000E7C",
+          "CloTextureEffects": [
+            {
+              "OldTexture": "0x50010D7",
+              "NewTexture": "0x05001B3D"
+            }
+          ]
+        },
+        {
+          "Index": 2,
+          "ModelId": "0x1000E7C",
+          "CloTextureEffects": [
+            {
+              "OldTexture": "0x50010D7",
+              "NewTexture": "0x05001B3D"
+            }
+          ]
+        },
+        {
+          "Index": 3,
+          "ModelId": "0x1000E7C",
+          "CloTextureEffects": [
+            {
+              "OldTexture": "0x50010D7",
+              "NewTexture": "0x05001B3D"
+            }
+          ]
+        },
+        {
+          "Index": 4,
+          "ModelId": "0x1000E7B",
+          "CloTextureEffects": [
+            {
+              "OldTexture": "0x5000FA4",
+              "NewTexture": "0x05001B3D"
+			  },
+            {
+              "OldTexture": "0x5000FA3",
+              "NewTexture": "0x05001B3D"
+            }
+          ]
+        },
+        {
+          "Index": 5,
+          "ModelId": "0x1000E7B",
+          "CloTextureEffects": [
+            {
+              "OldTexture": "0x5000FA4",
+              "NewTexture": "0x05001B3D"
+			  },
+            {
+              "OldTexture": "0x5000FA3",
+              "NewTexture": "0x05001B3D"
+            }
+          ]
+        },
+        {
+          "Index": 6,
+          "ModelId": "0x1000E7B",
+          "CloTextureEffects": [
+            {
+              "OldTexture": "0x5000FA4",
+              "NewTexture": "0x05001B3D"
+			  },
+            {
+              "OldTexture": "0x5000FA3",
+              "NewTexture": "0x05001B3D"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "Id": "0x10000E7D"
+}

@@ -1,0 +1,236 @@
+{
+  "wcid": 34024,
+  "weenieType": 6,
+  "boolStats": [
+    {
+      "key": 22,
+      "value": 1
+    },
+    {
+      "key": 69,
+      "value": 0
+    },
+    {
+      "key": 99,
+      "value": 0
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 3,
+      "value": 14
+    },
+    {
+      "key": 5,
+      "value": 950
+    },
+    {
+      "key": 9,
+      "value": 1048576
+    },
+    {
+      "key": 16,
+      "value": 1
+    },
+    {
+      "key": 18,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 11900
+    },
+    {
+      "key": 33,
+      "value": 1
+    },
+    {
+      "key": 44,
+      "value": 60
+    },
+    {
+      "key": 45,
+      "value": 64
+    },
+    {
+      "key": 46,
+      "value": 2
+    },
+    {
+      "key": 47,
+      "value": 4
+    },
+    {
+      "key": 48,
+      "value": 44
+    },
+    {
+      "key": 49,
+      "value": 50
+    },
+    {
+      "key": 51,
+      "value": 1
+    },
+    {
+      "key": 93,
+      "value": 1044
+    },
+    {
+      "key": 106,
+      "value": 170
+    },
+    {
+      "key": 107,
+      "value": 900
+    },
+    {
+      "key": 108,
+      "value": 900
+    },
+    {
+      "key": 109,
+      "value": 110
+    },
+    {
+      "key": 151,
+      "value": 2
+    },
+    {
+      "key": 158,
+      "value": 2
+    },
+    {
+      "key": 159,
+      "value": 44
+    },
+    {
+      "key": 160,
+      "value": 370
+    },
+    {
+      "key": 263,
+      "value": 64
+    },
+    {
+      "key": 353,
+      "value": 3
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33556553
+    },
+    {
+      "key": 3,
+      "value": 536870932
+    },
+    {
+      "key": 6,
+      "value": 67111919
+    },
+    {
+      "key": 7,
+      "value": 268435986
+    },
+    {
+      "key": 8,
+      "value": 100670613
+    },
+    {
+      "key": 22,
+      "value": 872415275
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 5,
+      "value": -0.05
+    },
+    {
+      "key": 22,
+      "value": 0.5
+    },
+    {
+      "key": 29,
+      "value": 1.15
+    },
+    {
+      "key": 39,
+      "value": 1.25
+    },
+    {
+      "key": 62,
+      "value": 1.2
+    },
+    {
+      "key": 63,
+      "value": 1
+    },
+    {
+      "key": 136,
+      "value": 1
+    },
+    {
+      "key": 157,
+      "value": 1
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Silifi of Crimson Night"
+    },
+    {
+      "key": 14,
+      "value": "This silifi has been modified to hold a fourth gem: the Ruby of Crimson Night.  It can only hold on Ruby of Crimson Night."
+    },
+    {
+      "key": 16,
+      "value": "The Silifi of Crimson Stars, its blade repaired using the spine of a Plate Armoredillo. It is fitted with the rubies Al-Shajar, Al-Khur, and Mahwan."
+    }
+  ],
+  "spellbook": [
+    {
+      "key": 2096,
+      "value": {
+        "casting_likelihood": 2
+      }
+    },
+    {
+      "key": 2101,
+      "value": {
+        "casting_likelihood": 2
+      }
+    },
+    {
+      "key": 2158,
+      "value": {
+        "casting_likelihood": 2
+      }
+    }
+  ],
+  "lastModified": "2025-10-07T03:53:00.2885754Z",
+  "modifiedBy": "ACE.Adapter",
+  "changelog": [
+    {
+      "created": "2025-10-07T03:49:27.9288035Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    },
+    {
+      "created": "2025-10-07T03:53:00.2881466Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "userChangeSummary": "Weenie exported from ACEmulator world database using ACE.Adapter",
+  "isDone": false
+}

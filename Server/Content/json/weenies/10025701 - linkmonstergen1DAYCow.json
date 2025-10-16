@@ -1,0 +1,128 @@
+{
+  "wcid": 10025701,
+  "weenieType": 1,
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 11,
+      "value": 1
+    },
+    {
+      "key": 18,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 66,
+      "value": 1
+    },
+    {
+      "key": 81,
+      "value": 1
+    },
+    {
+      "key": 82,
+      "value": 1
+    },
+    {
+      "key": 93,
+      "value": 1044
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33555051
+    },
+    {
+      "key": 8,
+      "value": 100667494
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 41,
+      "value": 60
+    },
+    {
+      "key": 43,
+      "value": 1
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "linkmonstergen1DAYCow"
+    }
+  ],
+  "generatorTable": [
+    {
+      "delay": 86400,
+      "frame": {
+        "origin": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "angles": {
+          "w": 1,
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      },
+      "initCreate": 1,
+      "maxNum": 1,
+      "objcell_id": 0,
+      "probability": 0.33000001311302185,
+      "ptid": 0,
+      "shade": 0,
+      "slot": 0,
+      "stackSize": 0,
+      "type": 2000057,
+      "whenCreate": 1,
+      "whereCreate": 4
+    },
+    {
+      "delay": 86400,
+      "frame": {
+        "origin": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "angles": {
+          "w": 1,
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      },
+      "initCreate": 0,
+      "maxNum": 0,
+      "objcell_id": 0,
+      "probability": 0.6700000166893005,
+      "ptid": 0,
+      "shade": 0,
+      "slot": 1,
+      "stackSize": 0,
+      "type": 0,
+      "whenCreate": 1,
+      "whereCreate": 4
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2025-10-16T05:54:37.1351617Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

@@ -1,0 +1,188 @@
+{
+  "wcid": 1000031,
+  "weenieType": 1,
+  "boolStats": [
+    {
+      "key": 22,
+      "value": 1
+    },
+    {
+      "key": 91,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 8
+    },
+    {
+      "key": 5,
+      "value": 10
+    },
+    {
+      "key": 9,
+      "value": 67108864
+    },
+    {
+      "key": 16,
+      "value": 1
+    },
+    {
+      "key": 18,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 10
+    },
+    {
+      "key": 33,
+      "value": 1
+    },
+    {
+      "key": 93,
+      "value": 1044
+    },
+    {
+      "key": 105,
+      "value": 6
+    },
+    {
+      "key": 106,
+      "value": 10
+    },
+    {
+      "key": 107,
+      "value": 100000
+    },
+    {
+      "key": 108,
+      "value": 100000
+    },
+    {
+      "key": 109,
+      "value": 10
+    },
+    {
+      "key": 131,
+      "value": 63
+    },
+    {
+      "key": 158,
+      "value": 7
+    },
+    {
+      "key": 159,
+      "value": 1
+    },
+    {
+      "key": 172,
+      "value": 1
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33554680
+    },
+    {
+      "key": 3,
+      "value": 536870932
+    },
+    {
+      "key": 6,
+      "value": 67111919
+    },
+    {
+      "key": 8,
+      "value": 100690596
+    },
+    {
+      "key": 22,
+      "value": 872415275
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 5,
+      "value": -0.005555556
+    },
+    {
+      "key": 39,
+      "value": 0.67
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Compass"
+    }
+  ],
+  "spellbook": [
+    {
+      "key": 2010,
+      "value": {
+        "casting_likelihood": 2
+      }
+    },
+    {
+      "key": 2377,
+      "value": {
+        "casting_likelihood": 2
+      }
+    },
+    {
+      "key": 2520,
+      "value": {
+        "casting_likelihood": 2
+      }
+    },
+    {
+      "key": 2534,
+      "value": {
+        "casting_likelihood": 2
+      }
+    },
+    {
+      "key": 2573,
+      "value": {
+        "casting_likelihood": 2
+      }
+    },
+    {
+      "key": 2575,
+      "value": {
+        "casting_likelihood": 2
+      }
+    },
+    {
+      "key": 2969,
+      "value": {
+        "casting_likelihood": 2
+      }
+    },
+    {
+      "key": 3361,
+      "value": {
+        "casting_likelihood": 2
+      }
+    },
+    {
+      "key": 3366,
+      "value": {
+        "casting_likelihood": 2
+      }
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2025-10-15T20:59:37.2826408Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

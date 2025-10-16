@@ -1,0 +1,717 @@
+{
+  "wcid": 23719265,
+  "weenieType": 10,
+  "attributes": {
+    "strength": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 290
+    },
+    "endurance": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 260
+    },
+    "coordination": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 290
+    },
+    "quickness": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 290
+    },
+    "focus": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 200
+    },
+    "self": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 200
+    },
+    "health": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 196,
+      "current": 326
+    },
+    "stamina": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 196,
+      "current": 456
+    },
+    "mana": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 196,
+      "current": 396
+    }
+  },
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 8,
+      "value": 1
+    },
+    {
+      "key": 12,
+      "value": 1
+    },
+    {
+      "key": 13,
+      "value": 0
+    },
+    {
+      "key": 19,
+      "value": 0
+    },
+    {
+      "key": 41,
+      "value": 1
+    },
+    {
+      "key": 42,
+      "value": 1
+    },
+    {
+      "key": 52,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 16
+    },
+    {
+      "key": 2,
+      "value": 6
+    },
+    {
+      "key": 6,
+      "value": -1
+    },
+    {
+      "key": 7,
+      "value": -1
+    },
+    {
+      "key": 16,
+      "value": 32
+    },
+    {
+      "key": 25,
+      "value": 275
+    },
+    {
+      "key": 93,
+      "value": 6292504
+    },
+    {
+      "key": 95,
+      "value": 8
+    },
+    {
+      "key": 113,
+      "value": 1
+    },
+    {
+      "key": 133,
+      "value": 4
+    },
+    {
+      "key": 134,
+      "value": 16
+    },
+    {
+      "key": 188,
+      "value": 6
+    },
+    {
+      "key": 307,
+      "value": 5
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33557117
+    },
+    {
+      "key": 2,
+      "value": 150994954
+    },
+    {
+      "key": 3,
+      "value": 536870934
+    },
+    {
+      "key": 6,
+      "value": 67108990
+    },
+    {
+      "key": 7,
+      "value": 268437422
+    },
+    {
+      "key": 8,
+      "value": 100667446
+    },
+    {
+      "key": 22,
+      "value": 872415236
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 0,
+      "value": 0
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Aun Pallaton"
+    },
+    {
+      "key": 5,
+      "value": "Leader of the Tumerok Rebellion"
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 7,
+      "value": [
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0,
+              "extent": 1,
+              "motion": 1090519043
+            },
+            {
+              "type": 12,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 36,
+              "delay": 0,
+              "extent": 1,
+              "msg": "Level_180-275_7",
+              "max": 275,
+              "min": 180,
+              "stat": 25
+            }
+          ],
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "key": 22,
+      "value": [
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0,
+              "extent": 1,
+              "msg": "ThrexilKTComplete@2"
+            }
+          ],
+          "probability": 1,
+          "quest": "Level_180-275_7"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0,
+              "extent": 1,
+              "msg": "followerofthrexilmasks@3"
+            }
+          ],
+          "probability": 1,
+          "quest": "Level_180-275_8"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 74,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 10,
+              "delay": 0,
+              "extent": 1,
+              "msg": "Excellent. The masks reveal much about Threxil's network. The corruption flows deeper than I feared."
+            },
+            {
+              "type": 49,
+              "delay": 0,
+              "extent": 1,
+              "min64": 0,
+              "max64": 2500000000,
+              "percent": 1
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 113,
+              "delay": 0,
+              "extent": 1,
+              "heroxp64": 200000
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 22,
+              "delay": 0,
+              "extent": 1,
+              "msg": "followerofthrexilmasks"
+            }
+          ],
+          "probability": 1,
+          "quest": "OwnsItem-72321677_3"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 74,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 10,
+              "delay": 0,
+              "extent": 1,
+              "msg": "So… Threxil's plan is in motion. The pieces fall into place like a master's gambit."
+            },
+            {
+              "type": 10,
+              "delay": 1,
+              "extent": 1,
+              "msg": "The Master Mages weren't killed by Bael'Zharon's brute force… they were outmaneuvered. Threxil played them all."
+            },
+            {
+              "type": 10,
+              "delay": 1,
+              "extent": 1,
+              "msg": "You've peeled back the first layer of deception, warrior. The Reach thanks you, but know this—what you've uncovered is only the beginning."
+            },
+            {
+              "type": 10,
+              "delay": 1,
+              "extent": 1,
+              "msg": "Threxil serves no master but his own vision. Not even Bael'Zharon knows the true scope of what the Mind Aperture has set in motion."
+            },
+            {
+              "type": 49,
+              "delay": 0,
+              "extent": 1,
+              "min64": 0,
+              "max64": 2500000000,
+              "percent": 1
+            },
+            {
+              "type": 113,
+              "delay": 0,
+              "extent": 1,
+              "heroxp64": 200000
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 22,
+              "delay": 0,
+              "extent": 1,
+              "msg": "followerofthrexilnote"
+            }
+          ],
+          "probability": 1,
+          "quest": "Level_180-275_9"
+        }
+      ]
+    },
+    {
+      "key": 12,
+      "value": [
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0,
+              "extent": 1,
+              "msg": "You've done enough, warrior. Let your mind rest—for now. The echoes of Threxil's influence still ripple through these sacred halls."
+            }
+          ],
+          "probability": 1,
+          "quest": "ThrexilKTComplete@2"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0,
+              "extent": 1,
+              "msg": "ThrexilKT@KillTaskCompleted"
+            }
+          ],
+          "probability": 1,
+          "quest": "ThrexilKT@KillTaskInProgress"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0,
+              "extent": 1,
+              "msg": "The gears of Threxil's machine grind quieter today. The corruption beneath our sacred ground grows weaker with each fallen disciple."
+            },
+            {
+              "type": 62,
+              "delay": 1,
+              "extent": 1,
+              "amount64": 2000000000
+            },
+            {
+              "type": 22,
+              "delay": 0,
+              "extent": 1,
+              "msg": "ThrexilKTComplete"
+            },
+            {
+              "type": 31,
+              "delay": 0,
+              "extent": 1,
+              "msg": "ThrexilKT"
+            },
+            {
+              "type": 113,
+              "delay": 0,
+              "extent": 1,
+              "heroxp64": 200000
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            }
+          ],
+          "probability": 1,
+          "quest": "ThrexilKT@KillTaskCompleted"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0,
+              "extent": 1,
+              "msg": "The arcane patterns still resonate from your last offering. Return when the energy has settled."
+            },
+            {
+              "type": 18,
+              "delay": 0.5,
+              "extent": 1,
+              "msg": "You must wait %tqt before bringing more masks."
+            }
+          ],
+          "probability": 1,
+          "quest": "followerofthrexilmasks@3"
+        }
+      ]
+    },
+    {
+      "key": 13,
+      "value": [
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 30,
+              "delay": 0,
+              "extent": 1,
+              "msg": "ThrexilKT@KillTaskInProgress",
+              "max": 2147483647,
+              "min": 1
+            }
+          ],
+          "probability": 1,
+          "quest": "ThrexilKTComplete@2"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0,
+              "extent": 1,
+              "msg": "You've slain %tqc out of %tqm Followers of Threxil."
+            },
+            {
+              "type": 10,
+              "delay": 1,
+              "extent": 1,
+              "msg": "They whisper in broken code down there. Keep striking at the heart of their blasphemy."
+            }
+          ],
+          "probability": 1,
+          "quest": "ThrexilKT@KillTaskCompleted"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0,
+              "extent": 1,
+              "msg": "Threxil's disciples gather like static in the aether, deep beneath this holy ground. They defile what was once pure."
+            },
+            {
+              "type": 10,
+              "delay": 2,
+              "extent": 1,
+              "msg": "Slay 500 of his followers. Cleanse the conduit of their poisonous presence. Only then can the ancient wards be restored."
+            },
+            {
+              "type": 10,
+              "delay": 1,
+              "extent": 1,
+              "msg": "You must also collect ten of their masks. Each one pulses with residual energy that I need to triangulate the source of this corruption."
+            },
+            {
+              "type": 10,
+              "delay": 1,
+              "extent": 1,
+              "msg": "Deep within their sanctum lies a secret letter containing Threxil's true plans for Dereth. Find it. Without knowing his intent, we fight blind against a master strategist."
+            },
+            {
+              "type": 70,
+              "delay": 0,
+              "extent": 1,
+              "amount": 0,
+              "msg": "ThrexilKT"
+            }
+          ],
+          "probability": 1,
+          "quest": "ThrexilKT@KillTaskInProgress"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0,
+              "extent": 1,
+              "msg": "OwnsItem-72321677_3"
+            }
+          ],
+          "probability": 1,
+          "quest": "followerofthrexilmasks@3"
+        }
+      ]
+    },
+    {
+      "key": 23,
+      "value": [
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0,
+              "extent": 1,
+              "msg": "You are not yet ready to face Threxil's corruption, young one. Return when you have gained more experience in the ways of battle. Only those who have reached the 180th circle of experience may undertake this perilous task."
+            }
+          ],
+          "probability": 1,
+          "quest": "Level_180-275_7"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0,
+              "extent": 1,
+              "msg": "I need ten of their masks to triangulate the arcane signal. Each one pulses with residual energy from the Mind Aperture himself."
+            }
+          ],
+          "probability": 1,
+          "quest": "OwnsItem-72321677_3"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0,
+              "extent": 1,
+              "msg": "These masks are not mere trinkets, young one. They pulse with dangerous energies that only the most experienced can safely handle. Return when you are stronger."
+            }
+          ],
+          "probability": 1,
+          "quest": "Level_180-275_8"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0,
+              "extent": 1,
+              "msg": "This document contains knowledge too dangerous for the inexperienced. The secrets within could shatter an unprepared mind. You must be more seasoned before I can accept this burden from you."
+            }
+          ],
+          "probability": 1,
+          "quest": "Level_180-275_9"
+        }
+      ]
+    },
+    {
+      "key": 1,
+      "value": [
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 36,
+              "delay": 0,
+              "extent": 1,
+              "msg": "Level_180-275_8",
+              "max": 275,
+              "min": 180,
+              "stat": 25
+            }
+          ],
+          "probability": 1,
+          "classID": 72321677
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 36,
+              "delay": 0,
+              "extent": 1,
+              "msg": "Level_180-275_9",
+              "max": 275,
+              "min": 180,
+              "stat": 25
+            }
+          ],
+          "probability": 1,
+          "classID": 21382818
+        }
+      ]
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2025-09-30T05:14:22.4340206Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

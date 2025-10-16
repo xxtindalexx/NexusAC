@@ -1,0 +1,120 @@
+{
+  "id": "0x1000094E",
+  "clothingBaseEffects": {
+    "0x2001C03": {
+      "cloObjectEffects": [
+        {
+          "index": 0,
+          "Comment": "Rynthid Wand Blue",
+          "modelId": "0x1004D7E",
+          "cloTextureEffects": [
+            {
+              "oldTexture": "0x5003305",
+              "newTexture": "0x5002AD1"
+            },
+            {
+              "oldTexture": "0x5003313",
+              "newTexture": "0x5003313"
+            }
+          ]
+        }
+      ]
+    },
+    "0x2001C01": {
+      "cloObjectEffects": [
+        {
+          "index": 0,
+          "Comment": "Rynthid Bow Blue",
+          "modelId": "0x1004D7C",
+          "cloTextureEffects": [
+            {
+              "oldTexture": "0x5003305",
+              "newTexture": "0x5002AD1"
+            },
+            {
+              "oldTexture": "0x5003313",
+              "newTexture": "0x5003313"
+            }
+          ]
+        }
+      ]
+    },
+    "0x2001BFF": {
+      "cloObjectEffects": [
+        {
+          "index": 0,
+          "Comment": "Rynthid Dagger Blue",
+          "modelId": "0x1004D7A",
+          "cloTextureEffects": [
+            {
+              "oldTexture": "0x5003305",
+              "newTexture": "0x5002AD1"
+            },
+            {
+              "oldTexture": "0x5003313",
+              "newTexture": "0x5003313"
+            }
+          ]
+        }
+      ]
+    },
+    "0x2001C02": {
+      "cloObjectEffects": [
+        {
+          "index": 0,
+          "Comment": "Rynthid Mace Blue",
+          "modelId": "0x1004D7D",
+          "cloTextureEffects": [
+            {
+              "oldTexture": "0x5003305",
+              "newTexture": "0x5002AD1"
+            },
+            {
+              "oldTexture": "0x5003313",
+              "newTexture": "0x5003313"
+            }
+          ]
+        }
+      ]
+    },
+    "0x2001C00": {
+      "cloObjectEffects": [
+        {
+          "index": 0,
+          "Comment": "Rynthid Spear Blue",
+          "modelId": "0x1004D7B",
+          "cloTextureEffects": [
+            {
+              "oldTexture": "0x5003305",
+              "newTexture": "0x5002AD1"
+            },
+            {
+              "oldTexture": "0x5003313",
+              "newTexture": "0x5003313"
+            }
+          ]
+        }
+      ]
+    },
+    "0x2001C04": {
+      "cloObjectEffects": [
+        {
+          "index": 0,
+          "Comment": "Rynthid GreatSpear Blue",
+          "modelId": "0x1004D7B",
+          "cloTextureEffects": [
+            {
+              "oldTexture": "0x5003305",
+              "newTexture": "0x5002AD1"
+            },
+            {
+              "oldTexture": "0x5003313",
+              "newTexture": "0x5003313"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
+

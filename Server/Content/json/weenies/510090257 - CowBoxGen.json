@@ -1,0 +1,140 @@
+{
+  "wcid": 510090257,
+  "weenieType": 1,
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 11,
+      "value": 1
+    },
+    {
+      "key": 18,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 66,
+      "value": 1
+    },
+    {
+      "key": 81,
+      "value": 1
+    },
+    {
+      "key": 82,
+      "value": 1
+    },
+    {
+      "key": 93,
+      "value": 1044
+    },
+    {
+      "key": 103,
+      "value": 2
+    },
+    {
+      "key": 142,
+      "value": 3
+    },
+    {
+      "key": 145,
+      "value": 2
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33555051
+    },
+    {
+      "key": 8,
+      "value": 100667494
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 41,
+      "value": 1
+    },
+    {
+      "key": 43,
+      "value": 1
+    },
+    {
+      "key": 121,
+      "value": 0
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "CowBoxGen"
+    },
+    {
+      "key": 34,
+      "value": "CowBoxSpawn"
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 32,
+      "value": [
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 24,
+              "delay": 60,
+              "extent": 1,
+              "msg": "CowBoxSpawn"
+            }
+          ],
+          "probability": 1
+        }
+      ]
+    }
+  ],
+  "generatorTable": [
+    {
+      "delay": 8,
+      "frame": {
+        "origin": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "angles": {
+          "w": 1,
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      },
+      "initCreate": 1,
+      "maxNum": 1,
+      "objcell_id": 0,
+      "probability": -1,
+      "ptid": 0,
+      "shade": 0,
+      "slot": 0,
+      "stackSize": -1,
+      "type": 421421257,
+      "whenCreate": 1,
+      "whereCreate": 2
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2025-10-16T05:55:26.8910302Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

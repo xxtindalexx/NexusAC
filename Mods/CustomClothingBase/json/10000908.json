@@ -1,0 +1,687 @@
+{
+  "clothingBaseEffects": {
+    "33561112": {
+      "cloObjectEffects": [
+        {
+          "index": 29,
+          "modelId": 16796278,
+          "cloTextureEffects": []
+        },
+        {
+          "index": 30,
+          "modelId": 16796411,
+          "cloTextureEffects": []
+        },
+        {
+          "index": 31,
+          "modelId": 16795817,
+          "cloTextureEffects": []
+        },
+        {
+          "index": 32,
+          "modelId": 16795818,
+          "cloTextureEffects": []
+        },
+        {
+          "index": 33,
+          "modelId": 16795819,
+          "cloTextureEffects": []
+        }
+      ]
+    },
+    "33561104": {
+      "cloObjectEffects": [
+        {
+          "index": 29,
+          "modelId": 16795815,
+          "cloTextureEffects": []
+        },
+        {
+          "index": 30,
+          "modelId": 16795816,
+          "cloTextureEffects": []
+        },
+        {
+          "index": 31,
+          "modelId": 16795817,
+          "cloTextureEffects": []
+        },
+        {
+          "index": 32,
+          "modelId": 16795818,
+          "cloTextureEffects": []
+        },
+        {
+          "index": 33,
+          "modelId": 16795819,
+          "cloTextureEffects": []
+        }
+      ]
+    },
+    "33560944": {
+      "cloObjectEffects": [
+        {
+          "index": 29,
+          "modelId": 16795815,
+          "cloTextureEffects": []
+        },
+        {
+          "index": 30,
+          "modelId": 16795816,
+          "cloTextureEffects": []
+        },
+        {
+          "index": 31,
+          "modelId": 16795817,
+          "cloTextureEffects": []
+        },
+        {
+          "index": 32,
+          "modelId": 16795818,
+          "cloTextureEffects": []
+        },
+        {
+          "index": 33,
+          "modelId": 16795819,
+          "cloTextureEffects": []
+        }
+      ]
+    },
+    "33554433": {
+      "cloObjectEffects": [
+        {
+          "index": 29,
+          "modelId": 16795815,
+          "cloTextureEffects": [
+            {
+              "oldTexture": 83898657,
+              "newTexture": 83892578
+            }
+          ]
+        },
+        {
+          "index": 30,
+          "modelId": 16795816,
+          "cloTextureEffects": [
+            {
+              "oldTexture": 83898657,
+              "newTexture": 83892578
+            }
+          ]
+        },
+        {
+          "index": 31,
+          "modelId": 16795817,
+          "cloTextureEffects": [
+            {
+              "oldTexture": 83898657,
+              "newTexture": 83892578
+            }
+          ]
+        },
+        {
+          "index": 32,
+          "modelId": 16795818,
+          "cloTextureEffects": [
+            {
+              "oldTexture": 83898657,
+              "newTexture": 83892578
+            }
+          ]
+        },
+        {
+          "index": 33,
+          "modelId": 16795819,
+          "cloTextureEffects": [
+            {
+              "oldTexture": 83898657,
+              "newTexture": 83892578
+            }
+          ]
+        }
+      ]
+    },
+    "33561114": {
+      "cloObjectEffects": [
+        {
+          "index": 29,
+          "modelId": 16795815,
+          "cloTextureEffects": []
+        },
+        {
+          "index": 30,
+          "modelId": 16795816,
+          "cloTextureEffects": []
+        },
+        {
+          "index": 31,
+          "modelId": 16795817,
+          "cloTextureEffects": []
+        },
+        {
+          "index": 32,
+          "modelId": 16795818,
+          "cloTextureEffects": []
+        },
+        {
+          "index": 33,
+          "modelId": 16795819,
+          "cloTextureEffects": []
+        }
+      ]
+    },
+    "33561106": {
+      "cloObjectEffects": [
+        {
+          "index": 29,
+          "modelId": 16796278,
+          "cloTextureEffects": []
+        },
+        {
+          "index": 30,
+          "modelId": 16796411,
+          "cloTextureEffects": []
+        },
+        {
+          "index": 31,
+          "modelId": 16795817,
+          "cloTextureEffects": []
+        },
+        {
+          "index": 32,
+          "modelId": 16795818,
+          "cloTextureEffects": []
+        },
+        {
+          "index": 33,
+          "modelId": 16795819,
+          "cloTextureEffects": []
+        }
+      ]
+    },
+    "33561386": {
+      "cloObjectEffects": [
+        {
+          "index": 0,
+          "modelId": 16795839,
+          "cloTextureEffects": []
+        }
+      ]
+    },
+    "33561100": {
+      "cloObjectEffects": [
+        {
+          "index": 29,
+          "modelId": 16795815,
+          "cloTextureEffects": []
+        },
+        {
+          "index": 30,
+          "modelId": 16795816,
+          "cloTextureEffects": []
+        },
+        {
+          "index": 31,
+          "modelId": 16795817,
+          "cloTextureEffects": []
+        },
+        {
+          "index": 32,
+          "modelId": 16795818,
+          "cloTextureEffects": []
+        },
+        {
+          "index": 33,
+          "modelId": 16795819,
+          "cloTextureEffects": []
+        }
+      ]
+    },
+    "33561108": {
+      "cloObjectEffects": [
+        {
+          "index": 29,
+          "modelId": 16795815,
+          "cloTextureEffects": []
+        },
+        {
+          "index": 30,
+          "modelId": 16795816,
+          "cloTextureEffects": []
+        },
+        {
+          "index": 31,
+          "modelId": 16795817,
+          "cloTextureEffects": []
+        },
+        {
+          "index": 32,
+          "modelId": 16795818,
+          "cloTextureEffects": []
+        },
+        {
+          "index": 33,
+          "modelId": 16795819,
+          "cloTextureEffects": []
+        }
+      ]
+    },
+    "33560941": {
+      "cloObjectEffects": [
+        {
+          "index": 29,
+          "modelId": 16795815,
+          "cloTextureEffects": []
+        },
+        {
+          "index": 30,
+          "modelId": 16795816,
+          "cloTextureEffects": []
+        },
+        {
+          "index": 31,
+          "modelId": 16795817,
+          "cloTextureEffects": []
+        },
+        {
+          "index": 32,
+          "modelId": 16795818,
+          "cloTextureEffects": []
+        },
+        {
+          "index": 33,
+          "modelId": 16795819,
+          "cloTextureEffects": []
+        }
+      ]
+    },
+    "33561069": {
+      "cloObjectEffects": [
+        {
+          "index": 29,
+          "modelId": 16795815,
+          "cloTextureEffects": [
+            {
+              "oldTexture": 83898657,
+              "newTexture": 83892578
+            }
+          ]
+        },
+        {
+          "index": 30,
+          "modelId": 16795816,
+          "cloTextureEffects": [
+            {
+              "oldTexture": 83898657,
+              "newTexture": 83892578
+            }
+          ]
+        },
+        {
+          "index": 31,
+          "modelId": 16795817,
+          "cloTextureEffects": [
+            {
+              "oldTexture": 83898657,
+              "newTexture": 83892578
+            }
+          ]
+        },
+        {
+          "index": 32,
+          "modelId": 16795818,
+          "cloTextureEffects": [
+            {
+              "oldTexture": 83898657,
+              "newTexture": 83892578
+            }
+          ]
+        },
+        {
+          "index": 33,
+          "modelId": 16795819,
+          "cloTextureEffects": [
+            {
+              "oldTexture": 83898657,
+              "newTexture": 83892578
+            }
+          ]
+        }
+      ]
+    },
+    "33561102": {
+      "cloObjectEffects": [
+        {
+          "index": 29,
+          "modelId": 16795815,
+          "cloTextureEffects": []
+        },
+        {
+          "index": 30,
+          "modelId": 16795816,
+          "cloTextureEffects": []
+        },
+        {
+          "index": 31,
+          "modelId": 16795817,
+          "cloTextureEffects": []
+        },
+        {
+          "index": 32,
+          "modelId": 16795818,
+          "cloTextureEffects": []
+        },
+        {
+          "index": 33,
+          "modelId": 16795819,
+          "cloTextureEffects": []
+        }
+      ]
+    },
+    "33561110": {
+      "cloObjectEffects": [
+        {
+          "index": 29,
+          "modelId": 16795815,
+          "cloTextureEffects": []
+        },
+        {
+          "index": 30,
+          "modelId": 16795816,
+          "cloTextureEffects": []
+        },
+        {
+          "index": 31,
+          "modelId": 16795817,
+          "cloTextureEffects": []
+        },
+        {
+          "index": 32,
+          "modelId": 16795818,
+          "cloTextureEffects": []
+        },
+        {
+          "index": 33,
+          "modelId": 16795819,
+          "cloTextureEffects": []
+        }
+      ]
+    },
+    "33560942": {
+      "cloObjectEffects": [
+        {
+          "index": 29,
+          "modelId": 16795815,
+          "cloTextureEffects": []
+        },
+        {
+          "index": 30,
+          "modelId": 16795816,
+          "cloTextureEffects": []
+        },
+        {
+          "index": 31,
+          "modelId": 16795817,
+          "cloTextureEffects": []
+        },
+        {
+          "index": 32,
+          "modelId": 16795818,
+          "cloTextureEffects": []
+        },
+        {
+          "index": 33,
+          "modelId": 16795819,
+          "cloTextureEffects": []
+        }
+      ]
+    },
+    "33554510": {
+      "cloObjectEffects": [
+        {
+          "index": 29,
+          "modelId": 16795815,
+          "cloTextureEffects": []
+        },
+        {
+          "index": 30,
+          "modelId": 16795816,
+          "cloTextureEffects": []
+        },
+        {
+          "index": 31,
+          "modelId": 16795817,
+          "cloTextureEffects": []
+        },
+        {
+          "index": 32,
+          "modelId": 16795818,
+          "cloTextureEffects": []
+        },
+        {
+          "index": 33,
+          "modelId": 16795819,
+          "cloTextureEffects": []
+        }
+      ]
+    },
+    "33560943": {
+      "cloObjectEffects": [
+        {
+          "index": 29,
+          "modelId": 16795815,
+          "cloTextureEffects": []
+        },
+        {
+          "index": 30,
+          "modelId": 16795816,
+          "cloTextureEffects": []
+        },
+        {
+          "index": 31,
+          "modelId": 16795817,
+          "cloTextureEffects": []
+        },
+        {
+          "index": 32,
+          "modelId": 16795818,
+          "cloTextureEffects": []
+        },
+        {
+          "index": 33,
+          "modelId": 16795819,
+          "cloTextureEffects": []
+        }
+      ]
+    },
+    "33560839": {
+      "cloObjectEffects": [
+        {
+          "index": 29,
+          "modelId": 16795815,
+          "cloTextureEffects": [
+            {
+              "oldTexture": 83898657,
+              "newTexture": 83892578
+            }
+          ]
+        },
+        {
+          "index": 30,
+          "modelId": 16795816,
+          "cloTextureEffects": [
+            {
+              "oldTexture": 83898657,
+              "newTexture": 83892578
+            }
+          ]
+        },
+        {
+          "index": 31,
+          "modelId": 16795817,
+          "cloTextureEffects": [
+            {
+              "oldTexture": 83898657,
+              "newTexture": 83892578
+            }
+          ]
+        },
+        {
+          "index": 32,
+          "modelId": 16795818,
+          "cloTextureEffects": [
+            {
+              "oldTexture": 83898657,
+              "newTexture": 83892578
+            }
+          ]
+        },
+        {
+          "index": 33,
+          "modelId": 16795819,
+          "cloTextureEffects": [
+            {
+              "oldTexture": 83898657,
+              "newTexture": 83892578
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "clothingSubPalEffects": {
+    "1": {
+      "icon": 0,
+      "cloSubPalettes": []
+    },
+    "2": {
+      "icon": 0,
+      "cloSubPalettes": []
+    },
+    "3": {
+      "icon": 0,
+      "cloSubPalettes": []
+    },
+    "4": {
+      "icon": 0,
+      "cloSubPalettes": []
+    },
+    "5": {
+      "icon": 0,
+      "cloSubPalettes": []
+    },
+    "6": {
+      "icon": 0,
+      "cloSubPalettes": []
+    },
+    "39": {
+      "icon": 0,
+      "cloSubPalettes": []
+    },
+    "7": {
+      "icon": 0,
+      "cloSubPalettes": []
+    },
+    "8": {
+      "icon": 0,
+      "cloSubPalettes": []
+    },
+    "9": {
+      "icon": 0,
+      "cloSubPalettes": []
+    },
+    "10": {
+      "icon": 0,
+      "cloSubPalettes": []
+    },
+    "11": {
+      "icon": 0,
+      "cloSubPalettes": []
+    },
+    "12": {
+      "icon": 0,
+      "cloSubPalettes": []
+    },
+    "13": {
+      "icon": 0,
+      "cloSubPalettes": []
+    },
+    "14": {
+      "icon": 0,
+      "cloSubPalettes": []
+    },
+    "15": {
+      "icon": 0,
+      "cloSubPalettes": []
+    },
+    "16": {
+      "icon": 0,
+      "cloSubPalettes": []
+    },
+    "17": {
+      "icon": 0,
+      "cloSubPalettes": []
+    },
+    "18": {
+      "icon": 0,
+      "cloSubPalettes": []
+    },
+    "19": {
+      "icon": 0,
+      "cloSubPalettes": []
+    },
+    "84": {
+      "icon": 0,
+      "cloSubPalettes": []
+    },
+    "20": {
+      "icon": 0,
+      "cloSubPalettes": []
+    },
+    "85": {
+      "icon": 0,
+      "cloSubPalettes": []
+    },
+    "21": {
+      "icon": 0,
+      "cloSubPalettes": []
+    },
+    "86": {
+      "icon": 0,
+      "cloSubPalettes": []
+    },
+    "22": {
+      "icon": 0,
+      "cloSubPalettes": []
+    },
+    "87": {
+      "icon": 0,
+      "cloSubPalettes": []
+    },
+    "88": {
+      "icon": 0,
+      "cloSubPalettes": []
+    },
+    "89": {
+      "icon": 0,
+      "cloSubPalettes": []
+    },
+    "90": {
+      "icon": 0,
+      "cloSubPalettes": []
+    },
+    "91": {
+      "icon": 0,
+      "cloSubPalettes": []
+    },
+    "92": {
+      "icon": 0,
+      "cloSubPalettes": []
+    },
+    "93": {
+      "icon": 0,
+      "cloSubPalettes": []
+    }
+  },
+  "id": 268437768
+}

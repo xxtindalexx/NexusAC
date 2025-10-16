@@ -1,0 +1,8 @@
+{
+  "key": "MythicBoxPickupTimer",
+  "value": {
+    "fullname": "MythicBoxPickupTimer",
+    "maxsolves": -1,
+    "mindelta": 8
+  }
+}

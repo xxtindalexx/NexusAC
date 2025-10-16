@@ -1,0 +1,222 @@
+{
+"clothingBaseEffects": {
+    "33557059": {
+      "cloObjectEffects": [
+	  {
+          "index": 16,
+          "modelId": 16786833,
+          "cloTextureEffects": []
+        }	
+	  ]
+    },
+    "33554433": {
+      "cloObjectEffects": [
+	  {
+          "index": 0,
+          "modelId": 16786860,
+          "cloTextureEffects": []
+        },
+        {
+          "index": 1,
+          "modelId": 16786855,
+          "cloTextureEffects": []
+        },
+        {
+          "index": 2,
+          "modelId": 16786843,
+          "cloTextureEffects": []
+        },
+        {
+          "index": 3,
+          "modelId": 16786837,
+          "cloTextureEffects": []
+        },
+        {
+          "index": 4,
+          "modelId": 16777708,
+          "cloTextureEffects": []
+        },
+        {
+          "index": 5,
+          "modelId": 16786855,
+          "cloTextureEffects": []
+        },
+        {
+          "index": 6,
+          "modelId": 16786843,
+          "cloTextureEffects": []
+        },
+        {
+          "index": 7,
+          "modelId": 16786837,
+          "cloTextureEffects": []
+        },
+        {
+          "index": 8,
+          "modelId": 16777708,
+          "cloTextureEffects": []
+        },
+        {
+          "index": 9,
+          "modelId": 16786832,
+          "cloTextureEffects": []
+        },
+        {
+          "index": 10,
+          "modelId": 16786849,
+          "cloTextureEffects": []
+        },
+        {
+          "index": 11,
+          "modelId": 16786850,
+          "cloTextureEffects": []
+        },
+        {
+          "index": 12,
+          "modelId": 16786850,
+          "cloTextureEffects": []
+        },
+        {
+          "index": 13,
+          "modelId": 16786852,
+          "cloTextureEffects": []
+        },
+        {
+          "index": 14,
+          "modelId": 16786853,
+          "cloTextureEffects": []
+        },
+        {
+          "index": 15,
+          "modelId": 16786853,
+          "cloTextureEffects": []
+        },
+	    { 
+          "index": 16,
+          "modelId": 16786833,
+          "cloTextureEffects": []
+        },
+	    { 
+          "index": 17,
+          "modelId": 16786875,
+          "cloTextureEffects": []
+        }	
+	  ]
+	  }
+  },
+  "clothingSubPalEffects": {
+    "1": {
+      "icon": 0,
+      "cloSubPalettes": [
+        {
+          "ranges": [
+            {
+              "offset": 0,
+              "numColors": 2048
+            }
+          ],
+          "paletteSet": 251658740
+        }
+      ]
+    },
+    "2": {
+      "icon": 0,
+      "cloSubPalettes": [
+        {
+          "ranges": [
+            {
+              "offset": 0,
+              "numColors": 2048
+            }
+          ],
+          "paletteSet": 251658742
+        }
+      ]
+    },
+    "4": {
+      "icon": 0,
+      "cloSubPalettes": [
+        {
+          "ranges": [
+            {
+              "offset": 0,
+              "numColors": 2048
+            }
+          ],
+          "paletteSet": 251658743
+        }
+      ]
+    },
+    "39": {
+      "icon": 0,
+      "cloSubPalettes": [
+        {
+          "ranges": [
+            {
+              "offset": 0,
+              "numColors": 2048
+            }
+          ],
+          "paletteSet": 251658741
+        }
+      ]
+    },
+    "8": {
+      "icon": 0,
+      "cloSubPalettes": [
+        {
+          "ranges": [
+            {
+              "offset": 0,
+              "numColors": 2048
+            }
+          ],
+          "paletteSet": 251658744
+        }
+      ]
+    },
+    "13": {
+      "icon": 0,
+      "cloSubPalettes": [
+        {
+          "ranges": [
+            {
+              "offset": 0,
+              "numColors": 2048
+            }
+          ],
+          "paletteSet": 251659972
+        }
+      ]
+    },
+    "14": {
+      "icon": 0,
+      "cloSubPalettes": [
+        {
+          "ranges": [
+            {
+              "offset": 0,
+              "numColors": 2048
+            }
+          ],
+          "paletteSet": 251659973
+        }
+      ]
+    },
+    "17": {
+      "icon": 0,
+      "cloSubPalettes": [
+        {
+          "ranges": [
+            {
+              "offset": 0,
+              "numColors": 2048
+            }
+          ],
+          "paletteSet": 251658745
+        }
+      ]
+    }
+  },
+  "id": 268437801
+}

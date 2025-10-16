@@ -1,0 +1,835 @@
+{
+  "wcid": 13375303,
+  "weenieType": 44,
+  "boolStats": [
+    {
+      "key": 22,
+      "value": 1
+    },
+    {
+      "key": 90,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 128
+    },
+    {
+      "key": 5,
+      "value": 1
+    },
+    {
+      "key": 11,
+      "value": 1
+    },
+    {
+      "key": 12,
+      "value": 1
+    },
+    {
+      "key": 13,
+      "value": 1
+    },
+    {
+      "key": 15,
+      "value": 80
+    },
+    {
+      "key": 16,
+      "value": 8
+    },
+    {
+      "key": 19,
+      "value": 80
+    },
+    {
+      "key": 33,
+      "value": -1
+    },
+    {
+      "key": 93,
+      "value": 1044
+    },
+    {
+      "key": 94,
+      "value": 16
+    },
+    {
+      "key": 151,
+      "value": 1
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33557119
+    },
+    {
+      "key": 3,
+      "value": 536870932
+    },
+    {
+      "key": 8,
+      "value": 100671480
+    },
+    {
+      "key": 22,
+      "value": 872415275
+    },
+    {
+      "key": 52,
+      "value": 100676436
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 39,
+      "value": 0.38
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Epic Nexus Chest"
+    },
+    {
+      "key": 14,
+      "value": "This chest contains the most Epic of loot in all of Dereth, Good luck."
+    },
+    {
+      "key": 16,
+      "value": "..."
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 7,
+      "value": [
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0,
+              "extent": 1,
+              "msg": "You found 100 MMDs"
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 77,
+              "delay": 0,
+              "extent": 1
+            }
+          ],
+          "probability": 0.03
+        },
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0,
+              "extent": 1,
+              "msg": "You found 25 Uber-Stakes Gambling Gems"
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 77,
+              "delay": 0,
+              "extent": 1
+            }
+          ],
+          "probability": 0.06
+        },
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0,
+              "extent": 1,
+              "msg": "You found 150 MMDs"
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 77,
+              "delay": 0,
+              "extent": 1
+            }
+          ],
+          "probability": 0.09
+        },
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0,
+              "extent": 1,
+              "msg": "You found 40 Nexus Tokens"
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 77,
+              "delay": 0,
+              "extent": 1
+            }
+          ],
+          "probability": 0.12
+        },
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0,
+              "extent": 1,
+              "msg": "You found 50 Uber-Stakes Gambling Gems"
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 77,
+              "delay": 0,
+              "extent": 1
+            }
+          ],
+          "probability": 0.15
+        },
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0,
+              "extent": 1,
+              "msg": "You found an Arena Championship Belt Gem, Only use this item when u have a free pack slot!"
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 77,
+              "delay": 0,
+              "extent": 1
+            }
+          ],
+          "probability": 0.18
+        },
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0,
+              "extent": 1,
+              "msg": "You found 60 Nexus Tokens"
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 77,
+              "delay": 0,
+              "extent": 1
+            }
+          ],
+          "probability": 0.21
+        },
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0,
+              "extent": 1,
+              "msg": "You found a Worksmanship Morph Gem x2"
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 77,
+              "delay": 0,
+              "extent": 1
+            }
+          ],
+          "probability": 0.24
+        },
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0,
+              "extent": 1,
+              "msg": "You found 3 Rookie's Lost Storage Keys"
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 77,
+              "delay": 0,
+              "extent": 1
+            }
+          ],
+          "probability": 0.27
+        },
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0,
+              "extent": 1,
+              "msg": "You found an Empyrean Jeweler's Sawblade"
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 77,
+              "delay": 0,
+              "extent": 1
+            }
+          ],
+          "probability": 0.3
+        },
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0,
+              "extent": 1,
+              "msg": "You found 15 Duped Gems of Greater Luminance"
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 77,
+              "delay": 0,
+              "extent": 1
+            }
+          ],
+          "probability": 0.33
+        },
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0,
+              "extent": 1,
+              "msg": "You found 2 Boxes of Twenty Nexus Tokens"
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 77,
+              "delay": 0,
+              "extent": 1
+            }
+          ],
+          "probability": 0.36
+        },
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0,
+              "extent": 1,
+              "msg": "You found 150 Nexus Writs"
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 77,
+              "delay": 0,
+              "extent": 1
+            }
+          ],
+          "probability": 0.39
+        },
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0,
+              "extent": 1,
+              "msg": "You found 4 Twisted Water of Enlightenment"
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 77,
+              "delay": 0,
+              "extent": 1
+            }
+          ],
+          "probability": 0.42
+        },
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0,
+              "extent": 1,
+              "msg": "You found 4 Waters of Enlightenment"
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 77,
+              "delay": 0,
+              "extent": 1
+            }
+          ],
+          "probability": 0.45
+        },
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0,
+              "extent": 1,
+              "msg": "You found 4 Value Morph Gems"
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 77,
+              "delay": 0,
+              "extent": 1
+            }
+          ],
+          "probability": 0.48
+        },
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0,
+              "extent": 1,
+              "msg": "You found an Eternal Blunt"
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 77,
+              "delay": 0,
+              "extent": 1
+            }
+          ],
+          "probability": 0.51
+        },
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0,
+              "extent": 1,
+              "msg": "You found 1 Hera Vault Keys"
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 77,
+              "delay": 0,
+              "extent": 1
+            }
+          ],
+          "probability": 0.54
+        },
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0,
+              "extent": 1,
+              "msg": "You found 3 Luminance Exchange Tokens"
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 77,
+              "delay": 0,
+              "extent": 1
+            }
+          ],
+          "probability": 0.57
+        },
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0,
+              "extent": 1,
+              "msg": "You found 4 Luminance Exchange Tokens"
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 77,
+              "delay": 0,
+              "extent": 1
+            }
+          ],
+          "probability": 0.6
+        },
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0,
+              "extent": 1,
+              "msg": "You found a Red Level 5 Aetheria x 2"
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 77,
+              "delay": 0,
+              "extent": 1
+            }
+          ],
+          "probability": 0.63
+        },
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0,
+              "extent": 1,
+              "msg": "You found an Imbue Swap Morph Gem"
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 77,
+              "delay": 0,
+              "extent": 1
+            }
+          ],
+          "probability": 0.66
+        },
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0,
+              "extent": 1,
+              "msg": "You found a Platinum Horn of Leadership"
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 77,
+              "delay": 0,
+              "extent": 1
+            }
+          ],
+          "probability": 0.69
+        },
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0,
+              "extent": 1,
+              "msg": "You found a Salvage Token x 2"
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 77,
+              "delay": 0,
+              "extent": 1
+            }
+          ],
+          "probability": 0.72
+        },
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0,
+              "extent": 1,
+              "msg": "You found an Infinite Platinum Spirits"
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 77,
+              "delay": 0,
+              "extent": 1
+            }
+          ],
+          "probability": 0.75
+        },
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0,
+              "extent": 1,
+              "msg": "You found an Ancient Bottle"
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 77,
+              "delay": 0,
+              "extent": 1
+            }
+          ],
+          "probability": 0.81
+        },
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0,
+              "extent": 1,
+              "msg": "You found an Ancient Empyrean Tool"
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 77,
+              "delay": 0,
+              "extent": 1
+            }
+          ],
+          "probability": 0.84
+        },
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0,
+              "extent": 1,
+              "msg": "You found a Vial of Dragon’s Tears"
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 77,
+              "delay": 0,
+              "extent": 1
+            }
+          ],
+          "probability": 0.87
+        },
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0,
+              "extent": 1,
+              "msg": "You found a Slayer Upgrade Gem"
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 77,
+              "delay": 0,
+              "extent": 1
+            }
+          ],
+          "probability": 0.9
+        },
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0,
+              "extent": 1,
+              "msg": "You found a Shimmering Skeleton Key"
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 77,
+              "delay": 0,
+              "extent": 1
+            }
+          ],
+          "probability": 0.93
+        },
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0,
+              "extent": 1,
+              "msg": "You found a Potion of Polishing"
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 77,
+              "delay": 0,
+              "extent": 1
+            }
+          ],
+          "probability": 0.96
+        },
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0,
+              "extent": 1,
+              "msg": "You found a Rare Armor Main Reduction Tool"
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 77,
+              "delay": 0,
+              "extent": 1
+            }
+          ],
+          "probability": 1
+        }
+      ]
+    }
+  ],
+  "lastModified": "2025-10-10T07:55:21.9234147Z",
+  "modifiedBy": "ACE.Adapter",
+  "changelog": [
+    {
+      "created": "2025-10-10T07:40:27.1643035Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    },
+    {
+      "created": "2025-10-10T07:55:21.9229854Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "userChangeSummary": "Weenie exported from ACEmulator world database using ACE.Adapter",
+  "isDone": false
+}

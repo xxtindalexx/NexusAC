@@ -1,0 +1,394 @@
+{
+  "wcid": 213788148,
+  "weenieType": 10,
+  "attributes": {
+    "strength": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 200
+    },
+    "endurance": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 290
+    },
+    "coordination": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 260
+    },
+    "quickness": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 200
+    },
+    "focus": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 290
+    },
+    "self": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 290
+    },
+    "health": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 196,
+      "current": 341
+    },
+    "stamina": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 196,
+      "current": 486
+    },
+    "mana": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 196,
+      "current": 486
+    }
+  },
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 12,
+      "value": 1
+    },
+    {
+      "key": 13,
+      "value": 0
+    },
+    {
+      "key": 19,
+      "value": 0
+    },
+    {
+      "key": 41,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 16
+    },
+    {
+      "key": 2,
+      "value": 31
+    },
+    {
+      "key": 6,
+      "value": -1
+    },
+    {
+      "key": 7,
+      "value": -1
+    },
+    {
+      "key": 8,
+      "value": 120
+    },
+    {
+      "key": 16,
+      "value": 32
+    },
+    {
+      "key": 25,
+      "value": 420
+    },
+    {
+      "key": 27,
+      "value": 0
+    },
+    {
+      "key": 95,
+      "value": 8
+    },
+    {
+      "key": 113,
+      "value": 1
+    },
+    {
+      "key": 133,
+      "value": 4
+    },
+    {
+      "key": 134,
+      "value": 16
+    },
+    {
+      "key": 146,
+      "value": 279
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33554433
+    },
+    {
+      "key": 2,
+      "value": 150994945
+    },
+    {
+      "key": 3,
+      "value": 536870913
+    },
+    {
+      "key": 4,
+      "value": 805306368
+    },
+    {
+      "key": 6,
+      "value": 67108990
+    },
+    {
+      "key": 8,
+      "value": 100667446
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 54,
+      "value": 6
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Bael'zharon's Acolyte"
+    },
+    {
+      "key": 3,
+      "value": "Male"
+    },
+    {
+      "key": 5,
+      "value": "Loyal Follower"
+    }
+  ],
+  "createList": [
+    {
+      "wcid": 21156,
+      "palette": 0,
+      "shade": 0,
+      "destination": 2,
+      "stack_size": 1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 31026,
+      "palette": 0,
+      "shade": 0,
+      "destination": 2,
+      "stack_size": 1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 6047,
+      "palette": 0,
+      "shade": 0,
+      "destination": 2,
+      "stack_size": 1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 28625,
+      "palette": 0,
+      "shade": 0,
+      "destination": 2,
+      "stack_size": 1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 106,
+      "palette": 0,
+      "shade": 0,
+      "destination": 2,
+      "stack_size": 1,
+      "try_to_bond": 0
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 7,
+      "value": [
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 5,
+              "delay": 0,
+              "extent": 1,
+              "motion": 318767238
+            },
+            {
+              "type": 10,
+              "delay": 1,
+              "extent": 1,
+              "msg": "The air grows thin, and a shadow falls over the land. Bael'zharon's return is imminent."
+            },
+            {
+              "type": 10,
+              "delay": 1.5,
+              "extent": 1,
+              "msg": "His emissaries walk among us, spreading his influence. Bring me 10 of their letters, and you will be rewarded for your loyalty to the true king."
+            }
+          ],
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "key": 1,
+      "value": [
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0,
+              "extent": 1,
+              "msg": "BaelzharonsLetters@3"
+            }
+          ],
+          "probability": 1,
+          "classID": 213788147
+        }
+      ]
+    },
+    {
+      "key": 12,
+      "value": [
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1,
+              "extent": 1,
+              "msg": "You have already proven your loyalty. Bael'zharon has no more need of your services at this time."
+            },
+            {
+              "type": 18,
+              "delay": 0.5,
+              "extent": 1,
+              "msg": "You must wait %tqt before attempting this quest again."
+            }
+          ],
+          "probability": 1,
+          "quest": "BaelzharonsLetters@3"
+        }
+      ]
+    },
+    {
+      "key": 13,
+      "value": [
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0,
+              "extent": 1,
+              "msg": "OwnsItem-213788147_2"
+            }
+          ],
+          "probability": 1,
+          "quest": "BaelzharonsLetters@3"
+        }
+      ]
+    },
+    {
+      "key": 23,
+      "value": [
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0,
+              "extent": 1,
+              "msg": "You do not have enough letters. Bring me 10 of them and I shall reward you."
+            }
+          ],
+          "probability": 1,
+          "quest": "OwnsItem-213788147_2"
+        }
+      ]
+    },
+    {
+      "key": 22,
+      "value": [
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 74,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 49,
+              "delay": 0,
+              "extent": 1,
+              "min64": 0,
+              "max64": 5000000000,
+              "percent": 0.35
+            },
+            {
+              "type": 10,
+              "delay": 0,
+              "extent": 1,
+              "msg": "Bael'zharon is pleased with your service. Take this as a token of his gratitude."
+            },
+            {
+              "type": 22,
+              "delay": 0,
+              "extent": 1,
+              "msg": "BaelzharonsLetters"
+            }
+          ],
+          "probability": 1,
+          "quest": "OwnsItem-213788147_2"
+        }
+      ]
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2025-09-02T14:32:54.8200339Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

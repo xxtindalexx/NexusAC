@@ -1,0 +1,91 @@
+{
+  "wcid": 44720,
+  "weenieType": 38,
+  "boolStats": [
+    {
+      "key": 23,
+      "value": 0
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 2048
+    },
+    {
+      "key": 5,
+      "value": 50
+    },
+    {
+      "key": 11,
+      "value": 1000
+    },
+    {
+      "key": 12,
+      "value": 1
+    },
+    {
+      "key": 13,
+      "value": 50
+    },
+    {
+      "key": 15,
+      "value": 1
+    },
+    {
+      "key": 16,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 1
+    },
+    {
+      "key": 93,
+      "value": 1044
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33554809
+    },
+    {
+      "key": 3,
+      "value": 536870932
+    },
+    {
+      "key": 8,
+      "value": 100692117
+    },
+    {
+      "key": 22,
+      "value": 872415275
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Gem of Greater Luminance"
+    },
+    {
+      "key": 14,
+      "value": "Turn this gem into an Agent of the Arcanum to be granted 15,000 luminance."
+    },
+    {
+      "key": 20,
+      "value": "Gems of Greater Luminance"
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2025-09-13T15:49:28.9750069Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

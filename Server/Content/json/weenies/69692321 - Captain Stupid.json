@@ -1,0 +1,448 @@
+{
+  "wcid": 69692321,
+  "weenieType": 10,
+  "attributes": {
+    "strength": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 290
+    },
+    "endurance": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 260
+    },
+    "coordination": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 290
+    },
+    "quickness": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 290
+    },
+    "focus": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 200
+    },
+    "self": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 200
+    },
+    "health": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 196,
+      "current": 326
+    },
+    "stamina": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 196,
+      "current": 456
+    },
+    "mana": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 196,
+      "current": 396
+    }
+  },
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 8,
+      "value": 1
+    },
+    {
+      "key": 12,
+      "value": 1
+    },
+    {
+      "key": 13,
+      "value": 0
+    },
+    {
+      "key": 19,
+      "value": 0
+    },
+    {
+      "key": 41,
+      "value": 1
+    },
+    {
+      "key": 42,
+      "value": 1
+    },
+    {
+      "key": 52,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 16
+    },
+    {
+      "key": 2,
+      "value": 31
+    },
+    {
+      "key": 6,
+      "value": -1
+    },
+    {
+      "key": 7,
+      "value": -1
+    },
+    {
+      "key": 16,
+      "value": 32
+    },
+    {
+      "key": 25,
+      "value": 275
+    },
+    {
+      "key": 95,
+      "value": 8
+    },
+    {
+      "key": 113,
+      "value": 2
+    },
+    {
+      "key": 133,
+      "value": 4
+    },
+    {
+      "key": 134,
+      "value": 16
+    },
+    {
+      "key": 188,
+      "value": 3
+    },
+    {
+      "key": 307,
+      "value": 5
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33554510
+    },
+    {
+      "key": 2,
+      "value": 150994945
+    },
+    {
+      "key": 3,
+      "value": 536870914
+    },
+    {
+      "key": 6,
+      "value": 67108990
+    },
+    {
+      "key": 8,
+      "value": 100667446
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 54,
+      "value": 3
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Captain Stupid"
+    },
+    {
+      "key": 2,
+      "value": "Best Melee "
+    }
+  ],
+  "createList": [
+    {
+      "wcid": 450076,
+      "palette": 88,
+      "shade": 0,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 2046551,
+      "palette": 90,
+      "shade": 0.9821000099182129,
+      "destination": 2,
+      "stack_size": 1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 450788,
+      "palette": 90,
+      "shade": 0.9821000099182129,
+      "destination": 2,
+      "stack_size": 1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 450787,
+      "palette": 90,
+      "shade": 0.9821000099182129,
+      "destination": 2,
+      "stack_size": 1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 450786,
+      "palette": 90,
+      "shade": 0.9821000099182129,
+      "destination": 2,
+      "stack_size": 1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 450785,
+      "palette": 90,
+      "shade": 0.9821000099182129,
+      "destination": 2,
+      "stack_size": 1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 450783,
+      "palette": 90,
+      "shade": 0.9821000099182129,
+      "destination": 2,
+      "stack_size": 1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 2046551,
+      "palette": 88,
+      "shade": 0.9821000099182129,
+      "destination": 2,
+      "stack_size": 1,
+      "try_to_bond": 0
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 7,
+      "value": [
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 36,
+              "delay": 0,
+              "extent": 1,
+              "msg": "Level_150-275_3",
+              "max": 275,
+              "min": 150,
+              "stat": 25
+            }
+          ],
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "key": 22,
+      "value": [
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 5,
+              "delay": 0,
+              "extent": 1,
+              "motion": 318767238
+            },
+            {
+              "type": 10,
+              "delay": 1,
+              "extent": 1,
+              "msg": "You ever been plagiarized so hard your soul hurts? I have."
+            },
+            {
+              "type": 10,
+              "delay": 1,
+              "extent": 1,
+              "msg": "This bastard Al-Booli’s Revenge stole my Chug Script and is now passing it off as his."
+            },
+            {
+              "type": 10,
+              "delay": 1,
+              "extent": 1,
+              "msg": "You can find him at 84.9N, 7.1W."
+            },
+            {
+              "type": 10,
+              "delay": 1,
+              "extent": 1,
+              "msg": "Retrieve it for me, and I’ll give you a reward Booli left behind at the mansion."
+            }
+          ],
+          "probability": 1,
+          "quest": "Level_150-275_3"
+        }
+      ]
+    },
+    {
+      "key": 23,
+      "value": [
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0,
+              "extent": 1,
+              "msg": "Dude.. You can't even kill a virindi, Get out of my face and come back when you aren't weak."
+            }
+          ],
+          "probability": 1,
+          "quest": "Level_150-275_3"
+        }
+      ]
+    },
+    {
+      "key": 6,
+      "value": [
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 21,
+              "delay": 0,
+              "extent": 1,
+              "msg": "fuckyou@2"
+            }
+          ],
+          "probability": 1,
+          "classID": 43520
+        }
+      ]
+    },
+    {
+      "key": 12,
+      "value": [
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0,
+              "extent": 1,
+              "msg": "You already got my script back, come back in %tqt."
+            }
+          ],
+          "probability": 1,
+          "quest": "fuckyou@2"
+        }
+      ]
+    },
+    {
+      "key": 13,
+      "value": [
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 113,
+              "delay": 0,
+              "extent": 1,
+              "heroxp64": 55000
+            },
+            {
+              "type": 49,
+              "delay": 0,
+              "extent": 1,
+              "min64": 0,
+              "max64": 5000000000,
+              "percent": 0.5
+            },
+            {
+              "type": 10,
+              "delay": 1,
+              "extent": 1,
+              "msg": "You got it back? That bastard will think twice before messing with my scripts again!"
+            },
+            {
+              "type": 22,
+              "delay": 0,
+              "extent": 1,
+              "msg": "fuckyou"
+            }
+          ],
+          "probability": 1,
+          "quest": "fuckyou@2"
+        }
+      ]
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2025-09-30T03:29:12.2048565Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

@@ -1,0 +1,106 @@
+{
+  "wcid": 29295,
+  "weenieType": 1,
+  "boolStats": [
+    {
+      "key": 22,
+      "value": 1
+    },
+    {
+      "key": 69,
+      "value": 0
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 128
+    },
+    {
+      "key": 5,
+      "value": 50
+    },
+    {
+      "key": 8,
+      "value": 10
+    },
+    {
+      "key": 16,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 0
+    },
+    {
+      "key": 33,
+      "value": 1
+    },
+    {
+      "key": 93,
+      "value": 1044
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33554809
+    },
+    {
+      "key": 3,
+      "value": 536870932
+    },
+    {
+      "key": 8,
+      "value": 100686475
+    },
+    {
+      "key": 22,
+      "value": 872415275
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Blank Augmentation Gem"
+    },
+    {
+      "key": 16,
+      "value": "An uninscribed Augmentation Gem. Hand this item to an Augmentation Trainer in exchange for an inscribed Augmentation Gem."
+    },
+    {
+      "key": 33,
+      "value": "AugmentationBlankGemAcquired"
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 10,
+      "value": [
+        {
+          "category": 10,
+          "emotes": [
+            {
+              "type": 31,
+              "delay": 0,
+              "extent": 1,
+              "msg": "AugmentationProvingGroundAccess"
+            }
+          ],
+          "probability": 1
+        }
+      ]
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2025-09-22T16:30:54.6763878Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

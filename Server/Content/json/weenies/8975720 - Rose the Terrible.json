@@ -1,0 +1,956 @@
+{
+  "wcid": 8975720,
+  "weenieType": 10,
+  "attributes": {
+    "strength": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 290
+    },
+    "endurance": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 260
+    },
+    "coordination": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 290
+    },
+    "quickness": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 290
+    },
+    "focus": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 200
+    },
+    "self": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 200
+    },
+    "health": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 196,
+      "current": 326
+    },
+    "stamina": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 196,
+      "current": 456
+    },
+    "mana": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 196,
+      "current": 396
+    }
+  },
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 8,
+      "value": 1
+    },
+    {
+      "key": 12,
+      "value": 1
+    },
+    {
+      "key": 13,
+      "value": 0
+    },
+    {
+      "key": 19,
+      "value": 0
+    },
+    {
+      "key": 41,
+      "value": 1
+    },
+    {
+      "key": 42,
+      "value": 1
+    },
+    {
+      "key": 52,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 16
+    },
+    {
+      "key": 2,
+      "value": 31
+    },
+    {
+      "key": 6,
+      "value": -1
+    },
+    {
+      "key": 7,
+      "value": -1
+    },
+    {
+      "key": 16,
+      "value": 32
+    },
+    {
+      "key": 25,
+      "value": 275
+    },
+    {
+      "key": 93,
+      "value": 6292504
+    },
+    {
+      "key": 95,
+      "value": 8
+    },
+    {
+      "key": 113,
+      "value": 2
+    },
+    {
+      "key": 133,
+      "value": 4
+    },
+    {
+      "key": 134,
+      "value": 16
+    },
+    {
+      "key": 188,
+      "value": 3
+    },
+    {
+      "key": 307,
+      "value": 5
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33554510
+    },
+    {
+      "key": 2,
+      "value": 150994945
+    },
+    {
+      "key": 3,
+      "value": 536870914
+    },
+    {
+      "key": 6,
+      "value": 67108990
+    },
+    {
+      "key": 8,
+      "value": 100667446
+    },
+    {
+      "key": 9,
+      "value": 83890277
+    },
+    {
+      "key": 10,
+      "value": 83890304
+    },
+    {
+      "key": 11,
+      "value": 83890352
+    },
+    {
+      "key": 15,
+      "value": 67117078
+    },
+    {
+      "key": 16,
+      "value": 67110063
+    },
+    {
+      "key": 17,
+      "value": 67110045
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 54,
+      "value": 3
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Rose the Terrible"
+    }
+  ],
+  "createList": [
+    {
+      "wcid": 30515,
+      "palette": 44,
+      "shade": 0,
+      "destination": 2,
+      "stack_size": 1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 30514,
+      "palette": 13,
+      "shade": 0,
+      "destination": 2,
+      "stack_size": 1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 30517,
+      "palette": 44,
+      "shade": 0,
+      "destination": 2,
+      "stack_size": 1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 30519,
+      "palette": 44,
+      "shade": 0,
+      "destination": 2,
+      "stack_size": 1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 30522,
+      "palette": 44,
+      "shade": 0,
+      "destination": 2,
+      "stack_size": 1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 30524,
+      "palette": 44,
+      "shade": 0,
+      "destination": 2,
+      "stack_size": 1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 30526,
+      "palette": 44,
+      "shade": 0,
+      "destination": 2,
+      "stack_size": 1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 30529,
+      "palette": 44,
+      "shade": 0,
+      "destination": 2,
+      "stack_size": 1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 28865,
+      "palette": 44,
+      "shade": 0,
+      "destination": 2,
+      "stack_size": 1,
+      "try_to_bond": 0
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 7,
+      "value": [
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0,
+              "extent": 1,
+              "motion": 1090519043
+            },
+            {
+              "type": 12,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 36,
+              "delay": 0,
+              "extent": 1,
+              "msg": "Level_225-275",
+              "max": 275,
+              "min": 225,
+              "stat": 25
+            }
+          ],
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "key": 22,
+      "value": [
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0,
+              "extent": 1,
+              "msg": "SharkKTComplete@2"
+            }
+          ],
+          "probability": 1,
+          "quest": "Level_225-275"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0,
+              "extent": 1,
+              "msg": "reedsharkhides@3"
+            }
+          ],
+          "probability": 1,
+          "quest": "Level_225-275_2"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 74,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 10,
+              "delay": 0,
+              "extent": 1,
+              "msg": "Excellent. Oh my god, These hides, So evil, Just what i needed for my new coat! Thank you! Here's your reward"
+            },
+            {
+              "type": 49,
+              "delay": 0,
+              "extent": 1,
+              "min64": 0,
+              "max64": 2500000000,
+              "percent": 1.4499999
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 113,
+              "delay": 0,
+              "extent": 1,
+              "heroxp64": 200000
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 122,
+              "delay": 0,
+              "extent": 1,
+              "amount64": 250000000
+            },
+            {
+              "type": 22,
+              "delay": 0,
+              "extent": 1,
+              "msg": "reedsharkhides"
+            }
+          ],
+          "probability": 1,
+          "quest": "OwnsItem-8975718"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 74,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 10,
+              "delay": 0,
+              "extent": 1,
+              "msg": "So… This is why what happened to the reedsharks, I almost feel sorry for them."
+            },
+            {
+              "type": 10,
+              "delay": 1,
+              "extent": 1,
+              "msg": "Thank you for finding this, this is extremely helpful."
+            },
+            {
+              "type": 49,
+              "delay": 0,
+              "extent": 1,
+              "min64": 0,
+              "max64": 2500000000,
+              "percent": 1
+            },
+            {
+              "type": 113,
+              "delay": 0,
+              "extent": 1,
+              "heroxp64": 200000
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 22,
+              "delay": 0,
+              "extent": 1,
+              "msg": "reedsharkpickuptimer"
+            },
+            {
+              "type": 122,
+              "delay": 0,
+              "extent": 1,
+              "amount64": 250000000
+            }
+          ],
+          "probability": 1,
+          "quest": "Level_225-275_3"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 74,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 10,
+              "delay": 0,
+              "extent": 1,
+              "msg": "THIS COIN, HOLY SHIT YOU FOUND IT? HOW DID U KILL HIM?"
+            },
+            {
+              "type": 10,
+              "delay": 1,
+              "extent": 1,
+              "msg": "I'm not even gonna question it, THANK YOU!"
+            },
+            {
+              "type": 49,
+              "delay": 0,
+              "extent": 1,
+              "min64": 0,
+              "max64": 2500000000,
+              "percent": 2
+            },
+            {
+              "type": 113,
+              "delay": 0,
+              "extent": 1,
+              "heroxp64": 200000
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 122,
+              "delay": 0,
+              "extent": 1,
+              "amount64": 250000000
+            },
+            {
+              "type": 22,
+              "delay": 0,
+              "extent": 1,
+              "msg": "ReedsharkCoinPickup"
+            }
+          ],
+          "probability": 1,
+          "quest": "Level_225-275_4"
+        }
+      ]
+    },
+    {
+      "key": 12,
+      "value": [
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0,
+              "extent": 1,
+              "msg": "Oi, You've done enough bruv, Come back in %tqt"
+            }
+          ],
+          "probability": 1,
+          "quest": "SharkKTComplete@2"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0,
+              "extent": 1,
+              "msg": "SharkKT@KillTaskCompleted"
+            }
+          ],
+          "probability": 1,
+          "quest": "SharkKT@KillTaskInProgress"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0,
+              "extent": 1,
+              "msg": "Hey! you killed them all? Nice job, Here is your reward."
+            },
+            {
+              "type": 62,
+              "delay": 1,
+              "extent": 1,
+              "amount64": 2000000000
+            },
+            {
+              "type": 22,
+              "delay": 0,
+              "extent": 1,
+              "msg": "SharkKTComplete"
+            },
+            {
+              "type": 31,
+              "delay": 0,
+              "extent": 1,
+              "msg": "SharkKT"
+            },
+            {
+              "type": 113,
+              "delay": 0,
+              "extent": 1,
+              "heroxp64": 200000
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 122,
+              "delay": 0,
+              "extent": 1,
+              "amount64": 250000000
+            }
+          ],
+          "probability": 1,
+          "quest": "SharkKT@KillTaskCompleted"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0,
+              "extent": 1,
+              "msg": "You have skinned enough of them, come back later."
+            },
+            {
+              "type": 18,
+              "delay": 0.5,
+              "extent": 1,
+              "msg": "You must wait %tqt before bringing more hides."
+            }
+          ],
+          "probability": 1,
+          "quest": "reedsharkhides@3"
+        }
+      ]
+    },
+    {
+      "key": 13,
+      "value": [
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 30,
+              "delay": 0,
+              "extent": 1,
+              "msg": "SharkKT@KillTaskInProgress",
+              "max": 2147483647,
+              "min": 1
+            }
+          ],
+          "probability": 1,
+          "quest": "SharkKTComplete@2"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0,
+              "extent": 1,
+              "msg": "You've slain %tqc out of %tqm Followers of Threxil."
+            },
+            {
+              "type": 10,
+              "delay": 1,
+              "extent": 1,
+              "msg": "They whisper in broken code down there. Keep striking at the heart of their blasphemy."
+            }
+          ],
+          "probability": 1,
+          "quest": "SharkKT@KillTaskCompleted"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0,
+              "extent": 1,
+              "msg": "The tainted reedsharks gather down in the dungeon, i need you to go clear them out."
+            },
+            {
+              "type": 10,
+              "delay": 2,
+              "extent": 1,
+              "msg": "Slay 500 of them for me."
+            },
+            {
+              "type": 10,
+              "delay": 1,
+              "extent": 1,
+              "msg": "You must also collect ten of their hides. Each one pulses with evil energy."
+            },
+            {
+              "type": 10,
+              "delay": 0,
+              "extent": 1,
+              "msg": "You also will have to collect the hidden note for me."
+            },
+            {
+              "type": 70,
+              "delay": 0,
+              "extent": 1,
+              "amount": 0,
+              "msg": "SharkKT"
+            }
+          ],
+          "probability": 1,
+          "quest": "SharkKT@KillTaskInProgress"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0,
+              "extent": 1,
+              "msg": "OwnsItem-8975718"
+            }
+          ],
+          "probability": 1,
+          "quest": "reedsharkhides@3"
+        }
+      ]
+    },
+    {
+      "key": 23,
+      "value": [
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0,
+              "extent": 1,
+              "msg": "You are not yet ready to face the wrath of these tainted reedsharks, come back when you're ready."
+            }
+          ],
+          "probability": 1,
+          "quest": "Level_225-275"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0,
+              "extent": 1,
+              "msg": "I need ten of their hides to make myself my new coat! GET BACK TO WORK."
+            }
+          ],
+          "probability": 1,
+          "quest": "OwnsItem-8975718"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0,
+              "extent": 1,
+              "msg": "HEY, QUIT TRYING TO CHEAT, ONLY NIGHTMARES CAN DO THAT!"
+            }
+          ],
+          "probability": 1,
+          "quest": "Level_225-275_2"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0,
+              "extent": 1,
+              "msg": "This document contains knowledge too dangerous for the inexperienced."
+            }
+          ],
+          "probability": 1,
+          "quest": "Level_225-275_3"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0,
+              "extent": 1,
+              "msg": "This Coin contains knowledge too dangerous for the inexperienced."
+            }
+          ],
+          "probability": 1,
+          "quest": "Level_225-275_4"
+        }
+      ]
+    },
+    {
+      "key": 1,
+      "value": [
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 36,
+              "delay": 0,
+              "extent": 1,
+              "msg": "Level_225-275_2",
+              "max": 275,
+              "min": 225,
+              "stat": 25
+            }
+          ],
+          "probability": 1,
+          "classID": 8975718
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 36,
+              "delay": 0,
+              "extent": 1,
+              "msg": "Level_225-275_3",
+              "max": 275,
+              "min": 225,
+              "stat": 25
+            }
+          ],
+          "probability": 1,
+          "classID": 8975721
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 36,
+              "delay": 0,
+              "extent": 1,
+              "msg": "Level_225-275_4",
+              "max": 275,
+              "min": 225,
+              "stat": 25
+            }
+          ],
+          "probability": 1,
+          "classID": 6571652
+        }
+      ]
+    }
+  ],
+  "lastModified": "2025-09-30T05:39:53.1357093Z",
+  "modifiedBy": "ACE.Adapter",
+  "changelog": [
+    {
+      "created": "2025-09-24T06:23:46.6801066Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    },
+    {
+      "created": "2025-09-24T07:00:22.9540037Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    },
+    {
+      "created": "2025-09-24T07:17:53.5170386Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    },
+    {
+      "created": "2025-09-24T19:35:46.9625395Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    },
+    {
+      "created": "2025-09-25T05:58:44.0108313Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    },
+    {
+      "created": "2025-09-25T06:02:08.6256854Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    },
+    {
+      "created": "2025-09-30T05:39:53.1265845Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "userChangeSummary": "Weenie exported from ACEmulator world database using ACE.Adapter",
+  "isDone": false
+}

@@ -1,0 +1,178 @@
+{
+  "wcid": 33718,
+  "weenieType": 64,
+  "boolStats": [
+    {
+      "key": 22,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 128
+    },
+    {
+      "key": 5,
+      "value": 150
+    },
+    {
+      "key": 16,
+      "value": 32
+    },
+    {
+      "key": 18,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 200
+    },
+    {
+      "key": 93,
+      "value": 1044
+    },
+    {
+      "key": 150,
+      "value": 103
+    },
+    {
+      "key": 151,
+      "value": 9
+    },
+    {
+      "key": 197,
+      "value": 1
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33560035
+    },
+    {
+      "key": 3,
+      "value": 536870932
+    },
+    {
+      "key": 8,
+      "value": 100688902
+    },
+    {
+      "key": 22,
+      "value": 872415275
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Black Spear of Mukkir Strength"
+    },
+    {
+      "key": 15,
+      "value": "A decorative Black Spear, made from the remains of the Broken Black Spear carried by the Mukkir Aspect of Grael.  This spear may be placed on Floor or Yard Hooks, where it can then be used to gain the spells that it casts."
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 7,
+      "value": [
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0,
+              "extent": 1,
+              "msg": "blackspearbufftimer"
+            }
+          ],
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "key": 12,
+      "value": [
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0,
+              "extent": 1,
+              "msg": "You have used one of the Black Spears already. You must wait %tqt before you can use the Black Spear again."
+            }
+          ],
+          "probability": 1,
+          "quest": "blackspearbufftimer"
+        }
+      ]
+    },
+    {
+      "key": 13,
+      "value": [
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0,
+              "extent": 1,
+              "msg": "The Black Spear seems to writhe in pain like a snake for a moment, then it casts on you."
+            },
+            {
+              "type": 19,
+              "delay": 0,
+              "extent": 1,
+              "spellid": 3979
+            },
+            {
+              "type": 19,
+              "delay": 0,
+              "extent": 1,
+              "spellid": 3977
+            },
+            {
+              "type": 19,
+              "delay": 0,
+              "extent": 1,
+              "spellid": 3978
+            },
+            {
+              "type": 19,
+              "delay": 0,
+              "extent": 1,
+              "spellid": 3985
+            },
+            {
+              "type": 19,
+              "delay": 0,
+              "extent": 1,
+              "spellid": 3984
+            },
+            {
+              "type": 22,
+              "delay": 0,
+              "extent": 1,
+              "msg": "blackspearbufftimer"
+            }
+          ],
+          "probability": 1,
+          "quest": "blackspearbufftimer"
+        }
+      ]
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2025-09-17T21:01:37.7032082Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

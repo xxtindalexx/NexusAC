@@ -1,0 +1,120 @@
+{
+  "wcid": 450609,
+  "weenieType": 38,
+  "boolStats": [
+    {
+      "key": 69,
+      "value": 0
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 128
+    },
+    {
+      "key": 5,
+      "value": 50
+    },
+    {
+      "key": 11,
+      "value": 1
+    },
+    {
+      "key": 12,
+      "value": 1
+    },
+    {
+      "key": 13,
+      "value": 20
+    },
+    {
+      "key": 15,
+      "value": 20
+    },
+    {
+      "key": 16,
+      "value": 8
+    },
+    {
+      "key": 19,
+      "value": 20
+    },
+    {
+      "key": 33,
+      "value": 1
+    },
+    {
+      "key": 93,
+      "value": 1044
+    },
+    {
+      "key": 94,
+      "value": 16
+    },
+    {
+      "key": 114,
+      "value": 1
+    },
+    {
+      "key": 269,
+      "value": 1
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33554718
+    },
+    {
+      "key": 3,
+      "value": 536870932
+    },
+    {
+      "key": 8,
+      "value": 100692713
+    },
+    {
+      "key": 22,
+      "value": 872415275
+    },
+    {
+      "key": 38,
+      "value": 29295
+    },
+    {
+      "key": 50,
+      "value": 100686475
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 39,
+      "value": 0.5
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Boxed Augmentation Gems"
+    },
+    {
+      "key": 14,
+      "value": "Use this crate to retrieve its contents."
+    },
+    {
+      "key": 16,
+      "value": "A box containing Blank Augmentation Gem."
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2025-09-06T21:47:13.6116037Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

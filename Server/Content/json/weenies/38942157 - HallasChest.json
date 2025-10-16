@@ -1,0 +1,370 @@
+{
+  "wcid": 38942157,
+  "weenieType": 20,
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 2,
+      "value": 0
+    },
+    {
+      "key": 3,
+      "value": 1
+    },
+    {
+      "key": 12,
+      "value": 1
+    },
+    {
+      "key": 13,
+      "value": 0
+    },
+    {
+      "key": 19,
+      "value": 1
+    },
+    {
+      "key": 33,
+      "value": 0
+    },
+    {
+      "key": 34,
+      "value": 0
+    },
+    {
+      "key": 35,
+      "value": 1
+    },
+    {
+      "key": 86,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 512
+    },
+    {
+      "key": 5,
+      "value": 9000
+    },
+    {
+      "key": 6,
+      "value": -1
+    },
+    {
+      "key": 7,
+      "value": -1
+    },
+    {
+      "key": 8,
+      "value": 3000
+    },
+    {
+      "key": 16,
+      "value": 48
+    },
+    {
+      "key": 19,
+      "value": 2500
+    },
+    {
+      "key": 37,
+      "value": 30
+    },
+    {
+      "key": 38,
+      "value": 9999
+    },
+    {
+      "key": 81,
+      "value": 4
+    },
+    {
+      "key": 82,
+      "value": 4
+    },
+    {
+      "key": 93,
+      "value": 1048
+    },
+    {
+      "key": 96,
+      "value": 500
+    },
+    {
+      "key": 100,
+      "value": 1
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33557027
+    },
+    {
+      "key": 2,
+      "value": 150994948
+    },
+    {
+      "key": 3,
+      "value": 536870945
+    },
+    {
+      "key": 7,
+      "value": 268436160
+    },
+    {
+      "key": 8,
+      "value": 100671480
+    },
+    {
+      "key": 22,
+      "value": 872415275
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 39,
+      "value": 3
+    },
+    {
+      "key": 41,
+      "value": 60
+    },
+    {
+      "key": 43,
+      "value": 1
+    },
+    {
+      "key": 54,
+      "value": 1
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "HallasChest"
+    },
+    {
+      "key": 12,
+      "value": "KeyofHallas"
+    }
+  ],
+  "createList": [
+    {
+      "wcid": 28842,
+      "palette": 1,
+      "shade": 1,
+      "destination": 9,
+      "stack_size": 1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 0,
+      "palette": 0,
+      "shade": 0,
+      "destination": 0,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 28842,
+      "palette": 1,
+      "shade": 1,
+      "destination": 9,
+      "stack_size": 1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 0,
+      "palette": 0,
+      "shade": 0,
+      "destination": 0,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 28842,
+      "palette": 1,
+      "shade": 1,
+      "destination": 9,
+      "stack_size": 1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 0,
+      "palette": 0,
+      "shade": 0,
+      "destination": 0,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 28842,
+      "palette": 1,
+      "shade": 1,
+      "destination": 9,
+      "stack_size": 1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 0,
+      "palette": 0,
+      "shade": 0,
+      "destination": 0,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 30258,
+      "palette": 1,
+      "shade": 1,
+      "destination": 9,
+      "stack_size": 1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 0,
+      "palette": 0,
+      "shade": 0,
+      "destination": 0,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 0,
+      "palette": 0,
+      "shade": 0,
+      "destination": 0,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 0,
+      "palette": 0,
+      "shade": 0,
+      "destination": 0,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 0,
+      "palette": 0,
+      "shade": 0,
+      "destination": 0,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 0,
+      "palette": 0,
+      "shade": 0,
+      "destination": 0,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 0,
+      "palette": 0,
+      "shade": 0,
+      "destination": 0,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 0,
+      "palette": 0,
+      "shade": 0,
+      "destination": 0,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 0,
+      "palette": 0,
+      "shade": 0,
+      "destination": 0,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 0,
+      "palette": 0,
+      "shade": 0,
+      "destination": 0,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 8782420,
+      "palette": 1,
+      "shade": 1,
+      "destination": 9,
+      "stack_size": 1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 8782420,
+      "palette": 1,
+      "shade": 1,
+      "destination": 9,
+      "stack_size": 1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 8782420,
+      "palette": 1,
+      "shade": 1,
+      "destination": 9,
+      "stack_size": 1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 8782420,
+      "palette": 1,
+      "shade": 1,
+      "destination": 9,
+      "stack_size": 1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 8782420,
+      "palette": 1,
+      "shade": 1,
+      "destination": 9,
+      "stack_size": 1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 10006161,
+      "palette": 1,
+      "shade": 1,
+      "destination": 9,
+      "stack_size": 500,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 0,
+      "palette": 0,
+      "shade": 0,
+      "destination": 0,
+      "stack_size": 0,
+      "try_to_bond": 0
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2025-10-03T10:05:19.8304148Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

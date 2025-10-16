@@ -1,0 +1,99 @@
+{
+  "wcid": 5552034,
+  "weenieType": 22,
+  "boolStats": [
+    {
+      "key": 22,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 16384
+    },
+    {
+      "key": 5,
+      "value": 5
+    },
+    {
+      "key": 16,
+      "value": 2097160
+    },
+    {
+      "key": 17,
+      "value": 73
+    },
+    {
+      "key": 19,
+      "value": 0
+    },
+    {
+      "key": 91,
+      "value": 25
+    },
+    {
+      "key": 92,
+      "value": 25
+    },
+    {
+      "key": 93,
+      "value": 1044
+    },
+    {
+      "key": 94,
+      "value": 640
+    },
+    {
+      "key": 151,
+      "value": 2
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33557005
+    },
+    {
+      "key": 3,
+      "value": 536870932
+    },
+    {
+      "key": 8,
+      "value": 100686707
+    },
+    {
+      "key": 22,
+      "value": 872415275
+    },
+    {
+      "key": 52,
+      "value": 100686604
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Hera Test Keyring"
+    },
+    {
+      "key": 13,
+      "value": "heravault"
+    },
+    {
+      "key": 16,
+      "value": "This key will open the Exquisite Casino Chest in any of the casinos. The employee who dropped this is certainly in a heap of trouble."
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2025-09-06T03:22:55.7421089Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

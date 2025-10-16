@@ -1,0 +1,148 @@
+{
+  "wcid": 490289,
+  "weenieType": 38,
+  "boolStats": [
+    {
+      "key": 23,
+      "value": 1
+    },
+    {
+      "key": 63,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 128
+    },
+    {
+      "key": 5,
+      "value": 75
+    },
+    {
+      "key": 8,
+      "value": 75
+    },
+    {
+      "key": 16,
+      "value": 8
+    },
+    {
+      "key": 18,
+      "value": 256
+    },
+    {
+      "key": 19,
+      "value": 100
+    },
+    {
+      "key": 33,
+      "value": 1
+    },
+    {
+      "key": 93,
+      "value": 1044
+    },
+    {
+      "key": 94,
+      "value": 16
+    },
+    {
+      "key": 106,
+      "value": 150
+    },
+    {
+      "key": 107,
+      "value": 50
+    },
+    {
+      "key": 108,
+      "value": 50
+    },
+    {
+      "key": 109,
+      "value": 200
+    },
+    {
+      "key": 280,
+      "value": 3
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33554817
+    },
+    {
+      "key": 3,
+      "value": 536870932
+    },
+    {
+      "key": 6,
+      "value": 67111919
+    },
+    {
+      "key": 7,
+      "value": 268435832
+    },
+    {
+      "key": 8,
+      "value": 100689512
+    },
+    {
+      "key": 22,
+      "value": 872415275
+    },
+    {
+      "key": 28,
+      "value": 6340
+    },
+    {
+      "key": 52,
+      "value": 100686604
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 39,
+      "value": 0.4
+    },
+    {
+      "key": 167,
+      "value": 30
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Eternal Blunt"
+    },
+    {
+      "key": 14,
+      "value": "Hit this Burning Blunt to get the highest of high"
+    },
+    {
+      "key": 16,
+      "value": "A well crafted Blunt made from Dereths finest Hyssop. It appears endless and inside smolders the sticky icky. Blaze one with your boys!"
+    }
+  ],
+  "lastModified": "2025-09-17T21:04:30.8583622Z",
+  "modifiedBy": "ACE.Adapter",
+  "changelog": [
+    {
+      "created": "2025-09-06T21:49:14.4502846Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    },
+    {
+      "created": "2025-09-17T21:04:30.845261Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "userChangeSummary": "Weenie exported from ACEmulator world database using ACE.Adapter",
+  "isDone": false
+}

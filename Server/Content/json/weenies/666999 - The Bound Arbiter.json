@@ -1,0 +1,1454 @@
+{
+  "wcid": 666999,
+  "weenieType": 12,
+  "attributes": {
+    "strength": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 290
+    },
+    "endurance": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 290
+    },
+    "coordination": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 200
+    },
+    "quickness": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 200
+    },
+    "focus": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 290
+    },
+    "self": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 200
+    },
+    "health": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 310,
+      "current": 455
+    },
+    "stamina": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 250,
+      "current": 540
+    },
+    "mana": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 240,
+      "current": 440
+    }
+  },
+  "body": {
+    "body_part_table": [
+      {
+        "key": 0,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0,
+          "acache": {
+            "base_armor": 0,
+            "armor_vs_slash": 0,
+            "armor_vs_pierce": 0,
+            "armor_vs_bludgeon": 0,
+            "armor_vs_cold": 0,
+            "armor_vs_fire": 0,
+            "armor_vs_acid": 0,
+            "armor_vs_electric": 0,
+            "armor_vs_nether": 0
+          },
+          "bh": 1,
+          "bpsd": {
+            "HLF": 0.33000001311302185,
+            "MLF": 0,
+            "LLF": 0,
+            "HRF": 0.33000001311302185,
+            "MRF": 0,
+            "LRF": 0,
+            "HLB": 0.33000001311302185,
+            "MLB": 0,
+            "LLB": 0,
+            "HRB": 0.33000001311302185,
+            "MRB": 0,
+            "LRB": 0
+          }
+        }
+      },
+      {
+        "key": 1,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0,
+          "acache": {
+            "base_armor": 0,
+            "armor_vs_slash": 0,
+            "armor_vs_pierce": 0,
+            "armor_vs_bludgeon": 0,
+            "armor_vs_cold": 0,
+            "armor_vs_fire": 0,
+            "armor_vs_acid": 0,
+            "armor_vs_electric": 0,
+            "armor_vs_nether": 0
+          },
+          "bh": 2,
+          "bpsd": {
+            "HLF": 0.4399999976158142,
+            "MLF": 0.17000000178813934,
+            "LLF": 0,
+            "HRF": 0.4399999976158142,
+            "MRF": 0.17000000178813934,
+            "LRF": 0,
+            "HLB": 0.4399999976158142,
+            "MLB": 0.17000000178813934,
+            "LLB": 0,
+            "HRB": 0.4399999976158142,
+            "MRB": 0.17000000178813934,
+            "LRB": 0
+          }
+        }
+      },
+      {
+        "key": 2,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0,
+          "acache": {
+            "base_armor": 0,
+            "armor_vs_slash": 0,
+            "armor_vs_pierce": 0,
+            "armor_vs_bludgeon": 0,
+            "armor_vs_cold": 0,
+            "armor_vs_fire": 0,
+            "armor_vs_acid": 0,
+            "armor_vs_electric": 0,
+            "armor_vs_nether": 0
+          },
+          "bh": 3,
+          "bpsd": {
+            "HLF": 0,
+            "MLF": 0.17000000178813934,
+            "LLF": 0,
+            "HRF": 0,
+            "MRF": 0.17000000178813934,
+            "LRF": 0,
+            "HLB": 0,
+            "MLB": 0.17000000178813934,
+            "LLB": 0,
+            "HRB": 0,
+            "MRB": 0.17000000178813934,
+            "LRB": 0
+          }
+        }
+      },
+      {
+        "key": 3,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0,
+          "acache": {
+            "base_armor": 0,
+            "armor_vs_slash": 0,
+            "armor_vs_pierce": 0,
+            "armor_vs_bludgeon": 0,
+            "armor_vs_cold": 0,
+            "armor_vs_fire": 0,
+            "armor_vs_acid": 0,
+            "armor_vs_electric": 0,
+            "armor_vs_nether": 0
+          },
+          "bh": 1,
+          "bpsd": {
+            "HLF": 0.23000000417232513,
+            "MLF": 0.029999999329447746,
+            "LLF": 0,
+            "HRF": 0.23000000417232513,
+            "MRF": 0.029999999329447746,
+            "LRF": 0,
+            "HLB": 0.23000000417232513,
+            "MLB": 0.029999999329447746,
+            "LLB": 0,
+            "HRB": 0.23000000417232513,
+            "MRB": 0.029999999329447746,
+            "LRB": 0
+          }
+        }
+      },
+      {
+        "key": 4,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0,
+          "acache": {
+            "base_armor": 0,
+            "armor_vs_slash": 0,
+            "armor_vs_pierce": 0,
+            "armor_vs_bludgeon": 0,
+            "armor_vs_cold": 0,
+            "armor_vs_fire": 0,
+            "armor_vs_acid": 0,
+            "armor_vs_electric": 0,
+            "armor_vs_nether": 0
+          },
+          "bh": 2,
+          "bpsd": {
+            "HLF": 0,
+            "MLF": 0.30000001192092896,
+            "LLF": 0,
+            "HRF": 0,
+            "MRF": 0.30000001192092896,
+            "LRF": 0,
+            "HLB": 0,
+            "MLB": 0.30000001192092896,
+            "LLB": 0,
+            "HRB": 0,
+            "MRB": 0.30000001192092896,
+            "LRB": 0
+          }
+        }
+      },
+      {
+        "key": 5,
+        "value": {
+          "dtype": 4,
+          "dval": 2,
+          "dvar": 0.75,
+          "acache": {
+            "base_armor": 0,
+            "armor_vs_slash": 0,
+            "armor_vs_pierce": 0,
+            "armor_vs_bludgeon": 0,
+            "armor_vs_cold": 0,
+            "armor_vs_fire": 0,
+            "armor_vs_acid": 0,
+            "armor_vs_electric": 0,
+            "armor_vs_nether": 0
+          },
+          "bh": 2,
+          "bpsd": {
+            "HLF": 0,
+            "MLF": 0.20000000298023224,
+            "LLF": 0,
+            "HRF": 0,
+            "MRF": 0.20000000298023224,
+            "LRF": 0,
+            "HLB": 0,
+            "MLB": 0.20000000298023224,
+            "LLB": 0,
+            "HRB": 0,
+            "MRB": 0.20000000298023224,
+            "LRB": 0
+          }
+        }
+      },
+      {
+        "key": 6,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0,
+          "acache": {
+            "base_armor": 0,
+            "armor_vs_slash": 0,
+            "armor_vs_pierce": 0,
+            "armor_vs_bludgeon": 0,
+            "armor_vs_cold": 0,
+            "armor_vs_fire": 0,
+            "armor_vs_acid": 0,
+            "armor_vs_electric": 0,
+            "armor_vs_nether": 0
+          },
+          "bh": 3,
+          "bpsd": {
+            "HLF": 0,
+            "MLF": 0.12999999523162842,
+            "LLF": 0.18000000715255737,
+            "HRF": 0,
+            "MRF": 0.12999999523162842,
+            "LRF": 0.18000000715255737,
+            "HLB": 0,
+            "MLB": 0.12999999523162842,
+            "LLB": 0.18000000715255737,
+            "HRB": 0,
+            "MRB": 0.12999999523162842,
+            "LRB": 0.18000000715255737
+          }
+        }
+      },
+      {
+        "key": 7,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0,
+          "acache": {
+            "base_armor": 0,
+            "armor_vs_slash": 0,
+            "armor_vs_pierce": 0,
+            "armor_vs_bludgeon": 0,
+            "armor_vs_cold": 0,
+            "armor_vs_fire": 0,
+            "armor_vs_acid": 0,
+            "armor_vs_electric": 0,
+            "armor_vs_nether": 0
+          },
+          "bh": 3,
+          "bpsd": {
+            "HLF": 0,
+            "MLF": 0,
+            "LLF": 0.6000000238418579,
+            "HRF": 0,
+            "MRF": 0,
+            "LRF": 0.6000000238418579,
+            "HLB": 0,
+            "MLB": 0,
+            "LLB": 0.6000000238418579,
+            "HRB": 0,
+            "MRB": 0,
+            "LRB": 0.6000000238418579
+          }
+        }
+      },
+      {
+        "key": 8,
+        "value": {
+          "dtype": 4,
+          "dval": 2,
+          "dvar": 0.75,
+          "acache": {
+            "base_armor": 0,
+            "armor_vs_slash": 0,
+            "armor_vs_pierce": 0,
+            "armor_vs_bludgeon": 0,
+            "armor_vs_cold": 0,
+            "armor_vs_fire": 0,
+            "armor_vs_acid": 0,
+            "armor_vs_electric": 0,
+            "armor_vs_nether": 0
+          },
+          "bh": 3,
+          "bpsd": {
+            "HLF": 0,
+            "MLF": 0,
+            "LLF": 0.2199999988079071,
+            "HRF": 0,
+            "MRF": 0,
+            "LRF": 0.2199999988079071,
+            "HLB": 0,
+            "MLB": 0,
+            "LLB": 0.2199999988079071,
+            "HRB": 0,
+            "MRB": 0,
+            "LRB": 0.2199999988079071
+          }
+        }
+      }
+    ]
+  },
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 12,
+      "value": 1
+    },
+    {
+      "key": 13,
+      "value": 0
+    },
+    {
+      "key": 19,
+      "value": 0
+    },
+    {
+      "key": 39,
+      "value": 1
+    },
+    {
+      "key": 41,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 16
+    },
+    {
+      "key": 2,
+      "value": 51
+    },
+    {
+      "key": 6,
+      "value": -1
+    },
+    {
+      "key": 7,
+      "value": -1
+    },
+    {
+      "key": 8,
+      "value": 120
+    },
+    {
+      "key": 16,
+      "value": 32
+    },
+    {
+      "key": 25,
+      "value": 275
+    },
+    {
+      "key": 27,
+      "value": 0
+    },
+    {
+      "key": 74,
+      "value": 270496
+    },
+    {
+      "key": 75,
+      "value": 1
+    },
+    {
+      "key": 76,
+      "value": 100
+    },
+    {
+      "key": 93,
+      "value": 2098200
+    },
+    {
+      "key": 95,
+      "value": 8
+    },
+    {
+      "key": 113,
+      "value": 0
+    },
+    {
+      "key": 126,
+      "value": 500
+    },
+    {
+      "key": 127,
+      "value": 500
+    },
+    {
+      "key": 133,
+      "value": 4
+    },
+    {
+      "key": 134,
+      "value": 16
+    },
+    {
+      "key": 146,
+      "value": 97
+    },
+    {
+      "key": 188,
+      "value": 3
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33554433
+    },
+    {
+      "key": 2,
+      "value": 150994945
+    },
+    {
+      "key": 3,
+      "value": 536871094
+    },
+    {
+      "key": 6,
+      "value": 67115251
+    },
+    {
+      "key": 7,
+      "value": 268436482
+    },
+    {
+      "key": 8,
+      "value": 100676679
+    },
+    {
+      "key": 9,
+      "value": 83890463
+    },
+    {
+      "key": 10,
+      "value": 83890528
+    },
+    {
+      "key": 11,
+      "value": 83890641
+    },
+    {
+      "key": 12,
+      "value": 83886668
+    },
+    {
+      "key": 13,
+      "value": 83886837
+    },
+    {
+      "key": 14,
+      "value": 83886684
+    },
+    {
+      "key": 15,
+      "value": 67116999
+    },
+    {
+      "key": 16,
+      "value": 67109565
+    },
+    {
+      "key": 17,
+      "value": 67110047
+    },
+    {
+      "key": 18,
+      "value": 16795643
+    },
+    {
+      "key": 22,
+      "value": 872415403
+    },
+    {
+      "key": 57,
+      "value": 1000002
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 1,
+      "value": 5
+    },
+    {
+      "key": 2,
+      "value": 0
+    },
+    {
+      "key": 3,
+      "value": 0.16
+    },
+    {
+      "key": 4,
+      "value": 5
+    },
+    {
+      "key": 5,
+      "value": 1
+    },
+    {
+      "key": 11,
+      "value": 300
+    },
+    {
+      "key": 13,
+      "value": 0.9
+    },
+    {
+      "key": 14,
+      "value": 1
+    },
+    {
+      "key": 15,
+      "value": 1.1
+    },
+    {
+      "key": 16,
+      "value": 0.4
+    },
+    {
+      "key": 17,
+      "value": 0.4
+    },
+    {
+      "key": 18,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 0.6
+    },
+    {
+      "key": 37,
+      "value": 1
+    },
+    {
+      "key": 38,
+      "value": 1
+    },
+    {
+      "key": 39,
+      "value": 2
+    },
+    {
+      "key": 54,
+      "value": 5
+    },
+    {
+      "key": 64,
+      "value": 1
+    },
+    {
+      "key": 65,
+      "value": 1
+    },
+    {
+      "key": 66,
+      "value": 1
+    },
+    {
+      "key": 67,
+      "value": 1
+    },
+    {
+      "key": 68,
+      "value": 1
+    },
+    {
+      "key": 69,
+      "value": 1
+    },
+    {
+      "key": 70,
+      "value": 1
+    },
+    {
+      "key": 71,
+      "value": 1
+    },
+    {
+      "key": 72,
+      "value": 1
+    },
+    {
+      "key": 73,
+      "value": 1
+    },
+    {
+      "key": 74,
+      "value": 1
+    },
+    {
+      "key": 75,
+      "value": 1
+    },
+    {
+      "key": 104,
+      "value": 10
+    },
+    {
+      "key": 125,
+      "value": 1
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "The Bound Arbiter"
+    },
+    {
+      "key": 3,
+      "value": "Female"
+    },
+    {
+      "key": 4,
+      "value": "Sho"
+    },
+    {
+      "key": 24,
+      "value": "Afterlife"
+    }
+  ],
+  "createList": [
+    {
+      "wcid": 72138777,
+      "palette": 0,
+      "shade": 0,
+      "destination": 4,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 12198992,
+      "palette": 0,
+      "shade": 0,
+      "destination": 4,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 8083012,
+      "palette": 0,
+      "shade": 0,
+      "destination": 4,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 239482711,
+      "palette": 0,
+      "shade": 0,
+      "destination": 4,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 9213827,
+      "palette": 0,
+      "shade": 0,
+      "destination": 4,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 21063,
+      "palette": 0,
+      "shade": 0,
+      "destination": 4,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 24215622,
+      "palette": 0,
+      "shade": 0,
+      "destination": 4,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 12198921,
+      "palette": 0,
+      "shade": 0,
+      "destination": 4,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 43258988,
+      "palette": 0,
+      "shade": 0,
+      "destination": 4,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 35492,
+      "palette": 0,
+      "shade": 0,
+      "destination": 4,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 91847377,
+      "palette": 0,
+      "shade": 0,
+      "destination": 4,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 490224,
+      "palette": 0,
+      "shade": 0,
+      "destination": 4,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 490286,
+      "palette": 0,
+      "shade": 0,
+      "destination": 4,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 490287,
+      "palette": 0,
+      "shade": 0,
+      "destination": 4,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 490512,
+      "palette": 0,
+      "shade": 0,
+      "destination": 4,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 1548802,
+      "palette": 0,
+      "shade": 0,
+      "destination": 4,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 1548803,
+      "palette": 0,
+      "shade": 0,
+      "destination": 4,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 490333,
+      "palette": 0,
+      "shade": 0,
+      "destination": 4,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 490334,
+      "palette": 0,
+      "shade": 0,
+      "destination": 4,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 490335,
+      "palette": 0,
+      "shade": 0,
+      "destination": 4,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 490336,
+      "palette": 0,
+      "shade": 0,
+      "destination": 4,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 490337,
+      "palette": 0,
+      "shade": 0,
+      "destination": 4,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 490338,
+      "palette": 0,
+      "shade": 0,
+      "destination": 4,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 490339,
+      "palette": 0,
+      "shade": 0,
+      "destination": 4,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 490340,
+      "palette": 0,
+      "shade": 0,
+      "destination": 4,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 490341,
+      "palette": 0,
+      "shade": 0,
+      "destination": 4,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 490342,
+      "palette": 0,
+      "shade": 0,
+      "destination": 4,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 490343,
+      "palette": 0,
+      "shade": 0,
+      "destination": 4,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 239482771,
+      "palette": 0,
+      "shade": 0,
+      "destination": 4,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 490344,
+      "palette": 0,
+      "shade": 0,
+      "destination": 4,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 490345,
+      "palette": 0,
+      "shade": 0,
+      "destination": 4,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 490346,
+      "palette": 0,
+      "shade": 0,
+      "destination": 4,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 4200021,
+      "palette": 0,
+      "shade": 0,
+      "destination": 4,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 490042,
+      "palette": 0,
+      "shade": 0,
+      "destination": 4,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 51954,
+      "palette": 0,
+      "shade": 0,
+      "destination": 4,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 490366,
+      "palette": 0,
+      "shade": 0,
+      "destination": 4,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 12213,
+      "palette": 3,
+      "shade": 0.8999999761581421,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 2594,
+      "palette": 6,
+      "shade": 0.8999999761581421,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 29514,
+      "palette": 93,
+      "shade": 0.8999999761581421,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 29521,
+      "palette": 93,
+      "shade": 0.8999999761581421,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 29535,
+      "palette": 93,
+      "shade": 0.8999999761581421,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 29545,
+      "palette": 93,
+      "shade": 0.8999999761581421,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 4200017,
+      "palette": 0,
+      "shade": 0,
+      "destination": 4,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 4200020,
+      "palette": 0,
+      "shade": 0,
+      "destination": 4,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 480002,
+      "palette": 0,
+      "shade": 0,
+      "destination": 4,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 481000,
+      "palette": 0,
+      "shade": 0,
+      "destination": 4,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 480632,
+      "palette": 0,
+      "shade": 0,
+      "destination": 4,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 490017,
+      "palette": 0,
+      "shade": 0,
+      "destination": 4,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 490019,
+      "palette": 0,
+      "shade": 0,
+      "destination": 4,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 490031,
+      "palette": 0,
+      "shade": 0,
+      "destination": 4,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 480003,
+      "palette": 0,
+      "shade": 0,
+      "destination": 4,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 480005,
+      "palette": 0,
+      "shade": 0,
+      "destination": 4,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 450610,
+      "palette": 0,
+      "shade": 0,
+      "destination": 4,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 4200141,
+      "palette": 0,
+      "shade": 0,
+      "destination": 4,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 8037,
+      "palette": 0,
+      "shade": 0,
+      "destination": 4,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 11555,
+      "palette": 0,
+      "shade": 0,
+      "destination": 4,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 8039,
+      "palette": 0,
+      "shade": 0,
+      "destination": 4,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 11554,
+      "palette": 0,
+      "shade": 0,
+      "destination": 4,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 11553,
+      "palette": 0,
+      "shade": 0,
+      "destination": 4,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 8041,
+      "palette": 0,
+      "shade": 0,
+      "destination": 4,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 480613,
+      "palette": 0,
+      "shade": 0,
+      "destination": 4,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 8644,
+      "palette": 0,
+      "shade": 0,
+      "destination": 4,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 8646,
+      "palette": 0,
+      "shade": 0,
+      "destination": 4,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 8648,
+      "palette": 0,
+      "shade": 0,
+      "destination": 4,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 480637,
+      "palette": 0,
+      "shade": 0,
+      "destination": 4,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 480483,
+      "palette": 0,
+      "shade": 0,
+      "destination": 4,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 480484,
+      "palette": 0,
+      "shade": 0,
+      "destination": 4,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 480623,
+      "palette": 0,
+      "shade": 0,
+      "destination": 4,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 480502,
+      "palette": 0,
+      "shade": 0,
+      "destination": 4,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 480503,
+      "palette": 0,
+      "shade": 0,
+      "destination": 4,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 130,
+      "palette": 88,
+      "shade": 0.4000000059604645,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 25661,
+      "palette": 4,
+      "shade": 0,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 25645,
+      "palette": 4,
+      "shade": 0,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 25641,
+      "palette": 4,
+      "shade": 0,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 25651,
+      "palette": 4,
+      "shade": 0,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 450032,
+      "palette": 4,
+      "shade": 0,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 130,
+      "palette": 88,
+      "shade": 0.4000000059604645,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 30511,
+      "palette": 0,
+      "shade": 0,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 30519,
+      "palette": 0,
+      "shade": 0,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 30517,
+      "palette": 0,
+      "shade": 0,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 30515,
+      "palette": 0,
+      "shade": 0,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 30514,
+      "palette": 0,
+      "shade": 0,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 30529,
+      "palette": 0,
+      "shade": 0,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 30526,
+      "palette": 0,
+      "shade": 0,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 30524,
+      "palette": 0,
+      "shade": 0,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 30522,
+      "palette": 0,
+      "shade": 0,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 2,
+      "value": [
+        {
+          "category": 2,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0,
+              "extent": 1,
+              "msg": "The fulcrum tilts. Will you steady it or push harder?"
+            }
+          ],
+          "probability": 1,
+          "vendorType": 1
+        },
+        {
+          "category": 2,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0,
+              "extent": 1,
+              "msg": "Balance is not peace — it is tension unbroken."
+            }
+          ],
+          "probability": 1,
+          "vendorType": 4
+        },
+        {
+          "category": 2,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0,
+              "extent": 1,
+              "msg": "Every gift comes with a shadow."
+            }
+          ],
+          "probability": 1,
+          "vendorType": 2
+        }
+      ]
+    }
+  ],
+  "lastModified": "2025-09-06T23:04:28.8116732Z",
+  "modifiedBy": "ACE.Adapter",
+  "changelog": [
+    {
+      "created": "2025-09-06T03:36:07.6245466Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    },
+    {
+      "created": "2025-09-06T03:36:36.9385037Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    },
+    {
+      "created": "2025-09-06T03:37:08.9656435Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    },
+    {
+      "created": "2025-09-06T23:04:28.8020607Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "userChangeSummary": "Weenie exported from ACEmulator world database using ACE.Adapter",
+  "isDone": false
+}

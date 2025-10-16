@@ -1,0 +1,164 @@
+{
+  "wcid": 2198217,
+  "weenieType": 44,
+  "boolStats": [
+    {
+      "key": 11,
+      "value": 1
+    },
+    {
+      "key": 13,
+      "value": 1
+    },
+    {
+      "key": 14,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 1
+    },
+    {
+      "key": 22,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 1073741824
+    },
+    {
+      "key": 3,
+      "value": 13
+    },
+    {
+      "key": 5,
+      "value": 5
+    },
+    {
+      "key": 11,
+      "value": 1
+    },
+    {
+      "key": 12,
+      "value": 1
+    },
+    {
+      "key": 16,
+      "value": 524296
+    },
+    {
+      "key": 17,
+      "value": 183
+    },
+    {
+      "key": 19,
+      "value": 30
+    },
+    {
+      "key": 33,
+      "value": 1
+    },
+    {
+      "key": 91,
+      "value": 100
+    },
+    {
+      "key": 92,
+      "value": 100
+    },
+    {
+      "key": 93,
+      "value": 1044
+    },
+    {
+      "key": 94,
+      "value": 8
+    },
+    {
+      "key": 105,
+      "value": 100
+    },
+    {
+      "key": 131,
+      "value": 54
+    },
+    {
+      "key": 151,
+      "value": 9
+    },
+    {
+      "key": 170,
+      "value": 10
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33554817
+    },
+    {
+      "key": 3,
+      "value": 536870932
+    },
+    {
+      "key": 6,
+      "value": 67111919
+    },
+    {
+      "key": 7,
+      "value": 268436874
+    },
+    {
+      "key": 8,
+      "value": 100686618
+    },
+    {
+      "key": 22,
+      "value": 872415275
+    },
+    {
+      "key": 50,
+      "value": 100673289
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Foolproof bleh"
+    },
+    {
+      "key": 14,
+      "value": "Apply this material to a treasure-generated armor to imbue the target with a +1 bonus to Melee Defense."
+    },
+    {
+      "key": 15,
+      "value": "Chips of peridot. This material is of such exquisite quality that using it to imbue an item is guaranteed to succeed."
+    }
+  ],
+  "lastModified": "2025-08-24T16:45:44.9925249Z",
+  "modifiedBy": "ACE.Adapter",
+  "changelog": [
+    {
+      "created": "2025-08-24T16:39:44.5243963Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    },
+    {
+      "created": "2025-08-24T16:44:37.6992597Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    },
+    {
+      "created": "2025-08-24T16:45:44.990825Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "userChangeSummary": "Weenie exported from ACEmulator world database using ACE.Adapter",
+  "isDone": false
+}

@@ -1,0 +1,161 @@
+{
+  "ClothingBaseEffects": {
+    "0x2000103": {
+      "CloObjectEffects": [
+        {
+          "Index": 0,
+          "ModelId": "0x1000468",
+          "CloTextureEffects": [
+            {
+              "OldTexture": "0x5000E10",
+              "NewTexture": "0x5000E10"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "ClothingSubPalEffects": {
+    "2": {
+      "Icon": 100670751,
+      "CloSubPalettes": [
+        {
+          "Ranges": [
+            {
+              "Offset": 0,
+              "NumColors": 2048
+            }
+          ],
+          "PaletteSet": "0xF000086"
+        }
+      ]
+    },
+    "4": {
+      "Icon": 100670751,
+      "CloSubPalettes": [
+        {
+          "Ranges": [
+            {
+              "Offset": 0,
+              "NumColors": 2048
+            }
+          ],
+          "PaletteSet": "0xF00008A"
+        }
+      ]
+    },
+    "39": {
+      "Icon": 100670751,
+      "CloSubPalettes": [
+        {
+          "Ranges": [
+            {
+              "Offset": 0,
+              "NumColors": 2048
+            }
+          ],
+          "PaletteSet": "0xF000089"
+        }
+      ]
+    },
+    "8": {
+      "Icon": 100670751,
+      "CloSubPalettes": [
+        {
+          "Ranges": [
+            {
+              "Offset": 0,
+              "NumColors": 2048
+            }
+          ],
+          "PaletteSet": "0xF000084"
+        }
+      ]
+    },
+    "77": {
+      "Icon": 100670751,
+      "CloSubPalettes": [
+        {
+          "Ranges": [
+            {
+              "Offset": 0,
+              "NumColors": 2048
+            }
+          ],
+          "PaletteSet": "0xF000085"
+        }
+      ]
+    },
+    "14": {
+      "Icon": 100670751,
+      "CloSubPalettes": [
+        {
+          "Ranges": [
+            {
+              "Offset": 0,
+              "NumColors": 2048
+            }
+          ],
+          "PaletteSet": "0xF000083"
+        }
+      ]
+    },
+    "82": {
+      "Icon": 100670751,
+      "CloSubPalettes": [
+        {
+          "Ranges": [
+            {
+              "Offset": 0,
+              "NumColors": 2048
+            }
+          ],
+          "PaletteSet": "0xF000087"
+        }
+      ]
+    },
+    "20": {
+      "Icon": 100670751,
+      "CloSubPalettes": [
+        {
+          "Ranges": [
+            {
+              "Offset": 0,
+              "NumColors": 2048
+            }
+          ],
+          "PaletteSet": "0xF000082"
+        }
+      ]
+    },
+    "21": {
+      "Icon": 100670751,
+      "CloSubPalettes": [
+        {
+          "Ranges": [
+            {
+              "Offset": 0,
+              "NumColors": 2048
+            }
+          ],
+          "PaletteSet": "0xF000081"
+        }
+      ]
+    },
+    "61": {
+      "Icon": 100670751,
+      "CloSubPalettes": [
+        {
+          "Ranges": [
+            {
+              "Offset": 0,
+              "NumColors": 2048
+            }
+          ],
+          "PaletteSet": "0xF000088"
+        }
+      ]
+    }
+  },
+  "Id": "0x1000022F"
+}

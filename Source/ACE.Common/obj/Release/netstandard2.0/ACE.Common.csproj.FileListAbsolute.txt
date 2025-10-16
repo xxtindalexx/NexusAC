@@ -1,0 +1,50 @@
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Common\bin\Release\netstandard2.0\ACE.Common.deps.json
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Common\bin\Release\netstandard2.0\ACE.Common.dll
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Common\bin\Release\netstandard2.0\ACE.Common.pdb
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Common\obj\Release\netstandard2.0\ACE.Common.csproj.AssemblyReference.cache
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Common\obj\Release\netstandard2.0\ACE.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Common\obj\Release\netstandard2.0\ACE.Common.AssemblyInfoInputs.cache
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Common\obj\Release\netstandard2.0\ACE.Common.AssemblyInfo.cs
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Common\obj\Release\netstandard2.0\ACE.Common.csproj.CoreCompileInputs.cache
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Common\obj\Release\netstandard2.0\ACE.Common.dll
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Common\obj\Release\netstandard2.0\ACE.Common.pdb
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Common\bin\Release\netstandard2.0\ACE.Common.deps.json
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Common\bin\Release\netstandard2.0\ACE.Common.dll
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Common\bin\Release\netstandard2.0\ACE.Common.pdb
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Common\obj\Release\netstandard2.0\ACE.Common.csproj.AssemblyReference.cache
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Common\obj\Release\netstandard2.0\ACE.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Common\obj\Release\netstandard2.0\ACE.Common.AssemblyInfoInputs.cache
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Common\obj\Release\netstandard2.0\ACE.Common.AssemblyInfo.cs
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Common\obj\Release\netstandard2.0\ACE.Common.csproj.CoreCompileInputs.cache
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Common\obj\Release\netstandard2.0\ACE.Common.dll
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Common\obj\Release\netstandard2.0\ACE.Common.pdb
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Common\bin\Release\netstandard2.0\ACE.Common.deps.json
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Common\bin\Release\netstandard2.0\ACE.Common.dll
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Common\bin\Release\netstandard2.0\ACE.Common.pdb
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Common\obj\Release\netstandard2.0\ACE.Common.csproj.AssemblyReference.cache
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Common\obj\Release\netstandard2.0\ACE.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Common\obj\Release\netstandard2.0\ACE.Common.AssemblyInfoInputs.cache
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Common\obj\Release\netstandard2.0\ACE.Common.AssemblyInfo.cs
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Common\obj\Release\netstandard2.0\ACE.Common.csproj.CoreCompileInputs.cache
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Common\obj\Release\netstandard2.0\ACE.Common.dll
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Common\obj\Release\netstandard2.0\ACE.Common.pdb
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Common\bin\Release\netstandard2.0\ACE.Common.deps.json
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Common\bin\Release\netstandard2.0\ACE.Common.dll
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Common\bin\Release\netstandard2.0\ACE.Common.pdb
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Common\obj\Release\netstandard2.0\ACE.Common.csproj.AssemblyReference.cache
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Common\obj\Release\netstandard2.0\ACE.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Common\obj\Release\netstandard2.0\ACE.Common.AssemblyInfoInputs.cache
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Common\obj\Release\netstandard2.0\ACE.Common.AssemblyInfo.cs
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Common\obj\Release\netstandard2.0\ACE.Common.csproj.CoreCompileInputs.cache
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Common\obj\Release\netstandard2.0\ACE.Common.dll
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Common\obj\Release\netstandard2.0\ACE.Common.pdb
+C:\Nexus Server Source\Source\ACE.Common\bin\Release\netstandard2.0\ACE.Common.deps.json
+C:\Nexus Server Source\Source\ACE.Common\bin\Release\netstandard2.0\ACE.Common.dll
+C:\Nexus Server Source\Source\ACE.Common\bin\Release\netstandard2.0\ACE.Common.pdb
+C:\Nexus Server Source\Source\ACE.Common\obj\Release\netstandard2.0\ACE.Common.csproj.AssemblyReference.cache
+C:\Nexus Server Source\Source\ACE.Common\obj\Release\netstandard2.0\ACE.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nexus Server Source\Source\ACE.Common\obj\Release\netstandard2.0\ACE.Common.AssemblyInfoInputs.cache
+C:\Nexus Server Source\Source\ACE.Common\obj\Release\netstandard2.0\ACE.Common.AssemblyInfo.cs
+C:\Nexus Server Source\Source\ACE.Common\obj\Release\netstandard2.0\ACE.Common.csproj.CoreCompileInputs.cache
+C:\Nexus Server Source\Source\ACE.Common\obj\Release\netstandard2.0\ACE.Common.dll
+C:\Nexus Server Source\Source\ACE.Common\obj\Release\netstandard2.0\ACE.Common.pdb

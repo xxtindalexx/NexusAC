@@ -1,0 +1,152 @@
+{
+  "wcid": 490333,
+  "weenieType": 38,
+  "boolStats": [
+    {
+      "key": 17,
+      "value": 1
+    },
+    {
+      "key": 63,
+      "value": 1
+    },
+    {
+      "key": 69,
+      "value": 0
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 2048
+    },
+    {
+      "key": 5,
+      "value": 10
+    },
+    {
+      "key": 16,
+      "value": 8
+    },
+    {
+      "key": 18,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 200
+    },
+    {
+      "key": 33,
+      "value": 1
+    },
+    {
+      "key": 93,
+      "value": 3092
+    },
+    {
+      "key": 94,
+      "value": 16
+    },
+    {
+      "key": 106,
+      "value": 210
+    },
+    {
+      "key": 107,
+      "value": 50
+    },
+    {
+      "key": 108,
+      "value": 50
+    },
+    {
+      "key": 109,
+      "value": 0
+    },
+    {
+      "key": 110,
+      "value": 0
+    },
+    {
+      "key": 151,
+      "value": 2
+    },
+    {
+      "key": 280,
+      "value": 1000
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33556769
+    },
+    {
+      "key": 3,
+      "value": 536870932
+    },
+    {
+      "key": 6,
+      "value": 67111919
+    },
+    {
+      "key": 8,
+      "value": 100674858
+    },
+    {
+      "key": 22,
+      "value": 872415275
+    },
+    {
+      "key": 28,
+      "value": 157
+    },
+    {
+      "key": 31,
+      "value": 42852
+    },
+    {
+      "key": 52,
+      "value": 100686604
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 63,
+      "value": 1
+    },
+    {
+      "key": 167,
+      "value": 15
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Infinite Town Network Portal Gem"
+    },
+    {
+      "key": 16,
+      "value": "Use this gem to summon a short-lived portal to the Town Network. This portal summoning gem works best if used outside in a relatively flat area."
+    }
+  ],
+  "lastModified": "2025-10-01T07:06:22.5100013Z",
+  "modifiedBy": "ACE.Adapter",
+  "changelog": [
+    {
+      "created": "2025-09-06T21:52:30.5857146Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    },
+    {
+      "created": "2025-10-01T07:06:22.5041718Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "userChangeSummary": "Weenie exported from ACEmulator world database using ACE.Adapter",
+  "isDone": false
+}

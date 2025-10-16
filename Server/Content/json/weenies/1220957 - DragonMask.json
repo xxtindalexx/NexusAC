@@ -1,0 +1,156 @@
+{
+  "wcid": 1220957,
+  "weenieType": 2,
+  "boolStats": [
+    {
+      "key": 22,
+      "value": 1
+    },
+    {
+      "key": 23,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 2
+    },
+    {
+      "key": 3,
+      "value": 16
+    },
+    {
+      "key": 4,
+      "value": 16384
+    },
+    {
+      "key": 5,
+      "value": 200
+    },
+    {
+      "key": 8,
+      "value": 75
+    },
+    {
+      "key": 9,
+      "value": 1
+    },
+    {
+      "key": 16,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 500
+    },
+    {
+      "key": 27,
+      "value": 2
+    },
+    {
+      "key": 28,
+      "value": 10
+    },
+    {
+      "key": 93,
+      "value": 1044
+    },
+    {
+      "key": 150,
+      "value": 103
+    },
+    {
+      "key": 151,
+      "value": 2
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33557362
+    },
+    {
+      "key": 3,
+      "value": 536870932
+    },
+    {
+      "key": 6,
+      "value": 67108990
+    },
+    {
+      "key": 7,
+      "value": 268448443
+    },
+    {
+      "key": 8,
+      "value": 100689200
+    },
+    {
+      "key": 22,
+      "value": 872415275
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 12,
+      "value": 0.66
+    },
+    {
+      "key": 13,
+      "value": 0.5
+    },
+    {
+      "key": 14,
+      "value": 0.375
+    },
+    {
+      "key": 15,
+      "value": 0.25
+    },
+    {
+      "key": 16,
+      "value": 0.5
+    },
+    {
+      "key": 17,
+      "value": 0.375
+    },
+    {
+      "key": 18,
+      "value": 0.125
+    },
+    {
+      "key": 19,
+      "value": 0.125
+    },
+    {
+      "key": 110,
+      "value": 1
+    },
+    {
+      "key": 111,
+      "value": 1
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "DragonMask"
+    },
+    {
+      "key": 16,
+      "value": "A finely sewed and oiled Sclavus head, patched with utmost precision, and conveniently fitted for use."
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2025-10-02T19:08:00.9589921Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

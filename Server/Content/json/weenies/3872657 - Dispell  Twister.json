@@ -1,0 +1,198 @@
+{
+  "wcid": 3872657,
+  "weenieType": 38,
+  "boolStats": [
+    {
+      "key": 23,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 2048
+    },
+    {
+      "key": 3,
+      "value": 2
+    },
+    {
+      "key": 5,
+      "value": 10
+    },
+    {
+      "key": 11,
+      "value": 25
+    },
+    {
+      "key": 12,
+      "value": 1
+    },
+    {
+      "key": 13,
+      "value": 10
+    },
+    {
+      "key": 15,
+      "value": 250000
+    },
+    {
+      "key": 16,
+      "value": 8
+    },
+    {
+      "key": 18,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 250000
+    },
+    {
+      "key": 33,
+      "value": 1
+    },
+    {
+      "key": 93,
+      "value": 1044
+    },
+    {
+      "key": 94,
+      "value": 16
+    },
+    {
+      "key": 106,
+      "value": 210
+    },
+    {
+      "key": 107,
+      "value": 500
+    },
+    {
+      "key": 108,
+      "value": 500
+    },
+    {
+      "key": 109,
+      "value": 0
+    },
+    {
+      "key": 110,
+      "value": 0
+    },
+    {
+      "key": 114,
+      "value": 1
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33554809
+    },
+    {
+      "key": 3,
+      "value": 536870932
+    },
+    {
+      "key": 6,
+      "value": 67111919
+    },
+    {
+      "key": 7,
+      "value": 268435723
+    },
+    {
+      "key": 8,
+      "value": 100671405
+    },
+    {
+      "key": 22,
+      "value": 872415275
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 39,
+      "value": 1.2
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Dispell  Twister"
+    },
+    {
+      "key": 20,
+      "value": "Dispell Twisters"
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 7,
+      "value": [
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 19,
+              "delay": 0,
+              "extent": 1,
+              "spellid": 4336
+            },
+            {
+              "type": 10,
+              "delay": 0,
+              "extent": 1,
+              "msg": "I have removed all harmful creature enchantments from you."
+            }
+          ],
+          "probability": 1
+        }
+      ]
+    }
+  ],
+  "lastModified": "2025-10-09T18:23:28.1712177Z",
+  "modifiedBy": "ACE.Adapter",
+  "changelog": [
+    {
+      "created": "2025-10-09T17:53:21.2344919Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    },
+    {
+      "created": "2025-10-09T17:55:01.3346975Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    },
+    {
+      "created": "2025-10-09T17:57:49.0597262Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    },
+    {
+      "created": "2025-10-09T18:02:22.2030474Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    },
+    {
+      "created": "2025-10-09T18:06:22.3661287Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    },
+    {
+      "created": "2025-10-09T18:18:52.2386206Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    },
+    {
+      "created": "2025-10-09T18:23:28.1708816Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "userChangeSummary": "Weenie exported from ACEmulator world database using ACE.Adapter",
+  "isDone": false
+}

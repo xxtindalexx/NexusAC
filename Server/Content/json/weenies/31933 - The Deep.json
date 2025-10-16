@@ -1,0 +1,340 @@
+{
+  "wcid": 31933,
+  "weenieType": 10,
+  "attributes": {
+    "strength": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 1
+    },
+    "endurance": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 1
+    },
+    "coordination": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 1
+    },
+    "quickness": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 1
+    },
+    "focus": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 1
+    },
+    "self": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 1
+    },
+    "health": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 1,
+      "current": 1
+    },
+    "stamina": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 1,
+      "current": 1
+    },
+    "mana": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 1,
+      "current": 1
+    }
+  },
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 8,
+      "value": 1
+    },
+    {
+      "key": 11,
+      "value": 1
+    },
+    {
+      "key": 12,
+      "value": 1
+    },
+    {
+      "key": 14,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 0
+    },
+    {
+      "key": 41,
+      "value": 1
+    },
+    {
+      "key": 42,
+      "value": 1
+    },
+    {
+      "key": 52,
+      "value": 1
+    },
+    {
+      "key": 82,
+      "value": 1
+    },
+    {
+      "key": 83,
+      "value": 1
+    },
+    {
+      "key": 118,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 16
+    },
+    {
+      "key": 2,
+      "value": 40
+    },
+    {
+      "key": 5,
+      "value": 50
+    },
+    {
+      "key": 6,
+      "value": -1
+    },
+    {
+      "key": 7,
+      "value": -1
+    },
+    {
+      "key": 16,
+      "value": 32
+    },
+    {
+      "key": 19,
+      "value": 0
+    },
+    {
+      "key": 93,
+      "value": 6292504
+    },
+    {
+      "key": 95,
+      "value": 3
+    },
+    {
+      "key": 134,
+      "value": 16
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33559204
+    },
+    {
+      "key": 2,
+      "value": 150995105
+    },
+    {
+      "key": 3,
+      "value": 536871017
+    },
+    {
+      "key": 8,
+      "value": 100668442
+    },
+    {
+      "key": 22,
+      "value": 872415369
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 39,
+      "value": 1.5
+    },
+    {
+      "key": 54,
+      "value": 3
+    },
+    {
+      "key": 76,
+      "value": 0.9
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "The Deep"
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 6,
+      "value": [
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.1,
+              "extent": 1,
+              "msg": "You drop the Gold Shallows Shredder Fin into 'The Deep'. A feeling of immense pleasure washes over your body."
+            },
+            {
+              "type": 62,
+              "delay": 0,
+              "extent": 1,
+              "amount64": 6500000
+            }
+          ],
+          "probability": 1,
+          "classID": 31904
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.1,
+              "extent": 1,
+              "msg": "You drop the Gold Moarsman Tooth into 'The Deep'. A feeling of immense pleasure washes over your body."
+            },
+            {
+              "type": 62,
+              "delay": 0,
+              "extent": 1,
+              "amount64": 6500000
+            },
+            {
+              "type": 34,
+              "delay": 0,
+              "extent": 1,
+              "amount": 118
+            }
+          ],
+          "probability": 1,
+          "classID": 31903
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.1,
+              "extent": 1,
+              "msg": "You drop the Gold Niffis Tentacle into 'The Deep'. A feeling of immense pleasure washes over your body."
+            },
+            {
+              "type": 49,
+              "delay": 0,
+              "extent": 1,
+              "min64": 0,
+              "max64": 8700000,
+              "percent": 0.035
+            },
+            {
+              "type": 34,
+              "delay": 0,
+              "extent": 1,
+              "amount": 118
+            }
+          ],
+          "probability": 1,
+          "classID": 32036
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.1,
+              "extent": 1,
+              "msg": "You drop the Gold Remoran Eggs into 'The Deep'. A feeling of immense pleasure washes over your body."
+            },
+            {
+              "type": 49,
+              "delay": 0,
+              "extent": 1,
+              "min64": 0,
+              "max64": 11400000,
+              "percent": 0.035
+            },
+            {
+              "type": 34,
+              "delay": 0,
+              "extent": 1,
+              "amount": 118
+            }
+          ],
+          "probability": 1,
+          "classID": 31905
+        },
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 62,
+              "delay": 0,
+              "extent": 1,
+              "amount64": 0
+            },
+            {
+              "type": 122,
+              "delay": 0,
+              "extent": 1,
+              "amount64": 300000000
+            }
+          ],
+          "probability": 1,
+          "classID": 1204957
+        }
+      ]
+    }
+  ],
+  "lastModified": "2025-09-24T05:36:28.1277357Z",
+  "modifiedBy": "ACE.Adapter",
+  "changelog": [
+    {
+      "created": "2025-09-21T07:43:07.0979188Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    },
+    {
+      "created": "2025-09-21T07:48:57.2074482Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    },
+    {
+      "created": "2025-09-21T07:49:57.8308214Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    },
+    {
+      "created": "2025-09-24T05:36:27.9797562Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "userChangeSummary": "Weenie exported from ACEmulator world database using ACE.Adapter",
+  "isDone": false
+}

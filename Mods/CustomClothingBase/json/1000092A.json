@@ -1,0 +1,23 @@
+{
+  "clothingBaseEffects": {
+    "33561491": {
+      "cloObjectEffects": [
+        {
+          "index": 0,
+          "modelId": 16795241,
+          "cloTextureEffects": [
+            {
+              "oldTexture": 83894305,
+              "newTexture": 83899223
+            },
+            {
+              "oldTexture": 83894305,
+              "newTexture": 83899222
+            }
+          ]
+        }
+      ]
+	}
+  },
+  "id": 268437802
+}

@@ -1,0 +1,12 @@
+{
+  "WatchContent": true,
+  "ClearCacheOnShutdown": true,
+  "HexKeys": [
+    "ClothingBaseEffect",
+    "PaletteSet",
+    "ModelId",
+    "Id",
+    "OldTexture",
+    "NewTexture"
+  ]
+}

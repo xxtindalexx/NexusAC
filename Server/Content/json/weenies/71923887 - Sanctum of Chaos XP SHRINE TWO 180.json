@@ -1,0 +1,987 @@
+{
+  "wcid": 71923887,
+  "weenieType": 10,
+  "attributes": {
+    "strength": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 100
+    },
+    "endurance": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 100
+    },
+    "coordination": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 140
+    },
+    "quickness": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 120
+    },
+    "focus": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 120
+    },
+    "self": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 120
+    },
+    "health": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 80,
+      "current": 130
+    },
+    "stamina": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 120,
+      "current": 220
+    },
+    "mana": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 50,
+      "current": 170
+    }
+  },
+  "body": {
+    "body_part_table": [
+      {
+        "key": 0,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0,
+          "acache": {
+            "base_armor": 0,
+            "armor_vs_slash": 0,
+            "armor_vs_pierce": 0,
+            "armor_vs_bludgeon": 0,
+            "armor_vs_cold": 0,
+            "armor_vs_fire": 0,
+            "armor_vs_acid": 0,
+            "armor_vs_electric": 0,
+            "armor_vs_nether": 0
+          },
+          "bh": 1,
+          "bpsd": {
+            "HLF": 0.33000001311302185,
+            "MLF": 0,
+            "LLF": 0,
+            "HRF": 0.33000001311302185,
+            "MRF": 0,
+            "LRF": 0,
+            "HLB": 0.33000001311302185,
+            "MLB": 0,
+            "LLB": 0,
+            "HRB": 0.33000001311302185,
+            "MRB": 0,
+            "LRB": 0
+          }
+        }
+      },
+      {
+        "key": 1,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0,
+          "acache": {
+            "base_armor": 0,
+            "armor_vs_slash": 0,
+            "armor_vs_pierce": 0,
+            "armor_vs_bludgeon": 0,
+            "armor_vs_cold": 0,
+            "armor_vs_fire": 0,
+            "armor_vs_acid": 0,
+            "armor_vs_electric": 0,
+            "armor_vs_nether": 0
+          },
+          "bh": 2,
+          "bpsd": {
+            "HLF": 0.4399999976158142,
+            "MLF": 0.17000000178813934,
+            "LLF": 0,
+            "HRF": 0.4399999976158142,
+            "MRF": 0.17000000178813934,
+            "LRF": 0,
+            "HLB": 0.4399999976158142,
+            "MLB": 0.17000000178813934,
+            "LLB": 0,
+            "HRB": 0.4399999976158142,
+            "MRB": 0.17000000178813934,
+            "LRB": 0
+          }
+        }
+      },
+      {
+        "key": 2,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0,
+          "acache": {
+            "base_armor": 0,
+            "armor_vs_slash": 0,
+            "armor_vs_pierce": 0,
+            "armor_vs_bludgeon": 0,
+            "armor_vs_cold": 0,
+            "armor_vs_fire": 0,
+            "armor_vs_acid": 0,
+            "armor_vs_electric": 0,
+            "armor_vs_nether": 0
+          },
+          "bh": 3,
+          "bpsd": {
+            "HLF": 0,
+            "MLF": 0.17000000178813934,
+            "LLF": 0,
+            "HRF": 0,
+            "MRF": 0.17000000178813934,
+            "LRF": 0,
+            "HLB": 0,
+            "MLB": 0.17000000178813934,
+            "LLB": 0,
+            "HRB": 0,
+            "MRB": 0.17000000178813934,
+            "LRB": 0
+          }
+        }
+      },
+      {
+        "key": 3,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0,
+          "acache": {
+            "base_armor": 0,
+            "armor_vs_slash": 0,
+            "armor_vs_pierce": 0,
+            "armor_vs_bludgeon": 0,
+            "armor_vs_cold": 0,
+            "armor_vs_fire": 0,
+            "armor_vs_acid": 0,
+            "armor_vs_electric": 0,
+            "armor_vs_nether": 0
+          },
+          "bh": 1,
+          "bpsd": {
+            "HLF": 0.23000000417232513,
+            "MLF": 0.029999999329447746,
+            "LLF": 0,
+            "HRF": 0.23000000417232513,
+            "MRF": 0.029999999329447746,
+            "LRF": 0,
+            "HLB": 0.23000000417232513,
+            "MLB": 0.029999999329447746,
+            "LLB": 0,
+            "HRB": 0.23000000417232513,
+            "MRB": 0.029999999329447746,
+            "LRB": 0
+          }
+        }
+      },
+      {
+        "key": 4,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0,
+          "acache": {
+            "base_armor": 0,
+            "armor_vs_slash": 0,
+            "armor_vs_pierce": 0,
+            "armor_vs_bludgeon": 0,
+            "armor_vs_cold": 0,
+            "armor_vs_fire": 0,
+            "armor_vs_acid": 0,
+            "armor_vs_electric": 0,
+            "armor_vs_nether": 0
+          },
+          "bh": 2,
+          "bpsd": {
+            "HLF": 0,
+            "MLF": 0.30000001192092896,
+            "LLF": 0,
+            "HRF": 0,
+            "MRF": 0.30000001192092896,
+            "LRF": 0,
+            "HLB": 0,
+            "MLB": 0.30000001192092896,
+            "LLB": 0,
+            "HRB": 0,
+            "MRB": 0.30000001192092896,
+            "LRB": 0
+          }
+        }
+      },
+      {
+        "key": 5,
+        "value": {
+          "dtype": 4,
+          "dval": 2,
+          "dvar": 0.75,
+          "acache": {
+            "base_armor": 0,
+            "armor_vs_slash": 0,
+            "armor_vs_pierce": 0,
+            "armor_vs_bludgeon": 0,
+            "armor_vs_cold": 0,
+            "armor_vs_fire": 0,
+            "armor_vs_acid": 0,
+            "armor_vs_electric": 0,
+            "armor_vs_nether": 0
+          },
+          "bh": 2,
+          "bpsd": {
+            "HLF": 0,
+            "MLF": 0.20000000298023224,
+            "LLF": 0,
+            "HRF": 0,
+            "MRF": 0.20000000298023224,
+            "LRF": 0,
+            "HLB": 0,
+            "MLB": 0.20000000298023224,
+            "LLB": 0,
+            "HRB": 0,
+            "MRB": 0.20000000298023224,
+            "LRB": 0
+          }
+        }
+      },
+      {
+        "key": 6,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0,
+          "acache": {
+            "base_armor": 0,
+            "armor_vs_slash": 0,
+            "armor_vs_pierce": 0,
+            "armor_vs_bludgeon": 0,
+            "armor_vs_cold": 0,
+            "armor_vs_fire": 0,
+            "armor_vs_acid": 0,
+            "armor_vs_electric": 0,
+            "armor_vs_nether": 0
+          },
+          "bh": 3,
+          "bpsd": {
+            "HLF": 0,
+            "MLF": 0.12999999523162842,
+            "LLF": 0.18000000715255737,
+            "HRF": 0,
+            "MRF": 0.12999999523162842,
+            "LRF": 0.18000000715255737,
+            "HLB": 0,
+            "MLB": 0.12999999523162842,
+            "LLB": 0.18000000715255737,
+            "HRB": 0,
+            "MRB": 0.12999999523162842,
+            "LRB": 0.18000000715255737
+          }
+        }
+      },
+      {
+        "key": 7,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0,
+          "acache": {
+            "base_armor": 0,
+            "armor_vs_slash": 0,
+            "armor_vs_pierce": 0,
+            "armor_vs_bludgeon": 0,
+            "armor_vs_cold": 0,
+            "armor_vs_fire": 0,
+            "armor_vs_acid": 0,
+            "armor_vs_electric": 0,
+            "armor_vs_nether": 0
+          },
+          "bh": 3,
+          "bpsd": {
+            "HLF": 0,
+            "MLF": 0,
+            "LLF": 0.6000000238418579,
+            "HRF": 0,
+            "MRF": 0,
+            "LRF": 0.6000000238418579,
+            "HLB": 0,
+            "MLB": 0,
+            "LLB": 0.6000000238418579,
+            "HRB": 0,
+            "MRB": 0,
+            "LRB": 0.6000000238418579
+          }
+        }
+      },
+      {
+        "key": 8,
+        "value": {
+          "dtype": 4,
+          "dval": 2,
+          "dvar": 0.75,
+          "acache": {
+            "base_armor": 0,
+            "armor_vs_slash": 0,
+            "armor_vs_pierce": 0,
+            "armor_vs_bludgeon": 0,
+            "armor_vs_cold": 0,
+            "armor_vs_fire": 0,
+            "armor_vs_acid": 0,
+            "armor_vs_electric": 0,
+            "armor_vs_nether": 0
+          },
+          "bh": 3,
+          "bpsd": {
+            "HLF": 0,
+            "MLF": 0,
+            "LLF": 0.2199999988079071,
+            "HRF": 0,
+            "MRF": 0,
+            "LRF": 0.2199999988079071,
+            "HLB": 0,
+            "MLB": 0,
+            "LLB": 0.2199999988079071,
+            "HRB": 0,
+            "MRB": 0,
+            "LRB": 0.2199999988079071
+          }
+        }
+      }
+    ]
+  },
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 8,
+      "value": 1
+    },
+    {
+      "key": 12,
+      "value": 1
+    },
+    {
+      "key": 13,
+      "value": 0
+    },
+    {
+      "key": 19,
+      "value": 0
+    },
+    {
+      "key": 41,
+      "value": 1
+    },
+    {
+      "key": 42,
+      "value": 1
+    },
+    {
+      "key": 52,
+      "value": 1
+    },
+    {
+      "key": 82,
+      "value": 1
+    },
+    {
+      "key": 83,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 16
+    },
+    {
+      "key": 2,
+      "value": 63
+    },
+    {
+      "key": 6,
+      "value": -1
+    },
+    {
+      "key": 7,
+      "value": -1
+    },
+    {
+      "key": 8,
+      "value": 120
+    },
+    {
+      "key": 16,
+      "value": 32
+    },
+    {
+      "key": 25,
+      "value": 18
+    },
+    {
+      "key": 27,
+      "value": 0
+    },
+    {
+      "key": 93,
+      "value": 6292504
+    },
+    {
+      "key": 95,
+      "value": 8
+    },
+    {
+      "key": 133,
+      "value": 4
+    },
+    {
+      "key": 134,
+      "value": 16
+    },
+    {
+      "key": 146,
+      "value": 661
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33559250
+    },
+    {
+      "key": 2,
+      "value": 150995147
+    },
+    {
+      "key": 3,
+      "value": 536871052
+    },
+    {
+      "key": 4,
+      "value": 805306368
+    },
+    {
+      "key": 8,
+      "value": 100675745
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 1,
+      "value": 5
+    },
+    {
+      "key": 2,
+      "value": 0
+    },
+    {
+      "key": 3,
+      "value": 0.16
+    },
+    {
+      "key": 4,
+      "value": 5
+    },
+    {
+      "key": 5,
+      "value": 1
+    },
+    {
+      "key": 13,
+      "value": 0.9
+    },
+    {
+      "key": 14,
+      "value": 1
+    },
+    {
+      "key": 15,
+      "value": 1.1
+    },
+    {
+      "key": 16,
+      "value": 0.4
+    },
+    {
+      "key": 17,
+      "value": 0.4
+    },
+    {
+      "key": 18,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 0.6
+    },
+    {
+      "key": 39,
+      "value": 0.7
+    },
+    {
+      "key": 54,
+      "value": 3
+    },
+    {
+      "key": 64,
+      "value": 1
+    },
+    {
+      "key": 65,
+      "value": 1
+    },
+    {
+      "key": 66,
+      "value": 1
+    },
+    {
+      "key": 67,
+      "value": 1
+    },
+    {
+      "key": 68,
+      "value": 1
+    },
+    {
+      "key": 69,
+      "value": 1
+    },
+    {
+      "key": 70,
+      "value": 1
+    },
+    {
+      "key": 71,
+      "value": 1
+    },
+    {
+      "key": 72,
+      "value": 1
+    },
+    {
+      "key": 73,
+      "value": 1
+    },
+    {
+      "key": 74,
+      "value": 1
+    },
+    {
+      "key": 75,
+      "value": 1
+    },
+    {
+      "key": 104,
+      "value": 10
+    },
+    {
+      "key": 125,
+      "value": 1
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Shrine of Chaos"
+    }
+  ],
+  "skills": [
+    {
+      "key": 6,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 1687.4777,
+        "init_level": 1,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 2
+      }
+    },
+    {
+      "key": 7,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 1687.4777,
+        "init_level": 1,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 2
+      }
+    },
+    {
+      "key": 13,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 1687.4777,
+        "init_level": 1,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 2
+      }
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 7,
+      "value": [
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0,
+              "extent": 1,
+              "msg": "1802Timeout@5"
+            }
+          ],
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "key": 12,
+      "value": [
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0,
+              "extent": 1,
+              "msg": "1802Cooldown@5"
+            }
+          ],
+          "probability": 1,
+          "quest": "1802Timeout@5"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 102,
+              "delay": 0,
+              "extent": 1,
+              "amount": 1,
+              "msg": "1802Bitfield@5"
+            }
+          ],
+          "probability": 1,
+          "quest": "1802Cooldown@5"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0,
+              "extent": 1,
+              "msg": "The Statue is not ready to reward you again."
+            }
+          ],
+          "probability": 1,
+          "quest": "1802Bitfield@5"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 102,
+              "delay": 0,
+              "extent": 1,
+              "amount": 1,
+              "msg": "1802Bitfield@3"
+            }
+          ],
+          "probability": 1,
+          "quest": "1802Bitfield@2"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 80,
+              "delay": 0,
+              "extent": 1,
+              "msg": "1802Timeout@2"
+            }
+          ],
+          "probability": 1,
+          "quest": "1802Bitfield@3"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0,
+              "extent": 1,
+              "msg": "You retain control over this statue."
+            },
+            {
+              "type": 67,
+              "delay": 0,
+              "extent": 1,
+              "msg": "Reward"
+            }
+          ],
+          "probability": 1,
+          "quest": "1802Timeout@2"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0,
+              "extent": 1,
+              "msg": "Another player has control over this statue."
+            }
+          ],
+          "probability": 1,
+          "quest": "1802Timeout@3"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0,
+              "extent": 1,
+              "msg": "You regain control over this statue."
+            },
+            {
+              "type": 67,
+              "delay": 0,
+              "extent": 1,
+              "msg": "Reward"
+            }
+          ],
+          "probability": 1,
+          "quest": "1802Bitfield@4"
+        }
+      ]
+    },
+    {
+      "key": 13,
+      "value": [
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0,
+              "extent": 1,
+              "msg": "You do not control this statue."
+            }
+          ],
+          "probability": 1,
+          "quest": "1802Bitfield@5"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 103,
+              "delay": 0,
+              "extent": 1,
+              "amount": 254,
+              "msg": "1802Bitfield@2"
+            }
+          ],
+          "probability": 1,
+          "quest": "1802Cooldown@5"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0,
+              "extent": 1,
+              "msg": "Another player has control over this statue."
+            }
+          ],
+          "probability": 1,
+          "quest": "1802Timeout@2"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0,
+              "extent": 1,
+              "msg": "You do not control this statue."
+            }
+          ],
+          "probability": 1,
+          "quest": "1802Bitfield@3"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0,
+              "extent": 1,
+              "msg": "You do not control this statue."
+            }
+          ],
+          "probability": 1,
+          "quest": "1802Bitfield@2"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 80,
+              "delay": 0,
+              "extent": 1,
+              "msg": "1802Timeout@3"
+            }
+          ],
+          "probability": 1,
+          "quest": "1802Timeout@5"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 102,
+              "delay": 0,
+              "extent": 1,
+              "amount": 1,
+              "msg": "1802Bitfield@4"
+            }
+          ],
+          "probability": 1,
+          "quest": "1802Timeout@3"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0,
+              "extent": 1,
+              "msg": "You now have control of this statue."
+            },
+            {
+              "type": 67,
+              "delay": 0,
+              "extent": 1,
+              "msg": "Reward"
+            }
+          ],
+          "probability": 1,
+          "quest": "1802Bitfield@4"
+        }
+      ]
+    },
+    {
+      "key": 32,
+      "value": [
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 113,
+              "delay": 0,
+              "extent": 1,
+              "heroxp64": 300
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 67,
+              "delay": 0,
+              "extent": 1,
+              "msg": "Stamp"
+            }
+          ],
+          "probability": 1,
+          "quest": "Reward"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 81,
+              "delay": 0,
+              "extent": 1,
+              "msg": "1802Timeout"
+            },
+            {
+              "type": 22,
+              "delay": 0,
+              "extent": 1,
+              "msg": "1802Timeout"
+            },
+            {
+              "type": 22,
+              "delay": 0,
+              "extent": 1,
+              "msg": "1802Cooldown"
+            },
+            {
+              "type": 106,
+              "delay": 0,
+              "extent": 1,
+              "amount": 1,
+              "msg": "1802Bitfield"
+            },
+            {
+              "type": 107,
+              "delay": 0,
+              "extent": 1,
+              "amount": 254,
+              "msg": "1802Bitfield"
+            }
+          ],
+          "probability": 1,
+          "quest": "Stamp"
+        }
+      ]
+    }
+  ],
+  "lastModified": "2025-09-09T20:55:04.3751341Z",
+  "modifiedBy": "ACE.Adapter",
+  "changelog": [
+    {
+      "created": "2025-09-09T20:53:21.3613385Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    },
+    {
+      "created": "2025-09-09T20:55:04.3739123Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "userChangeSummary": "Weenie exported from ACEmulator world database using ACE.Adapter",
+  "isDone": false
+}

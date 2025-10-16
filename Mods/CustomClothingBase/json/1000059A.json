@@ -1,0 +1,178 @@
+{
+  "ClothingBaseEffects": {
+    "0x2001253": {
+      "CloObjectEffects": []
+    }
+  },
+  "ClothingSubPalEffects": {
+    "2": {
+      "Icon": 0,
+      "CloSubPalettes": [
+        {
+          "Ranges": [
+            {
+              "Offset": 0,
+              "NumColors": 2048
+            }
+          ],
+          "PaletteSet": "0xF00098C"
+        }
+      ]
+    },
+    "4": {
+      "Icon": 0,
+      "CloSubPalettes": [
+        {
+          "Ranges": [
+            {
+              "Offset": 0,
+              "NumColors": 2048
+            }
+          ],
+          "PaletteSet": "0xF00098E"
+        }
+      ]
+    },
+    "39": {
+      "Icon": 0,
+      "CloSubPalettes": [
+        {
+          "Ranges": [
+            {
+              "Offset": 0,
+              "NumColors": 2048
+            }
+          ],
+          "PaletteSet": "0xF00098B"
+        }
+      ]
+    },
+    "8": {
+      "Icon": 0,
+      "CloSubPalettes": [
+        {
+          "Ranges": [
+            {
+              "Offset": 0,
+              "NumColors": 2048
+            }
+          ],
+          "PaletteSet": "0xF00098D"
+        }
+      ]
+    },
+    "76": {
+      "Icon": 0,
+      "CloSubPalettes": [
+        {
+          "Ranges": [
+            {
+              "Offset": 0,
+              "NumColors": 2048
+            }
+          ],
+          "PaletteSet": "0xF000995"
+        }
+      ]
+    },
+    "13": {
+      "Icon": 0,
+      "CloSubPalettes": [
+        {
+          "Ranges": [
+            {
+              "Offset": 0,
+              "NumColors": 2048
+            }
+          ],
+          "PaletteSet": "0xF00098F"
+        }
+      ]
+    },
+    "14": {
+      "Icon": 0,
+      "CloSubPalettes": [
+        {
+          "Ranges": [
+            {
+              "Offset": 0,
+              "NumColors": 2048
+            }
+          ],
+          "PaletteSet": "0xF000990"
+        }
+      ]
+    },
+    "17": {
+      "Icon": 0,
+      "CloSubPalettes": [
+        {
+          "Ranges": [
+            {
+              "Offset": 0,
+              "NumColors": 2048
+            }
+          ],
+          "PaletteSet": "0xF000991"
+        }
+      ]
+    },
+    "19": {
+      "Icon": 0,
+      "CloSubPalettes": [
+        {
+          "Ranges": [
+            {
+              "Offset": 0,
+              "NumColors": 2048
+            }
+          ],
+          "PaletteSet": "0xF000994"
+        }
+      ]
+    },
+    "20": {
+      "Icon": 0,
+      "CloSubPalettes": [
+        {
+          "Ranges": [
+            {
+              "Offset": 0,
+              "NumColors": 2048
+            }
+          ],
+          "PaletteSet": "0xF000993"
+        }
+      ]
+    },
+    "21": {
+      "Icon": 0,
+      "CloSubPalettes": [
+        {
+          "Ranges": [
+            {
+              "Offset": 0,
+              "NumColors": 2048
+            }
+          ],
+          "PaletteSet": "0xF000992"
+        }
+      ]
+    },
+    "63": {
+      "Icon": 0,
+      "CloSubPalettes": [
+        {
+          "Ranges": [
+            {
+              "Offset": 0,
+              "NumColors": 2048
+            }
+          ],
+          "PaletteSet": "0xF00098A"
+        }
+      ]
+    }
+  },
+  "Id": "0x1000059A"
+}

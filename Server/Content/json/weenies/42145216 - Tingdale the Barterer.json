@@ -1,0 +1,671 @@
+{
+  "wcid": 42145216,
+  "weenieType": 10,
+  "attributes": {
+    "strength": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 290
+    },
+    "endurance": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 260
+    },
+    "coordination": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 290
+    },
+    "quickness": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 290
+    },
+    "focus": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 200
+    },
+    "self": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 200
+    },
+    "health": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 196,
+      "current": 326
+    },
+    "stamina": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 196,
+      "current": 456
+    },
+    "mana": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 196,
+      "current": 396
+    }
+  },
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 8,
+      "value": 1
+    },
+    {
+      "key": 12,
+      "value": 1
+    },
+    {
+      "key": 13,
+      "value": 0
+    },
+    {
+      "key": 19,
+      "value": 0
+    },
+    {
+      "key": 41,
+      "value": 1
+    },
+    {
+      "key": 42,
+      "value": 1
+    },
+    {
+      "key": 52,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 16
+    },
+    {
+      "key": 2,
+      "value": 31
+    },
+    {
+      "key": 6,
+      "value": -1
+    },
+    {
+      "key": 7,
+      "value": -1
+    },
+    {
+      "key": 16,
+      "value": 32
+    },
+    {
+      "key": 25,
+      "value": 275
+    },
+    {
+      "key": 95,
+      "value": 8
+    },
+    {
+      "key": 113,
+      "value": 2
+    },
+    {
+      "key": 133,
+      "value": 4
+    },
+    {
+      "key": 134,
+      "value": 16
+    },
+    {
+      "key": 188,
+      "value": 3
+    },
+    {
+      "key": 307,
+      "value": 5
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33554510
+    },
+    {
+      "key": 2,
+      "value": 150994945
+    },
+    {
+      "key": 3,
+      "value": 536870914
+    },
+    {
+      "key": 6,
+      "value": 67108990
+    },
+    {
+      "key": 8,
+      "value": 100667446
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 54,
+      "value": 3
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Tingdale the Barterer"
+    },
+    {
+      "key": 2,
+      "value": "Best Weenie Toucher in Dereth"
+    }
+  ],
+  "createList": [
+    {
+      "wcid": 5851,
+      "palette": 88,
+      "shade": 0,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 1,
+      "value": [
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 76,
+              "delay": 0,
+              "extent": 1,
+              "msg": "OwnsItem-1000003"
+            }
+          ],
+          "probability": 1,
+          "classID": 1000003
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 76,
+              "delay": 0,
+              "extent": 1,
+              "msg": "OwnsItem-480608"
+            }
+          ],
+          "probability": 1,
+          "classID": 480608
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 76,
+              "delay": 0,
+              "extent": 1,
+              "msg": "OwnsItem-490364"
+            }
+          ],
+          "probability": 1,
+          "classID": 490364
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 76,
+              "delay": 0,
+              "extent": 1,
+              "msg": "OwnsItem-43901"
+            }
+          ],
+          "probability": 1,
+          "classID": 43901
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 76,
+              "delay": 0,
+              "extent": 1,
+              "msg": "OwnsItem-716008"
+            }
+          ],
+          "probability": 1,
+          "classID": 716008
+        }
+      ]
+    },
+    {
+      "key": 22,
+      "value": [
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0,
+              "extent": 1,
+              "msg": "OwnsItem-1000003_2"
+            }
+          ],
+          "probability": 1,
+          "quest": "OwnsItem-1000003"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 75,
+              "delay": 0,
+              "extent": 1,
+              "msg": "InqYesNo",
+              "teststring": "Want to trade 1 Arena Token for 5 Nexus Writs?"
+            }
+          ],
+          "probability": 1,
+          "quest": "OwnsItem-1000003_2"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 74,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 10,
+              "delay": 0,
+              "extent": 1,
+              "msg": "*Tingdale would begin going through his pockets attempting to find 5 nexus writs."
+            },
+            {
+              "type": 10,
+              "delay": 0,
+              "extent": 1,
+              "msg": "Aha! I found them. Here you go."
+            }
+          ],
+          "probability": 1,
+          "quest": "InqYesNo"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0,
+              "extent": 1,
+              "msg": "OwnsItem-480608_2"
+            }
+          ],
+          "probability": 1,
+          "quest": "OwnsItem-480608"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 75,
+              "delay": 0,
+              "extent": 1,
+              "msg": "InqYesNo_2",
+              "teststring": "Want to trade 1 Rookie Key for 15 Nexus Writs?"
+            }
+          ],
+          "probability": 1,
+          "quest": "OwnsItem-480608_2"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 74,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 10,
+              "delay": 0,
+              "extent": 1,
+              "msg": "*Tingdale would begin going through his pockets attempting to find 15 nexus writs."
+            },
+            {
+              "type": 10,
+              "delay": 0,
+              "extent": 1,
+              "msg": "Aha! I found them. Here you go."
+            }
+          ],
+          "probability": 1,
+          "quest": "InqYesNo_2"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0,
+              "extent": 1,
+              "msg": "OwnsItem-490364_2"
+            }
+          ],
+          "probability": 1,
+          "quest": "OwnsItem-490364"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 75,
+              "delay": 0,
+              "extent": 1,
+              "msg": "InqYesNo_3",
+              "teststring": "Want to trade 1 Heras Vault Key for 25 Nexus Writs?"
+            }
+          ],
+          "probability": 1,
+          "quest": "OwnsItem-490364_2"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 74,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 10,
+              "delay": 0,
+              "extent": 1,
+              "msg": "*Tingdale would begin going through his pockets attempting to find 25 nexus writs."
+            },
+            {
+              "type": 10,
+              "delay": 0,
+              "extent": 1,
+              "msg": "Aha! I found them. Here you go."
+            }
+          ],
+          "probability": 1,
+          "quest": "InqYesNo_3"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0,
+              "extent": 1,
+              "msg": "OwnsItem-43901_2"
+            }
+          ],
+          "probability": 1,
+          "quest": "OwnsItem-43901"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 75,
+              "delay": 0,
+              "extent": 1,
+              "msg": "InqYesNo_4",
+              "teststring": "Want to trade 50 Prom Notes for 1 Tailoring Token?"
+            }
+          ],
+          "probability": 1,
+          "quest": "OwnsItem-43901_2"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 74,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 10,
+              "delay": 0,
+              "extent": 1,
+              "msg": "*Tingdale would begin going through his pockets attempting to find 1 Tailoring Token."
+            },
+            {
+              "type": 10,
+              "delay": 0,
+              "extent": 1,
+              "msg": "Aha! I found It, Make sure u look pretty you little princess."
+            }
+          ],
+          "probability": 1,
+          "quest": "InqYesNo_4"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0,
+              "extent": 1,
+              "msg": "OwnsItem-716008_2"
+            }
+          ],
+          "probability": 1,
+          "quest": "OwnsItem-716008"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 75,
+              "delay": 0,
+              "extent": 1,
+              "msg": "InqYesNo_5",
+              "teststring": "Want to trade 1 Rookie Key for 15 Nexus Writs?"
+            }
+          ],
+          "probability": 1,
+          "quest": "OwnsItem-716008_2"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 74,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 10,
+              "delay": 0,
+              "extent": 1,
+              "msg": "*Tingdale would begin going through his pockets attempting to find 15 nexus writs."
+            },
+            {
+              "type": 10,
+              "delay": 0,
+              "extent": 1,
+              "msg": "Aha! I found them. Here you go."
+            }
+          ],
+          "probability": 1,
+          "quest": "InqYesNo_5"
+        }
+      ]
+    },
+    {
+      "key": 23,
+      "value": [
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0,
+              "extent": 1,
+              "msg": "Come again when certainty aligns with action."
+            }
+          ],
+          "probability": 1,
+          "quest": "InqYesNo"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0,
+              "extent": 1,
+              "msg": "Come again when certainty aligns with action."
+            }
+          ],
+          "probability": 1,
+          "quest": "InqYesNo_2"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0,
+              "extent": 1,
+              "msg": "Come again when certainty aligns with action."
+            }
+          ],
+          "probability": 1,
+          "quest": "InqYesNo_3"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0,
+              "extent": 1,
+              "msg": "Come again when certainty aligns with action."
+            }
+          ],
+          "probability": 1,
+          "quest": "InqYesNo_4"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0,
+              "extent": 1,
+              "msg": "Come again when certainty aligns with action."
+            }
+          ],
+          "probability": 1,
+          "quest": "InqYesNo_5"
+        }
+      ]
+    }
+  ],
+  "lastModified": "2025-09-17T14:10:14.4480466Z",
+  "modifiedBy": "ACE.Adapter",
+  "changelog": [
+    {
+      "created": "2025-09-06T23:50:05.3975809Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    },
+    {
+      "created": "2025-09-06T23:50:45.804401Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    },
+    {
+      "created": "2025-09-11T01:47:40.2338894Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    },
+    {
+      "created": "2025-09-11T02:10:55.7665251Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    },
+    {
+      "created": "2025-09-17T14:10:14.3483316Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "userChangeSummary": "Weenie exported from ACEmulator world database using ACE.Adapter",
+  "isDone": false
+}

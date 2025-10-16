@@ -1,0 +1,19 @@
+{
+  "wcid": 86653868,
+  "weenieType": 10,
+  "boolStats": [],
+  "intStats": [],
+  "didStats": [],
+  "iidStats": [],
+  "floatStats": [],
+  "int64Stats": [],
+  "stringStats": [],
+  "changelog": [
+    {
+      "created": "2025-09-15T22:33:38.8378452Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

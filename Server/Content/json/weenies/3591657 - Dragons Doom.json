@@ -1,0 +1,259 @@
+{
+  "wcid": 3591657,
+  "weenieType": 6,
+  "boolStats": [
+    {
+      "key": 22,
+      "value": 1
+    },
+    {
+      "key": 69,
+      "value": 0
+    },
+    {
+      "key": 99,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 3,
+      "value": 52
+    },
+    {
+      "key": 5,
+      "value": 450
+    },
+    {
+      "key": 9,
+      "value": 1048576
+    },
+    {
+      "key": 16,
+      "value": 1
+    },
+    {
+      "key": 18,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 10000
+    },
+    {
+      "key": 33,
+      "value": 1
+    },
+    {
+      "key": 44,
+      "value": 84
+    },
+    {
+      "key": 45,
+      "value": 3
+    },
+    {
+      "key": 46,
+      "value": 2
+    },
+    {
+      "key": 47,
+      "value": 6
+    },
+    {
+      "key": 48,
+      "value": 44
+    },
+    {
+      "key": 49,
+      "value": 35
+    },
+    {
+      "key": 51,
+      "value": 1
+    },
+    {
+      "key": 93,
+      "value": 1044
+    },
+    {
+      "key": 106,
+      "value": 450
+    },
+    {
+      "key": 107,
+      "value": 10000
+    },
+    {
+      "key": 108,
+      "value": 10000
+    },
+    {
+      "key": 151,
+      "value": 2
+    },
+    {
+      "key": 158,
+      "value": 2
+    },
+    {
+      "key": 159,
+      "value": 44
+    },
+    {
+      "key": 160,
+      "value": 400
+    },
+    {
+      "key": 166,
+      "value": 71
+    },
+    {
+      "key": 263,
+      "value": 1
+    },
+    {
+      "key": 353,
+      "value": 2
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33560340
+    },
+    {
+      "key": 3,
+      "value": 536870932
+    },
+    {
+      "key": 6,
+      "value": 67109311
+    },
+    {
+      "key": 7,
+      "value": 268444190
+    },
+    {
+      "key": 8,
+      "value": 100670666
+    },
+    {
+      "key": 22,
+      "value": 872415275
+    },
+    {
+      "key": 52,
+      "value": 100676441
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 5,
+      "value": -0.033
+    },
+    {
+      "key": 21,
+      "value": 0
+    },
+    {
+      "key": 22,
+      "value": 0.4
+    },
+    {
+      "key": 26,
+      "value": 0
+    },
+    {
+      "key": 29,
+      "value": 1.39
+    },
+    {
+      "key": 39,
+      "value": 1.9
+    },
+    {
+      "key": 62,
+      "value": 1.29
+    },
+    {
+      "key": 63,
+      "value": 1
+    },
+    {
+      "key": 138,
+      "value": 2.5
+    },
+    {
+      "key": 147,
+      "value": 0.3
+    },
+    {
+      "key": 157,
+      "value": 1
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Dragons Doom"
+    },
+    {
+      "key": 16,
+      "value": "A sword, crafted from the remains of Dragons."
+    }
+  ],
+  "spellbook": [
+    {
+      "key": 2096,
+      "value": {
+        "casting_likelihood": 2
+      }
+    },
+    {
+      "key": 2101,
+      "value": {
+        "casting_likelihood": 2
+      }
+    },
+    {
+      "key": 2106,
+      "value": {
+        "casting_likelihood": 2
+      }
+    },
+    {
+      "key": 2116,
+      "value": {
+        "casting_likelihood": 2
+      }
+    }
+  ],
+  "lastModified": "2025-10-07T03:23:49.5993445Z",
+  "modifiedBy": "ACE.Adapter",
+  "changelog": [
+    {
+      "created": "2025-10-04T16:54:36.6238687Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    },
+    {
+      "created": "2025-10-04T17:45:58.0161857Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    },
+    {
+      "created": "2025-10-07T03:23:49.5885011Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "userChangeSummary": "Weenie exported from ACEmulator world database using ACE.Adapter",
+  "isDone": false
+}

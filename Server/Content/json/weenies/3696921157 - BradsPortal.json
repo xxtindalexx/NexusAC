@@ -1,0 +1,239 @@
+{
+  "wcid": 3696921157,
+  "weenieType": 1,
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 12,
+      "value": 1
+    },
+    {
+      "key": 13,
+      "value": 1
+    },
+    {
+      "key": 14,
+      "value": 1
+    },
+    {
+      "key": 15,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 128
+    },
+    {
+      "key": 16,
+      "value": 32
+    },
+    {
+      "key": 93,
+      "value": 3084
+    },
+    {
+      "key": 111,
+      "value": 1
+    },
+    {
+      "key": 133,
+      "value": 4
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33555925
+    },
+    {
+      "key": 2,
+      "value": 150994947
+    },
+    {
+      "key": 8,
+      "value": 100667499
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 54,
+      "value": -0.1
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Not A Portal"
+    },
+    {
+      "key": 16,
+      "value": "shhh"
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 7,
+      "value": [
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0,
+              "extent": 1,
+              "msg": "OwnsItem-10006161_11"
+            }
+          ],
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "key": 22,
+      "value": [
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0,
+              "extent": 1,
+              "msg": "OwnsItem-20630_11"
+            }
+          ],
+          "probability": 1,
+          "quest": "OwnsItem-10006161_11"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 75,
+              "delay": 0,
+              "extent": 1,
+              "msg": "InqYesNo_10",
+              "teststring": "Do you wish to pay for passage?"
+            }
+          ],
+          "probability": 1,
+          "quest": "OwnsItem-20630_11"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 74,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 74,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 99,
+              "delay": 0,
+              "extent": 1,
+              "mPosition": {
+                "frame": {
+                  "origin": {
+                    "x": 154.743,
+                    "y": 158.646,
+                    "z": -0.445
+                  },
+                  "angles": {
+                    "w": 0.341091,
+                    "x": 0,
+                    "y": 0,
+                    "z": 0.94003
+                  }
+                },
+                "objcell_id": 3911647287
+              }
+            },
+            {
+              "type": 18,
+              "delay": 0,
+              "extent": 1,
+              "msg": "You have been teleported."
+            }
+          ],
+          "probability": 1,
+          "quest": "InqYesNo_10"
+        }
+      ]
+    },
+    {
+      "key": 23,
+      "value": [
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 8,
+              "delay": 0,
+              "extent": 0,
+              "msg": "Perhaps another time."
+            }
+          ],
+          "probability": 1,
+          "quest": "InqYesNo_10"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0,
+              "extent": 1,
+              "msg": "You need 50 MMDs and 25 writs to pay for passage."
+            }
+          ],
+          "probability": 1,
+          "quest": "OwnsItem-20630_11"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0,
+              "extent": 1,
+              "msg": "You need 50 MMDs and 25 writs to pay for passage."
+            }
+          ],
+          "probability": 1,
+          "quest": "OwnsItem-10006161_11"
+        }
+      ]
+    }
+  ],
+  "lastModified": "2025-09-19T04:21:04.0958397Z",
+  "modifiedBy": "ACE.Adapter",
+  "changelog": [
+    {
+      "created": "2025-09-19T04:17:44.5012843Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    },
+    {
+      "created": "2025-09-19T04:21:04.0939965Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "userChangeSummary": "Weenie exported from ACEmulator world database using ACE.Adapter",
+  "isDone": false
+}

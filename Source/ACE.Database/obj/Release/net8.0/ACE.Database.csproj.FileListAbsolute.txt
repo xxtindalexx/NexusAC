@@ -1,0 +1,85 @@
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Database\bin\Release\net8.0\ACE.Database.deps.json
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Database\bin\Release\net8.0\ACE.Database.dll
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Database\bin\Release\net8.0\ACE.Database.pdb
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Database\bin\Release\net8.0\ACE.Common.dll
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Database\bin\Release\net8.0\ACE.Entity.dll
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Database\bin\Release\net8.0\ACE.Entity.pdb
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Database\bin\Release\net8.0\ACE.Common.pdb
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Database\obj\Release\net8.0\ACE.Database.csproj.AssemblyReference.cache
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Database\obj\Release\net8.0\ACE.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Database\obj\Release\net8.0\ACE.Database.AssemblyInfoInputs.cache
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Database\obj\Release\net8.0\ACE.Database.AssemblyInfo.cs
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Database\obj\Release\net8.0\ACE.Database.csproj.CoreCompileInputs.cache
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Database\obj\Release\net8.0\ACE.Data.8AF28D69.Up2Date
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Database\obj\Release\net8.0\ACE.Database.dll
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Database\obj\Release\net8.0\refint\ACE.Database.dll
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Database\obj\Release\net8.0\ACE.Database.pdb
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Database\obj\Release\net8.0\ref\ACE.Database.dll
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Database\bin\Release\net8.0\ACE.Database.deps.json
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Database\bin\Release\net8.0\ACE.Database.dll
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Database\bin\Release\net8.0\ACE.Database.pdb
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Database\bin\Release\net8.0\ACE.Common.dll
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Database\bin\Release\net8.0\ACE.Entity.dll
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Database\bin\Release\net8.0\ACE.Entity.pdb
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Database\bin\Release\net8.0\ACE.Common.pdb
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Database\obj\Release\net8.0\ACE.Database.csproj.AssemblyReference.cache
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Database\obj\Release\net8.0\ACE.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Database\obj\Release\net8.0\ACE.Database.AssemblyInfoInputs.cache
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Database\obj\Release\net8.0\ACE.Database.AssemblyInfo.cs
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Database\obj\Release\net8.0\ACE.Database.csproj.CoreCompileInputs.cache
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Database\obj\Release\net8.0\ACE.Data.8AF28D69.Up2Date
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Database\obj\Release\net8.0\ACE.Database.dll
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Database\obj\Release\net8.0\refint\ACE.Database.dll
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Database\obj\Release\net8.0\ACE.Database.pdb
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Database\obj\Release\net8.0\ref\ACE.Database.dll
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Database\bin\Release\net8.0\ACE.Database.deps.json
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Database\bin\Release\net8.0\ACE.Database.dll
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Database\bin\Release\net8.0\ACE.Database.pdb
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Database\bin\Release\net8.0\ACE.Common.dll
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Database\bin\Release\net8.0\ACE.Entity.dll
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Database\bin\Release\net8.0\ACE.Entity.pdb
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Database\bin\Release\net8.0\ACE.Common.pdb
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Database\obj\Release\net8.0\ACE.Database.csproj.AssemblyReference.cache
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Database\obj\Release\net8.0\ACE.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Database\obj\Release\net8.0\ACE.Database.AssemblyInfoInputs.cache
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Database\obj\Release\net8.0\ACE.Database.AssemblyInfo.cs
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Database\obj\Release\net8.0\ACE.Database.csproj.CoreCompileInputs.cache
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Database\obj\Release\net8.0\ACE.Data.8AF28D69.Up2Date
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Database\obj\Release\net8.0\ACE.Database.dll
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Database\obj\Release\net8.0\refint\ACE.Database.dll
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Database\obj\Release\net8.0\ACE.Database.pdb
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Database\obj\Release\net8.0\ref\ACE.Database.dll
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Database\bin\Release\net8.0\ACE.Database.deps.json
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Database\bin\Release\net8.0\ACE.Database.dll
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Database\bin\Release\net8.0\ACE.Database.pdb
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Database\bin\Release\net8.0\ACE.Common.dll
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Database\bin\Release\net8.0\ACE.Entity.dll
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Database\bin\Release\net8.0\ACE.Entity.pdb
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Database\bin\Release\net8.0\ACE.Common.pdb
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Database\obj\Release\net8.0\ACE.Database.csproj.AssemblyReference.cache
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Database\obj\Release\net8.0\ACE.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Database\obj\Release\net8.0\ACE.Database.AssemblyInfoInputs.cache
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Database\obj\Release\net8.0\ACE.Database.AssemblyInfo.cs
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Database\obj\Release\net8.0\ACE.Database.csproj.CoreCompileInputs.cache
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Database\obj\Release\net8.0\ACE.Data.8AF28D69.Up2Date
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Database\obj\Release\net8.0\ACE.Database.dll
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Database\obj\Release\net8.0\refint\ACE.Database.dll
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Database\obj\Release\net8.0\ACE.Database.pdb
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Database\obj\Release\net8.0\ref\ACE.Database.dll
+C:\Nexus Server Source\Source\ACE.Database\bin\Release\net8.0\ACE.Database.deps.json
+C:\Nexus Server Source\Source\ACE.Database\bin\Release\net8.0\ACE.Database.dll
+C:\Nexus Server Source\Source\ACE.Database\bin\Release\net8.0\ACE.Database.pdb
+C:\Nexus Server Source\Source\ACE.Database\bin\Release\net8.0\ACE.Common.dll
+C:\Nexus Server Source\Source\ACE.Database\bin\Release\net8.0\ACE.Entity.dll
+C:\Nexus Server Source\Source\ACE.Database\bin\Release\net8.0\ACE.Entity.pdb
+C:\Nexus Server Source\Source\ACE.Database\bin\Release\net8.0\ACE.Common.pdb
+C:\Nexus Server Source\Source\ACE.Database\obj\Release\net8.0\ACE.Database.csproj.AssemblyReference.cache
+C:\Nexus Server Source\Source\ACE.Database\obj\Release\net8.0\ACE.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nexus Server Source\Source\ACE.Database\obj\Release\net8.0\ACE.Database.AssemblyInfoInputs.cache
+C:\Nexus Server Source\Source\ACE.Database\obj\Release\net8.0\ACE.Database.AssemblyInfo.cs
+C:\Nexus Server Source\Source\ACE.Database\obj\Release\net8.0\ACE.Database.csproj.CoreCompileInputs.cache
+C:\Nexus Server Source\Source\ACE.Database\obj\Release\net8.0\ACE.Data.8AF28D69.Up2Date
+C:\Nexus Server Source\Source\ACE.Database\obj\Release\net8.0\ACE.Database.dll
+C:\Nexus Server Source\Source\ACE.Database\obj\Release\net8.0\refint\ACE.Database.dll
+C:\Nexus Server Source\Source\ACE.Database\obj\Release\net8.0\ACE.Database.pdb
+C:\Nexus Server Source\Source\ACE.Database\obj\Release\net8.0\ref\ACE.Database.dll

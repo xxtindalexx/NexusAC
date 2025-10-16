@@ -1,0 +1,96 @@
+{
+  "wcid": 22078,
+  "weenieType": 34,
+  "boolStats": [
+    {
+      "key": 22,
+      "value": 1
+    },
+    {
+      "key": 23,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 8192
+    },
+    {
+      "key": 5,
+      "value": 30
+    },
+    {
+      "key": 8,
+      "value": 90
+    },
+    {
+      "key": 9,
+      "value": 0
+    },
+    {
+      "key": 16,
+      "value": 8
+    },
+    {
+      "key": 19,
+      "value": 200
+    },
+    {
+      "key": 33,
+      "value": 1
+    },
+    {
+      "key": 93,
+      "value": 1044
+    },
+    {
+      "key": 114,
+      "value": 1
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33554826
+    },
+    {
+      "key": 8,
+      "value": 100669876
+    },
+    {
+      "key": 22,
+      "value": 872415275
+    },
+    {
+      "key": 28,
+      "value": 2813
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 39,
+      "value": 1.5
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Scroll of Mount Lethe Recall"
+    },
+    {
+      "key": 15,
+      "value": "A scroll scribed in the crooked runes of Harlune the Misanthrope. Reading this scroll will allow you to recall to the base of Mount Lethe."
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2025-10-01T06:59:58.7824099Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

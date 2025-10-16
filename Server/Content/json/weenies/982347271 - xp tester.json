@@ -1,0 +1,1951 @@
+{
+  "wcid": 982347271,
+  "weenieType": 10,
+  "attributes": {
+    "strength": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 200
+    },
+    "endurance": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 290
+    },
+    "coordination": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 200
+    },
+    "quickness": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 200
+    },
+    "focus": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 290
+    },
+    "self": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 290
+    },
+    "health": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 264,
+      "current": 409
+    },
+    "stamina": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 210,
+      "current": 500
+    },
+    "mana": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 259,
+      "current": 584
+    }
+  },
+  "body": {
+    "body_part_table": [
+      {
+        "key": 0,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0,
+          "acache": {
+            "base_armor": 0,
+            "armor_vs_slash": 0,
+            "armor_vs_pierce": 0,
+            "armor_vs_bludgeon": 0,
+            "armor_vs_cold": 0,
+            "armor_vs_fire": 0,
+            "armor_vs_acid": 0,
+            "armor_vs_electric": 0,
+            "armor_vs_nether": 0
+          },
+          "bh": 1,
+          "bpsd": {
+            "HLF": 0.33000001311302185,
+            "MLF": 0,
+            "LLF": 0,
+            "HRF": 0.33000001311302185,
+            "MRF": 0,
+            "LRF": 0,
+            "HLB": 0.33000001311302185,
+            "MLB": 0,
+            "LLB": 0,
+            "HRB": 0.33000001311302185,
+            "MRB": 0,
+            "LRB": 0
+          }
+        }
+      },
+      {
+        "key": 1,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0,
+          "acache": {
+            "base_armor": 0,
+            "armor_vs_slash": 0,
+            "armor_vs_pierce": 0,
+            "armor_vs_bludgeon": 0,
+            "armor_vs_cold": 0,
+            "armor_vs_fire": 0,
+            "armor_vs_acid": 0,
+            "armor_vs_electric": 0,
+            "armor_vs_nether": 0
+          },
+          "bh": 2,
+          "bpsd": {
+            "HLF": 0.4399999976158142,
+            "MLF": 0.17000000178813934,
+            "LLF": 0,
+            "HRF": 0.4399999976158142,
+            "MRF": 0.17000000178813934,
+            "LRF": 0,
+            "HLB": 0.4399999976158142,
+            "MLB": 0.17000000178813934,
+            "LLB": 0,
+            "HRB": 0.4399999976158142,
+            "MRB": 0.17000000178813934,
+            "LRB": 0
+          }
+        }
+      },
+      {
+        "key": 2,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0,
+          "acache": {
+            "base_armor": 0,
+            "armor_vs_slash": 0,
+            "armor_vs_pierce": 0,
+            "armor_vs_bludgeon": 0,
+            "armor_vs_cold": 0,
+            "armor_vs_fire": 0,
+            "armor_vs_acid": 0,
+            "armor_vs_electric": 0,
+            "armor_vs_nether": 0
+          },
+          "bh": 3,
+          "bpsd": {
+            "HLF": 0,
+            "MLF": 0.17000000178813934,
+            "LLF": 0,
+            "HRF": 0,
+            "MRF": 0.17000000178813934,
+            "LRF": 0,
+            "HLB": 0,
+            "MLB": 0.17000000178813934,
+            "LLB": 0,
+            "HRB": 0,
+            "MRB": 0.17000000178813934,
+            "LRB": 0
+          }
+        }
+      },
+      {
+        "key": 3,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0,
+          "acache": {
+            "base_armor": 0,
+            "armor_vs_slash": 0,
+            "armor_vs_pierce": 0,
+            "armor_vs_bludgeon": 0,
+            "armor_vs_cold": 0,
+            "armor_vs_fire": 0,
+            "armor_vs_acid": 0,
+            "armor_vs_electric": 0,
+            "armor_vs_nether": 0
+          },
+          "bh": 1,
+          "bpsd": {
+            "HLF": 0.23000000417232513,
+            "MLF": 0.029999999329447746,
+            "LLF": 0,
+            "HRF": 0.23000000417232513,
+            "MRF": 0.029999999329447746,
+            "LRF": 0,
+            "HLB": 0.23000000417232513,
+            "MLB": 0.029999999329447746,
+            "LLB": 0,
+            "HRB": 0.23000000417232513,
+            "MRB": 0.029999999329447746,
+            "LRB": 0
+          }
+        }
+      },
+      {
+        "key": 4,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0,
+          "acache": {
+            "base_armor": 0,
+            "armor_vs_slash": 0,
+            "armor_vs_pierce": 0,
+            "armor_vs_bludgeon": 0,
+            "armor_vs_cold": 0,
+            "armor_vs_fire": 0,
+            "armor_vs_acid": 0,
+            "armor_vs_electric": 0,
+            "armor_vs_nether": 0
+          },
+          "bh": 2,
+          "bpsd": {
+            "HLF": 0,
+            "MLF": 0.30000001192092896,
+            "LLF": 0,
+            "HRF": 0,
+            "MRF": 0.30000001192092896,
+            "LRF": 0,
+            "HLB": 0,
+            "MLB": 0.30000001192092896,
+            "LLB": 0,
+            "HRB": 0,
+            "MRB": 0.30000001192092896,
+            "LRB": 0
+          }
+        }
+      },
+      {
+        "key": 5,
+        "value": {
+          "dtype": 4,
+          "dval": 2,
+          "dvar": 0.75,
+          "acache": {
+            "base_armor": 0,
+            "armor_vs_slash": 0,
+            "armor_vs_pierce": 0,
+            "armor_vs_bludgeon": 0,
+            "armor_vs_cold": 0,
+            "armor_vs_fire": 0,
+            "armor_vs_acid": 0,
+            "armor_vs_electric": 0,
+            "armor_vs_nether": 0
+          },
+          "bh": 2,
+          "bpsd": {
+            "HLF": 0,
+            "MLF": 0.20000000298023224,
+            "LLF": 0,
+            "HRF": 0,
+            "MRF": 0.20000000298023224,
+            "LRF": 0,
+            "HLB": 0,
+            "MLB": 0.20000000298023224,
+            "LLB": 0,
+            "HRB": 0,
+            "MRB": 0.20000000298023224,
+            "LRB": 0
+          }
+        }
+      },
+      {
+        "key": 6,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0,
+          "acache": {
+            "base_armor": 0,
+            "armor_vs_slash": 0,
+            "armor_vs_pierce": 0,
+            "armor_vs_bludgeon": 0,
+            "armor_vs_cold": 0,
+            "armor_vs_fire": 0,
+            "armor_vs_acid": 0,
+            "armor_vs_electric": 0,
+            "armor_vs_nether": 0
+          },
+          "bh": 3,
+          "bpsd": {
+            "HLF": 0,
+            "MLF": 0.12999999523162842,
+            "LLF": 0.18000000715255737,
+            "HRF": 0,
+            "MRF": 0.12999999523162842,
+            "LRF": 0.18000000715255737,
+            "HLB": 0,
+            "MLB": 0.12999999523162842,
+            "LLB": 0.18000000715255737,
+            "HRB": 0,
+            "MRB": 0.12999999523162842,
+            "LRB": 0.18000000715255737
+          }
+        }
+      },
+      {
+        "key": 7,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0,
+          "acache": {
+            "base_armor": 0,
+            "armor_vs_slash": 0,
+            "armor_vs_pierce": 0,
+            "armor_vs_bludgeon": 0,
+            "armor_vs_cold": 0,
+            "armor_vs_fire": 0,
+            "armor_vs_acid": 0,
+            "armor_vs_electric": 0,
+            "armor_vs_nether": 0
+          },
+          "bh": 3,
+          "bpsd": {
+            "HLF": 0,
+            "MLF": 0,
+            "LLF": 0.6000000238418579,
+            "HRF": 0,
+            "MRF": 0,
+            "LRF": 0.6000000238418579,
+            "HLB": 0,
+            "MLB": 0,
+            "LLB": 0.6000000238418579,
+            "HRB": 0,
+            "MRB": 0,
+            "LRB": 0.6000000238418579
+          }
+        }
+      },
+      {
+        "key": 8,
+        "value": {
+          "dtype": 4,
+          "dval": 2,
+          "dvar": 0.75,
+          "acache": {
+            "base_armor": 0,
+            "armor_vs_slash": 0,
+            "armor_vs_pierce": 0,
+            "armor_vs_bludgeon": 0,
+            "armor_vs_cold": 0,
+            "armor_vs_fire": 0,
+            "armor_vs_acid": 0,
+            "armor_vs_electric": 0,
+            "armor_vs_nether": 0
+          },
+          "bh": 3,
+          "bpsd": {
+            "HLF": 0,
+            "MLF": 0,
+            "LLF": 0.2199999988079071,
+            "HRF": 0,
+            "MRF": 0,
+            "LRF": 0.2199999988079071,
+            "HLB": 0,
+            "MLB": 0,
+            "LLB": 0.2199999988079071,
+            "HRB": 0,
+            "MRB": 0,
+            "LRB": 0.2199999988079071
+          }
+        }
+      }
+    ]
+  },
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 8,
+      "value": 1
+    },
+    {
+      "key": 11,
+      "value": 0
+    },
+    {
+      "key": 12,
+      "value": 1
+    },
+    {
+      "key": 13,
+      "value": 0
+    },
+    {
+      "key": 19,
+      "value": 0
+    },
+    {
+      "key": 41,
+      "value": 1
+    },
+    {
+      "key": 42,
+      "value": 1
+    },
+    {
+      "key": 52,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 16
+    },
+    {
+      "key": 2,
+      "value": 30
+    },
+    {
+      "key": 3,
+      "value": 8
+    },
+    {
+      "key": 6,
+      "value": -1
+    },
+    {
+      "key": 7,
+      "value": -1
+    },
+    {
+      "key": 8,
+      "value": 120
+    },
+    {
+      "key": 16,
+      "value": 32
+    },
+    {
+      "key": 25,
+      "value": 275
+    },
+    {
+      "key": 27,
+      "value": 0
+    },
+    {
+      "key": 30,
+      "value": 1
+    },
+    {
+      "key": 67,
+      "value": 1
+    },
+    {
+      "key": 93,
+      "value": 6292504
+    },
+    {
+      "key": 95,
+      "value": 5
+    },
+    {
+      "key": 113,
+      "value": 1
+    },
+    {
+      "key": 133,
+      "value": 4
+    },
+    {
+      "key": 134,
+      "value": 16
+    },
+    {
+      "key": 146,
+      "value": 0
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33561612
+    },
+    {
+      "key": 2,
+      "value": 150994945
+    },
+    {
+      "key": 3,
+      "value": 536871047
+    },
+    {
+      "key": 6,
+      "value": 67108990
+    },
+    {
+      "key": 7,
+      "value": 268437609
+    },
+    {
+      "key": 8,
+      "value": 100667446
+    }
+  ],
+  "iidStats": [
+    {
+      "key": 16,
+      "value": 29950447
+    }
+  ],
+  "floatStats": [
+    {
+      "key": 1,
+      "value": 5
+    },
+    {
+      "key": 2,
+      "value": 0
+    },
+    {
+      "key": 3,
+      "value": 0.16
+    },
+    {
+      "key": 4,
+      "value": 5
+    },
+    {
+      "key": 5,
+      "value": 1
+    },
+    {
+      "key": 11,
+      "value": 300
+    },
+    {
+      "key": 12,
+      "value": 0
+    },
+    {
+      "key": 37,
+      "value": 1
+    },
+    {
+      "key": 38,
+      "value": 1
+    },
+    {
+      "key": 39,
+      "value": 2
+    },
+    {
+      "key": 54,
+      "value": 5
+    },
+    {
+      "key": 76,
+      "value": 0.2
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Forgemaster of Souls"
+    },
+    {
+      "key": 5,
+      "value": "Architect of Fate"
+    }
+  ],
+  "createList": [
+    {
+      "wcid": 45447,
+      "palette": 0,
+      "shade": 0,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 7,
+      "value": [
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0,
+              "extent": 1,
+              "motion": 1090519043
+            },
+            {
+              "type": 12,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 10,
+              "delay": 0.1,
+              "extent": 1,
+              "msg": "I am the Forgemaster of Souls."
+            },
+            {
+              "type": 10,
+              "delay": 1,
+              "extent": 1,
+              "msg": "Speak the words \"100 million\", \"500 million\", or \"1 billion\" to gamble experience."
+            },
+            {
+              "type": 10,
+              "delay": 1,
+              "extent": 1,
+              "msg": "Or say \"50k lum\", \"100k lum\", or \"150k lum\" to gamble luminance instead."
+            },
+            {
+              "type": 10,
+              "delay": 1,
+              "extent": 1,
+              "msg": "But know this—only one in two returns."
+            }
+          ],
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "key": 38,
+      "value": [
+        {
+          "category": 38,
+          "emotes": [
+            {
+              "type": 114,
+              "delay": 0,
+              "extent": 1,
+              "msg": "AvailableExperience_100000000_2",
+              "min64": 100000000,
+              "max64": 9223372036854775807,
+              "stat": 2
+            }
+          ],
+          "probability": 1,
+          "quest": "100 million"
+        },
+        {
+          "category": 38,
+          "emotes": [
+            {
+              "type": 114,
+              "delay": 0,
+              "extent": 1,
+              "msg": "AvailableExperience_500000000_2",
+              "min64": 500000000,
+              "max64": 9223372036854775807,
+              "stat": 2
+            }
+          ],
+          "probability": 1,
+          "quest": "500 million"
+        },
+        {
+          "category": 38,
+          "emotes": [
+            {
+              "type": 114,
+              "delay": 0,
+              "extent": 1,
+              "msg": "AvailableExperience_1E+09_2",
+              "min64": 1000000000,
+              "max64": 9223372036854775807,
+              "stat": 2
+            }
+          ],
+          "probability": 1,
+          "quest": "1 billion"
+        },
+        {
+          "category": 38,
+          "emotes": [
+            {
+              "type": 114,
+              "delay": 0,
+              "extent": 1,
+              "msg": "AvailableLuminance_50000_2",
+              "min64": 50000,
+              "max64": 9223372036854775807,
+              "stat": 6
+            }
+          ],
+          "probability": 1,
+          "quest": "50k lum"
+        },
+        {
+          "category": 38,
+          "emotes": [
+            {
+              "type": 114,
+              "delay": 0,
+              "extent": 1,
+              "msg": "AvailableLuminance_100000_2",
+              "min64": 100000,
+              "max64": 9223372036854775807,
+              "stat": 6
+            }
+          ],
+          "probability": 1,
+          "quest": "100k lum"
+        },
+        {
+          "category": 38,
+          "emotes": [
+            {
+              "type": 114,
+              "delay": 0,
+              "extent": 1,
+              "msg": "AvailableLuminance_150000_2",
+              "min64": 150000,
+              "max64": 9223372036854775807,
+              "stat": 6
+            }
+          ],
+          "probability": 1,
+          "quest": "150k lum"
+        }
+      ]
+    },
+    {
+      "key": 22,
+      "value": [
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 36,
+              "delay": 0,
+              "extent": 1,
+              "msg": "Level_150-275_7",
+              "max": 275,
+              "min": 150,
+              "stat": 25
+            }
+          ],
+          "probability": 1,
+          "quest": "AvailableExperience_100000000_2"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0,
+              "extent": 1,
+              "msg": "soul_gamble_xp_cd"
+            }
+          ],
+          "probability": 1,
+          "quest": "Level_150-275_7"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 22,
+              "delay": 0,
+              "extent": 1,
+              "msg": "soul_gamble_xp_cd"
+            },
+            {
+              "type": 2,
+              "delay": 0,
+              "extent": 1,
+              "amount64": 4194967296
+            },
+            {
+              "type": 10,
+              "delay": 1,
+              "extent": 1,
+              "msg": "You place your soul into the forge. Let fate decide."
+            },
+            {
+              "type": 10,
+              "delay": 1,
+              "extent": 1,
+              "msg": "Deciding fate..."
+            },
+            {
+              "type": 67,
+              "delay": 0,
+              "extent": 1,
+              "msg": "SoulGambleOutcome100"
+            }
+          ],
+          "probability": 1,
+          "quest": "InqYesNo_7"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 36,
+              "delay": 0,
+              "extent": 1,
+              "msg": "Level_150-275_8",
+              "max": 275,
+              "min": 150,
+              "stat": 25
+            }
+          ],
+          "probability": 1,
+          "quest": "AvailableExperience_500000000_2"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0,
+              "extent": 1,
+              "msg": "soul_gamble_xp_cd@2"
+            }
+          ],
+          "probability": 1,
+          "quest": "Level_150-275_8"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 22,
+              "delay": 0,
+              "extent": 1,
+              "msg": "soul_gamble_xp_cd"
+            },
+            {
+              "type": 2,
+              "delay": 0,
+              "extent": 1,
+              "amount64": 3794967296
+            },
+            {
+              "type": 10,
+              "delay": 1,
+              "extent": 1,
+              "msg": "You place your soul into the forge. Let fate decide."
+            },
+            {
+              "type": 10,
+              "delay": 1,
+              "extent": 1,
+              "msg": "Deciding fate..."
+            },
+            {
+              "type": 67,
+              "delay": 0,
+              "extent": 1,
+              "msg": "SoulGambleOutcome500"
+            }
+          ],
+          "probability": 1,
+          "quest": "InqYesNo_8"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 36,
+              "delay": 0,
+              "extent": 1,
+              "msg": "Level_150-275_9",
+              "max": 275,
+              "min": 150,
+              "stat": 25
+            }
+          ],
+          "probability": 1,
+          "quest": "AvailableExperience_1E+09_2"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0,
+              "extent": 1,
+              "msg": "soul_gamble_xp_cd@3"
+            }
+          ],
+          "probability": 1,
+          "quest": "Level_150-275_9"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 22,
+              "delay": 0,
+              "extent": 1,
+              "msg": "soul_gamble_xp_cd"
+            },
+            {
+              "type": 2,
+              "delay": 0,
+              "extent": 1,
+              "amount64": 3294967296
+            },
+            {
+              "type": 10,
+              "delay": 1,
+              "extent": 1,
+              "msg": "You place your soul into the forge. Let fate decide."
+            },
+            {
+              "type": 10,
+              "delay": 1,
+              "extent": 1,
+              "msg": "Deciding fate..."
+            },
+            {
+              "type": 67,
+              "delay": 0,
+              "extent": 1,
+              "msg": "SoulGambleOutcome1000"
+            }
+          ],
+          "probability": 1,
+          "quest": "InqYesNo_9"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 36,
+              "delay": 0,
+              "extent": 1,
+              "msg": "Level_150-275_10",
+              "max": 275,
+              "min": 150,
+              "stat": 25
+            }
+          ],
+          "probability": 1,
+          "quest": "AvailableLuminance_50000_2"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0,
+              "extent": 1,
+              "msg": "soul_gamble_lum_cd"
+            }
+          ],
+          "probability": 1,
+          "quest": "Level_150-275_10"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 22,
+              "delay": 0,
+              "extent": 1,
+              "msg": "soul_gamble_lum_cd"
+            },
+            {
+              "type": 112,
+              "delay": 0,
+              "extent": 1,
+              "heroxp64": 50000
+            },
+            {
+              "type": 10,
+              "delay": 1,
+              "extent": 1,
+              "msg": "You offer your luminance to the flames..."
+            },
+            {
+              "type": 10,
+              "delay": 1,
+              "extent": 1,
+              "msg": "Deciding fate..."
+            },
+            {
+              "type": 67,
+              "delay": 0,
+              "extent": 1,
+              "msg": "SoulGambleOutcomeLUM50"
+            }
+          ],
+          "probability": 1,
+          "quest": "InqYesNo_10"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 36,
+              "delay": 0,
+              "extent": 1,
+              "msg": "Level_150-275_11",
+              "max": 275,
+              "min": 150,
+              "stat": 25
+            }
+          ],
+          "probability": 1,
+          "quest": "AvailableLuminance_100000_2"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0,
+              "extent": 1,
+              "msg": "soul_gamble_lum_cd@2"
+            }
+          ],
+          "probability": 1,
+          "quest": "Level_150-275_11"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 22,
+              "delay": 0,
+              "extent": 1,
+              "msg": "soul_gamble_lum_cd"
+            },
+            {
+              "type": 112,
+              "delay": 0,
+              "extent": 1,
+              "heroxp64": 100000
+            },
+            {
+              "type": 10,
+              "delay": 1,
+              "extent": 1,
+              "msg": "You offer your luminance to the flames..."
+            },
+            {
+              "type": 10,
+              "delay": 1,
+              "extent": 1,
+              "msg": "Deciding fate..."
+            },
+            {
+              "type": 67,
+              "delay": 0,
+              "extent": 1,
+              "msg": "SoulGambleOutcomeLUM100"
+            }
+          ],
+          "probability": 1,
+          "quest": "InqYesNo_11"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 36,
+              "delay": 0,
+              "extent": 1,
+              "msg": "Level_150-275_12",
+              "max": 275,
+              "min": 150,
+              "stat": 25
+            }
+          ],
+          "probability": 1,
+          "quest": "AvailableLuminance_150000_2"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0,
+              "extent": 1,
+              "msg": "soul_gamble_lum_cd@3"
+            }
+          ],
+          "probability": 1,
+          "quest": "Level_150-275_12"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 22,
+              "delay": 0,
+              "extent": 1,
+              "msg": "soul_gamble_lum_cd"
+            },
+            {
+              "type": 112,
+              "delay": 0,
+              "extent": 1,
+              "heroxp64": 150000
+            },
+            {
+              "type": 10,
+              "delay": 1,
+              "extent": 1,
+              "msg": "You offer your luminance to the flames..."
+            },
+            {
+              "type": 10,
+              "delay": 1,
+              "extent": 1,
+              "msg": "Deciding fate..."
+            },
+            {
+              "type": 67,
+              "delay": 0,
+              "extent": 1,
+              "msg": "SoulGambleOutcomeLUM150"
+            }
+          ],
+          "probability": 1,
+          "quest": "InqYesNo_12"
+        }
+      ]
+    },
+    {
+      "key": 12,
+      "value": [
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0,
+              "extent": 1,
+              "msg": "The forge is cooling. Return after the heat rises again. (XP gamble cooldown active for 12 hours)"
+            }
+          ],
+          "probability": 1,
+          "quest": "soul_gamble_xp_cd"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0,
+              "extent": 1,
+              "msg": "The forge is cooling. Return after the heat rises again. (XP gamble cooldown active for 12 hours)"
+            }
+          ],
+          "probability": 1,
+          "quest": "soul_gamble_xp_cd@2"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0,
+              "extent": 1,
+              "msg": "The forge is cooling. Return after the heat rises again. (XP gamble cooldown active for 12 hours)"
+            }
+          ],
+          "probability": 1,
+          "quest": "soul_gamble_xp_cd@3"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0,
+              "extent": 1,
+              "msg": "The light is dim. Return when it brightens again. (Luminance gamble cooldown active for 12 hours)"
+            }
+          ],
+          "probability": 1,
+          "quest": "soul_gamble_lum_cd"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0,
+              "extent": 1,
+              "msg": "The light is dim. Return when it brightens again. (Luminance gamble cooldown active for 12 hours)"
+            }
+          ],
+          "probability": 1,
+          "quest": "soul_gamble_lum_cd@2"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0,
+              "extent": 1,
+              "msg": "The light is dim. Return when it brightens again. (Luminance gamble cooldown active for 12 hours)"
+            }
+          ],
+          "probability": 1,
+          "quest": "soul_gamble_lum_cd@3"
+        }
+      ]
+    },
+    {
+      "key": 13,
+      "value": [
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 75,
+              "delay": 0,
+              "extent": 1,
+              "msg": "InqYesNo_7",
+              "teststring": "Do you wish to place your soul into the forge and gamble 100 million experience?"
+            }
+          ],
+          "probability": 1,
+          "quest": "soul_gamble_xp_cd"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 75,
+              "delay": 0,
+              "extent": 1,
+              "msg": "InqYesNo_8",
+              "teststring": "Do you wish to place your soul into the forge and gamble 500 million experience?"
+            }
+          ],
+          "probability": 1,
+          "quest": "soul_gamble_xp_cd@2"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 75,
+              "delay": 0,
+              "extent": 1,
+              "msg": "InqYesNo_9",
+              "teststring": "Do you wish to place your soul into the forge and gamble 1 billion experience?"
+            }
+          ],
+          "probability": 1,
+          "quest": "soul_gamble_xp_cd@3"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 75,
+              "delay": 0,
+              "extent": 1,
+              "msg": "InqYesNo_10",
+              "teststring": "Do you wish to gamble 50,000 luminance in the Forge?"
+            }
+          ],
+          "probability": 1,
+          "quest": "soul_gamble_lum_cd"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 75,
+              "delay": 0,
+              "extent": 1,
+              "msg": "InqYesNo_11",
+              "teststring": "Do you wish to gamble 100,000 luminance in the Forge?"
+            }
+          ],
+          "probability": 1,
+          "quest": "soul_gamble_lum_cd@2"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 75,
+              "delay": 0,
+              "extent": 1,
+              "msg": "InqYesNo_12",
+              "teststring": "Do you wish to gamble 150,000 luminance in the Forge?"
+            }
+          ],
+          "probability": 1,
+          "quest": "soul_gamble_lum_cd@3"
+        }
+      ]
+    },
+    {
+      "key": 32,
+      "value": [
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 62,
+              "delay": 0,
+              "extent": 1,
+              "amount64": 500000000
+            },
+            {
+              "type": 10,
+              "delay": 0,
+              "extent": 1,
+              "msg": "Ha! The flames favor you today. Your soul sings, stronger than before."
+            },
+            {
+              "type": 18,
+              "delay": 0,
+              "extent": 1,
+              "msg": "You gain double the XP you wagered."
+            }
+          ],
+          "probability": 0.5,
+          "quest": "SoulGambleOutcome100"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0,
+              "extent": 1,
+              "msg": "Ah... unlucky."
+            },
+            {
+              "type": 10,
+              "delay": 1,
+              "extent": 1,
+              "msg": "The Forge thanks you for your donation."
+            },
+            {
+              "type": 0,
+              "delay": 2,
+              "extent": 1
+            },
+            {
+              "type": 9,
+              "delay": 0,
+              "extent": 1,
+              "sound": 149
+            },
+            {
+              "type": 18,
+              "delay": 0,
+              "extent": 1,
+              "msg": "You have been reaped by the Soul Gambler."
+            },
+            {
+              "type": 14,
+              "delay": 0,
+              "extent": 1,
+              "spellid": 4926
+            }
+          ],
+          "probability": 1,
+          "quest": "SoulGambleOutcome100"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 62,
+              "delay": 0,
+              "extent": 1,
+              "amount64": 2500000000
+            },
+            {
+              "type": 10,
+              "delay": 0,
+              "extent": 1,
+              "msg": "Ha! The flames favor you today. Your soul sings, stronger than before."
+            },
+            {
+              "type": 18,
+              "delay": 0,
+              "extent": 1,
+              "msg": "You gain double the XP you wagered."
+            }
+          ],
+          "probability": 0.5,
+          "quest": "SoulGambleOutcome500"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0,
+              "extent": 1,
+              "msg": "Ah... unlucky."
+            },
+            {
+              "type": 10,
+              "delay": 1,
+              "extent": 1,
+              "msg": "The Forge thanks you for your donation."
+            },
+            {
+              "type": 0,
+              "delay": 2,
+              "extent": 1
+            },
+            {
+              "type": 9,
+              "delay": 0,
+              "extent": 1,
+              "sound": 149
+            },
+            {
+              "type": 18,
+              "delay": 0,
+              "extent": 1,
+              "msg": "You have been reaped by the Soul Gambler."
+            },
+            {
+              "type": 14,
+              "delay": 0,
+              "extent": 1,
+              "spellid": 4926
+            }
+          ],
+          "probability": 1,
+          "quest": "SoulGambleOutcome500"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 62,
+              "delay": 0,
+              "extent": 1,
+              "amount64": 705032704
+            },
+            {
+              "type": 10,
+              "delay": 0,
+              "extent": 1,
+              "msg": "Ha! The flames favor you today. Your soul sings, stronger than before."
+            },
+            {
+              "type": 18,
+              "delay": 0,
+              "extent": 1,
+              "msg": "You gain double the XP you wagered."
+            }
+          ],
+          "probability": 0.5,
+          "quest": "SoulGambleOutcome1000"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0,
+              "extent": 1,
+              "msg": "Ah... unlucky."
+            },
+            {
+              "type": 10,
+              "delay": 1,
+              "extent": 1,
+              "msg": "The Forge thanks you for your donation."
+            },
+            {
+              "type": 0,
+              "delay": 2,
+              "extent": 1
+            },
+            {
+              "type": 9,
+              "delay": 0,
+              "extent": 1,
+              "sound": 149
+            },
+            {
+              "type": 18,
+              "delay": 0,
+              "extent": 1,
+              "msg": "You have been reaped by the Soul Gambler."
+            },
+            {
+              "type": 14,
+              "delay": 0,
+              "extent": 1,
+              "spellid": 4926
+            }
+          ],
+          "probability": 1,
+          "quest": "SoulGambleOutcome1000"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 113,
+              "delay": 0,
+              "extent": 1,
+              "heroxp64": 250000
+            },
+            {
+              "type": 10,
+              "delay": 0,
+              "extent": 1,
+              "msg": "The light within you grows. You have doubled your luminance."
+            },
+            {
+              "type": 18,
+              "delay": 0,
+              "extent": 1,
+              "msg": "The forge grants luminance to the bold."
+            }
+          ],
+          "probability": 0.5,
+          "quest": "SoulGambleOutcomeLUM50"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0,
+              "extent": 1,
+              "msg": "Ah... unlucky."
+            },
+            {
+              "type": 10,
+              "delay": 1,
+              "extent": 1,
+              "msg": "The Forge consumes your glow."
+            },
+            {
+              "type": 0,
+              "delay": 2,
+              "extent": 1
+            },
+            {
+              "type": 9,
+              "delay": 0,
+              "extent": 1,
+              "sound": 149
+            },
+            {
+              "type": 18,
+              "delay": 0,
+              "extent": 1,
+              "msg": "The soullight has dimmed."
+            },
+            {
+              "type": 14,
+              "delay": 0,
+              "extent": 1,
+              "spellid": 4926
+            }
+          ],
+          "probability": 1,
+          "quest": "SoulGambleOutcomeLUM50"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 113,
+              "delay": 0,
+              "extent": 1,
+              "heroxp64": 500000
+            },
+            {
+              "type": 10,
+              "delay": 0,
+              "extent": 1,
+              "msg": "The light within you grows. You have doubled your luminance."
+            },
+            {
+              "type": 18,
+              "delay": 0,
+              "extent": 1,
+              "msg": "The forge grants luminance to the bold."
+            }
+          ],
+          "probability": 0.5,
+          "quest": "SoulGambleOutcomeLUM100"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0,
+              "extent": 1,
+              "msg": "Ah... unlucky."
+            },
+            {
+              "type": 10,
+              "delay": 1,
+              "extent": 1,
+              "msg": "The Forge consumes your glow."
+            },
+            {
+              "type": 0,
+              "delay": 2,
+              "extent": 1
+            },
+            {
+              "type": 9,
+              "delay": 0,
+              "extent": 1,
+              "sound": 149
+            },
+            {
+              "type": 18,
+              "delay": 0,
+              "extent": 1,
+              "msg": "The soullight has dimmed."
+            },
+            {
+              "type": 14,
+              "delay": 0,
+              "extent": 1,
+              "spellid": 4926
+            }
+          ],
+          "probability": 1,
+          "quest": "SoulGambleOutcomeLUM100"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 113,
+              "delay": 0,
+              "extent": 1,
+              "heroxp64": 750000
+            },
+            {
+              "type": 10,
+              "delay": 0,
+              "extent": 1,
+              "msg": "The light within you grows. You have doubled your luminance."
+            },
+            {
+              "type": 18,
+              "delay": 0,
+              "extent": 1,
+              "msg": "The forge grants luminance to the bold."
+            }
+          ],
+          "probability": 0.5,
+          "quest": "SoulGambleOutcomeLUM150"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0,
+              "extent": 1,
+              "msg": "Ah... unlucky."
+            },
+            {
+              "type": 10,
+              "delay": 1,
+              "extent": 1,
+              "msg": "The Forge consumes your glow."
+            },
+            {
+              "type": 0,
+              "delay": 2,
+              "extent": 1
+            },
+            {
+              "type": 9,
+              "delay": 0,
+              "extent": 1,
+              "sound": 149
+            },
+            {
+              "type": 18,
+              "delay": 0,
+              "extent": 1,
+              "msg": "The soullight has dimmed."
+            },
+            {
+              "type": 14,
+              "delay": 0,
+              "extent": 1,
+              "spellid": 4926
+            }
+          ],
+          "probability": 1,
+          "quest": "SoulGambleOutcomeLUM150"
+        }
+      ]
+    },
+    {
+      "key": 23,
+      "value": [
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0,
+              "extent": 1,
+              "msg": "Fine, I will find you later in death."
+            }
+          ],
+          "probability": 1,
+          "quest": "InqYesNo_7"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0,
+              "extent": 1,
+              "msg": "You must be level 150 or higher to tempt the Forge."
+            }
+          ],
+          "probability": 1,
+          "quest": "Level_150-275_7"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0,
+              "extent": 1,
+              "msg": "You do not have enough experience to gamble."
+            }
+          ],
+          "probability": 1,
+          "quest": "AvailableExperience_100000000_2"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0,
+              "extent": 1,
+              "msg": "Fine, I will find you later in death."
+            }
+          ],
+          "probability": 1,
+          "quest": "InqYesNo_8"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0,
+              "extent": 1,
+              "msg": "You must be level 150 or higher to tempt the Forge."
+            }
+          ],
+          "probability": 1,
+          "quest": "Level_150-275_8"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0,
+              "extent": 1,
+              "msg": "You do not have enough experience to gamble."
+            }
+          ],
+          "probability": 1,
+          "quest": "AvailableExperience_500000000_2"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0,
+              "extent": 1,
+              "msg": "Fine, I will find you later in death."
+            }
+          ],
+          "probability": 1,
+          "quest": "InqYesNo_9"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0,
+              "extent": 1,
+              "msg": "You must be level 150 or higher to tempt the Forge."
+            }
+          ],
+          "probability": 1,
+          "quest": "Level_150-275_9"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0,
+              "extent": 1,
+              "msg": "You do not have enough experience to gamble."
+            }
+          ],
+          "probability": 1,
+          "quest": "AvailableExperience_1E+09_2"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0,
+              "extent": 1,
+              "msg": "Fine, I will find you later in death."
+            }
+          ],
+          "probability": 1,
+          "quest": "InqYesNo_10"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0,
+              "extent": 1,
+              "msg": "You must be level 150 or higher to tempt the Forge."
+            }
+          ],
+          "probability": 1,
+          "quest": "Level_150-275_10"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0,
+              "extent": 1,
+              "msg": "You do not have enough luminance to gamble."
+            }
+          ],
+          "probability": 1,
+          "quest": "AvailableLuminance_50000_2"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0,
+              "extent": 1,
+              "msg": "Fine, I will find you later in death."
+            }
+          ],
+          "probability": 1,
+          "quest": "InqYesNo_11"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0,
+              "extent": 1,
+              "msg": "You must be level 150 or higher to tempt the Forge."
+            }
+          ],
+          "probability": 1,
+          "quest": "Level_150-275_11"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0,
+              "extent": 1,
+              "msg": "You do not have enough luminance to gamble."
+            }
+          ],
+          "probability": 1,
+          "quest": "AvailableLuminance_100000_2"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0,
+              "extent": 1,
+              "msg": "Fine, I will find you later in death."
+            }
+          ],
+          "probability": 1,
+          "quest": "InqYesNo_12"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0,
+              "extent": 1,
+              "msg": "You must be level 150 or higher to tempt the Forge."
+            }
+          ],
+          "probability": 1,
+          "quest": "Level_150-275_12"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0,
+              "extent": 1,
+              "msg": "You do not have enough luminance to gamble."
+            }
+          ],
+          "probability": 1,
+          "quest": "AvailableLuminance_150000_2"
+        }
+      ]
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2025-10-08T06:33:17.1956168Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

@@ -1,0 +1,1565 @@
+{
+  "key": 791609344,
+  "value": {
+    "links": [
+      {
+        "target": 1928523791,
+        "source": 1928523785,
+        "desc": "Tusker Guard(tuskerguard)(wcid: 1629) -> linkmonstergen30minutes(wcid: 3953)"
+      },
+      {
+        "target": 1928523791,
+        "source": 1928523786,
+        "desc": "Tusker Guard(tuskerguard)(wcid: 1629) -> linkmonstergen30minutes(wcid: 3953)"
+      },
+      {
+        "target": 1928523791,
+        "source": 1928523787,
+        "desc": "Tusker Guard(tuskerguard)(wcid: 1629) -> linkmonstergen30minutes(wcid: 3953)"
+      },
+      {
+        "target": 1928523791,
+        "source": 1928523788,
+        "desc": "Tusker Guard(tuskerguard)(wcid: 1629) -> linkmonstergen30minutes(wcid: 3953)"
+      },
+      {
+        "target": 1928523791,
+        "source": 1928523789,
+        "desc": "Tusker Guard(tuskerguard)(wcid: 1629) -> linkmonstergen30minutes(wcid: 3953)"
+      },
+      {
+        "target": 1928523791,
+        "source": 1928523790,
+        "desc": "Tusker Guard(tuskerguard)(wcid: 1629) -> linkmonstergen30minutes(wcid: 3953)"
+      },
+      {
+        "target": 1928523796,
+        "source": 1928523776,
+        "desc": "Virindi Servant(virindi)(wcid: 23) -> linknewbiemonstergen(wcid: 5485)"
+      },
+      {
+        "target": 1928523796,
+        "source": 1928523777,
+        "desc": "Virindi Servant(virindi)(wcid: 23) -> linknewbiemonstergen(wcid: 5485)"
+      },
+      {
+        "target": 1928523796,
+        "source": 1928523778,
+        "desc": "Virindi Servant(virindi)(wcid: 23) -> linknewbiemonstergen(wcid: 5485)"
+      },
+      {
+        "target": 1928523797,
+        "source": 1928523779,
+        "desc": "Virindi Master(virindimaster)(wcid: 237) -> linkmonstergen15minutes(wcid: 3955)"
+      },
+      {
+        "target": 1928523797,
+        "source": 1928523780,
+        "desc": "Virindi Master(virindimaster)(wcid: 237) -> linkmonstergen15minutes(wcid: 3955)"
+      },
+      {
+        "target": 1928523797,
+        "source": 1928523781,
+        "desc": "Virindi Master(virindimaster)(wcid: 237) -> linkmonstergen15minutes(wcid: 3955)"
+      },
+      {
+        "target": 1928523797,
+        "source": 1928523782,
+        "desc": "Virindi Puppet(virindipuppet)(wcid: 238) -> linkmonstergen15minutes(wcid: 3955)"
+      },
+      {
+        "target": 1928523797,
+        "source": 1928523783,
+        "desc": "Virindi Puppet(virindipuppet)(wcid: 238) -> linkmonstergen15minutes(wcid: 3955)"
+      },
+      {
+        "target": 1928523797,
+        "source": 1928523784,
+        "desc": "Virindi Puppet(virindipuppet)(wcid: 238) -> linkmonstergen15minutes(wcid: 3955)"
+      },
+      {
+        "target": 1928525477,
+        "source": 1928525478,
+        "desc": "Exploration Marker(ace39787-explorationmarker)(wcid: 39787) -> linkmonstergen(wcid: 1154)"
+      },
+      {
+        "target": 1928525477,
+        "source": 1928525479,
+        "desc": "Exploration Marker(ace39840-explorationmarker)(wcid: 39840) -> linkmonstergen(wcid: 1154)"
+      }
+    ],
+    "weenies": [
+      {
+        "id": 1928523776,
+        "wcid": 23,
+        "desc": "Virindi Servant(virindi)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 124.105,
+              "y": 60.5153,
+              "z": 2.029
+            },
+            "angles": {
+              "w": -0.760273,
+              "x": 0,
+              "y": 0,
+              "z": -0.649604
+            }
+          },
+          "objcell_id": 791609344
+        }
+      },
+      {
+        "id": 1928523777,
+        "wcid": 23,
+        "desc": "Virindi Servant(virindi)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 126.5,
+              "y": 58.9502,
+              "z": 2.029
+            },
+            "angles": {
+              "w": -0.124212,
+              "x": 0,
+              "y": 0,
+              "z": 0.992256
+            }
+          },
+          "objcell_id": 791609344
+        }
+      },
+      {
+        "id": 1928523778,
+        "wcid": 23,
+        "desc": "Virindi Servant(virindi)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 127.274,
+              "y": 62.4967,
+              "z": 2.029
+            },
+            "angles": {
+              "w": 0.928787,
+              "x": 0,
+              "y": 0,
+              "z": -0.370614
+            }
+          },
+          "objcell_id": 791609344
+        }
+      },
+      {
+        "id": 1928523779,
+        "wcid": 237,
+        "desc": "Virindi Master(virindimaster)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 128.474,
+              "y": 54.708,
+              "z": 2.029
+            },
+            "angles": {
+              "w": -0.974038,
+              "x": 0,
+              "y": 0,
+              "z": -0.226385
+            }
+          },
+          "objcell_id": 791609344
+        }
+      },
+      {
+        "id": 1928523780,
+        "wcid": 237,
+        "desc": "Virindi Master(virindimaster)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 130.126,
+              "y": 68.5245,
+              "z": 2.029
+            },
+            "angles": {
+              "w": -0.207578,
+              "x": 0,
+              "y": 0,
+              "z": -0.978218
+            }
+          },
+          "objcell_id": 791609344
+        }
+      },
+      {
+        "id": 1928523781,
+        "wcid": 237,
+        "desc": "Virindi Master(virindimaster)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 118.146,
+              "y": 60.0775,
+              "z": 2.24128
+            },
+            "angles": {
+              "w": 0.734764,
+              "x": 0,
+              "y": 0,
+              "z": -0.678323
+            }
+          },
+          "objcell_id": 791609344
+        }
+      },
+      {
+        "id": 1928523782,
+        "wcid": 238,
+        "desc": "Virindi Puppet(virindipuppet)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 112.468,
+              "y": 83.0071,
+              "z": 2.94811
+            },
+            "angles": {
+              "w": 0.715153,
+              "x": 0,
+              "y": 0,
+              "z": 0.698968
+            }
+          },
+          "objcell_id": 791609344
+        }
+      },
+      {
+        "id": 1928523783,
+        "wcid": 238,
+        "desc": "Virindi Puppet(virindipuppet)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 117.3,
+              "y": 57.8437,
+              "z": 2.25589
+            },
+            "angles": {
+              "w": 0.87409,
+              "x": 0,
+              "y": 0,
+              "z": 0.485763
+            }
+          },
+          "objcell_id": 791609344
+        }
+      },
+      {
+        "id": 1928523784,
+        "wcid": 238,
+        "desc": "Virindi Puppet(virindipuppet)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 134.458,
+              "y": 82.4903,
+              "z": 2.029
+            },
+            "angles": {
+              "w": 0.962208,
+              "x": 0,
+              "y": 0,
+              "z": -0.272315
+            }
+          },
+          "objcell_id": 791609344
+        }
+      },
+      {
+        "id": 1928523785,
+        "wcid": 1629,
+        "desc": "Tusker Guard(tuskerguard)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 100.904,
+              "y": 85.0691,
+              "z": 3.60579
+            },
+            "angles": {
+              "w": 0.750784,
+              "x": 0,
+              "y": 0,
+              "z": 0.660548
+            }
+          },
+          "objcell_id": 791609344
+        }
+      },
+      {
+        "id": 1928523786,
+        "wcid": 1629,
+        "desc": "Tusker Guard(tuskerguard)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 107.677,
+              "y": 91.6547,
+              "z": 3.65235
+            },
+            "angles": {
+              "w": 0.996252,
+              "x": 0,
+              "y": 0,
+              "z": 0.0865
+            }
+          },
+          "objcell_id": 791609344
+        }
+      },
+      {
+        "id": 1928523787,
+        "wcid": 1629,
+        "desc": "Tusker Guard(tuskerguard)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 144.193,
+              "y": 73.4109,
+              "z": 2.011
+            },
+            "angles": {
+              "w": 0.965328,
+              "x": 0,
+              "y": 0,
+              "z": -0.261042
+            }
+          },
+          "objcell_id": 791609344
+        }
+      },
+      {
+        "id": 1928523788,
+        "wcid": 1629,
+        "desc": "Tusker Guard(tuskerguard)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 150.874,
+              "y": 54.6441,
+              "z": 2.011
+            },
+            "angles": {
+              "w": -0.054154,
+              "x": 0,
+              "y": 0,
+              "z": -0.998533
+            }
+          },
+          "objcell_id": 791609344
+        }
+      },
+      {
+        "id": 1928523789,
+        "wcid": 1629,
+        "desc": "Tusker Guard(tuskerguard)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 115.832,
+              "y": 32.7453,
+              "z": 3.63644
+            },
+            "angles": {
+              "w": 0.637308,
+              "x": 0,
+              "y": 0,
+              "z": -0.770609
+            }
+          },
+          "objcell_id": 791609344
+        }
+      },
+      {
+        "id": 1928523790,
+        "wcid": 1629,
+        "desc": "Tusker Guard(tuskerguard)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 102.049,
+              "y": 41.8577,
+              "z": 4.011
+            },
+            "angles": {
+              "w": -0.902973,
+              "x": 0,
+              "y": 0,
+              "z": -0.429697
+            }
+          },
+          "objcell_id": 791609344
+        }
+      },
+      {
+        "id": 1928523791,
+        "wcid": 3953,
+        "desc": "Linkable Monster Gen (30 min.)(linkmonstergen30minutes)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 123.984,
+              "y": 49.1467,
+              "z": 2.005
+            },
+            "angles": {
+              "w": -0.997366,
+              "x": 0,
+              "y": 0,
+              "z": -0.07253
+            }
+          },
+          "objcell_id": 791609344
+        }
+      },
+      {
+        "id": 1928523792,
+        "wcid": 5403,
+        "desc": "Huge Virindi Mana Field(virindimanafield10)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 158.53,
+              "y": 58.3353,
+              "z": 2.005
+            },
+            "angles": {
+              "w": 0.588121,
+              "x": 0,
+              "y": 0,
+              "z": 0.808773
+            }
+          },
+          "objcell_id": 791609344
+        }
+      },
+      {
+        "id": 1928523793,
+        "wcid": 5403,
+        "desc": "Huge Virindi Mana Field(virindimanafield10)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 105.229,
+              "y": 32.5638,
+              "z": 4
+            },
+            "angles": {
+              "w": 0.16367,
+              "x": 0,
+              "y": 0,
+              "z": -0.986515
+            }
+          },
+          "objcell_id": 791609344
+        }
+      },
+      {
+        "id": 1928523794,
+        "wcid": 5403,
+        "desc": "Huge Virindi Mana Field(virindimanafield10)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 106.508,
+              "y": 87.0429,
+              "z": 3.27572
+            },
+            "angles": {
+              "w": -0.619231,
+              "x": 0,
+              "y": 0,
+              "z": -0.785209
+            }
+          },
+          "objcell_id": 791609344
+        }
+      },
+      {
+        "id": 1928523795,
+        "wcid": 5404,
+        "desc": "Small Virindi Mana Field(virindimanafield4)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 134.252,
+              "y": 61.528,
+              "z": 2
+            },
+            "angles": {
+              "w": -0.700984,
+              "x": 0,
+              "y": 0,
+              "z": -0.713177
+            }
+          },
+          "objcell_id": 791609344
+        }
+      },
+      {
+        "id": 1928523796,
+        "wcid": 5485,
+        "desc": "Linkable Newbie Monster Generator(linknewbiemonstergen)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 124.069,
+              "y": 52.1698,
+              "z": 2.005
+            },
+            "angles": {
+              "w": 0.99333,
+              "x": 0,
+              "y": 0,
+              "z": -0.115306
+            }
+          },
+          "objcell_id": 791609344
+        }
+      },
+      {
+        "id": 1928523797,
+        "wcid": 3955,
+        "desc": "Linkable Monster Gen (15 min.)(linkmonstergen15minutes)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 126.428,
+              "y": 49.504,
+              "z": 2.005
+            },
+            "angles": {
+              "w": -0.997366,
+              "x": 0,
+              "y": 0,
+              "z": -0.07253
+            }
+          },
+          "objcell_id": 791609344
+        }
+      },
+      {
+        "id": 1928523798,
+        "wcid": 5405,
+        "desc": "Medium Virindi Mana Field(virindimanafield6)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 126.361,
+              "y": 64,
+              "z": 2
+            },
+            "angles": {
+              "w": -0.880907,
+              "x": 0,
+              "y": 0,
+              "z": -0.473289
+            }
+          },
+          "objcell_id": 791609344
+        }
+      },
+      {
+        "id": 1928523799,
+        "wcid": 5405,
+        "desc": "Medium Virindi Mana Field(virindimanafield6)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 121.458,
+              "y": 60.3212,
+              "z": 2
+            },
+            "angles": {
+              "w": -0.097183,
+              "x": 0,
+              "y": 0,
+              "z": -0.995266
+            }
+          },
+          "objcell_id": 791609344
+        }
+      },
+      {
+        "id": 1928523800,
+        "wcid": 5405,
+        "desc": "Medium Virindi Mana Field(virindimanafield6)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 127.085,
+              "y": 56.7579,
+              "z": 2
+            },
+            "angles": {
+              "w": 0.829569,
+              "x": 0,
+              "y": 0,
+              "z": -0.558404
+            }
+          },
+          "objcell_id": 791609344
+        }
+      },
+      {
+        "id": 1928523801,
+        "wcid": 5404,
+        "desc": "Small Virindi Mana Field(virindimanafield4)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 148.538,
+              "y": 57.9393,
+              "z": 2
+            },
+            "angles": {
+              "w": -0.700984,
+              "x": 0,
+              "y": 0,
+              "z": -0.713177
+            }
+          },
+          "objcell_id": 791609344
+        }
+      },
+      {
+        "id": 1928523802,
+        "wcid": 5404,
+        "desc": "Small Virindi Mana Field(virindimanafield4)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 141.294,
+              "y": 61.7122,
+              "z": 2.30308
+            },
+            "angles": {
+              "w": -0.700984,
+              "x": 0,
+              "y": 0,
+              "z": -0.713177
+            }
+          },
+          "objcell_id": 791609344
+        }
+      },
+      {
+        "id": 1928523803,
+        "wcid": 5404,
+        "desc": "Small Virindi Mana Field(virindimanafield4)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 145.144,
+              "y": 57.8717,
+              "z": 2
+            },
+            "angles": {
+              "w": -0.700984,
+              "x": 0,
+              "y": 0,
+              "z": -0.713177
+            }
+          },
+          "objcell_id": 791609344
+        }
+      },
+      {
+        "id": 1928523805,
+        "wcid": 5404,
+        "desc": "Small Virindi Mana Field(virindimanafield4)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 134.346,
+              "y": 57.8897,
+              "z": 2
+            },
+            "angles": {
+              "w": -0.700984,
+              "x": 0,
+              "y": 0,
+              "z": -0.713177
+            }
+          },
+          "objcell_id": 791609344
+        }
+      },
+      {
+        "id": 1928523806,
+        "wcid": 5404,
+        "desc": "Small Virindi Mana Field(virindimanafield4)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 116.726,
+              "y": 52.3609,
+              "z": 2.28021
+            },
+            "angles": {
+              "w": 0.949858,
+              "x": 0,
+              "y": 0,
+              "z": -0.312683
+            }
+          },
+          "objcell_id": 791609344
+        }
+      },
+      {
+        "id": 1928523807,
+        "wcid": 5404,
+        "desc": "Small Virindi Mana Field(virindimanafield4)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 114.265,
+              "y": 79.3924,
+              "z": 2.62282
+            },
+            "angles": {
+              "w": 0.29735,
+              "x": 0,
+              "y": 0,
+              "z": -0.954769
+            }
+          },
+          "objcell_id": 791609344
+        }
+      },
+      {
+        "id": 1928523808,
+        "wcid": 5404,
+        "desc": "Small Virindi Mana Field(virindimanafield4)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 117.037,
+              "y": 75.7283,
+              "z": 2.41178
+            },
+            "angles": {
+              "w": 0.29735,
+              "x": 0,
+              "y": 0,
+              "z": -0.954769
+            }
+          },
+          "objcell_id": 791609344
+        }
+      },
+      {
+        "id": 1928523809,
+        "wcid": 5404,
+        "desc": "Small Virindi Mana Field(virindimanafield4)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 119.294,
+              "y": 72.3865,
+              "z": 2.20425
+            },
+            "angles": {
+              "w": 0.29735,
+              "x": 0,
+              "y": 0,
+              "z": -0.954769
+            }
+          },
+          "objcell_id": 791609344
+        }
+      },
+      {
+        "id": 1928523810,
+        "wcid": 5404,
+        "desc": "Small Virindi Mana Field(virindimanafield4)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 114.244,
+              "y": 49.1291,
+              "z": 2.47968
+            },
+            "angles": {
+              "w": 0.949858,
+              "x": 0,
+              "y": 0,
+              "z": -0.312683
+            }
+          },
+          "objcell_id": 791609344
+        }
+      },
+      {
+        "id": 1928523811,
+        "wcid": 5404,
+        "desc": "Small Virindi Mana Field(virindimanafield4)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 122.028,
+              "y": 68.4962,
+              "z": 2
+            },
+            "angles": {
+              "w": 0.29735,
+              "x": 0,
+              "y": 0,
+              "z": -0.954769
+            }
+          },
+          "objcell_id": 791609344
+        }
+      },
+      {
+        "id": 1928523812,
+        "wcid": 5404,
+        "desc": "Small Virindi Mana Field(virindimanafield4)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 118.805,
+              "y": 55.3439,
+              "z": 2.10605
+            },
+            "angles": {
+              "w": 0.949858,
+              "x": 0,
+              "y": 0,
+              "z": -0.312683
+            }
+          },
+          "objcell_id": 791609344
+        }
+      },
+      {
+        "id": 1928523813,
+        "wcid": 5404,
+        "desc": "Small Virindi Mana Field(virindimanafield4)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 109.471,
+              "y": 42.5038,
+              "z": 3.34477
+            },
+            "angles": {
+              "w": 0.949858,
+              "x": 0,
+              "y": 0,
+              "z": -0.312683
+            }
+          },
+          "objcell_id": 791609344
+        }
+      },
+      {
+        "id": 1928523814,
+        "wcid": 5404,
+        "desc": "Small Virindi Mana Field(virindimanafield4)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 111.886,
+              "y": 45.3334,
+              "z": 3.588
+            },
+            "angles": {
+              "w": 0.949858,
+              "x": 0,
+              "y": 0,
+              "z": -0.312683
+            }
+          },
+          "objcell_id": 791609344
+        }
+      },
+      {
+        "id": 1928523815,
+        "wcid": 5404,
+        "desc": "Small Virindi Mana Field(virindimanafield4)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 122.219,
+              "y": 52.5838,
+              "z": 2.08242
+            },
+            "angles": {
+              "w": 0.949858,
+              "x": 0,
+              "y": 0,
+              "z": -0.312683
+            }
+          },
+          "objcell_id": 791609344
+        }
+      },
+      {
+        "id": 1928523816,
+        "wcid": 5404,
+        "desc": "Small Virindi Mana Field(virindimanafield4)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 119.998,
+              "y": 49.8576,
+              "z": 2.26193
+            },
+            "angles": {
+              "w": 0.949858,
+              "x": 0,
+              "y": 0,
+              "z": -0.312683
+            }
+          },
+          "objcell_id": 791609344
+        }
+      },
+      {
+        "id": 1928523817,
+        "wcid": 5404,
+        "desc": "Small Virindi Mana Field(virindimanafield4)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 117.494,
+              "y": 46.7087,
+              "z": 2.46363
+            },
+            "angles": {
+              "w": 0.949858,
+              "x": 0,
+              "y": 0,
+              "z": -0.312683
+            }
+          },
+          "objcell_id": 791609344
+        }
+      },
+      {
+        "id": 1928523818,
+        "wcid": 5404,
+        "desc": "Small Virindi Mana Field(virindimanafield4)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 114.834,
+              "y": 43.2233,
+              "z": 3.588
+            },
+            "angles": {
+              "w": 0.949858,
+              "x": 0,
+              "y": 0,
+              "z": -0.312683
+            }
+          },
+          "objcell_id": 791609344
+        }
+      },
+      {
+        "id": 1928523819,
+        "wcid": 5404,
+        "desc": "Small Virindi Mana Field(virindimanafield4)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 112.718,
+              "y": 40.318,
+              "z": 3.34477
+            },
+            "angles": {
+              "w": 0.949858,
+              "x": 0,
+              "y": 0,
+              "z": -0.312683
+            }
+          },
+          "objcell_id": 791609344
+        }
+      },
+      {
+        "id": 1928523820,
+        "wcid": 5403,
+        "desc": "Huge Virindi Mana Field(virindimanafield10)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 112.986,
+              "y": 35.9087,
+              "z": 4
+            },
+            "angles": {
+              "w": 0.16367,
+              "x": 0,
+              "y": 0,
+              "z": -0.986515
+            }
+          },
+          "objcell_id": 791609344
+        }
+      },
+      {
+        "id": 1928523821,
+        "wcid": 5403,
+        "desc": "Huge Virindi Mana Field(virindimanafield10)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 105.747,
+              "y": 40.7681,
+              "z": 4
+            },
+            "angles": {
+              "w": 0.16367,
+              "x": 0,
+              "y": 0,
+              "z": -0.986515
+            }
+          },
+          "objcell_id": 791609344
+        }
+      },
+      {
+        "id": 1928523822,
+        "wcid": 5403,
+        "desc": "Huge Virindi Mana Field(virindimanafield10)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 106.692,
+              "y": 80.0779,
+              "z": 3.27572
+            },
+            "angles": {
+              "w": -0.619231,
+              "x": 0,
+              "y": 0,
+              "z": -0.785209
+            }
+          },
+          "objcell_id": 791609344
+        }
+      },
+      {
+        "id": 1928523823,
+        "wcid": 5403,
+        "desc": "Huge Virindi Mana Field(virindimanafield10)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 113.027,
+              "y": 84.4629,
+              "z": 3.27572
+            },
+            "angles": {
+              "w": -0.619231,
+              "x": 0,
+              "y": 0,
+              "z": -0.785209
+            }
+          },
+          "objcell_id": 791609344
+        }
+      },
+      {
+        "id": 1928523824,
+        "wcid": 5404,
+        "desc": "Small Virindi Mana Field(virindimanafield4)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 111.184,
+              "y": 77.1947,
+              "z": 2.74459
+            },
+            "angles": {
+              "w": 0.29735,
+              "x": 0,
+              "y": 0,
+              "z": -0.954769
+            }
+          },
+          "objcell_id": 791609344
+        }
+      },
+      {
+        "id": 1928523825,
+        "wcid": 5404,
+        "desc": "Small Virindi Mana Field(virindimanafield4)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 113.731,
+              "y": 73.3666,
+              "z": 2.54692
+            },
+            "angles": {
+              "w": 0.29735,
+              "x": 0,
+              "y": 0,
+              "z": -0.954769
+            }
+          },
+          "objcell_id": 791609344
+        }
+      },
+      {
+        "id": 1928523826,
+        "wcid": 5404,
+        "desc": "Small Virindi Mana Field(virindimanafield4)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 116.063,
+              "y": 70.206,
+              "z": 2.44911
+            },
+            "angles": {
+              "w": 0.29735,
+              "x": 0,
+              "y": 0,
+              "z": -0.954769
+            }
+          },
+          "objcell_id": 791609344
+        }
+      },
+      {
+        "id": 1928523827,
+        "wcid": 5404,
+        "desc": "Small Virindi Mana Field(virindimanafield4)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 118.71,
+              "y": 65.965,
+              "z": 2.11128
+            },
+            "angles": {
+              "w": 0.29735,
+              "x": 0,
+              "y": 0,
+              "z": -0.954769
+            }
+          },
+          "objcell_id": 791609344
+        }
+      },
+      {
+        "id": 1928523828,
+        "wcid": 5403,
+        "desc": "Huge Virindi Mana Field(virindimanafield10)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 153.349,
+              "y": 65.2814,
+              "z": 2.005
+            },
+            "angles": {
+              "w": 0.588121,
+              "x": 0,
+              "y": 0,
+              "z": 0.808773
+            }
+          },
+          "objcell_id": 791609344
+        }
+      },
+      {
+        "id": 1928523829,
+        "wcid": 5403,
+        "desc": "Huge Virindi Mana Field(virindimanafield10)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 153.046,
+              "y": 55.0571,
+              "z": 2.005
+            },
+            "angles": {
+              "w": 0.588121,
+              "x": 0,
+              "y": 0,
+              "z": 0.808773
+            }
+          },
+          "objcell_id": 791609344
+        }
+      },
+      {
+        "id": 1928523830,
+        "wcid": 5404,
+        "desc": "Small Virindi Mana Field(virindimanafield4)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 148.414,
+              "y": 62.0985,
+              "z": 2
+            },
+            "angles": {
+              "w": -0.700984,
+              "x": 0,
+              "y": 0,
+              "z": -0.713177
+            }
+          },
+          "objcell_id": 791609344
+        }
+      },
+      {
+        "id": 1928523831,
+        "wcid": 5404,
+        "desc": "Small Virindi Mana Field(virindimanafield4)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 145.064,
+              "y": 61.9663,
+              "z": 2
+            },
+            "angles": {
+              "w": -0.700984,
+              "x": 0,
+              "y": 0,
+              "z": -0.713177
+            }
+          },
+          "objcell_id": 791609344
+        }
+      },
+      {
+        "id": 1928523832,
+        "wcid": 5404,
+        "desc": "Small Virindi Mana Field(virindimanafield4)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 141.411,
+              "y": 57.9143,
+              "z": 2.30308
+            },
+            "angles": {
+              "w": -0.700984,
+              "x": 0,
+              "y": 0,
+              "z": -0.713177
+            }
+          },
+          "objcell_id": 791609344
+        }
+      },
+      {
+        "id": 1928523834,
+        "wcid": 10796,
+        "desc": "Singularity Bore(portalvirindiobsidiannexusdungeon)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 125.575,
+              "y": 61.1697,
+              "z": 2.005
+            },
+            "angles": {
+              "w": 0.164662,
+              "x": 0,
+              "y": 0,
+              "z": -0.98635
+            }
+          },
+          "objcell_id": 791609344
+        }
+      },
+      {
+        "id": 1928523835,
+        "wcid": 87056,
+        "desc": "Aerbax's Shadow 1 Gen(ace87056-aerbaxsshadow1gen)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 132,
+              "y": 46,
+              "z": 146.055
+            },
+            "angles": {
+              "w": 0.033401,
+              "x": 0,
+              "y": 0,
+              "z": 0.999442
+            }
+          },
+          "objcell_id": 791609386
+        }
+      },
+      {
+        "id": 1928523836,
+        "wcid": 87061,
+        "desc": "Aerbax's Shadow 6 Gen(ace87061-aerbaxsshadow6gen)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 134.318,
+              "y": 46,
+              "z": 146.055
+            },
+            "angles": {
+              "w": 0,
+              "x": 0,
+              "y": 0,
+              "z": -1
+            }
+          },
+          "objcell_id": 791609386
+        }
+      },
+      {
+        "id": 1928523839,
+        "wcid": 87063,
+        "desc": "Aerbax's Portal Gen(ace87063-aerbaxsportalgen)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 144.015,
+              "y": 62.8001,
+              "z": 146.055
+            },
+            "angles": {
+              "w": -0.694431,
+              "x": 0,
+              "y": 0,
+              "z": -0.719559
+            }
+          },
+          "objcell_id": 791609395
+        }
+      },
+      {
+        "id": 1928523894,
+        "wcid": 87148,
+        "desc": "Aerbax's Shadow Booter Gen(ace87148-aerbaxsshadowbootergen)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 152.956,
+              "y": 10.1655,
+              "z": 146.055
+            },
+            "angles": {
+              "w": 0.774895,
+              "x": 0,
+              "y": 0,
+              "z": 0.63209
+            }
+          },
+          "objcell_id": 791609393
+        }
+      },
+      {
+        "id": 1928525477,
+        "wcid": 1154,
+        "desc": "Linkable Monster Generator(linkmonstergen)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 126.494,
+              "y": 75.0148,
+              "z": 2
+            },
+            "angles": {
+              "w": -0.043259,
+              "x": 0,
+              "y": 0,
+              "z": -0.999064
+            }
+          },
+          "objcell_id": 791609388
+        }
+      },
+      {
+        "id": 1928525478,
+        "wcid": 39787,
+        "desc": "Exploration Marker(ace39787-explorationmarker)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 126.494,
+              "y": 75.0148,
+              "z": 2
+            },
+            "angles": {
+              "w": -0.043259,
+              "x": 0,
+              "y": 0,
+              "z": -0.999064
+            }
+          },
+          "objcell_id": 791609388
+        }
+      },
+      {
+        "id": 1928525479,
+        "wcid": 39840,
+        "desc": "Exploration Marker(ace39840-explorationmarker)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 120.196,
+              "y": 48.1508,
+              "z": 146
+            },
+            "angles": {
+              "w": -0.999976,
+              "x": 0,
+              "y": 0,
+              "z": -0.006969
+            }
+          },
+          "objcell_id": 791609387
+        }
+      },
+      {
+        "id": 1928525480,
+        "wcid": 87065,
+        "desc": "Aerbax Protector Gen(ace87065-aerbaxprotectorgen)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 132.064,
+              "y": 17.0893,
+              "z": 146.055
+            },
+            "angles": {
+              "w": 0,
+              "x": 0,
+              "y": 0,
+              "z": -1
+            }
+          },
+          "objcell_id": 791609385
+        }
+      },
+      {
+        "id": 1928525481,
+        "wcid": 87065,
+        "desc": "Aerbax Protector Gen(ace87065-aerbaxprotectorgen)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 174.782,
+              "y": 59.8712,
+              "z": 146.055
+            },
+            "angles": {
+              "w": 0.707107,
+              "x": 0,
+              "y": 0,
+              "z": -0.707107
+            }
+          },
+          "objcell_id": 791609403
+        }
+      },
+      {
+        "id": 1928525482,
+        "wcid": 87065,
+        "desc": "Aerbax Protector Gen(ace87065-aerbaxprotectorgen)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 131.927,
+              "y": 103.045,
+              "z": 146.055
+            },
+            "angles": {
+              "w": 1,
+              "x": 0,
+              "y": 0,
+              "z": 0
+            }
+          },
+          "objcell_id": 791609389
+        }
+      },
+      {
+        "id": 1928525483,
+        "wcid": 87065,
+        "desc": "Aerbax Protector Gen(ace87065-aerbaxprotectorgen)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 88.8012,
+              "y": 60.1847,
+              "z": 146.055
+            },
+            "angles": {
+              "w": 0.707107,
+              "x": 0,
+              "y": 0,
+              "z": 0.707107
+            }
+          },
+          "objcell_id": 791609371
+        }
+      },
+      {
+        "id": 1928525484,
+        "wcid": 73150,
+        "desc": "Aerbax Master 1 Gen(ace73150-aerbaxmaster1gen)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 118.32,
+              "y": 22.716,
+              "z": 146.055
+            },
+            "angles": {
+              "w": 0.707107,
+              "x": 0,
+              "y": 0,
+              "z": -0.707107
+            }
+          },
+          "objcell_id": 791609377
+        }
+      },
+      {
+        "id": 1928525485,
+        "wcid": 73151,
+        "desc": "Aerbax Master 2 Gen(ace73151-aerbaxmaster2gen)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 118.296,
+              "y": 20.3797,
+              "z": 146.055
+            },
+            "angles": {
+              "w": 0.707107,
+              "x": 0,
+              "y": 0,
+              "z": -0.707107
+            }
+          },
+          "objcell_id": 791609377
+        }
+      }
+    ]
+  },
+  "desc": "791609344(2F2F)"
+}

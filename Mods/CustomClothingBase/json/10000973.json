@@ -1,0 +1,61 @@
+{
+  "ClothingBaseEffects": {
+    "0x20002EE": {
+      "CloObjectEffects": [
+        {
+          "Index": 0,
+          "ModelId": "0x1000D00",
+          "CloTextureEffects": [
+            {
+              "OldTexture": "0x5002B93",
+              "NewTexture": "0x500303A"
+            },
+            {
+              "OldTexture": "0x5000E21",
+              "NewTexture": "0x5003305"
+            }
+          ]
+        },
+        {
+          "Index": 1,
+          "ModelId": "0x1000D02",
+          "CloTextureEffects": [
+            {
+              "OldTexture": "0x5002B93",
+              "NewTexture": "0x500303A"
+            },
+            {
+              "OldTexture": "0x5000E21",
+              "NewTexture": "0x5003305"
+            }
+          ]
+        },
+        {
+          "Index": 2,
+          "ModelId": "0x1000D06",
+          "CloTextureEffects": [
+            {
+              "OldTexture": "0x5002B93",
+              "NewTexture": "0x500303A"
+            },
+            {
+              "OldTexture": "0x5000E21",
+              "NewTexture": "0x5003305"
+            }
+          ]
+        },
+        {
+          "Index": 3,
+          "ModelId": "0x1000CFA",
+          "CloTextureEffects": [
+            {
+              "OldTexture": "0x5002B92",
+              "NewTexture": "0x500301C"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "Id": "0x10000973"
+}

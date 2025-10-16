@@ -1,0 +1,176 @@
+{
+  "key": 134807552,
+  "value": {
+    "weenies": [
+      {
+        "id": 1887473665,
+        "wcid": 11638,
+        "desc": "Statue(statuebaelzharonvirindi)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 127.803,
+              "y": 8.3913,
+              "z": 16.005
+            },
+            "angles": {
+              "w": -0.669273,
+              "x": 0,
+              "y": 0,
+              "z": -0.743017
+            }
+          },
+          "objcell_id": 134807552
+        }
+      },
+      {
+        "id": 1887473668,
+        "wcid": 30792,
+        "desc": "Black Marrow Reliquary(chestblackmarrowreliquarycaulcano)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 153.059,
+              "y": 56.9443,
+              "z": 31.205
+            },
+            "angles": {
+              "w": 0.328942,
+              "x": 0,
+              "y": 0,
+              "z": 0.94435
+            }
+          },
+          "objcell_id": 134807552
+        }
+      },
+      {
+        "id": 1887473676,
+        "wcid": 57000578,
+        "desc": "Drake Invoker(Baby Drake Invoker)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 153.637,
+              "y": 60.0427,
+              "z": 31.2017
+            },
+            "angles": {
+              "w": -0.27215,
+              "x": 0,
+              "y": 0,
+              "z": -0.962255
+            }
+          },
+          "objcell_id": 134807603
+        }
+      },
+      {
+        "id": 1887473677,
+        "wcid": 57000578,
+        "desc": "Drake Invoker(Baby Drake Invoker)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 156.143,
+              "y": 58.6903,
+              "z": 16.0017
+            },
+            "angles": {
+              "w": -0.042428,
+              "x": 0,
+              "y": 0,
+              "z": -0.9991
+            }
+          },
+          "objcell_id": 134807808
+        }
+      },
+      {
+        "id": 1887473678,
+        "wcid": 57000578,
+        "desc": "Drake Invoker(Baby Drake Invoker)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 152.838,
+              "y": 63.1175,
+              "z": 18.4017
+            },
+            "angles": {
+              "w": 0.257715,
+              "x": 0,
+              "y": 0,
+              "z": -0.966221
+            }
+          },
+          "objcell_id": 134807808
+        }
+      },
+      {
+        "id": 1887473679,
+        "wcid": 57000578,
+        "desc": "Drake Invoker(Baby Drake Invoker)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 159.499,
+              "y": 56.9711,
+              "z": 24.8017
+            },
+            "angles": {
+              "w": 0.971714,
+              "x": 0,
+              "y": 0,
+              "z": 0.236159
+            }
+          },
+          "objcell_id": 134807808
+        }
+      },
+      {
+        "id": 1887473680,
+        "wcid": 57000578,
+        "desc": "Drake Invoker(Baby Drake Invoker)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 158.863,
+              "y": 60.6529,
+              "z": 31.2017
+            },
+            "angles": {
+              "w": 0.005782,
+              "x": 0,
+              "y": 0,
+              "z": 0.999983
+            }
+          },
+          "objcell_id": 134807603
+        }
+      },
+      {
+        "id": 1887473681,
+        "wcid": 57000578,
+        "desc": "Drake Invoker(Baby Drake Invoker)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 189.573,
+              "y": 49.0237,
+              "z": 14.2139
+            },
+            "angles": {
+              "w": 0.38526,
+              "x": 0,
+              "y": 0,
+              "z": -0.922808
+            }
+          },
+          "objcell_id": 134807611
+        }
+      }
+    ]
+  },
+  "desc": "134807552(0809)"
+}

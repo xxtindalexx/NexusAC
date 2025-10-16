@@ -1,0 +1,254 @@
+{
+  "wcid": 716007,
+  "weenieType": 20,
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 2,
+      "value": 0
+    },
+    {
+      "key": 3,
+      "value": 1
+    },
+    {
+      "key": 12,
+      "value": 1
+    },
+    {
+      "key": 13,
+      "value": 0
+    },
+    {
+      "key": 33,
+      "value": 0
+    },
+    {
+      "key": 34,
+      "value": 0
+    },
+    {
+      "key": 35,
+      "value": 1
+    },
+    {
+      "key": 86,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 512
+    },
+    {
+      "key": 5,
+      "value": 9000
+    },
+    {
+      "key": 6,
+      "value": -1
+    },
+    {
+      "key": 7,
+      "value": -1
+    },
+    {
+      "key": 8,
+      "value": 3000
+    },
+    {
+      "key": 16,
+      "value": 48
+    },
+    {
+      "key": 19,
+      "value": 2500
+    },
+    {
+      "key": 38,
+      "value": 9999
+    },
+    {
+      "key": 81,
+      "value": 3
+    },
+    {
+      "key": 82,
+      "value": 3
+    },
+    {
+      "key": 93,
+      "value": 1048
+    },
+    {
+      "key": 96,
+      "value": 500
+    },
+    {
+      "key": 100,
+      "value": 1
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33558394
+    },
+    {
+      "key": 2,
+      "value": 150994948
+    },
+    {
+      "key": 3,
+      "value": 536870945
+    },
+    {
+      "key": 7,
+      "value": 268436839
+    },
+    {
+      "key": 8,
+      "value": 100676682
+    },
+    {
+      "key": 22,
+      "value": 872415275
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 39,
+      "value": 2
+    },
+    {
+      "key": 41,
+      "value": 60
+    },
+    {
+      "key": 43,
+      "value": 1
+    },
+    {
+      "key": 54,
+      "value": 1
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Rookies Locker"
+    },
+    {
+      "key": 12,
+      "value": "Rookiekey"
+    }
+  ],
+  "generatorTable": [
+    {
+      "delay": 0,
+      "frame": {
+        "origin": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "angles": {
+          "w": 1,
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      },
+      "initCreate": 1,
+      "maxNum": 1,
+      "objcell_id": 0,
+      "probability": -1,
+      "ptid": 0,
+      "shade": 0,
+      "slot": 0,
+      "stackSize": -1,
+      "type": 2057,
+      "whenCreate": 2,
+      "whereCreate": 72
+    },
+    {
+      "delay": 1,
+      "frame": {
+        "origin": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "angles": {
+          "w": 1,
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      },
+      "initCreate": 1,
+      "maxNum": 1,
+      "objcell_id": 0,
+      "probability": 1,
+      "ptid": 0,
+      "shade": 0,
+      "slot": 1,
+      "stackSize": 5,
+      "type": 10006161,
+      "whenCreate": 2,
+      "whereCreate": 8
+    }
+  ],
+  "lastModified": "2025-10-10T07:47:38.7164657Z",
+  "modifiedBy": "ACE.Adapter",
+  "changelog": [
+    {
+      "created": "2025-08-31T22:44:18.1606981Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    },
+    {
+      "created": "2025-08-31T22:45:53.7258794Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    },
+    {
+      "created": "2025-09-01T02:56:35.5273159Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    },
+    {
+      "created": "2025-09-03T18:46:30.3228804Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    },
+    {
+      "created": "2025-09-06T21:09:01.6857614Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    },
+    {
+      "created": "2025-09-14T06:14:49.9871137Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    },
+    {
+      "created": "2025-09-17T05:26:20.2262611Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    },
+    {
+      "created": "2025-10-10T07:47:38.7074915Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "userChangeSummary": "Weenie exported from ACEmulator world database using ACE.Adapter",
+  "isDone": false
+}

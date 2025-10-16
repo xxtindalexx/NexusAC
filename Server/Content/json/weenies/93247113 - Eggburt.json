@@ -1,0 +1,646 @@
+{
+  "wcid": 93247113,
+  "weenieType": 10,
+  "attributes": {
+    "strength": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 140
+    },
+    "endurance": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 200
+    },
+    "coordination": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 160
+    },
+    "quickness": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 160
+    },
+    "focus": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 290
+    },
+    "self": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 290
+    },
+    "health": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 0,
+      "current": 30250
+    },
+    "stamina": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 150,
+      "current": 350
+    },
+    "mana": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 150,
+      "current": 440
+    }
+  },
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 8,
+      "value": 1
+    },
+    {
+      "key": 12,
+      "value": 1
+    },
+    {
+      "key": 13,
+      "value": 0
+    },
+    {
+      "key": 19,
+      "value": 0
+    },
+    {
+      "key": 41,
+      "value": 1
+    },
+    {
+      "key": 42,
+      "value": 1
+    },
+    {
+      "key": 52,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 16
+    },
+    {
+      "key": 2,
+      "value": 31
+    },
+    {
+      "key": 6,
+      "value": -1
+    },
+    {
+      "key": 7,
+      "value": -1
+    },
+    {
+      "key": 8,
+      "value": 120
+    },
+    {
+      "key": 16,
+      "value": 32
+    },
+    {
+      "key": 25,
+      "value": 126
+    },
+    {
+      "key": 27,
+      "value": 0
+    },
+    {
+      "key": 93,
+      "value": 6292504
+    },
+    {
+      "key": 95,
+      "value": 5
+    },
+    {
+      "key": 113,
+      "value": 1
+    },
+    {
+      "key": 133,
+      "value": 4
+    },
+    {
+      "key": 134,
+      "value": 16
+    },
+    {
+      "key": 146,
+      "value": 15102
+    },
+    {
+      "key": 188,
+      "value": 1
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33554433
+    },
+    {
+      "key": 2,
+      "value": 150994945
+    },
+    {
+      "key": 3,
+      "value": 536870913
+    },
+    {
+      "key": 6,
+      "value": 67108990
+    },
+    {
+      "key": 8,
+      "value": 100667446
+    },
+    {
+      "key": 9,
+      "value": 83890497
+    },
+    {
+      "key": 10,
+      "value": 83890562
+    },
+    {
+      "key": 11,
+      "value": 83890633
+    },
+    {
+      "key": 15,
+      "value": 67117023
+    },
+    {
+      "key": 16,
+      "value": 67110065
+    },
+    {
+      "key": 17,
+      "value": 67109559
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 1,
+      "value": 20
+    },
+    {
+      "key": 2,
+      "value": 0
+    },
+    {
+      "key": 3,
+      "value": 0.16
+    },
+    {
+      "key": 4,
+      "value": 5
+    },
+    {
+      "key": 5,
+      "value": 1
+    },
+    {
+      "key": 13,
+      "value": 0.9
+    },
+    {
+      "key": 14,
+      "value": 1
+    },
+    {
+      "key": 15,
+      "value": 1.1
+    },
+    {
+      "key": 16,
+      "value": 0.4
+    },
+    {
+      "key": 17,
+      "value": 0.4
+    },
+    {
+      "key": 18,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 0.6
+    },
+    {
+      "key": 39,
+      "value": 1.3
+    },
+    {
+      "key": 64,
+      "value": 1
+    },
+    {
+      "key": 65,
+      "value": 1
+    },
+    {
+      "key": 66,
+      "value": 1
+    },
+    {
+      "key": 67,
+      "value": 1
+    },
+    {
+      "key": 68,
+      "value": 1
+    },
+    {
+      "key": 69,
+      "value": 1
+    },
+    {
+      "key": 70,
+      "value": 1
+    },
+    {
+      "key": 71,
+      "value": 1
+    },
+    {
+      "key": 72,
+      "value": 1
+    },
+    {
+      "key": 73,
+      "value": 1
+    },
+    {
+      "key": 74,
+      "value": 1
+    },
+    {
+      "key": 75,
+      "value": 1
+    },
+    {
+      "key": 104,
+      "value": 10
+    },
+    {
+      "key": 125,
+      "value": 1
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Eggburt"
+    }
+  ],
+  "createList": [
+    {
+      "wcid": 7571,
+      "palette": 0,
+      "shade": 0.9821000099182129,
+      "destination": 2,
+      "stack_size": 1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 5913,
+      "palette": 0,
+      "shade": 0.9821000099182129,
+      "destination": 2,
+      "stack_size": 1,
+      "try_to_bond": 0
+    }
+  ],
+  "skills": [
+    {
+      "key": 6,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 0,
+        "init_level": 1,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 2
+      }
+    },
+    {
+      "key": 7,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 0,
+        "init_level": 1,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 2
+      }
+    },
+    {
+      "key": 20,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 0,
+        "init_level": 999,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 3
+      }
+    },
+    {
+      "key": 45,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 0,
+        "init_level": 1,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 2
+      }
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 5,
+      "value": [
+        {
+          "category": 5,
+          "emotes": [
+            {
+              "type": 6,
+              "delay": 0,
+              "extent": 1,
+              "frame": {
+                "origin": {
+                  "x": 6,
+                  "y": 6,
+                  "z": 0
+                },
+                "angles": {
+                  "w": 1,
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                }
+              }
+            }
+          ],
+          "probability": 0.172,
+          "style": 2147483709,
+          "substyle": 1090519043
+        },
+        {
+          "category": 5,
+          "emotes": [
+            {
+              "type": 6,
+              "delay": 0,
+              "extent": 1,
+              "frame": {
+                "origin": {
+                  "x": 0,
+                  "y": 12,
+                  "z": 0
+                },
+                "angles": {
+                  "w": 1,
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                }
+              }
+            }
+          ],
+          "probability": 0.272,
+          "style": 2147483709,
+          "substyle": 1090519043
+        },
+        {
+          "category": 5,
+          "emotes": [
+            {
+              "type": 6,
+              "delay": 0,
+              "extent": 1,
+              "frame": {
+                "origin": {
+                  "x": -6,
+                  "y": 6,
+                  "z": 0
+                },
+                "angles": {
+                  "w": 1,
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                }
+              }
+            }
+          ],
+          "probability": 0.372,
+          "style": 2147483709,
+          "substyle": 1090519043
+        },
+        {
+          "category": 5,
+          "emotes": [
+            {
+              "type": 6,
+              "delay": 0,
+              "extent": 1,
+              "frame": {
+                "origin": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                },
+                "angles": {
+                  "w": 1,
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                }
+              }
+            }
+          ],
+          "probability": 0.472,
+          "style": 2147483709,
+          "substyle": 1090519043
+        },
+        {
+          "category": 5,
+          "emotes": [
+            {
+              "type": 8,
+              "delay": 0,
+              "extent": 0,
+              "msg": "Hey you go collect me some teeth."
+            }
+          ],
+          "probability": 0.042,
+          "style": 2147483709,
+          "substyle": 1090519043
+        }
+      ]
+    },
+    {
+      "key": 7,
+      "value": [
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0,
+              "extent": 1,
+              "motion": 1090519043
+            },
+            {
+              "type": 12,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 76,
+              "delay": 0,
+              "extent": 1,
+              "msg": "OwnsItem-213788144_2"
+            }
+          ],
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "key": 22,
+      "value": [
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 36,
+              "delay": 0,
+              "extent": 1,
+              "msg": "Level_1-999_2",
+              "max": 999,
+              "min": 1,
+              "stat": 25
+            }
+          ],
+          "probability": 1,
+          "quest": "OwnsItem-213788144_2"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1,
+              "extent": 1,
+              "msg": "HOLY SHIT you did it! You found 50 of them?"
+            },
+            {
+              "type": 10,
+              "delay": 1,
+              "extent": 1,
+              "msg": "Enjoy your stuff."
+            },
+            {
+              "type": 74,
+              "delay": 1,
+              "extent": 1
+            },
+            {
+              "type": 49,
+              "delay": 0,
+              "extent": 1,
+              "percent": 0.03
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            }
+          ],
+          "probability": 1,
+          "quest": "Level_1-999_2"
+        }
+      ]
+    },
+    {
+      "key": 23,
+      "value": [
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1,
+              "extent": 1,
+              "msg": "Hey give me some Ravaged Creature Teeth right now!! ."
+            },
+            {
+              "type": 10,
+              "delay": 1,
+              "extent": 1,
+              "msg": "It's none of your goddamn business why I want them okay? Fine I'll tell you I'm making neclaces to sell at the Holtburg County Fair."
+            },
+            {
+              "type": 10,
+              "delay": 1,
+              "extent": 1,
+              "msg": "Go kill the monsters on this island to find them."
+            },
+            {
+              "type": 10,
+              "delay": 1,
+              "extent": 1,
+              "msg": "Give me 50 of the Ravaged Creature Teeth and I'll trade you a Uber Casino Gem and some Xp that shares in fellowship."
+            }
+          ],
+          "probability": 1,
+          "quest": "OwnsItem-213788144_2"
+        }
+      ]
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2025-09-30T05:14:12.1063711Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

@@ -1,0 +1,123 @@
+{
+  "wcid": 490271,
+  "weenieType": 38,
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 0
+    },
+    {
+      "key": 11,
+      "value": 1
+    },
+    {
+      "key": 13,
+      "value": 1
+    },
+    {
+      "key": 14,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 1
+    },
+    {
+      "key": 22,
+      "value": 1
+    },
+    {
+      "key": 69,
+      "value": 0
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 2048
+    },
+    {
+      "key": 5,
+      "value": 10
+    },
+    {
+      "key": 11,
+      "value": 1
+    },
+    {
+      "key": 12,
+      "value": 1
+    },
+    {
+      "key": 13,
+      "value": 10
+    },
+    {
+      "key": 15,
+      "value": 2
+    },
+    {
+      "key": 16,
+      "value": 524296
+    },
+    {
+      "key": 19,
+      "value": 450
+    },
+    {
+      "key": 65,
+      "value": 101
+    },
+    {
+      "key": 93,
+      "value": 1044
+    },
+    {
+      "key": 94,
+      "value": 8
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33554817
+    },
+    {
+      "key": 3,
+      "value": 536870932
+    },
+    {
+      "key": 8,
+      "value": 100690587
+    },
+    {
+      "key": 22,
+      "value": 872415275
+    },
+    {
+      "key": 52,
+      "value": 100686604
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Empyrean Jeweler's Sawblade"
+    },
+    {
+      "key": 14,
+      "value": "Use this tool on any ring, bracelet or necklace for the chance to alter it in a way that allows it to be worn in an alternative slot."
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2025-10-01T06:52:48.7267511Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

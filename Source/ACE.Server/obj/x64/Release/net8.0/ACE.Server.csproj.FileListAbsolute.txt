@@ -1,0 +1,961 @@
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\Config.js.docker
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\Config.js.example
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\log4net.config.docker
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\log4net.config.example
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\starterGear.json
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\start_server.bat
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\LICENSE
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Base\AuthenticationBase.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Base\ShardBase.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Base\WorldBase.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Updates\Authentication\2019-03-01-00-Update_Salt_Default.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Updates\Shard\2018-12-29-00-House_Permission.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Updates\Shard\2018-12-30-00-Enchantment_Registry_Comp_Key.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Updates\Shard\2019-01-17-00-Spellbook_Filters.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Updates\Shard\2019-01-19-01-Emote_Table_Display_Change.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Updates\Shard\2019-03-30-00-Enchantment_Registry_Comp_Key.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Updates\Shard\2019-04-09-00-Biota_Palette_Change.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Updates\Shard\2019-04-10-00-Biota_Animpart_Change.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Updates\Shard\2019-04-10-01-Biota_Texture_Change.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Updates\Shard\2019-04-17-00-Character_Shortcut_Changes.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Updates\Shard\2019-04-19-00-Wield_Skill_Weapon_Skill_Sync.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Updates\World\2019-01-16-00-Spell_Table_Changes.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Updates\World\2019-01-16-01-Recipe_Mods_Table_Changes.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Updates\World\2019-01-19-00-Emote_Table_Display_Change.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Updates\World\2019-01-20-00-Spell_Table_DotDuration_Add.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Updates\World\2019-02-02-00-Drop_FK_On_Landblock_Instance.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Updates\World\2019-02-02-01-Drop_FK_On_POI.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Updates\World\2019-02-02-02-Changes_for_Landblock_Instance_Links.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Updates\World\2019-02-02-03-Add_LastModified_To_Tables.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Updates\World\2019-03-06-00-Add_Triggers_To_LandblockInstance.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Updates\World\2019-04-13-00-Changes_To_Recipe_Tables.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Updates\World\2019-04-20-00-Treasure-Materials.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-09-14\Base\AuthenticationBase.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-09-14\Base\ShardBase.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-09-14\Base\WorldBase.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-09-14\Updates\Authentication\2019-06-10-00-Add_Fields_To_Account_Table.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-09-14\Updates\Authentication\updates.txt
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-09-14\Updates\Shard\2019-05-03-00-Fix_Biota_Jewelry_WeenieType.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-09-14\Updates\Shard\2019-05-15-00-Fix_Biota_Shield_WeenieType.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-09-14\Updates\Shard\2019-05-22-00-Fix_Loot_Generated_Clothing_AL_Display.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-09-14\Updates\Shard\2019-05-23-00-Update_Biota_IID_Table.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-09-14\Updates\Shard\2019-05-27-00-Update_Biota_Position_Table.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-09-14\Updates\Shard\2019-06-10-00-Salvaged-Sandstone.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-09-14\Updates\Shard\2019-06-25-00-Add-Biota-WCID-Index.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-09-14\Updates\Shard\2019-06-28-00-Add-Biota-Type-Index.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-09-14\Updates\Shard\2019-07-12-00-Aura-Fix.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-09-14\Updates\Shard\2019-07-22-00-Update_Contracts.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-09-14\Updates\Shard\2019-07-24-00-Squelch.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-09-14\Updates\Shard\2019-07-30-00-Allegiance.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-09-14\Updates\Shard\2019-08-02-00-Fix-Flanged-Mace-Mazule-AttackType.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-09-14\Updates\Shard\2019-08-21-00-Fix_Aetheria_SpellBook.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-09-14\Updates\Shard\updates.txt
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-09-14\Updates\World\updates.txt
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Base\AuthenticationBase.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Base\ShardBase.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Base\WorldBase.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Authentication\updates.txt
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2019-11-04-00-Fix-Magic-Absorption.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2019-11-22-00-Fix-Non-Zero-Defaults.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2019-11-28-00-Fix-Tailoring-Shield.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2019-12-07-00-Update-Summoning-Devices.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2019-12-13-00-Remove-All-FirstEnterWorldDone.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2019-12-19-00-PetDevice-Ratings-v2.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2019-12-22-00-Convert-AutoIncrement-To-Composite-Key.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2020-03-03-00-Fix-Clothing-AL.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2020-03-08-00-Fix-Epic-Slashing-Ward.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2020-03-17-00-Remove-Trinkets-Imbued-With-Invalid-Spells.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2020-04-07-00-Add-Order-To-Biota-Properties-Palette.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2020-04-08-00-Ice-Tachi-Critical-Frequency.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2020-04-11-00-Update-Character-SpellBars.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2020-04-13-00-Fix-Copper-Silver-Salvage.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2020-04-18-00-Update-Black-Thistle.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2020-06-18-00-Update-Colo-Backpack.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2020-06-25-00-Update-Some-Items.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2020-06-27-00-Update-Facility-Hub-Portal-Gem.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2020-08-05-00-Update-PetDevices.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2020-08-23-00-Steel-Salvage-Target-Type.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2020-09-05-00-Update-Bloodstone-Wand-Crit-Rate.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2020-09-18-00-Update-Casino-Keys.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2020-09-26-00-Update-Casino-Keys-2.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2020-10-20-00-Sync-Level-200-PetDevice-Names.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2020-10-23-00-Update-Rare-ItemCurMana.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2020-10-28-00-Defense-Imbue-Salvage-Target-Type.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2020-11-02-00-Grub-TTR.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2020-11-13-00-T7-T8-Non-Elemental-Caster-Fix-Appraisal-Missing-Level-Req.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\updates.txt
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\World\updates.txt
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\README.md
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Base\AuthenticationBase.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Base\LogBase.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Base\PKKillsBase.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Base\ShardBase.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Base\TownControlBase.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Base\WorldBase.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Authentication\updates.txt
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Log\AddArenaFeature.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Log\AddLogDbIndexes.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Log\AddRareLogFeature.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Log\AddVotingFeature.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\PKKills\AddKillTypetoKill.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\PKKills\Updates.txt
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2021-03-18-00-Update-Casting-Stone.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2021-06-17-00-Fix-Rynthid-Tentacle-Bow-WeenieType.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2021-07-14-00-Fix-Defense-Imbues.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2021-07-21-00-Fix-Summon-Pets.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2021-08-30-00-ChasingOswald.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2021-09-08-00-Fix-Caster-Missing-Default-Combat-Style.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2021-10-08-00-Change_Emote_Action_Table.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2021-11-04-00-Update-Critical-Frequency.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2021-12-03-Update-Heart-of-Darkest-Flame.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2021-12-19-00-Fix-Stormwood-Dagger.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2022-01-06-00-Remove-Stipend-Spells-From-Players.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2022-01-14-00-Update-Red-Rune-Silveran-Weapons.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2022-01-14-01-Update-Shield-of-Perfect-Light.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2022-05-14-00-Fix-Slayer-Damage.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2022-05-14-01-Fix-Black-Cloud-Bow.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2022-05-14-02-Fix-Exquisite-Lense.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2022-05-14-03-Fix-Nether-Society-Orb.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2022-05-14-04-Fix-Aegis-of-the-Golden-Flame.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2022-05-14-05-Fix-Nekodes.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2022-05-14-06-Fix-Gauntlet-Backpacks.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2022-06-10-00-Update-Items.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2022-08-11-00-Fix-Nether-Society-Orb.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2023-03-01-00-Add-Enchanted-Phial-Pea-Bonded.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2023-04-05-00-Add-Empowered-Phial-Pea-Bonded.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2023-04-08-00-Fix-Taulandoi-Critical-Frequency.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2023-07-14-00-Fix-Purified-Weapons-Wield-Requirement.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2023-07-25-00-Fix-Geraine-Tomes.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2023-09-02-00-Update-Spell-Hieroglyph-of-Healing-Mastery.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2024-02-10-00-Explorer-WCIDs-Inactive-Blank-Golem.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2025-03-09-00-Fix-Renegade-Kalindans.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\updates.txt
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\TownControl\AddArchiveTables.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\World\updates.txt
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Optional\Authentication\2019-06-10-00-Drop_ntoa_Fields_From_Account_Table.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Optional\Shard\2019-07-12-00-Match_World_Spells_In_Biota_Enchantment_Registry.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Optional\Shard\2019-08-04-00-Match_World_WeenieType_In_Biota.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\ACE.Server.exe
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\ACE.Server.deps.json
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\ACE.Server.runtimeconfig.json
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\ACE.Server.dll
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\ACE.Server.pdb
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\BCrypt.Net-Next.dll
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\DouglasCrockford.JsMin.dll
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\0Harmony.dll
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\log4net.dll
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\Log4Net.Async.dll
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\McMaster.NETCore.Plugins.dll
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\MySqlConnector.dll
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\Newtonsoft.Json.dll
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\System.Drawing.Common.dll
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\System.Security.Permissions.dll
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\TimeZoneConverter.dll
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\ACE.Adapter.dll
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\ACE.Common.dll
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\ACE.Database.dll
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\ACE.DatLoader.dll
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\ACE.Entity.dll
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\Lifestoned.DataModel.dll
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\ACE.Adapter.pdb
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\ACE.Common.pdb
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\ACE.Database.pdb
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\ACE.DatLoader.pdb
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\bin\x64\Release\net8.0\ACE.Entity.pdb
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\obj\x64\Release\net8.0\ACE.Server.csproj.AssemblyReference.cache
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\obj\x64\Release\net8.0\ACE.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\obj\x64\Release\net8.0\ACE.Server.AssemblyInfoInputs.cache
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\obj\x64\Release\net8.0\ACE.Server.AssemblyInfo.cs
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\obj\x64\Release\net8.0\ACE.Server.csproj.CoreCompileInputs.cache
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\obj\x64\Release\net8.0\ACE.Server.csproj.Up2Date
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\obj\x64\Release\net8.0\ACE.Server.dll
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\obj\x64\Release\net8.0\refint\ACE.Server.dll
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\obj\x64\Release\net8.0\ACE.Server.pdb
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\obj\x64\Release\net8.0\ACE.Server.genruntimeconfig.cache
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Server\obj\x64\Release\net8.0\ref\ACE.Server.dll
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\Config.js.docker
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\Config.js.example
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\log4net.config.docker
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\log4net.config.example
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\starterGear.json
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\start_server.bat
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\LICENSE
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Base\AuthenticationBase.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Base\ShardBase.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Base\WorldBase.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Updates\Authentication\2019-03-01-00-Update_Salt_Default.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Updates\Shard\2018-12-29-00-House_Permission.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Updates\Shard\2018-12-30-00-Enchantment_Registry_Comp_Key.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Updates\Shard\2019-01-17-00-Spellbook_Filters.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Updates\Shard\2019-01-19-01-Emote_Table_Display_Change.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Updates\Shard\2019-03-30-00-Enchantment_Registry_Comp_Key.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Updates\Shard\2019-04-09-00-Biota_Palette_Change.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Updates\Shard\2019-04-10-00-Biota_Animpart_Change.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Updates\Shard\2019-04-10-01-Biota_Texture_Change.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Updates\Shard\2019-04-17-00-Character_Shortcut_Changes.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Updates\Shard\2019-04-19-00-Wield_Skill_Weapon_Skill_Sync.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Updates\World\2019-01-16-00-Spell_Table_Changes.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Updates\World\2019-01-16-01-Recipe_Mods_Table_Changes.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Updates\World\2019-01-19-00-Emote_Table_Display_Change.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Updates\World\2019-01-20-00-Spell_Table_DotDuration_Add.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Updates\World\2019-02-02-00-Drop_FK_On_Landblock_Instance.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Updates\World\2019-02-02-01-Drop_FK_On_POI.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Updates\World\2019-02-02-02-Changes_for_Landblock_Instance_Links.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Updates\World\2019-02-02-03-Add_LastModified_To_Tables.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Updates\World\2019-03-06-00-Add_Triggers_To_LandblockInstance.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Updates\World\2019-04-13-00-Changes_To_Recipe_Tables.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Updates\World\2019-04-20-00-Treasure-Materials.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-09-14\Base\AuthenticationBase.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-09-14\Base\ShardBase.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-09-14\Base\WorldBase.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-09-14\Updates\Authentication\2019-06-10-00-Add_Fields_To_Account_Table.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-09-14\Updates\Authentication\updates.txt
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-09-14\Updates\Shard\2019-05-03-00-Fix_Biota_Jewelry_WeenieType.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-09-14\Updates\Shard\2019-05-15-00-Fix_Biota_Shield_WeenieType.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-09-14\Updates\Shard\2019-05-22-00-Fix_Loot_Generated_Clothing_AL_Display.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-09-14\Updates\Shard\2019-05-23-00-Update_Biota_IID_Table.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-09-14\Updates\Shard\2019-05-27-00-Update_Biota_Position_Table.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-09-14\Updates\Shard\2019-06-10-00-Salvaged-Sandstone.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-09-14\Updates\Shard\2019-06-25-00-Add-Biota-WCID-Index.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-09-14\Updates\Shard\2019-06-28-00-Add-Biota-Type-Index.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-09-14\Updates\Shard\2019-07-12-00-Aura-Fix.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-09-14\Updates\Shard\2019-07-22-00-Update_Contracts.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-09-14\Updates\Shard\2019-07-24-00-Squelch.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-09-14\Updates\Shard\2019-07-30-00-Allegiance.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-09-14\Updates\Shard\2019-08-02-00-Fix-Flanged-Mace-Mazule-AttackType.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-09-14\Updates\Shard\2019-08-21-00-Fix_Aetheria_SpellBook.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-09-14\Updates\Shard\updates.txt
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-09-14\Updates\World\updates.txt
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Base\AuthenticationBase.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Base\ShardBase.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Base\WorldBase.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Authentication\updates.txt
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2019-11-04-00-Fix-Magic-Absorption.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2019-11-22-00-Fix-Non-Zero-Defaults.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2019-11-28-00-Fix-Tailoring-Shield.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2019-12-07-00-Update-Summoning-Devices.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2019-12-13-00-Remove-All-FirstEnterWorldDone.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2019-12-19-00-PetDevice-Ratings-v2.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2019-12-22-00-Convert-AutoIncrement-To-Composite-Key.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2020-03-03-00-Fix-Clothing-AL.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2020-03-08-00-Fix-Epic-Slashing-Ward.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2020-03-17-00-Remove-Trinkets-Imbued-With-Invalid-Spells.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2020-04-07-00-Add-Order-To-Biota-Properties-Palette.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2020-04-08-00-Ice-Tachi-Critical-Frequency.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2020-04-11-00-Update-Character-SpellBars.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2020-04-13-00-Fix-Copper-Silver-Salvage.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2020-04-18-00-Update-Black-Thistle.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2020-06-18-00-Update-Colo-Backpack.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2020-06-25-00-Update-Some-Items.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2020-06-27-00-Update-Facility-Hub-Portal-Gem.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2020-08-05-00-Update-PetDevices.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2020-08-23-00-Steel-Salvage-Target-Type.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2020-09-05-00-Update-Bloodstone-Wand-Crit-Rate.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2020-09-18-00-Update-Casino-Keys.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2020-09-26-00-Update-Casino-Keys-2.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2020-10-20-00-Sync-Level-200-PetDevice-Names.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2020-10-23-00-Update-Rare-ItemCurMana.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2020-10-28-00-Defense-Imbue-Salvage-Target-Type.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2020-11-02-00-Grub-TTR.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2020-11-13-00-T7-T8-Non-Elemental-Caster-Fix-Appraisal-Missing-Level-Req.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\updates.txt
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\World\updates.txt
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\README.md
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Base\AuthenticationBase.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Base\LogBase.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Base\PKKillsBase.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Base\ShardBase.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Base\TownControlBase.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Base\WorldBase.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Authentication\updates.txt
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Log\AddArenaFeature.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Log\AddLogDbIndexes.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Log\AddRareLogFeature.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Log\AddVotingFeature.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\PKKills\AddKillTypetoKill.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\PKKills\Updates.txt
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2021-03-18-00-Update-Casting-Stone.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2021-06-17-00-Fix-Rynthid-Tentacle-Bow-WeenieType.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2021-07-14-00-Fix-Defense-Imbues.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2021-07-21-00-Fix-Summon-Pets.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2021-08-30-00-ChasingOswald.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2021-09-08-00-Fix-Caster-Missing-Default-Combat-Style.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2021-10-08-00-Change_Emote_Action_Table.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2021-11-04-00-Update-Critical-Frequency.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2021-12-03-Update-Heart-of-Darkest-Flame.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2021-12-19-00-Fix-Stormwood-Dagger.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2022-01-06-00-Remove-Stipend-Spells-From-Players.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2022-01-14-00-Update-Red-Rune-Silveran-Weapons.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2022-01-14-01-Update-Shield-of-Perfect-Light.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2022-05-14-00-Fix-Slayer-Damage.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2022-05-14-01-Fix-Black-Cloud-Bow.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2022-05-14-02-Fix-Exquisite-Lense.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2022-05-14-03-Fix-Nether-Society-Orb.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2022-05-14-04-Fix-Aegis-of-the-Golden-Flame.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2022-05-14-05-Fix-Nekodes.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2022-05-14-06-Fix-Gauntlet-Backpacks.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2022-06-10-00-Update-Items.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2022-08-11-00-Fix-Nether-Society-Orb.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2023-03-01-00-Add-Enchanted-Phial-Pea-Bonded.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2023-04-05-00-Add-Empowered-Phial-Pea-Bonded.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2023-04-08-00-Fix-Taulandoi-Critical-Frequency.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2023-07-14-00-Fix-Purified-Weapons-Wield-Requirement.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2023-07-25-00-Fix-Geraine-Tomes.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2023-09-02-00-Update-Spell-Hieroglyph-of-Healing-Mastery.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2024-02-10-00-Explorer-WCIDs-Inactive-Blank-Golem.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2025-03-09-00-Fix-Renegade-Kalindans.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\updates.txt
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\TownControl\AddArchiveTables.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\World\updates.txt
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Optional\Authentication\2019-06-10-00-Drop_ntoa_Fields_From_Account_Table.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Optional\Shard\2019-07-12-00-Match_World_Spells_In_Biota_Enchantment_Registry.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Optional\Shard\2019-08-04-00-Match_World_WeenieType_In_Biota.sql
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\ACE.Server.exe
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\ACE.Server.deps.json
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\ACE.Server.runtimeconfig.json
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\ACE.Server.dll
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\ACE.Server.pdb
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\BCrypt.Net-Next.dll
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DouglasCrockford.JsMin.dll
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\0Harmony.dll
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\log4net.dll
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\Log4Net.Async.dll
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\McMaster.NETCore.Plugins.dll
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\MySqlConnector.dll
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\Newtonsoft.Json.dll
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\System.Drawing.Common.dll
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\System.Security.Permissions.dll
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\TimeZoneConverter.dll
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\ACE.Adapter.dll
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\ACE.Common.dll
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\ACE.Database.dll
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\ACE.DatLoader.dll
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\ACE.Entity.dll
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\Lifestoned.DataModel.dll
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\ACE.Adapter.pdb
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\ACE.Common.pdb
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\ACE.Database.pdb
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\ACE.DatLoader.pdb
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\ACE.Entity.pdb
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\obj\x64\Release\net8.0\ACE.Server.csproj.AssemblyReference.cache
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\obj\x64\Release\net8.0\ACE.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\obj\x64\Release\net8.0\ACE.Server.AssemblyInfoInputs.cache
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\obj\x64\Release\net8.0\ACE.Server.AssemblyInfo.cs
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\obj\x64\Release\net8.0\ACE.Server.csproj.CoreCompileInputs.cache
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\obj\x64\Release\net8.0\ACE.Server.csproj.Up2Date
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\obj\x64\Release\net8.0\ACE.Server.dll
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\obj\x64\Release\net8.0\refint\ACE.Server.dll
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\obj\x64\Release\net8.0\ACE.Server.pdb
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\obj\x64\Release\net8.0\ACE.Server.genruntimeconfig.cache
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Server\obj\x64\Release\net8.0\ref\ACE.Server.dll
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\Config.js.docker
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\Config.js.example
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\log4net.config.docker
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\log4net.config.example
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\starterGear.json
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\start_server.bat
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\LICENSE
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Base\AuthenticationBase.sql
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Base\ShardBase.sql
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Base\WorldBase.sql
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Updates\Authentication\2019-03-01-00-Update_Salt_Default.sql
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Updates\Shard\2018-12-29-00-House_Permission.sql
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Updates\Shard\2018-12-30-00-Enchantment_Registry_Comp_Key.sql
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Updates\Shard\2019-01-17-00-Spellbook_Filters.sql
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Updates\Shard\2019-01-19-01-Emote_Table_Display_Change.sql
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Updates\Shard\2019-03-30-00-Enchantment_Registry_Comp_Key.sql
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Updates\Shard\2019-04-09-00-Biota_Palette_Change.sql
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Updates\Shard\2019-04-10-00-Biota_Animpart_Change.sql
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Updates\Shard\2019-04-10-01-Biota_Texture_Change.sql
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Updates\Shard\2019-04-17-00-Character_Shortcut_Changes.sql
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Updates\Shard\2019-04-19-00-Wield_Skill_Weapon_Skill_Sync.sql
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Updates\World\2019-01-16-00-Spell_Table_Changes.sql
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Updates\World\2019-01-16-01-Recipe_Mods_Table_Changes.sql
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Updates\World\2019-01-19-00-Emote_Table_Display_Change.sql
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Updates\World\2019-01-20-00-Spell_Table_DotDuration_Add.sql
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Updates\World\2019-02-02-00-Drop_FK_On_Landblock_Instance.sql
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Updates\World\2019-02-02-01-Drop_FK_On_POI.sql
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Updates\World\2019-02-02-02-Changes_for_Landblock_Instance_Links.sql
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Updates\World\2019-02-02-03-Add_LastModified_To_Tables.sql
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Updates\World\2019-03-06-00-Add_Triggers_To_LandblockInstance.sql
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Updates\World\2019-04-13-00-Changes_To_Recipe_Tables.sql
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Updates\World\2019-04-20-00-Treasure-Materials.sql
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-09-14\Base\AuthenticationBase.sql
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-09-14\Base\ShardBase.sql
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-09-14\Base\WorldBase.sql
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-09-14\Updates\Authentication\2019-06-10-00-Add_Fields_To_Account_Table.sql
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-09-14\Updates\Authentication\updates.txt
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-09-14\Updates\Shard\2019-05-03-00-Fix_Biota_Jewelry_WeenieType.sql
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-09-14\Updates\Shard\2019-05-15-00-Fix_Biota_Shield_WeenieType.sql
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-09-14\Updates\Shard\2019-05-22-00-Fix_Loot_Generated_Clothing_AL_Display.sql
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-09-14\Updates\Shard\2019-05-23-00-Update_Biota_IID_Table.sql
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-09-14\Updates\Shard\2019-05-27-00-Update_Biota_Position_Table.sql
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-09-14\Updates\Shard\2019-06-10-00-Salvaged-Sandstone.sql
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-09-14\Updates\Shard\2019-06-25-00-Add-Biota-WCID-Index.sql
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-09-14\Updates\Shard\2019-06-28-00-Add-Biota-Type-Index.sql
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-09-14\Updates\Shard\2019-07-12-00-Aura-Fix.sql
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-09-14\Updates\Shard\2019-07-22-00-Update_Contracts.sql
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-09-14\Updates\Shard\2019-07-24-00-Squelch.sql
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-09-14\Updates\Shard\2019-07-30-00-Allegiance.sql
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-09-14\Updates\Shard\2019-08-02-00-Fix-Flanged-Mace-Mazule-AttackType.sql
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-09-14\Updates\Shard\2019-08-21-00-Fix_Aetheria_SpellBook.sql
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-09-14\Updates\Shard\updates.txt
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-09-14\Updates\World\updates.txt
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Base\AuthenticationBase.sql
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Base\ShardBase.sql
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Base\WorldBase.sql
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Authentication\updates.txt
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2019-11-04-00-Fix-Magic-Absorption.sql
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2019-11-22-00-Fix-Non-Zero-Defaults.sql
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2019-11-28-00-Fix-Tailoring-Shield.sql
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2019-12-07-00-Update-Summoning-Devices.sql
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2019-12-13-00-Remove-All-FirstEnterWorldDone.sql
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2019-12-19-00-PetDevice-Ratings-v2.sql
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2019-12-22-00-Convert-AutoIncrement-To-Composite-Key.sql
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2020-03-03-00-Fix-Clothing-AL.sql
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2020-03-08-00-Fix-Epic-Slashing-Ward.sql
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2020-03-17-00-Remove-Trinkets-Imbued-With-Invalid-Spells.sql
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2020-04-07-00-Add-Order-To-Biota-Properties-Palette.sql
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2020-04-08-00-Ice-Tachi-Critical-Frequency.sql
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2020-04-11-00-Update-Character-SpellBars.sql
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2020-04-13-00-Fix-Copper-Silver-Salvage.sql
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2020-04-18-00-Update-Black-Thistle.sql
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2020-06-18-00-Update-Colo-Backpack.sql
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2020-06-25-00-Update-Some-Items.sql
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2020-06-27-00-Update-Facility-Hub-Portal-Gem.sql
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2020-08-05-00-Update-PetDevices.sql
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2020-08-23-00-Steel-Salvage-Target-Type.sql
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2020-09-05-00-Update-Bloodstone-Wand-Crit-Rate.sql
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2020-09-18-00-Update-Casino-Keys.sql
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2020-09-26-00-Update-Casino-Keys-2.sql
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2020-10-20-00-Sync-Level-200-PetDevice-Names.sql
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2020-10-23-00-Update-Rare-ItemCurMana.sql
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2020-10-28-00-Defense-Imbue-Salvage-Target-Type.sql
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2020-11-02-00-Grub-TTR.sql
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2020-11-13-00-T7-T8-Non-Elemental-Caster-Fix-Appraisal-Missing-Level-Req.sql
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\updates.txt
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\World\updates.txt
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\README.md
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Base\AuthenticationBase.sql
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Base\LogBase.sql
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Base\PKKillsBase.sql
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Base\ShardBase.sql
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Base\TownControlBase.sql
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Base\WorldBase.sql
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Authentication\updates.txt
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Log\AddArenaFeature.sql
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Log\AddLogDbIndexes.sql
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Log\AddRareLogFeature.sql
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Log\AddVotingFeature.sql
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\PKKills\AddKillTypetoKill.sql
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\PKKills\Updates.txt
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2021-03-18-00-Update-Casting-Stone.sql
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2021-06-17-00-Fix-Rynthid-Tentacle-Bow-WeenieType.sql
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2021-07-14-00-Fix-Defense-Imbues.sql
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2021-07-21-00-Fix-Summon-Pets.sql
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2021-08-30-00-ChasingOswald.sql
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2021-09-08-00-Fix-Caster-Missing-Default-Combat-Style.sql
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2021-10-08-00-Change_Emote_Action_Table.sql
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2021-11-04-00-Update-Critical-Frequency.sql
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2021-12-03-Update-Heart-of-Darkest-Flame.sql
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2021-12-19-00-Fix-Stormwood-Dagger.sql
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2022-01-06-00-Remove-Stipend-Spells-From-Players.sql
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2022-01-14-00-Update-Red-Rune-Silveran-Weapons.sql
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2022-01-14-01-Update-Shield-of-Perfect-Light.sql
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2022-05-14-00-Fix-Slayer-Damage.sql
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2022-05-14-01-Fix-Black-Cloud-Bow.sql
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2022-05-14-02-Fix-Exquisite-Lense.sql
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2022-05-14-03-Fix-Nether-Society-Orb.sql
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2022-05-14-04-Fix-Aegis-of-the-Golden-Flame.sql
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2022-05-14-05-Fix-Nekodes.sql
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2022-05-14-06-Fix-Gauntlet-Backpacks.sql
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2022-06-10-00-Update-Items.sql
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2022-08-11-00-Fix-Nether-Society-Orb.sql
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2023-03-01-00-Add-Enchanted-Phial-Pea-Bonded.sql
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2023-04-05-00-Add-Empowered-Phial-Pea-Bonded.sql
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2023-04-08-00-Fix-Taulandoi-Critical-Frequency.sql
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2023-07-14-00-Fix-Purified-Weapons-Wield-Requirement.sql
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2023-07-25-00-Fix-Geraine-Tomes.sql
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2023-09-02-00-Update-Spell-Hieroglyph-of-Healing-Mastery.sql
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2024-02-10-00-Explorer-WCIDs-Inactive-Blank-Golem.sql
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2025-03-09-00-Fix-Renegade-Kalindans.sql
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\updates.txt
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\TownControl\AddArchiveTables.sql
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\World\updates.txt
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Optional\Authentication\2019-06-10-00-Drop_ntoa_Fields_From_Account_Table.sql
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Optional\Shard\2019-07-12-00-Match_World_Spells_In_Biota_Enchantment_Registry.sql
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Optional\Shard\2019-08-04-00-Match_World_WeenieType_In_Biota.sql
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\ACE.Server.exe
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\BCrypt.Net-Next.dll
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DouglasCrockford.JsMin.dll
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\0Harmony.dll
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\log4net.dll
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\Log4Net.Async.dll
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\McMaster.NETCore.Plugins.dll
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\MySqlConnector.dll
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\Newtonsoft.Json.dll
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\System.Drawing.Common.dll
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\System.Security.Permissions.dll
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\TimeZoneConverter.dll
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\ACE.Adapter.dll
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\ACE.Common.dll
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\ACE.Database.dll
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\ACE.DatLoader.dll
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\ACE.Entity.dll
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\Lifestoned.DataModel.dll
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\ACE.Adapter.pdb
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\ACE.Common.pdb
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\ACE.Database.pdb
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\ACE.DatLoader.pdb
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\ACE.Entity.pdb
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\obj\x64\Release\net8.0\ACE.Server.csproj.AssemblyReference.cache
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\obj\x64\Release\net8.0\ACE.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\obj\x64\Release\net8.0\ACE.Server.AssemblyInfoInputs.cache
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\obj\x64\Release\net8.0\ACE.Server.AssemblyInfo.cs
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\obj\x64\Release\net8.0\ACE.Server.csproj.CoreCompileInputs.cache
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\obj\x64\Release\net8.0\ACE.Server.csproj.Up2Date
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\obj\x64\Release\net8.0\ACE.Server.dll
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\obj\x64\Release\net8.0\refint\ACE.Server.dll
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\obj\x64\Release\net8.0\ACE.Server.pdb
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\obj\x64\Release\net8.0\ACE.Server.genruntimeconfig.cache
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\obj\x64\Release\net8.0\ref\ACE.Server.dll
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\Config.js.docker
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\Config.js.example
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\log4net.config.docker
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\log4net.config.example
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\starterGear.json
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\start_server.bat
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\LICENSE
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Base\AuthenticationBase.sql
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Base\ShardBase.sql
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Base\WorldBase.sql
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Updates\Authentication\2019-03-01-00-Update_Salt_Default.sql
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Updates\Shard\2018-12-29-00-House_Permission.sql
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Updates\Shard\2018-12-30-00-Enchantment_Registry_Comp_Key.sql
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Updates\Shard\2019-01-17-00-Spellbook_Filters.sql
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Updates\Shard\2019-01-19-01-Emote_Table_Display_Change.sql
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Updates\Shard\2019-03-30-00-Enchantment_Registry_Comp_Key.sql
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Updates\Shard\2019-04-09-00-Biota_Palette_Change.sql
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Updates\Shard\2019-04-10-00-Biota_Animpart_Change.sql
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Updates\Shard\2019-04-10-01-Biota_Texture_Change.sql
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Updates\Shard\2019-04-17-00-Character_Shortcut_Changes.sql
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Updates\Shard\2019-04-19-00-Wield_Skill_Weapon_Skill_Sync.sql
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Updates\World\2019-01-16-00-Spell_Table_Changes.sql
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Updates\World\2019-01-16-01-Recipe_Mods_Table_Changes.sql
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Updates\World\2019-01-19-00-Emote_Table_Display_Change.sql
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Updates\World\2019-01-20-00-Spell_Table_DotDuration_Add.sql
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Updates\World\2019-02-02-00-Drop_FK_On_Landblock_Instance.sql
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Updates\World\2019-02-02-01-Drop_FK_On_POI.sql
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Updates\World\2019-02-02-02-Changes_for_Landblock_Instance_Links.sql
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Updates\World\2019-02-02-03-Add_LastModified_To_Tables.sql
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Updates\World\2019-03-06-00-Add_Triggers_To_LandblockInstance.sql
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Updates\World\2019-04-13-00-Changes_To_Recipe_Tables.sql
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Updates\World\2019-04-20-00-Treasure-Materials.sql
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-09-14\Base\AuthenticationBase.sql
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-09-14\Base\ShardBase.sql
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-09-14\Base\WorldBase.sql
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-09-14\Updates\Authentication\2019-06-10-00-Add_Fields_To_Account_Table.sql
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-09-14\Updates\Authentication\updates.txt
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-09-14\Updates\Shard\2019-05-03-00-Fix_Biota_Jewelry_WeenieType.sql
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-09-14\Updates\Shard\2019-05-15-00-Fix_Biota_Shield_WeenieType.sql
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-09-14\Updates\Shard\2019-05-22-00-Fix_Loot_Generated_Clothing_AL_Display.sql
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-09-14\Updates\Shard\2019-05-23-00-Update_Biota_IID_Table.sql
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-09-14\Updates\Shard\2019-05-27-00-Update_Biota_Position_Table.sql
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-09-14\Updates\Shard\2019-06-10-00-Salvaged-Sandstone.sql
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-09-14\Updates\Shard\2019-06-25-00-Add-Biota-WCID-Index.sql
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-09-14\Updates\Shard\2019-06-28-00-Add-Biota-Type-Index.sql
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-09-14\Updates\Shard\2019-07-12-00-Aura-Fix.sql
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-09-14\Updates\Shard\2019-07-22-00-Update_Contracts.sql
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-09-14\Updates\Shard\2019-07-24-00-Squelch.sql
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-09-14\Updates\Shard\2019-07-30-00-Allegiance.sql
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-09-14\Updates\Shard\2019-08-02-00-Fix-Flanged-Mace-Mazule-AttackType.sql
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-09-14\Updates\Shard\2019-08-21-00-Fix_Aetheria_SpellBook.sql
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-09-14\Updates\Shard\updates.txt
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-09-14\Updates\World\updates.txt
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Base\AuthenticationBase.sql
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Base\ShardBase.sql
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Base\WorldBase.sql
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Authentication\updates.txt
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2019-11-04-00-Fix-Magic-Absorption.sql
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2019-11-22-00-Fix-Non-Zero-Defaults.sql
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2019-11-28-00-Fix-Tailoring-Shield.sql
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2019-12-07-00-Update-Summoning-Devices.sql
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2019-12-13-00-Remove-All-FirstEnterWorldDone.sql
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2019-12-19-00-PetDevice-Ratings-v2.sql
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2019-12-22-00-Convert-AutoIncrement-To-Composite-Key.sql
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2020-03-03-00-Fix-Clothing-AL.sql
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2020-03-08-00-Fix-Epic-Slashing-Ward.sql
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2020-03-17-00-Remove-Trinkets-Imbued-With-Invalid-Spells.sql
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2020-04-07-00-Add-Order-To-Biota-Properties-Palette.sql
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2020-04-08-00-Ice-Tachi-Critical-Frequency.sql
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2020-04-11-00-Update-Character-SpellBars.sql
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2020-04-13-00-Fix-Copper-Silver-Salvage.sql
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2020-04-18-00-Update-Black-Thistle.sql
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2020-06-18-00-Update-Colo-Backpack.sql
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2020-06-25-00-Update-Some-Items.sql
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2020-06-27-00-Update-Facility-Hub-Portal-Gem.sql
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2020-08-05-00-Update-PetDevices.sql
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2020-08-23-00-Steel-Salvage-Target-Type.sql
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2020-09-05-00-Update-Bloodstone-Wand-Crit-Rate.sql
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2020-09-18-00-Update-Casino-Keys.sql
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2020-09-26-00-Update-Casino-Keys-2.sql
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2020-10-20-00-Sync-Level-200-PetDevice-Names.sql
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2020-10-23-00-Update-Rare-ItemCurMana.sql
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2020-10-28-00-Defense-Imbue-Salvage-Target-Type.sql
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2020-11-02-00-Grub-TTR.sql
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\updates.txt
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\World\updates.txt
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\README.md
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Base\AuthenticationBase.sql
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Base\LogBase.sql
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Base\PKKillsBase.sql
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Base\ShardBase.sql
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Base\TownControlBase.sql
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Base\WorldBase.sql
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Authentication\updates.txt
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Log\AddArenaFeature.sql
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Log\AddLogDbIndexes.sql
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Log\AddRareLogFeature.sql
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Log\AddVotingFeature.sql
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\PKKills\AddKillTypetoKill.sql
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\PKKills\Updates.txt
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2021-03-18-00-Update-Casting-Stone.sql
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2021-06-17-00-Fix-Rynthid-Tentacle-Bow-WeenieType.sql
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2021-07-14-00-Fix-Defense-Imbues.sql
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2021-07-21-00-Fix-Summon-Pets.sql
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2021-08-30-00-ChasingOswald.sql
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2021-09-08-00-Fix-Caster-Missing-Default-Combat-Style.sql
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2021-10-08-00-Change_Emote_Action_Table.sql
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2021-11-04-00-Update-Critical-Frequency.sql
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2021-12-03-Update-Heart-of-Darkest-Flame.sql
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2021-12-19-00-Fix-Stormwood-Dagger.sql
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2022-01-06-00-Remove-Stipend-Spells-From-Players.sql
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2022-01-14-00-Update-Red-Rune-Silveran-Weapons.sql
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2022-01-14-01-Update-Shield-of-Perfect-Light.sql
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2022-05-14-00-Fix-Slayer-Damage.sql
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2022-05-14-01-Fix-Black-Cloud-Bow.sql
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2022-05-14-02-Fix-Exquisite-Lense.sql
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2022-05-14-03-Fix-Nether-Society-Orb.sql
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2022-05-14-04-Fix-Aegis-of-the-Golden-Flame.sql
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2022-05-14-05-Fix-Nekodes.sql
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2022-05-14-06-Fix-Gauntlet-Backpacks.sql
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2022-06-10-00-Update-Items.sql
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2022-08-11-00-Fix-Nether-Society-Orb.sql
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2023-03-01-00-Add-Enchanted-Phial-Pea-Bonded.sql
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2023-04-05-00-Add-Empowered-Phial-Pea-Bonded.sql
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2023-04-08-00-Fix-Taulandoi-Critical-Frequency.sql
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2023-07-14-00-Fix-Purified-Weapons-Wield-Requirement.sql
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2023-07-25-00-Fix-Geraine-Tomes.sql
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2023-09-02-00-Update-Spell-Hieroglyph-of-Healing-Mastery.sql
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2024-02-10-00-Explorer-WCIDs-Inactive-Blank-Golem.sql
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2025-03-09-00-Fix-Renegade-Kalindans.sql
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\updates.txt
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\TownControl\AddArchiveTables.sql
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\World\updates.txt
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Optional\Authentication\2019-06-10-00-Drop_ntoa_Fields_From_Account_Table.sql
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Optional\Shard\2019-07-12-00-Match_World_Spells_In_Biota_Enchantment_Registry.sql
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Optional\Shard\2019-08-04-00-Match_World_WeenieType_In_Biota.sql
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2020-11-13-00-T7-T8-Non-Elemental-Caster-Fix-Appraisal-Missing-Level-Req.sql
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\ACE.Server.exe
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\ACE.Server.deps.json
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\ACE.Server.runtimeconfig.json
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\ACE.Server.dll
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\ACE.Server.pdb
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\BCrypt.Net-Next.dll
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\DouglasCrockford.JsMin.dll
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\0Harmony.dll
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\log4net.dll
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\Log4Net.Async.dll
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\McMaster.NETCore.Plugins.dll
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\Microsoft.Extensions.Logging.dll
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\Microsoft.Extensions.Options.dll
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\MySqlConnector.dll
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\Newtonsoft.Json.dll
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\System.Drawing.Common.dll
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\System.Security.Permissions.dll
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\TimeZoneConverter.dll
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\ACE.Adapter.dll
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\ACE.Common.dll
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\ACE.Database.dll
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\ACE.DatLoader.dll
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\ACE.Entity.dll
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\Lifestoned.DataModel.dll
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\ACE.Adapter.pdb
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\ACE.Common.pdb
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\ACE.Database.pdb
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\ACE.DatLoader.pdb
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\bin\x64\Release\net8.0\ACE.Entity.pdb
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\obj\x64\Release\net8.0\ACE.Server.csproj.AssemblyReference.cache
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\obj\x64\Release\net8.0\ACE.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\obj\x64\Release\net8.0\ACE.Server.AssemblyInfoInputs.cache
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\obj\x64\Release\net8.0\ACE.Server.AssemblyInfo.cs
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\obj\x64\Release\net8.0\ACE.Server.csproj.CoreCompileInputs.cache
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\obj\x64\Release\net8.0\ACE.Server.csproj.Up2Date
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\obj\x64\Release\net8.0\ACE.Server.dll
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\obj\x64\Release\net8.0\refint\ACE.Server.dll
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\obj\x64\Release\net8.0\ACE.Server.pdb
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\obj\x64\Release\net8.0\ACE.Server.genruntimeconfig.cache
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Server\obj\x64\Release\net8.0\ref\ACE.Server.dll
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\Config.js.docker
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\Config.js.example
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\log4net.config.docker
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\log4net.config.example
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\starterGear.json
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\start_server.bat
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\LICENSE
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Base\AuthenticationBase.sql
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Base\ShardBase.sql
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Base\WorldBase.sql
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Updates\Authentication\2019-03-01-00-Update_Salt_Default.sql
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Updates\Shard\2018-12-29-00-House_Permission.sql
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Updates\Shard\2018-12-30-00-Enchantment_Registry_Comp_Key.sql
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Updates\Shard\2019-01-17-00-Spellbook_Filters.sql
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Updates\Shard\2019-01-19-01-Emote_Table_Display_Change.sql
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Updates\Shard\2019-03-30-00-Enchantment_Registry_Comp_Key.sql
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Updates\Shard\2019-04-09-00-Biota_Palette_Change.sql
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Updates\Shard\2019-04-10-00-Biota_Animpart_Change.sql
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Updates\Shard\2019-04-10-01-Biota_Texture_Change.sql
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Updates\Shard\2019-04-17-00-Character_Shortcut_Changes.sql
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Updates\Shard\2019-04-19-00-Wield_Skill_Weapon_Skill_Sync.sql
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Updates\World\2019-01-16-00-Spell_Table_Changes.sql
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Updates\World\2019-01-16-01-Recipe_Mods_Table_Changes.sql
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Updates\World\2019-01-19-00-Emote_Table_Display_Change.sql
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Updates\World\2019-01-20-00-Spell_Table_DotDuration_Add.sql
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Updates\World\2019-02-02-00-Drop_FK_On_Landblock_Instance.sql
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Updates\World\2019-02-02-01-Drop_FK_On_POI.sql
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Updates\World\2019-02-02-02-Changes_for_Landblock_Instance_Links.sql
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Updates\World\2019-02-02-03-Add_LastModified_To_Tables.sql
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Updates\World\2019-03-06-00-Add_Triggers_To_LandblockInstance.sql
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Updates\World\2019-04-13-00-Changes_To_Recipe_Tables.sql
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-04-29\Updates\World\2019-04-20-00-Treasure-Materials.sql
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-09-14\Base\AuthenticationBase.sql
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-09-14\Base\ShardBase.sql
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-09-14\Base\WorldBase.sql
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-09-14\Updates\Authentication\2019-06-10-00-Add_Fields_To_Account_Table.sql
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-09-14\Updates\Authentication\updates.txt
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-09-14\Updates\Shard\2019-05-03-00-Fix_Biota_Jewelry_WeenieType.sql
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-09-14\Updates\Shard\2019-05-15-00-Fix_Biota_Shield_WeenieType.sql
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-09-14\Updates\Shard\2019-05-22-00-Fix_Loot_Generated_Clothing_AL_Display.sql
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-09-14\Updates\Shard\2019-05-23-00-Update_Biota_IID_Table.sql
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-09-14\Updates\Shard\2019-05-27-00-Update_Biota_Position_Table.sql
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-09-14\Updates\Shard\2019-06-10-00-Salvaged-Sandstone.sql
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-09-14\Updates\Shard\2019-06-25-00-Add-Biota-WCID-Index.sql
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-09-14\Updates\Shard\2019-06-28-00-Add-Biota-Type-Index.sql
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-09-14\Updates\Shard\2019-07-12-00-Aura-Fix.sql
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-09-14\Updates\Shard\2019-07-22-00-Update_Contracts.sql
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-09-14\Updates\Shard\2019-07-24-00-Squelch.sql
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-09-14\Updates\Shard\2019-07-30-00-Allegiance.sql
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-09-14\Updates\Shard\2019-08-02-00-Fix-Flanged-Mace-Mazule-AttackType.sql
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-09-14\Updates\Shard\2019-08-21-00-Fix_Aetheria_SpellBook.sql
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-09-14\Updates\Shard\updates.txt
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2019-09-14\Updates\World\updates.txt
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Base\AuthenticationBase.sql
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Base\ShardBase.sql
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Base\WorldBase.sql
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Authentication\updates.txt
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2019-11-04-00-Fix-Magic-Absorption.sql
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2019-11-22-00-Fix-Non-Zero-Defaults.sql
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2019-11-28-00-Fix-Tailoring-Shield.sql
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2019-12-07-00-Update-Summoning-Devices.sql
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2019-12-13-00-Remove-All-FirstEnterWorldDone.sql
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2019-12-19-00-PetDevice-Ratings-v2.sql
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2019-12-22-00-Convert-AutoIncrement-To-Composite-Key.sql
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2020-03-03-00-Fix-Clothing-AL.sql
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2020-03-08-00-Fix-Epic-Slashing-Ward.sql
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2020-03-17-00-Remove-Trinkets-Imbued-With-Invalid-Spells.sql
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2020-04-07-00-Add-Order-To-Biota-Properties-Palette.sql
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2020-04-08-00-Ice-Tachi-Critical-Frequency.sql
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2020-04-11-00-Update-Character-SpellBars.sql
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2020-04-13-00-Fix-Copper-Silver-Salvage.sql
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2020-04-18-00-Update-Black-Thistle.sql
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2020-06-18-00-Update-Colo-Backpack.sql
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2020-06-25-00-Update-Some-Items.sql
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2020-06-27-00-Update-Facility-Hub-Portal-Gem.sql
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2020-08-05-00-Update-PetDevices.sql
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2020-08-23-00-Steel-Salvage-Target-Type.sql
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2020-09-05-00-Update-Bloodstone-Wand-Crit-Rate.sql
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2020-09-18-00-Update-Casino-Keys.sql
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2020-09-26-00-Update-Casino-Keys-2.sql
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2020-10-20-00-Sync-Level-200-PetDevice-Names.sql
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2020-10-23-00-Update-Rare-ItemCurMana.sql
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2020-10-28-00-Defense-Imbue-Salvage-Target-Type.sql
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2020-11-02-00-Grub-TTR.sql
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\2020-11-13-00-T7-T8-Non-Elemental-Caster-Fix-Appraisal-Missing-Level-Req.sql
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\Shard\updates.txt
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\2020-12-29\Updates\World\updates.txt
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Archive\README.md
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Base\AuthenticationBase.sql
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Base\LogBase.sql
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Base\PKKillsBase.sql
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Base\ShardBase.sql
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Base\TownControlBase.sql
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Base\WorldBase.sql
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Authentication\updates.txt
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Log\AddArenaFeature.sql
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Log\AddLogDbIndexes.sql
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Log\AddRareLogFeature.sql
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Log\AddVotingFeature.sql
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\PKKills\AddKillTypetoKill.sql
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\PKKills\Updates.txt
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2021-03-18-00-Update-Casting-Stone.sql
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2021-06-17-00-Fix-Rynthid-Tentacle-Bow-WeenieType.sql
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2021-07-14-00-Fix-Defense-Imbues.sql
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2021-07-21-00-Fix-Summon-Pets.sql
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2021-08-30-00-ChasingOswald.sql
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2021-09-08-00-Fix-Caster-Missing-Default-Combat-Style.sql
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2021-10-08-00-Change_Emote_Action_Table.sql
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2021-11-04-00-Update-Critical-Frequency.sql
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2021-12-03-Update-Heart-of-Darkest-Flame.sql
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2021-12-19-00-Fix-Stormwood-Dagger.sql
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2022-01-06-00-Remove-Stipend-Spells-From-Players.sql
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2022-01-14-00-Update-Red-Rune-Silveran-Weapons.sql
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2022-01-14-01-Update-Shield-of-Perfect-Light.sql
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2022-05-14-00-Fix-Slayer-Damage.sql
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2022-05-14-01-Fix-Black-Cloud-Bow.sql
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2022-05-14-02-Fix-Exquisite-Lense.sql
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2022-05-14-03-Fix-Nether-Society-Orb.sql
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2022-05-14-04-Fix-Aegis-of-the-Golden-Flame.sql
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2022-05-14-05-Fix-Nekodes.sql
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2022-05-14-06-Fix-Gauntlet-Backpacks.sql
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2022-06-10-00-Update-Items.sql
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2022-08-11-00-Fix-Nether-Society-Orb.sql
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2023-03-01-00-Add-Enchanted-Phial-Pea-Bonded.sql
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2023-04-05-00-Add-Empowered-Phial-Pea-Bonded.sql
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2023-04-08-00-Fix-Taulandoi-Critical-Frequency.sql
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2023-07-14-00-Fix-Purified-Weapons-Wield-Requirement.sql
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2023-07-25-00-Fix-Geraine-Tomes.sql
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2023-09-02-00-Update-Spell-Hieroglyph-of-Healing-Mastery.sql
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2024-02-10-00-Explorer-WCIDs-Inactive-Blank-Golem.sql
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\2025-03-09-00-Fix-Renegade-Kalindans.sql
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\Shard\updates.txt
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\TownControl\AddArchiveTables.sql
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Updates\World\updates.txt
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Optional\Authentication\2019-06-10-00-Drop_ntoa_Fields_From_Account_Table.sql
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Optional\Shard\2019-07-12-00-Match_World_Spells_In_Biota_Enchantment_Registry.sql
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DatabaseSetupScripts\Optional\Shard\2019-08-04-00-Match_World_WeenieType_In_Biota.sql
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\ACE.Server.exe
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\ACE.Server.deps.json
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\ACE.Server.runtimeconfig.json
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\ACE.Server.dll
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\ACE.Server.pdb
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\BCrypt.Net-Next.dll
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\DouglasCrockford.JsMin.dll
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\0Harmony.dll
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\log4net.dll
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\Log4Net.Async.dll
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\McMaster.NETCore.Plugins.dll
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\Microsoft.Extensions.Logging.dll
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\Microsoft.Extensions.Options.dll
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\MySqlConnector.dll
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\Newtonsoft.Json.dll
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\System.Drawing.Common.dll
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\System.Security.Permissions.dll
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\TimeZoneConverter.dll
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\ACE.Adapter.dll
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\ACE.Common.dll
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\ACE.Database.dll
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\ACE.DatLoader.dll
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\ACE.Entity.dll
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\Lifestoned.DataModel.dll
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\ACE.Adapter.pdb
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\ACE.Common.pdb
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\ACE.Database.pdb
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\ACE.DatLoader.pdb
+C:\Nexus Server Source\Source\ACE.Server\bin\x64\Release\net8.0\ACE.Entity.pdb
+C:\Nexus Server Source\Source\ACE.Server\obj\x64\Release\net8.0\ACE.Server.csproj.AssemblyReference.cache
+C:\Nexus Server Source\Source\ACE.Server\obj\x64\Release\net8.0\ACE.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nexus Server Source\Source\ACE.Server\obj\x64\Release\net8.0\ACE.Server.AssemblyInfoInputs.cache
+C:\Nexus Server Source\Source\ACE.Server\obj\x64\Release\net8.0\ACE.Server.AssemblyInfo.cs
+C:\Nexus Server Source\Source\ACE.Server\obj\x64\Release\net8.0\ACE.Server.csproj.CoreCompileInputs.cache
+C:\Nexus Server Source\Source\ACE.Server\obj\x64\Release\net8.0\ACE.Server.csproj.Up2Date
+C:\Nexus Server Source\Source\ACE.Server\obj\x64\Release\net8.0\ACE.Server.dll
+C:\Nexus Server Source\Source\ACE.Server\obj\x64\Release\net8.0\refint\ACE.Server.dll
+C:\Nexus Server Source\Source\ACE.Server\obj\x64\Release\net8.0\ACE.Server.pdb
+C:\Nexus Server Source\Source\ACE.Server\obj\x64\Release\net8.0\ACE.Server.genruntimeconfig.cache
+C:\Nexus Server Source\Source\ACE.Server\obj\x64\Release\net8.0\ref\ACE.Server.dll

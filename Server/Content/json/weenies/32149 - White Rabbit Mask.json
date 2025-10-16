@@ -1,0 +1,238 @@
+{
+  "wcid": 32149,
+  "weenieType": 2,
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 0
+    },
+    {
+      "key": 11,
+      "value": 1
+    },
+    {
+      "key": 13,
+      "value": 1
+    },
+    {
+      "key": 14,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 1
+    },
+    {
+      "key": 22,
+      "value": 1
+    },
+    {
+      "key": 99,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 2
+    },
+    {
+      "key": 3,
+      "value": 4
+    },
+    {
+      "key": 4,
+      "value": 16384
+    },
+    {
+      "key": 5,
+      "value": 100
+    },
+    {
+      "key": 9,
+      "value": 1
+    },
+    {
+      "key": 16,
+      "value": 1
+    },
+    {
+      "key": 18,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 20
+    },
+    {
+      "key": 28,
+      "value": 200
+    },
+    {
+      "key": 33,
+      "value": 1
+    },
+    {
+      "key": 93,
+      "value": 1044
+    },
+    {
+      "key": 106,
+      "value": 335
+    },
+    {
+      "key": 107,
+      "value": 1092
+    },
+    {
+      "key": 108,
+      "value": 1200
+    },
+    {
+      "key": 109,
+      "value": 250
+    },
+    {
+      "key": 114,
+      "value": 1
+    },
+    {
+      "key": 151,
+      "value": 2
+    },
+    {
+      "key": 158,
+      "value": 7
+    },
+    {
+      "key": 159,
+      "value": 1
+    },
+    {
+      "key": 160,
+      "value": 30
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33559763
+    },
+    {
+      "key": 3,
+      "value": 536870932
+    },
+    {
+      "key": 7,
+      "value": 268437068
+    },
+    {
+      "key": 8,
+      "value": 100688458
+    },
+    {
+      "key": 22,
+      "value": 872415275
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 5,
+      "value": -0.05
+    },
+    {
+      "key": 12,
+      "value": 0
+    },
+    {
+      "key": 13,
+      "value": 1.5
+    },
+    {
+      "key": 14,
+      "value": 0.8
+    },
+    {
+      "key": 15,
+      "value": 1.2
+    },
+    {
+      "key": 16,
+      "value": 2
+    },
+    {
+      "key": 17,
+      "value": 0.8
+    },
+    {
+      "key": 18,
+      "value": 1.2
+    },
+    {
+      "key": 19,
+      "value": 2
+    },
+    {
+      "key": 165,
+      "value": 1
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "White Rabbit Mask"
+    },
+    {
+      "key": 15,
+      "value": "A large mask depicting the head of the White Rabbit. It's very odd."
+    }
+  ],
+  "spellbook": [
+    {
+      "key": 2183,
+      "value": {
+        "casting_likelihood": 2
+      }
+    },
+    {
+      "key": 2185,
+      "value": {
+        "casting_likelihood": 2
+      }
+    },
+    {
+      "key": 2187,
+      "value": {
+        "casting_likelihood": 2
+      }
+    },
+    {
+      "key": 2626,
+      "value": {
+        "casting_likelihood": 2
+      }
+    },
+    {
+      "key": 2627,
+      "value": {
+        "casting_likelihood": 2
+      }
+    },
+    {
+      "key": 2628,
+      "value": {
+        "casting_likelihood": 2
+      }
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2025-09-15T21:08:16.4737737Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

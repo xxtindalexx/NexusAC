@@ -1,0 +1,23 @@
+{
+  "clothingBaseEffects": {
+    "0x2000F1C": {
+      "cloObjectEffects": [
+        {
+          "index": 0,
+          "modelId": "0x1004497",
+          "cloTextureEffects": [
+            {
+              "oldTexture": "0x5001C8E",
+              "newTexture": "0x5003305"
+            },
+            {
+              "oldTexture": "0x5001F8E",
+              "newTexture": "0x5003310"
+            }
+          ]
+        }
+      ]
+	}
+  },
+  "id": "0x100009E0"
+}

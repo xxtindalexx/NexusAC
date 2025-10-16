@@ -1,0 +1,1694 @@
+{
+  "wcid": 700012,
+  "weenieType": 10,
+  "attributes": {
+    "strength": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 200
+    },
+    "endurance": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 290
+    },
+    "coordination": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 200
+    },
+    "quickness": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 200
+    },
+    "focus": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 290
+    },
+    "self": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 290
+    },
+    "health": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 264,
+      "current": 409
+    },
+    "stamina": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 210,
+      "current": 500
+    },
+    "mana": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 259,
+      "current": 584
+    }
+  },
+  "body": {
+    "body_part_table": [
+      {
+        "key": 0,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0,
+          "acache": {
+            "base_armor": 0,
+            "armor_vs_slash": 0,
+            "armor_vs_pierce": 0,
+            "armor_vs_bludgeon": 0,
+            "armor_vs_cold": 0,
+            "armor_vs_fire": 0,
+            "armor_vs_acid": 0,
+            "armor_vs_electric": 0,
+            "armor_vs_nether": 0
+          },
+          "bh": 1,
+          "bpsd": {
+            "HLF": 0.33000001311302185,
+            "MLF": 0,
+            "LLF": 0,
+            "HRF": 0.33000001311302185,
+            "MRF": 0,
+            "LRF": 0,
+            "HLB": 0.33000001311302185,
+            "MLB": 0,
+            "LLB": 0,
+            "HRB": 0.33000001311302185,
+            "MRB": 0,
+            "LRB": 0
+          }
+        }
+      },
+      {
+        "key": 1,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0,
+          "acache": {
+            "base_armor": 0,
+            "armor_vs_slash": 0,
+            "armor_vs_pierce": 0,
+            "armor_vs_bludgeon": 0,
+            "armor_vs_cold": 0,
+            "armor_vs_fire": 0,
+            "armor_vs_acid": 0,
+            "armor_vs_electric": 0,
+            "armor_vs_nether": 0
+          },
+          "bh": 2,
+          "bpsd": {
+            "HLF": 0.4399999976158142,
+            "MLF": 0.17000000178813934,
+            "LLF": 0,
+            "HRF": 0.4399999976158142,
+            "MRF": 0.17000000178813934,
+            "LRF": 0,
+            "HLB": 0.4399999976158142,
+            "MLB": 0.17000000178813934,
+            "LLB": 0,
+            "HRB": 0.4399999976158142,
+            "MRB": 0.17000000178813934,
+            "LRB": 0
+          }
+        }
+      },
+      {
+        "key": 2,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0,
+          "acache": {
+            "base_armor": 0,
+            "armor_vs_slash": 0,
+            "armor_vs_pierce": 0,
+            "armor_vs_bludgeon": 0,
+            "armor_vs_cold": 0,
+            "armor_vs_fire": 0,
+            "armor_vs_acid": 0,
+            "armor_vs_electric": 0,
+            "armor_vs_nether": 0
+          },
+          "bh": 3,
+          "bpsd": {
+            "HLF": 0,
+            "MLF": 0.17000000178813934,
+            "LLF": 0,
+            "HRF": 0,
+            "MRF": 0.17000000178813934,
+            "LRF": 0,
+            "HLB": 0,
+            "MLB": 0.17000000178813934,
+            "LLB": 0,
+            "HRB": 0,
+            "MRB": 0.17000000178813934,
+            "LRB": 0
+          }
+        }
+      },
+      {
+        "key": 3,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0,
+          "acache": {
+            "base_armor": 0,
+            "armor_vs_slash": 0,
+            "armor_vs_pierce": 0,
+            "armor_vs_bludgeon": 0,
+            "armor_vs_cold": 0,
+            "armor_vs_fire": 0,
+            "armor_vs_acid": 0,
+            "armor_vs_electric": 0,
+            "armor_vs_nether": 0
+          },
+          "bh": 1,
+          "bpsd": {
+            "HLF": 0.23000000417232513,
+            "MLF": 0.029999999329447746,
+            "LLF": 0,
+            "HRF": 0.23000000417232513,
+            "MRF": 0.029999999329447746,
+            "LRF": 0,
+            "HLB": 0.23000000417232513,
+            "MLB": 0.029999999329447746,
+            "LLB": 0,
+            "HRB": 0.23000000417232513,
+            "MRB": 0.029999999329447746,
+            "LRB": 0
+          }
+        }
+      },
+      {
+        "key": 4,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0,
+          "acache": {
+            "base_armor": 0,
+            "armor_vs_slash": 0,
+            "armor_vs_pierce": 0,
+            "armor_vs_bludgeon": 0,
+            "armor_vs_cold": 0,
+            "armor_vs_fire": 0,
+            "armor_vs_acid": 0,
+            "armor_vs_electric": 0,
+            "armor_vs_nether": 0
+          },
+          "bh": 2,
+          "bpsd": {
+            "HLF": 0,
+            "MLF": 0.30000001192092896,
+            "LLF": 0,
+            "HRF": 0,
+            "MRF": 0.30000001192092896,
+            "LRF": 0,
+            "HLB": 0,
+            "MLB": 0.30000001192092896,
+            "LLB": 0,
+            "HRB": 0,
+            "MRB": 0.30000001192092896,
+            "LRB": 0
+          }
+        }
+      },
+      {
+        "key": 5,
+        "value": {
+          "dtype": 4,
+          "dval": 2,
+          "dvar": 0.75,
+          "acache": {
+            "base_armor": 0,
+            "armor_vs_slash": 0,
+            "armor_vs_pierce": 0,
+            "armor_vs_bludgeon": 0,
+            "armor_vs_cold": 0,
+            "armor_vs_fire": 0,
+            "armor_vs_acid": 0,
+            "armor_vs_electric": 0,
+            "armor_vs_nether": 0
+          },
+          "bh": 2,
+          "bpsd": {
+            "HLF": 0,
+            "MLF": 0.20000000298023224,
+            "LLF": 0,
+            "HRF": 0,
+            "MRF": 0.20000000298023224,
+            "LRF": 0,
+            "HLB": 0,
+            "MLB": 0.20000000298023224,
+            "LLB": 0,
+            "HRB": 0,
+            "MRB": 0.20000000298023224,
+            "LRB": 0
+          }
+        }
+      },
+      {
+        "key": 6,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0,
+          "acache": {
+            "base_armor": 0,
+            "armor_vs_slash": 0,
+            "armor_vs_pierce": 0,
+            "armor_vs_bludgeon": 0,
+            "armor_vs_cold": 0,
+            "armor_vs_fire": 0,
+            "armor_vs_acid": 0,
+            "armor_vs_electric": 0,
+            "armor_vs_nether": 0
+          },
+          "bh": 3,
+          "bpsd": {
+            "HLF": 0,
+            "MLF": 0.12999999523162842,
+            "LLF": 0.18000000715255737,
+            "HRF": 0,
+            "MRF": 0.12999999523162842,
+            "LRF": 0.18000000715255737,
+            "HLB": 0,
+            "MLB": 0.12999999523162842,
+            "LLB": 0.18000000715255737,
+            "HRB": 0,
+            "MRB": 0.12999999523162842,
+            "LRB": 0.18000000715255737
+          }
+        }
+      },
+      {
+        "key": 7,
+        "value": {
+          "dtype": 4,
+          "dval": 0,
+          "dvar": 0,
+          "acache": {
+            "base_armor": 0,
+            "armor_vs_slash": 0,
+            "armor_vs_pierce": 0,
+            "armor_vs_bludgeon": 0,
+            "armor_vs_cold": 0,
+            "armor_vs_fire": 0,
+            "armor_vs_acid": 0,
+            "armor_vs_electric": 0,
+            "armor_vs_nether": 0
+          },
+          "bh": 3,
+          "bpsd": {
+            "HLF": 0,
+            "MLF": 0,
+            "LLF": 0.6000000238418579,
+            "HRF": 0,
+            "MRF": 0,
+            "LRF": 0.6000000238418579,
+            "HLB": 0,
+            "MLB": 0,
+            "LLB": 0.6000000238418579,
+            "HRB": 0,
+            "MRB": 0,
+            "LRB": 0.6000000238418579
+          }
+        }
+      },
+      {
+        "key": 8,
+        "value": {
+          "dtype": 4,
+          "dval": 2,
+          "dvar": 0.75,
+          "acache": {
+            "base_armor": 0,
+            "armor_vs_slash": 0,
+            "armor_vs_pierce": 0,
+            "armor_vs_bludgeon": 0,
+            "armor_vs_cold": 0,
+            "armor_vs_fire": 0,
+            "armor_vs_acid": 0,
+            "armor_vs_electric": 0,
+            "armor_vs_nether": 0
+          },
+          "bh": 3,
+          "bpsd": {
+            "HLF": 0,
+            "MLF": 0,
+            "LLF": 0.2199999988079071,
+            "HRF": 0,
+            "MRF": 0,
+            "LRF": 0.2199999988079071,
+            "HLB": 0,
+            "MLB": 0,
+            "LLB": 0.2199999988079071,
+            "HRB": 0,
+            "MRB": 0,
+            "LRB": 0.2199999988079071
+          }
+        }
+      }
+    ]
+  },
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 8,
+      "value": 1
+    },
+    {
+      "key": 11,
+      "value": 0
+    },
+    {
+      "key": 12,
+      "value": 1
+    },
+    {
+      "key": 13,
+      "value": 0
+    },
+    {
+      "key": 19,
+      "value": 0
+    },
+    {
+      "key": 41,
+      "value": 1
+    },
+    {
+      "key": 42,
+      "value": 1
+    },
+    {
+      "key": 52,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 16
+    },
+    {
+      "key": 2,
+      "value": 51
+    },
+    {
+      "key": 6,
+      "value": 1
+    },
+    {
+      "key": 7,
+      "value": 1
+    },
+    {
+      "key": 8,
+      "value": 120
+    },
+    {
+      "key": 16,
+      "value": 32
+    },
+    {
+      "key": 25,
+      "value": 505
+    },
+    {
+      "key": 27,
+      "value": 0
+    },
+    {
+      "key": 30,
+      "value": 1
+    },
+    {
+      "key": 67,
+      "value": 1
+    },
+    {
+      "key": 93,
+      "value": 6292504
+    },
+    {
+      "key": 95,
+      "value": 8
+    },
+    {
+      "key": 113,
+      "value": 1
+    },
+    {
+      "key": 133,
+      "value": 4
+    },
+    {
+      "key": 134,
+      "value": 16
+    },
+    {
+      "key": 146,
+      "value": 0
+    },
+    {
+      "key": 188,
+      "value": 3
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33554510
+    },
+    {
+      "key": 2,
+      "value": 150994945
+    },
+    {
+      "key": 3,
+      "value": 536870914
+    },
+    {
+      "key": 6,
+      "value": 67108990
+    },
+    {
+      "key": 8,
+      "value": 100667446
+    }
+  ],
+  "iidStats": [
+    {
+      "key": 16,
+      "value": 29950447
+    }
+  ],
+  "floatStats": [
+    {
+      "key": 1,
+      "value": 5
+    },
+    {
+      "key": 2,
+      "value": 0
+    },
+    {
+      "key": 3,
+      "value": 0.16
+    },
+    {
+      "key": 4,
+      "value": 5
+    },
+    {
+      "key": 5,
+      "value": 1
+    },
+    {
+      "key": 11,
+      "value": 300
+    },
+    {
+      "key": 12,
+      "value": 0
+    },
+    {
+      "key": 37,
+      "value": 1
+    },
+    {
+      "key": 38,
+      "value": 1
+    },
+    {
+      "key": 39,
+      "value": 1.3
+    },
+    {
+      "key": 54,
+      "value": 5
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Nexus Buffer Mage"
+    }
+  ],
+  "createList": [
+    {
+      "wcid": 21374,
+      "palette": 0,
+      "shade": 0,
+      "destination": 2,
+      "stack_size": 39,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 52193,
+      "palette": 0,
+      "shade": 0,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 7,
+      "value": [
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 10,
+              "delay": 1,
+              "extent": 1,
+              "msg": "If u hand me 1 pyreal or 20 Nexus Tokens i will give you all level 8 buffs."
+            }
+          ],
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "key": 1,
+      "value": [
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 76,
+              "delay": 0,
+              "extent": 1,
+              "msg": "OwnsItem-273_4"
+            }
+          ],
+          "probability": 1,
+          "classID": 273
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 76,
+              "delay": 0,
+              "extent": 1,
+              "msg": "OwnsItem-273_4"
+            }
+          ],
+          "probability": 1,
+          "classID": 273
+        }
+      ]
+    },
+    {
+      "key": 22,
+      "value": [
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 75,
+              "delay": 0,
+              "extent": 1,
+              "msg": "InqYesNo",
+              "teststring": "Would you like to spend 1 pyreal on level 8 Buffs?"
+            }
+          ],
+          "probability": 1,
+          "quest": "OwnsItem-273_4"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0,
+              "extent": 1,
+              "msg": "OwnsItem-273_5"
+            }
+          ],
+          "probability": 1,
+          "quest": "InqYesNo"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 74,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 4296
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 3983
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 4500
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 6022
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 5989
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 6014
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 6006
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 5997
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 6031
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 3982
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 6115
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 4077
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 4298
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 4304
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 4318
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 4324
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 4328
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 4459
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 4461
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 4463
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 4465
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 4467
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 4469
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 4471
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 4493
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 4495
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 4505
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 4509
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 4511
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 4517
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 4521
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 4525
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 4529
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 4533
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 4537
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 4541
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 4547
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 4551
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 4555
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 4557
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 4559
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 4563
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 4565
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 4571
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 4577
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 4581
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 4585
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 4589
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 4591
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 4595
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 4601
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 4603
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 4607
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 4613
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 4615
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 4619
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 4623
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 4627
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 4630
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 4637
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 4639
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 5060
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 5098
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 5410
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 5778
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 5802
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 5826
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 5850
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 5874
+            },
+            {
+              "type": 10,
+              "delay": 0,
+              "extent": 1,
+              "msg": "Enjoy the Buffs!"
+            }
+          ],
+          "probability": 1,
+          "quest": "OwnsItem-273_5"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0,
+              "extent": 1,
+              "msg": "Come back when You have More than that."
+            }
+          ],
+          "probability": 1,
+          "quest": "OwnsItem-273_6"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 75,
+              "delay": 0,
+              "extent": 1,
+              "msg": "InqYesNo_2",
+              "teststring": "Would you like to spend 5 Nexus Tokens on level 8 Buffs?"
+            }
+          ],
+          "probability": 1,
+          "quest": "OwnsItem-273_4"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0,
+              "extent": 1,
+              "msg": "OwnsItem-273_5"
+            }
+          ],
+          "probability": 1,
+          "quest": "InqYesNo_2"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 74,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 4296
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 3983
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 4500
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 6022
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 5989
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 6014
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 6006
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 5997
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 6031
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 3982
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 6115
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 4077
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 4298
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 4304
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 4318
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 4324
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 4328
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 4459
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 4461
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 4463
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 4465
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 4467
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 4469
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 4471
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 4493
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 4495
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 4505
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 4509
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 4511
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 4517
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 4521
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 4525
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 4529
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 4533
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 4537
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 4541
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 4547
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 4551
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 4555
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 4557
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 4559
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 4563
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 4565
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 4571
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 4577
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 4581
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 4585
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 4589
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 4591
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 4595
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 4601
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 4603
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 4607
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 4613
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 4615
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 4619
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 4623
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 4627
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 4630
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 4637
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 4639
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 5060
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 5098
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 5410
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 5778
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 5802
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 5826
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 5850
+            },
+            {
+              "type": 19,
+              "delay": 0.1,
+              "extent": 1,
+              "spellid": 5874
+            },
+            {
+              "type": 10,
+              "delay": 0,
+              "extent": 1,
+              "msg": "Enjoy the buffs!"
+            }
+          ],
+          "probability": 1,
+          "quest": "OwnsItem-273_5"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0,
+              "extent": 1,
+              "msg": "Come back when you have more than that."
+            }
+          ],
+          "probability": 1,
+          "quest": "OwnsItem-273_6"
+        }
+      ]
+    },
+    {
+      "key": 23,
+      "value": [
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0,
+              "extent": 1,
+              "msg": "Has1MMDs"
+            }
+          ],
+          "probability": 1,
+          "quest": "InqYesNo"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0,
+              "extent": 1,
+              "msg": "Has1MMDs"
+            }
+          ],
+          "probability": 1,
+          "quest": "OwnsItem-273_4"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0,
+              "extent": 1,
+              "msg": "Has1PKT"
+            }
+          ],
+          "probability": 1,
+          "quest": "OwnsItem-273_5"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 67,
+              "delay": 0,
+              "extent": 1,
+              "msg": "Has1PKT"
+            }
+          ],
+          "probability": 1,
+          "quest": "OwnsItem-273_4"
+        }
+      ]
+    },
+    {
+      "key": 32,
+      "value": [
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0,
+              "extent": 1,
+              "msg": "OwnsItem-273"
+            }
+          ],
+          "probability": 1,
+          "quest": "Has1MMDs"
+        },
+        {
+          "category": 32,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0,
+              "extent": 1,
+              "msg": "OwnsItem-273_2"
+            }
+          ],
+          "probability": 1,
+          "quest": "Has1PKT"
+        }
+      ]
+    }
+  ],
+  "lastModified": "2025-09-05T03:14:20.8914619Z",
+  "modifiedBy": "ACE.Adapter",
+  "changelog": [
+    {
+      "created": "2025-09-05T03:12:17.3570333Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    },
+    {
+      "created": "2025-09-05T03:13:18.1900908Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    },
+    {
+      "created": "2025-09-05T03:14:20.8898815Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "userChangeSummary": "Weenie exported from ACEmulator world database using ACE.Adapter",
+  "isDone": false
+}

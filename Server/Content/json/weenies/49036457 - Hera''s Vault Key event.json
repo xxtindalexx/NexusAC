@@ -1,0 +1,116 @@
+{
+  "wcid": 49036457,
+  "weenieType": 22,
+  "boolStats": [
+    {
+      "key": 22,
+      "value": 1
+    },
+    {
+      "key": 23,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 16384
+    },
+    {
+      "key": 5,
+      "value": 500
+    },
+    {
+      "key": 8,
+      "value": 5
+    },
+    {
+      "key": 16,
+      "value": 2097160
+    },
+    {
+      "key": 19,
+      "value": 15
+    },
+    {
+      "key": 33,
+      "value": -1
+    },
+    {
+      "key": 91,
+      "value": 1
+    },
+    {
+      "key": 92,
+      "value": 1
+    },
+    {
+      "key": 93,
+      "value": 1044
+    },
+    {
+      "key": 94,
+      "value": 640
+    },
+    {
+      "key": 369,
+      "value": 180
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33554784
+    },
+    {
+      "key": 3,
+      "value": 536870932
+    },
+    {
+      "key": 8,
+      "value": 100689805
+    },
+    {
+      "key": 22,
+      "value": 872415275
+    },
+    {
+      "key": 50,
+      "value": 100690864
+    },
+    {
+      "key": 52,
+      "value": 100686604
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 39,
+      "value": 3
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Dragons vault key"
+    },
+    {
+      "key": 13,
+      "value": "Dragons vault"
+    },
+    {
+      "key": 16,
+      "value": "A well made key made of Dragon Bone. The key appears to be infused with the blood of the fallen. It glow's with an unknown type of power."
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2025-10-01T18:59:13.8079611Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

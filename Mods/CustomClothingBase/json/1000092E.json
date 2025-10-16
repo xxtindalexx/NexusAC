@@ -1,0 +1,25 @@
+{
+  "clothingBaseEffects": {
+    "33559618": {
+      "cloObjectEffects": [
+        {
+          "index": 0,
+          "modelId": 16792592,
+          "cloTextureEffects": [
+            {
+              "oldTexture": 83897328,
+              "newTexture": 83899212
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "clothingSubPalEffects": {
+    "9": {
+      "icon": 0,
+      "cloSubPalettes": []
+    }
+  },
+  "id": 268437806
+}

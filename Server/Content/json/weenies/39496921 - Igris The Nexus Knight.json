@@ -1,0 +1,1105 @@
+{
+  "wcid": 39496921,
+  "weenieType": 10,
+  "attributes": {
+    "strength": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 800
+    },
+    "endurance": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 800
+    },
+    "coordination": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 800
+    },
+    "quickness": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 800
+    },
+    "focus": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 559
+    },
+    "self": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 559
+    },
+    "health": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 249600,
+      "current": 250000
+    },
+    "stamina": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 100,
+      "current": 300
+    },
+    "mana": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 20,
+      "current": 220
+    }
+  },
+  "body": {
+    "body_part_table": [
+      {
+        "key": 0,
+        "value": {
+          "dtype": 32,
+          "dval": 280,
+          "dvar": 0,
+          "acache": {
+            "base_armor": 280,
+            "armor_vs_slash": 140,
+            "armor_vs_pierce": 140,
+            "armor_vs_bludgeon": 140,
+            "armor_vs_cold": 140,
+            "armor_vs_fire": 140,
+            "armor_vs_acid": 140,
+            "armor_vs_electric": 140,
+            "armor_vs_nether": 0
+          },
+          "bh": 1,
+          "bpsd": {
+            "HLF": 0.33000001311302185,
+            "MLF": 0,
+            "LLF": 0,
+            "HRF": 0.33000001311302185,
+            "MRF": 0,
+            "LRF": 0,
+            "HLB": 0.33000001311302185,
+            "MLB": 0,
+            "LLB": 0,
+            "HRB": 0.33000001311302185,
+            "MRB": 0,
+            "LRB": 0
+          }
+        }
+      },
+      {
+        "key": 1,
+        "value": {
+          "dtype": 32,
+          "dval": 280,
+          "dvar": 0,
+          "acache": {
+            "base_armor": 280,
+            "armor_vs_slash": 140,
+            "armor_vs_pierce": 140,
+            "armor_vs_bludgeon": 140,
+            "armor_vs_cold": 140,
+            "armor_vs_fire": 140,
+            "armor_vs_acid": 140,
+            "armor_vs_electric": 140,
+            "armor_vs_nether": 0
+          },
+          "bh": 2,
+          "bpsd": {
+            "HLF": 0.4399999976158142,
+            "MLF": 0.17000000178813934,
+            "LLF": 0,
+            "HRF": 0.4399999976158142,
+            "MRF": 0.17000000178813934,
+            "LRF": 0,
+            "HLB": 0.4399999976158142,
+            "MLB": 0.17000000178813934,
+            "LLB": 0,
+            "HRB": 0.4399999976158142,
+            "MRB": 0.17000000178813934,
+            "LRB": 0
+          }
+        }
+      },
+      {
+        "key": 2,
+        "value": {
+          "dtype": 32,
+          "dval": 280,
+          "dvar": 0,
+          "acache": {
+            "base_armor": 280,
+            "armor_vs_slash": 140,
+            "armor_vs_pierce": 140,
+            "armor_vs_bludgeon": 140,
+            "armor_vs_cold": 140,
+            "armor_vs_fire": 140,
+            "armor_vs_acid": 140,
+            "armor_vs_electric": 140,
+            "armor_vs_nether": 0
+          },
+          "bh": 3,
+          "bpsd": {
+            "HLF": 0,
+            "MLF": 0.17000000178813934,
+            "LLF": 0,
+            "HRF": 0,
+            "MRF": 0.17000000178813934,
+            "LRF": 0,
+            "HLB": 0,
+            "MLB": 0.17000000178813934,
+            "LLB": 0,
+            "HRB": 0,
+            "MRB": 0.17000000178813934,
+            "LRB": 0
+          }
+        }
+      },
+      {
+        "key": 3,
+        "value": {
+          "dtype": 32,
+          "dval": 280,
+          "dvar": 0,
+          "acache": {
+            "base_armor": 280,
+            "armor_vs_slash": 140,
+            "armor_vs_pierce": 140,
+            "armor_vs_bludgeon": 140,
+            "armor_vs_cold": 140,
+            "armor_vs_fire": 140,
+            "armor_vs_acid": 140,
+            "armor_vs_electric": 140,
+            "armor_vs_nether": 0
+          },
+          "bh": 1,
+          "bpsd": {
+            "HLF": 0.23000000417232513,
+            "MLF": 0.029999999329447746,
+            "LLF": 0,
+            "HRF": 0.23000000417232513,
+            "MRF": 0.029999999329447746,
+            "LRF": 0,
+            "HLB": 0.23000000417232513,
+            "MLB": 0.029999999329447746,
+            "LLB": 0,
+            "HRB": 0.23000000417232513,
+            "MRB": 0.029999999329447746,
+            "LRB": 0
+          }
+        }
+      },
+      {
+        "key": 4,
+        "value": {
+          "dtype": 32,
+          "dval": 280,
+          "dvar": 0,
+          "acache": {
+            "base_armor": 280,
+            "armor_vs_slash": 140,
+            "armor_vs_pierce": 140,
+            "armor_vs_bludgeon": 140,
+            "armor_vs_cold": 140,
+            "armor_vs_fire": 140,
+            "armor_vs_acid": 140,
+            "armor_vs_electric": 140,
+            "armor_vs_nether": 0
+          },
+          "bh": 2,
+          "bpsd": {
+            "HLF": 0,
+            "MLF": 0.30000001192092896,
+            "LLF": 0,
+            "HRF": 0,
+            "MRF": 0.30000001192092896,
+            "LRF": 0,
+            "HLB": 0,
+            "MLB": 0.30000001192092896,
+            "LLB": 0,
+            "HRB": 0,
+            "MRB": 0.30000001192092896,
+            "LRB": 0
+          }
+        }
+      },
+      {
+        "key": 5,
+        "value": {
+          "dtype": 4,
+          "dval": 280,
+          "dvar": 0.4,
+          "acache": {
+            "base_armor": 280,
+            "armor_vs_slash": 140,
+            "armor_vs_pierce": 140,
+            "armor_vs_bludgeon": 140,
+            "armor_vs_cold": 140,
+            "armor_vs_fire": 140,
+            "armor_vs_acid": 140,
+            "armor_vs_electric": 140,
+            "armor_vs_nether": 0
+          },
+          "bh": 2,
+          "bpsd": {
+            "HLF": 0,
+            "MLF": 0.20000000298023224,
+            "LLF": 0,
+            "HRF": 0,
+            "MRF": 0.20000000298023224,
+            "LRF": 0,
+            "HLB": 0,
+            "MLB": 0.20000000298023224,
+            "LLB": 0,
+            "HRB": 0,
+            "MRB": 0.20000000298023224,
+            "LRB": 0
+          }
+        }
+      },
+      {
+        "key": 6,
+        "value": {
+          "dtype": 32,
+          "dval": 280,
+          "dvar": 0,
+          "acache": {
+            "base_armor": 280,
+            "armor_vs_slash": 140,
+            "armor_vs_pierce": 140,
+            "armor_vs_bludgeon": 140,
+            "armor_vs_cold": 140,
+            "armor_vs_fire": 140,
+            "armor_vs_acid": 140,
+            "armor_vs_electric": 140,
+            "armor_vs_nether": 0
+          },
+          "bh": 3,
+          "bpsd": {
+            "HLF": 0,
+            "MLF": 0.12999999523162842,
+            "LLF": 0.18000000715255737,
+            "HRF": 0,
+            "MRF": 0.12999999523162842,
+            "LRF": 0.18000000715255737,
+            "HLB": 0,
+            "MLB": 0.12999999523162842,
+            "LLB": 0.18000000715255737,
+            "HRB": 0,
+            "MRB": 0.12999999523162842,
+            "LRB": 0.18000000715255737
+          }
+        }
+      },
+      {
+        "key": 7,
+        "value": {
+          "dtype": 32,
+          "dval": 280,
+          "dvar": 0,
+          "acache": {
+            "base_armor": 280,
+            "armor_vs_slash": 140,
+            "armor_vs_pierce": 140,
+            "armor_vs_bludgeon": 140,
+            "armor_vs_cold": 140,
+            "armor_vs_fire": 140,
+            "armor_vs_acid": 140,
+            "armor_vs_electric": 140,
+            "armor_vs_nether": 0
+          },
+          "bh": 3,
+          "bpsd": {
+            "HLF": 0,
+            "MLF": 0,
+            "LLF": 0.6000000238418579,
+            "HRF": 0,
+            "MRF": 0,
+            "LRF": 0.6000000238418579,
+            "HLB": 0,
+            "MLB": 0,
+            "LLB": 0.6000000238418579,
+            "HRB": 0,
+            "MRB": 0,
+            "LRB": 0.6000000238418579
+          }
+        }
+      },
+      {
+        "key": 8,
+        "value": {
+          "dtype": 4,
+          "dval": 280,
+          "dvar": 0.4,
+          "acache": {
+            "base_armor": 280,
+            "armor_vs_slash": 140,
+            "armor_vs_pierce": 140,
+            "armor_vs_bludgeon": 140,
+            "armor_vs_cold": 140,
+            "armor_vs_fire": 140,
+            "armor_vs_acid": 140,
+            "armor_vs_electric": 140,
+            "armor_vs_nether": 0
+          },
+          "bh": 3,
+          "bpsd": {
+            "HLF": 0,
+            "MLF": 0,
+            "LLF": 0.2199999988079071,
+            "HRF": 0,
+            "MRF": 0,
+            "LRF": 0.2199999988079071,
+            "HLB": 0,
+            "MLB": 0,
+            "LLB": 0.2199999988079071,
+            "HRB": 0,
+            "MRB": 0,
+            "LRB": 0.2199999988079071
+          }
+        }
+      }
+    ]
+  },
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 8,
+      "value": 1
+    },
+    {
+      "key": 11,
+      "value": 1
+    },
+    {
+      "key": 12,
+      "value": 1
+    },
+    {
+      "key": 13,
+      "value": 0
+    },
+    {
+      "key": 14,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 0
+    },
+    {
+      "key": 29,
+      "value": 1
+    },
+    {
+      "key": 41,
+      "value": 1
+    },
+    {
+      "key": 42,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 16
+    },
+    {
+      "key": 2,
+      "value": 31
+    },
+    {
+      "key": 6,
+      "value": -1
+    },
+    {
+      "key": 7,
+      "value": -1
+    },
+    {
+      "key": 25,
+      "value": 725
+    },
+    {
+      "key": 27,
+      "value": 1
+    },
+    {
+      "key": 93,
+      "value": 6292504
+    },
+    {
+      "key": 95,
+      "value": 8
+    },
+    {
+      "key": 113,
+      "value": 1
+    },
+    {
+      "key": 133,
+      "value": 4
+    },
+    {
+      "key": 134,
+      "value": 16
+    },
+    {
+      "key": 188,
+      "value": 2
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33554433
+    },
+    {
+      "key": 2,
+      "value": 150994945
+    },
+    {
+      "key": 3,
+      "value": 536870913
+    },
+    {
+      "key": 4,
+      "value": 805306368
+    },
+    {
+      "key": 6,
+      "value": 67108990
+    },
+    {
+      "key": 7,
+      "value": 268435871
+    },
+    {
+      "key": 8,
+      "value": 100667446
+    },
+    {
+      "key": 17,
+      "value": 67109554
+    },
+    {
+      "key": 22,
+      "value": 872415236
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 1,
+      "value": 5
+    },
+    {
+      "key": 2,
+      "value": 0
+    },
+    {
+      "key": 3,
+      "value": 0.16
+    },
+    {
+      "key": 4,
+      "value": 5
+    },
+    {
+      "key": 5,
+      "value": 1
+    },
+    {
+      "key": 13,
+      "value": 0.9
+    },
+    {
+      "key": 14,
+      "value": 1
+    },
+    {
+      "key": 15,
+      "value": 1.1
+    },
+    {
+      "key": 16,
+      "value": 0.4
+    },
+    {
+      "key": 17,
+      "value": 0.4
+    },
+    {
+      "key": 18,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 0.6
+    },
+    {
+      "key": 39,
+      "value": 1.7
+    },
+    {
+      "key": 54,
+      "value": 3
+    },
+    {
+      "key": 64,
+      "value": 1
+    },
+    {
+      "key": 65,
+      "value": 1
+    },
+    {
+      "key": 66,
+      "value": 1
+    },
+    {
+      "key": 67,
+      "value": 1
+    },
+    {
+      "key": 68,
+      "value": 1
+    },
+    {
+      "key": 69,
+      "value": 1
+    },
+    {
+      "key": 70,
+      "value": 1
+    },
+    {
+      "key": 71,
+      "value": 1
+    },
+    {
+      "key": 72,
+      "value": 1
+    },
+    {
+      "key": 73,
+      "value": 1
+    },
+    {
+      "key": 74,
+      "value": 1
+    },
+    {
+      "key": 75,
+      "value": 1
+    },
+    {
+      "key": 104,
+      "value": 10
+    },
+    {
+      "key": 125,
+      "value": 1
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Igris The Nexus Knight"
+    },
+    {
+      "key": 3,
+      "value": "Male"
+    },
+    {
+      "key": 4,
+      "value": "Gharun'dim"
+    }
+  ],
+  "createList": [
+    {
+      "wcid": 30262,
+      "palette": 85,
+      "shade": 0,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 26501,
+      "palette": 85,
+      "shade": 0,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 27912,
+      "palette": 85,
+      "shade": 0,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 27128,
+      "palette": 85,
+      "shade": 0,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 28337,
+      "palette": 85,
+      "shade": 0,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 3949225,
+      "palette": 0,
+      "shade": 0,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 27909,
+      "palette": 85,
+      "shade": 0,
+      "destination": 2,
+      "stack_size": 0,
+      "try_to_bond": 0
+    }
+  ],
+  "skills": [
+    {
+      "key": 6,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 0,
+        "init_level": 1,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 3
+      }
+    },
+    {
+      "key": 7,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 0,
+        "init_level": 1,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 3
+      }
+    },
+    {
+      "key": 24,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 0,
+        "init_level": 5,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 3
+      }
+    },
+    {
+      "key": 45,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 0,
+        "init_level": 1,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 3
+      }
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 7,
+      "value": [
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0,
+              "extent": 1,
+              "motion": 1090519043
+            },
+            {
+              "type": 12,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 21,
+              "delay": 0,
+              "extent": 1,
+              "msg": "BloodyOlthoiKillTaskCompleted@2"
+            }
+          ],
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "key": 12,
+      "value": [
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0,
+              "extent": 1,
+              "msg": "You can only do the quest every three days"
+            }
+          ],
+          "probability": 1,
+          "quest": "BloodyOlthoiKillTaskCompleted@2"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0,
+              "extent": 1,
+              "msg": "BloodyOlthoiKillTask@KillTaskCompleted"
+            }
+          ],
+          "probability": 1,
+          "quest": "BloodyOlthoiKillTask@KillTaskInProgress"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0,
+              "extent": 1,
+              "msg": "Gratitude feels small for what you’ve done. You didn’t just fight for me… you brought justice to every name they mocked by calling themselves knights."
+            },
+            {
+              "type": 62,
+              "delay": 1,
+              "extent": 1,
+              "amount64": 400000000
+            },
+            {
+              "type": 113,
+              "delay": 1,
+              "extent": 1,
+              "heroxp64": 100000
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 22,
+              "delay": 0,
+              "extent": 1,
+              "msg": "BloodyOlthoiKillTaskCompleted"
+            },
+            {
+              "type": 31,
+              "delay": 0,
+              "extent": 1,
+              "msg": "BloodyOlthoiKillTask"
+            }
+          ],
+          "probability": 1,
+          "quest": "BloodyOlthoiKillTask@KillTaskCompleted"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 1,
+              "extent": 1,
+              "msg": "You already gave me the Pincer, go do something else for now."
+            },
+            {
+              "type": 18,
+              "delay": 0.5,
+              "extent": 1,
+              "msg": "You must wait %tqt before attempting this quest again."
+            }
+          ],
+          "probability": 1,
+          "quest": "Brandenisaretard@3"
+        }
+      ]
+    },
+    {
+      "key": 13,
+      "value": [
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 30,
+              "delay": 0,
+              "extent": 1,
+              "msg": "BloodyOlthoiKillTask@KillTaskInProgress",
+              "max": 2147483647,
+              "min": 1
+            }
+          ],
+          "probability": 1,
+          "quest": "BloodyOlthoiKillTaskCompleted@2"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0,
+              "extent": 1,
+              "msg": "You’ve killed %tqc out of %tqm Bloody Olthoi"
+            },
+            {
+              "type": 10,
+              "delay": 1,
+              "extent": 1,
+              "msg": "Come back when you have slain 100"
+            }
+          ],
+          "probability": 1,
+          "quest": "BloodyOlthoiKillTask@KillTaskCompleted"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 3,
+              "extent": 1,
+              "msg": "There was a time when this island bled."
+            },
+            {
+              "type": 10,
+              "delay": 3,
+              "extent": 1,
+              "msg": "Now it's clockwork limbs grinding over sacred ground. Boots of brass where bones once stood."
+            },
+            {
+              "type": 10,
+              "delay": 3,
+              "extent": 1,
+              "msg": "The deafening sound of gears... it makes my skin crawl."
+            },
+            {
+              "type": 10,
+              "delay": 3,
+              "extent": 1,
+              "msg": "They're filth. Hollow shells pretending to be knights. These Bloody Olthoi! Parodies of the real thing."
+            },
+            {
+              "type": 10,
+              "delay": 3,
+              "extent": 1,
+              "msg": "They patrol this Reach like they own it. Like metal ever had the right to walk among the living."
+            },
+            {
+              "type": 10,
+              "delay": 3,
+              "extent": 1,
+              "msg": "Every one of them is an insult."
+            },
+            {
+              "type": 10,
+              "delay": 3,
+              "extent": 1,
+              "msg": "I want them gone out of the Red Vault!!"
+            },
+            {
+              "type": 10,
+              "delay": 2,
+              "extent": 1,
+              "msg": "I want their plating split. Their cores cracked. Their limbs rusting in the Reach like weeds pulled from a poisoned field."
+            },
+            {
+              "type": 10,
+              "delay": 3,
+              "extent": 1,
+              "msg": "Slay 100 of these filth and come back to me."
+            },
+            {
+              "type": 70,
+              "delay": 0,
+              "extent": 1,
+              "amount": 0,
+              "msg": "BloodyOlthoiKillTask"
+            }
+          ],
+          "probability": 1,
+          "quest": "BloodyOlthoiKillTask@KillTaskInProgress"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 76,
+              "delay": 0,
+              "extent": 1,
+              "msg": "OwnsItem-982176662_5"
+            }
+          ],
+          "probability": 1,
+          "quest": "Brandenisaretard@3"
+        }
+      ]
+    },
+    {
+      "key": 1,
+      "value": [
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0,
+              "extent": 1,
+              "msg": "Brandenisaretard@3"
+            }
+          ],
+          "probability": 1,
+          "classID": 982176662
+        }
+      ]
+    },
+    {
+      "key": 23,
+      "value": [
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0,
+              "extent": 1,
+              "msg": "Unless you've got a very specific tail in your bag, we’ve got nothing to talk about."
+            }
+          ],
+          "probability": 1,
+          "quest": "OwnsItem-982176662_5"
+        }
+      ]
+    },
+    {
+      "key": 22,
+      "value": [
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 74,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1,
+              "msg": "You found the Pincer? Consider me shocked, enjoy your reward. Come back in 20 hours to get another reward."
+            },
+            {
+              "type": 49,
+              "delay": 0,
+              "extent": 1,
+              "min64": 0,
+              "max64": 2500000000,
+              "percent": 0.39999998
+            },
+            {
+              "type": 113,
+              "delay": 1,
+              "extent": 1,
+              "heroxp64": 85000
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 22,
+              "delay": 0,
+              "extent": 1,
+              "msg": "Brandenisaretard"
+            }
+          ],
+          "probability": 1,
+          "quest": "OwnsItem-982176662_5"
+        }
+      ]
+    }
+  ],
+  "lastModified": "2025-09-30T18:44:04.5674824Z",
+  "modifiedBy": "ACE.Adapter",
+  "changelog": [
+    {
+      "created": "2025-09-30T05:34:36.0177771Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    },
+    {
+      "created": "2025-09-30T18:39:07.098209Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    },
+    {
+      "created": "2025-09-30T18:44:04.5668843Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "userChangeSummary": "Weenie exported from ACEmulator world database using ACE.Adapter",
+  "isDone": false
+}

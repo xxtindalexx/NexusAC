@@ -1,0 +1,119 @@
+{
+  "wcid": 1548803,
+  "weenieType": 38,
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 0
+    },
+    {
+      "key": 11,
+      "value": 1
+    },
+    {
+      "key": 13,
+      "value": 1
+    },
+    {
+      "key": 14,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 1
+    },
+    {
+      "key": 22,
+      "value": 1
+    },
+    {
+      "key": 69,
+      "value": 0
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 2048
+    },
+    {
+      "key": 5,
+      "value": 10
+    },
+    {
+      "key": 16,
+      "value": 524296
+    },
+    {
+      "key": 18,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 25
+    },
+    {
+      "key": 65,
+      "value": 101
+    },
+    {
+      "key": 93,
+      "value": 1044
+    },
+    {
+      "key": 94,
+      "value": 35215
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33554809
+    },
+    {
+      "key": 3,
+      "value": 536870932
+    },
+    {
+      "key": 6,
+      "value": 67111919
+    },
+    {
+      "key": 7,
+      "value": 268435723
+    },
+    {
+      "key": 8,
+      "value": 100693104
+    },
+    {
+      "key": 22,
+      "value": 872415275
+    },
+    {
+      "key": 52,
+      "value": 100686604
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Empyrean Tuning Fork"
+    },
+    {
+      "key": 14,
+      "value": "This tuning fork appears to have been used by the ancient Empyrean blacksmiths to alter spell cantrips on armor. It appears to resonate at a unique frequency that can alter the current legendary cantrips on a piece of armor. There is a small chance to add or remove one cantrip."
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2025-10-16T06:24:20.2892101Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

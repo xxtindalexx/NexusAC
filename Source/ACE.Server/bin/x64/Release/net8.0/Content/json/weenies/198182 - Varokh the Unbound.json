@@ -1,0 +1,1011 @@
+{
+  "wcid": 198182,
+  "weenieType": 10,
+  "attributes": {
+    "strength": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 500
+    },
+    "endurance": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 500
+    },
+    "coordination": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 300
+    },
+    "quickness": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 300
+    },
+    "focus": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 480
+    },
+    "self": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 480
+    },
+    "health": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 319950,
+      "current": 320200
+    },
+    "stamina": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 9500,
+      "current": 50
+    },
+    "mana": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 9520,
+      "current": 30
+    }
+  },
+  "body": {
+    "body_part_table": [
+      {
+        "key": 0,
+        "value": {
+          "dtype": 1,
+          "dval": 0,
+          "dvar": 0,
+          "acache": {
+            "base_armor": 120,
+            "armor_vs_slash": 60,
+            "armor_vs_pierce": 60,
+            "armor_vs_bludgeon": 60,
+            "armor_vs_cold": 60,
+            "armor_vs_fire": 60,
+            "armor_vs_acid": 60,
+            "armor_vs_electric": 60,
+            "armor_vs_nether": 0
+          },
+          "bh": 1,
+          "bpsd": {
+            "HLF": 0.33000001311302185,
+            "MLF": 0,
+            "LLF": 0,
+            "HRF": 0.33000001311302185,
+            "MRF": 0,
+            "LRF": 0,
+            "HLB": 0.33000001311302185,
+            "MLB": 0,
+            "LLB": 0,
+            "HRB": 0.33000001311302185,
+            "MRB": 0,
+            "LRB": 0
+          }
+        }
+      },
+      {
+        "key": 1,
+        "value": {
+          "dtype": 1,
+          "dval": 0,
+          "dvar": 0,
+          "acache": {
+            "base_armor": 120,
+            "armor_vs_slash": 60,
+            "armor_vs_pierce": 60,
+            "armor_vs_bludgeon": 60,
+            "armor_vs_cold": 60,
+            "armor_vs_fire": 60,
+            "armor_vs_acid": 60,
+            "armor_vs_electric": 60,
+            "armor_vs_nether": 0
+          },
+          "bh": 2,
+          "bpsd": {
+            "HLF": 0.4399999976158142,
+            "MLF": 0.23000000417232513,
+            "LLF": 0,
+            "HRF": 0.4399999976158142,
+            "MRF": 0.23000000417232513,
+            "LRF": 0,
+            "HLB": 0.4399999976158142,
+            "MLB": 0.17000000178813934,
+            "LLB": 0,
+            "HRB": 0.4399999976158142,
+            "MRB": 0.17000000178813934,
+            "LRB": 0
+          }
+        }
+      },
+      {
+        "key": 2,
+        "value": {
+          "dtype": 1,
+          "dval": 0,
+          "dvar": 0,
+          "acache": {
+            "base_armor": 120,
+            "armor_vs_slash": 60,
+            "armor_vs_pierce": 60,
+            "armor_vs_bludgeon": 60,
+            "armor_vs_cold": 60,
+            "armor_vs_fire": 60,
+            "armor_vs_acid": 60,
+            "armor_vs_electric": 60,
+            "armor_vs_nether": 0
+          },
+          "bh": 3,
+          "bpsd": {
+            "HLF": 0,
+            "MLF": 0.23000000417232513,
+            "LLF": 0.10000000149011612,
+            "HRF": 0,
+            "MRF": 0.23000000417232513,
+            "LRF": 0.20000000298023224,
+            "HLB": 0,
+            "MLB": 0.17000000178813934,
+            "LLB": 0.44999998807907104,
+            "HRB": 0,
+            "MRB": 0.17000000178813934,
+            "LRB": 0.44999998807907104
+          }
+        }
+      },
+      {
+        "key": 3,
+        "value": {
+          "dtype": 1,
+          "dval": 0,
+          "dvar": 0,
+          "acache": {
+            "base_armor": 100,
+            "armor_vs_slash": 50,
+            "armor_vs_pierce": 50,
+            "armor_vs_bludgeon": 50,
+            "armor_vs_cold": 50,
+            "armor_vs_fire": 50,
+            "armor_vs_acid": 50,
+            "armor_vs_electric": 50,
+            "armor_vs_nether": 0
+          },
+          "bh": 1,
+          "bpsd": {
+            "HLF": 0.23000000417232513,
+            "MLF": 0.03999999910593033,
+            "LLF": 0.20000000298023224,
+            "HRF": 0.23000000417232513,
+            "MRF": 0.03999999910593033,
+            "LRF": 0.10000000149011612,
+            "HLB": 0.23000000417232513,
+            "MLB": 0.029999999329447746,
+            "LLB": 0,
+            "HRB": 0.23000000417232513,
+            "MRB": 0.029999999329447746,
+            "LRB": 0
+          }
+        }
+      },
+      {
+        "key": 4,
+        "value": {
+          "dtype": 1,
+          "dval": 0,
+          "dvar": 0,
+          "acache": {
+            "base_armor": 100,
+            "armor_vs_slash": 50,
+            "armor_vs_pierce": 50,
+            "armor_vs_bludgeon": 50,
+            "armor_vs_cold": 50,
+            "armor_vs_fire": 50,
+            "armor_vs_acid": 50,
+            "armor_vs_electric": 50,
+            "armor_vs_nether": 0
+          },
+          "bh": 2,
+          "bpsd": {
+            "HLF": 0,
+            "MLF": 0.30000001192092896,
+            "LLF": 0.30000001192092896,
+            "HRF": 0,
+            "MRF": 0.30000001192092896,
+            "LRF": 0.4000000059604645,
+            "HLB": 0,
+            "MLB": 0.30000001192092896,
+            "LLB": 0.10000000149011612,
+            "HRB": 0,
+            "MRB": 0.30000001192092896,
+            "LRB": 0.10000000149011612
+          }
+        }
+      },
+      {
+        "key": 5,
+        "value": {
+          "dtype": 1,
+          "dval": 15,
+          "dvar": 0.75,
+          "acache": {
+            "base_armor": 100,
+            "armor_vs_slash": 50,
+            "armor_vs_pierce": 50,
+            "armor_vs_bludgeon": 50,
+            "armor_vs_cold": 50,
+            "armor_vs_fire": 50,
+            "armor_vs_acid": 50,
+            "armor_vs_electric": 50,
+            "armor_vs_nether": 0
+          },
+          "bh": 2,
+          "bpsd": {
+            "HLF": 0,
+            "MLF": 0.20000000298023224,
+            "LLF": 0.30000001192092896,
+            "HRF": 0,
+            "MRF": 0.20000000298023224,
+            "LRF": 0.20000000298023224,
+            "HLB": 0,
+            "MLB": 0.20000000298023224,
+            "LLB": 0,
+            "HRB": 0,
+            "MRB": 0.20000000298023224,
+            "LRB": 0
+          }
+        }
+      },
+      {
+        "key": 17,
+        "value": {
+          "dtype": 1,
+          "dval": 0,
+          "dvar": 0,
+          "acache": {
+            "base_armor": 100,
+            "armor_vs_slash": 50,
+            "armor_vs_pierce": 50,
+            "armor_vs_bludgeon": 50,
+            "armor_vs_cold": 50,
+            "armor_vs_fire": 50,
+            "armor_vs_acid": 50,
+            "armor_vs_electric": 50,
+            "armor_vs_nether": 0
+          },
+          "bh": 3,
+          "bpsd": {
+            "HLF": 0,
+            "MLF": 0,
+            "LLF": 0.10000000149011612,
+            "HRF": 0,
+            "MRF": 0,
+            "LRF": 0.10000000149011612,
+            "HLB": 0,
+            "MLB": 0.12999999523162842,
+            "LLB": 0.44999998807907104,
+            "HRB": 0,
+            "MRB": 0.12999999523162842,
+            "LRB": 0.44999998807907104
+          }
+        }
+      }
+    ]
+  },
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 8,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 0
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 16
+    },
+    {
+      "key": 2,
+      "value": 19
+    },
+    {
+      "key": 3,
+      "value": 39
+    },
+    {
+      "key": 6,
+      "value": -1
+    },
+    {
+      "key": 7,
+      "value": -1
+    },
+    {
+      "key": 16,
+      "value": 32
+    },
+    {
+      "key": 25,
+      "value": 500
+    },
+    {
+      "key": 93,
+      "value": 1032
+    },
+    {
+      "key": 95,
+      "value": 8
+    },
+    {
+      "key": 133,
+      "value": 4
+    },
+    {
+      "key": 134,
+      "value": 16
+    },
+    {
+      "key": 146,
+      "value": 0
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33561549
+    },
+    {
+      "key": 2,
+      "value": 150995487
+    },
+    {
+      "key": 3,
+      "value": 536870930
+    },
+    {
+      "key": 4,
+      "value": 805306381
+    },
+    {
+      "key": 6,
+      "value": 67111346
+    },
+    {
+      "key": 7,
+      "value": 268437588
+    },
+    {
+      "key": 8,
+      "value": 100667943
+    },
+    {
+      "key": 22,
+      "value": 872415273
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 1,
+      "value": 5
+    },
+    {
+      "key": 2,
+      "value": 0
+    },
+    {
+      "key": 3,
+      "value": 0.6
+    },
+    {
+      "key": 4,
+      "value": 0.5
+    },
+    {
+      "key": 5,
+      "value": 2
+    },
+    {
+      "key": 12,
+      "value": 0.667
+    },
+    {
+      "key": 13,
+      "value": 1
+    },
+    {
+      "key": 14,
+      "value": 1
+    },
+    {
+      "key": 15,
+      "value": 1
+    },
+    {
+      "key": 16,
+      "value": 1
+    },
+    {
+      "key": 17,
+      "value": 1
+    },
+    {
+      "key": 18,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 1
+    },
+    {
+      "key": 31,
+      "value": 18
+    },
+    {
+      "key": 34,
+      "value": 1
+    },
+    {
+      "key": 36,
+      "value": 1
+    },
+    {
+      "key": 39,
+      "value": 1.1
+    },
+    {
+      "key": 64,
+      "value": 1
+    },
+    {
+      "key": 65,
+      "value": 1
+    },
+    {
+      "key": 66,
+      "value": 1
+    },
+    {
+      "key": 67,
+      "value": 1
+    },
+    {
+      "key": 68,
+      "value": 1
+    },
+    {
+      "key": 69,
+      "value": 1
+    },
+    {
+      "key": 70,
+      "value": 1
+    },
+    {
+      "key": 76,
+      "value": 0.8
+    },
+    {
+      "key": 80,
+      "value": 3
+    },
+    {
+      "key": 104,
+      "value": 10
+    },
+    {
+      "key": 122,
+      "value": 2
+    },
+    {
+      "key": 125,
+      "value": 1
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Varokh the Unbound"
+    },
+    {
+      "key": 5,
+      "value": "Traitor"
+    }
+  ],
+  "skills": [
+    {
+      "key": 6,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 0,
+        "init_level": 233,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 2
+      }
+    },
+    {
+      "key": 7,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 0,
+        "init_level": 250,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 2
+      }
+    },
+    {
+      "key": 15,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 0,
+        "init_level": 271,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 2
+      }
+    },
+    {
+      "key": 16,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 0,
+        "init_level": 595,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 2
+      }
+    },
+    {
+      "key": 31,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 0,
+        "init_level": 595,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 2
+      }
+    },
+    {
+      "key": 33,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 0,
+        "init_level": 595,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 2
+      }
+    },
+    {
+      "key": 34,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 0,
+        "init_level": 595,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 2
+      }
+    },
+    {
+      "key": 41,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 0,
+        "init_level": 797,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 2
+      }
+    },
+    {
+      "key": 43,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 0,
+        "init_level": 595,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 2
+      }
+    },
+    {
+      "key": 44,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 0,
+        "init_level": 797,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 2
+      }
+    },
+    {
+      "key": 45,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 0,
+        "init_level": 797,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 2
+      }
+    },
+    {
+      "key": 46,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 0,
+        "init_level": 797,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 2
+      }
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 7,
+      "value": [
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 5,
+              "delay": 0,
+              "extent": 1,
+              "motion": 1090519043
+            },
+            {
+              "type": 12,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 36,
+              "delay": 0,
+              "extent": 1,
+              "msg": "Level_90-275_13",
+              "max": 275,
+              "min": 90,
+              "stat": 25
+            }
+          ],
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "key": 22,
+      "value": [
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0,
+              "extent": 1,
+              "msg": "GSA2_ToHazel@2"
+            }
+          ],
+          "probability": 1,
+          "quest": "Level_90-275_13"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0,
+              "extent": 1,
+              "msg": "GSA2_ToHazel@2"
+            }
+          ],
+          "probability": 1,
+          "quest": "Level_90-275_14"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 74,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 10,
+              "delay": 0,
+              "extent": 1,
+              "msg": "You've made Dereth safer. For now..."
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 62,
+              "delay": 0,
+              "extent": 1,
+              "amount64": 3200000000
+            }
+          ],
+          "probability": 1,
+          "quest": "Level_150-275_8"
+        }
+      ]
+    },
+    {
+      "key": 23,
+      "value": [
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0,
+              "extent": 1,
+              "msg": "You will not survive what I ask. Return when you are at least ninety seasons tested."
+            }
+          ],
+          "probability": 1,
+          "quest": "Level_90-275_13"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0,
+              "extent": 1,
+              "msg": "Return when you are stronger."
+            }
+          ],
+          "probability": 1,
+          "quest": "Level_90-275_14"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0,
+              "extent": 1,
+              "msg": "You are too weak to have assisted in the death of Threxil, Are you kidding me? Get out of here."
+            }
+          ],
+          "probability": 1,
+          "quest": "Level_150-275_8"
+        }
+      ]
+    },
+    {
+      "key": 12,
+      "value": [
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0,
+              "extent": 1,
+              "msg": "You know your path. Hazel waits in Neydisa Castle at 69.6N, 17.5E."
+            }
+          ],
+          "probability": 1,
+          "quest": "GSA2_ToHazel@2"
+        }
+      ]
+    },
+    {
+      "key": 13,
+      "value": [
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0,
+              "extent": 1,
+              "msg": "I was forged in the shadow of the Rynthid forges, sworn to their designs, their war, their lies."
+            },
+            {
+              "type": 10,
+              "delay": 1,
+              "extent": 1,
+              "msg": "But I have seen what they plan: weapons woven from the Nexus itself, meant to choke the skies and burn the earth beneath us."
+            },
+            {
+              "type": 10,
+              "delay": 1,
+              "extent": 1,
+              "msg": "They would bind the Elemental Core Plating to the Enchanted Thread and shape it into a key that opens every ward, seal, and vault in Dereth."
+            },
+            {
+              "type": 10,
+              "delay": 1,
+              "extent": 1,
+              "msg": "I broke my chains because I will not see this world remade in their image. But my hands are stained; the looms remember me as one of their own."
+            },
+            {
+              "type": 10,
+              "delay": 1,
+              "extent": 1,
+              "msg": "That is why you must go to Hazel ibn Rashid in Neydisa Castle at 69.6N, 17.5E. She can work the binding without alerting the forges. She is the last Weaver who still serves the light."
+            },
+            {
+              "type": 10,
+              "delay": 1,
+              "extent": 1,
+              "msg": "Take this cause as your own. Deliver to her what you recover, and guard her until her work is done. When the Rynthid learn what I have done, they will come for us both."
+            },
+            {
+              "type": 22,
+              "delay": 0,
+              "extent": 1,
+              "msg": "GSA2_Started"
+            },
+            {
+              "type": 22,
+              "delay": 0,
+              "extent": 1,
+              "msg": "GSA2_ToHazel"
+            }
+          ],
+          "probability": 1,
+          "quest": "GSA2_ToHazel@2"
+        }
+      ]
+    },
+    {
+      "key": 38,
+      "value": [
+        {
+          "category": 38,
+          "emotes": [
+            {
+              "type": 36,
+              "delay": 0,
+              "extent": 1,
+              "msg": "Level_90-275_14",
+              "max": 275,
+              "min": 90,
+              "stat": 25
+            }
+          ],
+          "probability": 1,
+          "quest": "progress"
+        }
+      ]
+    },
+    {
+      "key": 6,
+      "value": [
+        {
+          "category": 6,
+          "emotes": [
+            {
+              "type": 36,
+              "delay": 0,
+              "extent": 1,
+              "msg": "Level_150-275_8",
+              "max": 275,
+              "min": 150,
+              "stat": 25
+            }
+          ],
+          "probability": 1,
+          "classID": 5002625
+        }
+      ]
+    }
+  ],
+  "lastModified": "2025-08-24T22:13:39.2637098Z",
+  "modifiedBy": "ACE.Adapter",
+  "changelog": [
+    {
+      "created": "2025-08-24T21:58:20.6629125Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    },
+    {
+      "created": "2025-08-24T21:59:39.6321727Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    },
+    {
+      "created": "2025-08-24T21:59:40.8577436Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    },
+    {
+      "created": "2025-08-24T22:00:16.83401Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    },
+    {
+      "created": "2025-08-24T22:01:02.6481785Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    },
+    {
+      "created": "2025-08-24T22:01:35.6228827Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    },
+    {
+      "created": "2025-08-24T22:08:24.9950131Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    },
+    {
+      "created": "2025-08-24T22:11:07.4677671Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    },
+    {
+      "created": "2025-08-24T22:11:45.1284426Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    },
+    {
+      "created": "2025-08-24T22:12:07.4316768Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    },
+    {
+      "created": "2025-08-24T22:12:57.3960478Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    },
+    {
+      "created": "2025-08-24T22:13:23.7561466Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    },
+    {
+      "created": "2025-08-24T22:13:39.2630593Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "userChangeSummary": "Weenie exported from ACEmulator world database using ACE.Adapter",
+  "isDone": false
+}

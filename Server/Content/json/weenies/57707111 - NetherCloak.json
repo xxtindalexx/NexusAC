@@ -1,0 +1,184 @@
+{
+  "wcid": 57707111,
+  "weenieType": 1,
+  "boolStats": [
+    {
+      "key": 22,
+      "value": 1
+    },
+    {
+      "key": 69,
+      "value": 0
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 2
+    },
+    {
+      "key": 3,
+      "value": 39
+    },
+    {
+      "key": 5,
+      "value": 690
+    },
+    {
+      "key": 8,
+      "value": 140
+    },
+    {
+      "key": 9,
+      "value": 2097152
+    },
+    {
+      "key": 16,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 120
+    },
+    {
+      "key": 27,
+      "value": 2
+    },
+    {
+      "key": 28,
+      "value": 333
+    },
+    {
+      "key": 33,
+      "value": 1
+    },
+    {
+      "key": 36,
+      "value": 9999
+    },
+    {
+      "key": 51,
+      "value": 4
+    },
+    {
+      "key": 93,
+      "value": 1044
+    },
+    {
+      "key": 114,
+      "value": 1
+    },
+    {
+      "key": 370,
+      "value": 3
+    },
+    {
+      "key": 377,
+      "value": 10
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33555830
+    },
+    {
+      "key": 3,
+      "value": 536870932
+    },
+    {
+      "key": 6,
+      "value": 67111919
+    },
+    {
+      "key": 7,
+      "value": 268435797
+    },
+    {
+      "key": 8,
+      "value": 100669658
+    },
+    {
+      "key": 22,
+      "value": 872415275
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 13,
+      "value": 0.25
+    },
+    {
+      "key": 14,
+      "value": 0.25
+    },
+    {
+      "key": 15,
+      "value": 0.25
+    },
+    {
+      "key": 16,
+      "value": 0.25
+    },
+    {
+      "key": 17,
+      "value": 0.25
+    },
+    {
+      "key": 18,
+      "value": 0.25
+    },
+    {
+      "key": 19,
+      "value": 0.25
+    },
+    {
+      "key": 39,
+      "value": 0.75
+    },
+    {
+      "key": 44,
+      "value": 86400
+    },
+    {
+      "key": 110,
+      "value": 1
+    },
+    {
+      "key": 111,
+      "value": 1
+    },
+    {
+      "key": 159,
+      "value": 0.15
+    },
+    {
+      "key": 165,
+      "value": 1
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "NetherCloak"
+    }
+  ],
+  "lastModified": "2025-10-04T16:59:09.1526012Z",
+  "modifiedBy": "ACE.Adapter",
+  "changelog": [
+    {
+      "created": "2025-09-21T04:57:45.3681315Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    },
+    {
+      "created": "2025-10-04T16:59:09.1471816Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "userChangeSummary": "Weenie exported from ACEmulator world database using ACE.Adapter",
+  "isDone": false
+}

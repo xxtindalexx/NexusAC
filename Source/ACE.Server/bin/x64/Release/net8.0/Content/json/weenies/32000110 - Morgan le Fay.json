@@ -1,0 +1,963 @@
+{
+  "wcid": 32000110,
+  "weenieType": 10,
+  "attributes": {
+    "strength": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 420
+    },
+    "endurance": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 420
+    },
+    "coordination": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 420
+    },
+    "quickness": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 420
+    },
+    "focus": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 420
+    },
+    "self": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 420
+    },
+    "health": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 4790,
+      "current": 5000
+    },
+    "stamina": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 9580,
+      "current": 10000
+    },
+    "mana": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 4580,
+      "current": 5000
+    }
+  },
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 8,
+      "value": 1
+    },
+    {
+      "key": 11,
+      "value": 1
+    },
+    {
+      "key": 12,
+      "value": 1
+    },
+    {
+      "key": 13,
+      "value": 0
+    },
+    {
+      "key": 14,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 0
+    },
+    {
+      "key": 41,
+      "value": 1
+    },
+    {
+      "key": 42,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 16
+    },
+    {
+      "key": 2,
+      "value": 31
+    },
+    {
+      "key": 6,
+      "value": -1
+    },
+    {
+      "key": 7,
+      "value": -1
+    },
+    {
+      "key": 16,
+      "value": 32
+    },
+    {
+      "key": 25,
+      "value": 1337
+    },
+    {
+      "key": 27,
+      "value": 1
+    },
+    {
+      "key": 93,
+      "value": 6292504
+    },
+    {
+      "key": 95,
+      "value": 5
+    },
+    {
+      "key": 113,
+      "value": 2
+    },
+    {
+      "key": 133,
+      "value": 4
+    },
+    {
+      "key": 134,
+      "value": 16
+    },
+    {
+      "key": 188,
+      "value": 2
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33554510
+    },
+    {
+      "key": 2,
+      "value": 150994945
+    },
+    {
+      "key": 3,
+      "value": 536870914
+    },
+    {
+      "key": 6,
+      "value": 67108990
+    },
+    {
+      "key": 8,
+      "value": 100667446
+    },
+    {
+      "key": 9,
+      "value": 83890260
+    },
+    {
+      "key": 10,
+      "value": 83890291
+    },
+    {
+      "key": 11,
+      "value": 83890319
+    },
+    {
+      "key": 15,
+      "value": 67117024
+    },
+    {
+      "key": 16,
+      "value": 67109565
+    },
+    {
+      "key": 17,
+      "value": 67110045
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 39,
+      "value": 1.5
+    },
+    {
+      "key": 54,
+      "value": 5
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Morgan le Fay"
+    }
+  ],
+  "createList": [
+    {
+      "wcid": 6594,
+      "palette": 90,
+      "shade": 0.7090910077095032,
+      "destination": 2,
+      "stack_size": 1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 6605,
+      "palette": 90,
+      "shade": 1,
+      "destination": 2,
+      "stack_size": 1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 33607,
+      "palette": 87,
+      "shade": 0,
+      "destination": 2,
+      "stack_size": 1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 33606,
+      "palette": 87,
+      "shade": 0,
+      "destination": 2,
+      "stack_size": 1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 33605,
+      "palette": 87,
+      "shade": 0,
+      "destination": 2,
+      "stack_size": 1,
+      "try_to_bond": 0
+    },
+    {
+      "wcid": 6048,
+      "palette": 90,
+      "shade": 0.7090910077095032,
+      "destination": 2,
+      "stack_size": 1,
+      "try_to_bond": 0
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 1,
+      "value": [
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 36,
+              "delay": 0,
+              "extent": 1,
+              "msg": "Level_200-999_15",
+              "max": 999,
+              "min": 200,
+              "stat": 25
+            }
+          ],
+          "probability": 1,
+          "classID": 31000
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 36,
+              "delay": 0,
+              "extent": 1,
+              "msg": "Level_225-999_12",
+              "max": 999,
+              "min": 225,
+              "stat": 25
+            }
+          ],
+          "probability": 1,
+          "classID": 8897
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 36,
+              "delay": 0,
+              "extent": 1,
+              "msg": "Level_35-999_10",
+              "max": 999,
+              "min": 35,
+              "stat": 25
+            }
+          ],
+          "probability": 1,
+          "classID": 20646
+        },
+        {
+          "category": 1,
+          "emotes": [
+            {
+              "type": 12,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 36,
+              "delay": 0,
+              "extent": 1,
+              "msg": "Level_90-999_5",
+              "max": 999,
+              "min": 90,
+              "stat": 25
+            }
+          ],
+          "probability": 1,
+          "classID": 49563
+        }
+      ]
+    },
+    {
+      "key": 7,
+      "value": [
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0,
+              "extent": 1,
+              "msg": "Welcome! I can save you some time by helping you complete some quests quickly. "
+            },
+            {
+              "type": 10,
+              "delay": 0,
+              "extent": 1,
+              "msg": "At level 35, you can show me your Ust, to acquire credit for killing Aun Ralirea"
+            },
+            {
+              "type": 10,
+              "delay": 0,
+              "extent": 1,
+              "msg": "At levels 75, 150, and 225, you can show me a Platinum Scarab, to unlock your Aetheria slots"
+            },
+            {
+              "type": 10,
+              "delay": 0,
+              "extent": 1,
+              "msg": "At level 90, you can show me your Facility Hub Portal Gem, to acquire credit for the Chasing Oswald Quest."
+            },
+            {
+              "type": 10,
+              "delay": 0,
+              "extent": 1,
+              "msg": "At level 200, you can show me your Blackmoor's Favor, to unlock Luminance."
+            }
+          ],
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "key": 12,
+      "value": [
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1,
+              "msg": "You have already gained access to the Paths of the Empyrean, and may earn Luminance. I have no other reward to offer you for this."
+            }
+          ],
+          "probability": 1,
+          "quest": "OracleLuminanceRewardsAccess_1110@4"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0,
+              "extent": 1,
+              "msg": "A suspicious scowl lumbers across the young Tumerok chieftain's face."
+            }
+          ],
+          "probability": 1,
+          "quest": "ArantahKill1@GiveFigurine"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0,
+              "extent": 1,
+              "msg": "Excuse me? I believe we have already done our business. You have chased Oswald as far as he could be chased, and I have trained you in skill to reward your efforts. Please ask no more of me."
+            }
+          ],
+          "probability": 1,
+          "quest": "OswaldManualCompleted@1"
+        },
+        {
+          "category": 12,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0,
+              "extent": 1,
+              "msg": "OraclePortalEntry"
+            }
+          ],
+          "probability": 1,
+          "quest": "OracleLuminanceRewardsAccess_1110@4"
+        }
+      ]
+    },
+    {
+      "key": 13,
+      "value": [
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.5,
+              "extent": 1,
+              "msg": "%n touches your brow, and you feel a great upwelling of light and heat fill your entire form. Just when it feels like you may burst from the pressure inside you, the feeling fades down to a comfortable warmth."
+            },
+            {
+              "type": 115,
+              "delay": 0,
+              "extent": 1,
+              "amount64": 10000000,
+              "stat": 7
+            },
+            {
+              "type": 113,
+              "delay": 0,
+              "extent": 1,
+              "heroxp64": 100000
+            },
+            {
+              "type": 10,
+              "delay": 0.5,
+              "extent": 1,
+              "msg": "This book will explain the details."
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            },
+            {
+              "type": 53,
+              "delay": 0,
+              "extent": 1,
+              "amount": 7,
+              "stat": 322
+            },
+            {
+              "type": 22,
+              "delay": 0,
+              "extent": 1,
+              "msg": "OracleLuminanceRewardsAccess_1110"
+            },
+            {
+              "type": 31,
+              "delay": 0,
+              "extent": 1,
+              "msg": "OracleLuminanceRewardsQuestStart_1110"
+            },
+            {
+              "type": 22,
+              "delay": 0,
+              "extent": 1,
+              "msg": "OraclePortalEntry"
+            }
+          ],
+          "probability": 1,
+          "quest": "OracleLuminanceRewardsAccess_1110@4"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0.5,
+              "extent": 1,
+              "msg": "%n touches your brow, and you feel a great upwelling of light and heat fill your entire form. Just when it feels like you may burst from the pressure inside you, the feeling fades down to a comfortable warmth."
+            },
+            {
+              "type": 22,
+              "delay": 0,
+              "extent": 1,
+              "msg": "OraclePortalEntry"
+            }
+          ],
+          "probability": 1,
+          "quest": "OraclePortalEntry"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0,
+              "extent": 1,
+              "msg": "Arantah places his hand on your forehead and his eyes glow blue-white. You feel... enlightened..."
+            },
+            {
+              "type": 47,
+              "delay": 1,
+              "extent": 1,
+              "amount": 1
+            },
+            {
+              "type": 18,
+              "delay": 0,
+              "extent": 1,
+              "msg": "You have gained a skill point!"
+            },
+            {
+              "type": 22,
+              "delay": 0,
+              "extent": 1,
+              "msg": "ArantahKill1@GiveFigurine"
+            }
+          ],
+          "probability": 1,
+          "quest": "ArantahKill1@GiveFigurine"
+        },
+        {
+          "category": 13,
+          "emotes": [
+            {
+              "type": 10,
+              "delay": 0,
+              "extent": 1,
+              "msg": "That is a very interesting clue to Oswald's background. Let me decipher it for you..."
+            },
+            {
+              "type": 47,
+              "delay": 1,
+              "extent": 1,
+              "amount": 1
+            },
+            {
+              "type": 18,
+              "delay": 0,
+              "extent": 1,
+              "msg": "You have gained a skill point!"
+            },
+            {
+              "type": 33,
+              "delay": 0,
+              "extent": 1,
+              "amount": 1,
+              "msg": "OswaldManualCompleted"
+            },
+            {
+              "type": 31,
+              "delay": 0,
+              "extent": 1,
+              "msg": "ChasingOswaldDungeonFlag"
+            },
+            {
+              "type": 31,
+              "delay": 0,
+              "extent": 1,
+              "msg": "ChasingOswaldRuschkIceHold"
+            },
+            {
+              "type": 31,
+              "delay": 0,
+              "extent": 1,
+              "msg": "ChasingOswaldViamontPrison"
+            },
+            {
+              "type": 31,
+              "delay": 0,
+              "extent": 1,
+              "msg": "OswaldJournal"
+            }
+          ],
+          "probability": 1,
+          "quest": "OswaldManualCompleted@1"
+        }
+      ]
+    },
+    {
+      "key": 22,
+      "value": [
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0,
+              "extent": 1,
+              "msg": "OracleLuminanceRewardsAccess_1110@4"
+            }
+          ],
+          "probability": 1,
+          "quest": "Level_200-999_15"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 36,
+              "delay": 0,
+              "extent": 1,
+              "msg": "AetheriaBitfield_7_12",
+              "max": 2147483647,
+              "min": 7,
+              "stat": 322
+            }
+          ],
+          "probability": 1,
+          "quest": "Level_225-999_12"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0,
+              "extent": 1,
+              "msg": "All of your Aetheria slots have already been unlocked"
+            }
+          ],
+          "probability": 1,
+          "quest": "AetheriaBitfield_7_12"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 36,
+              "delay": 0,
+              "extent": 1,
+              "msg": "AetheriaBitfield_3_12",
+              "max": 2147483647,
+              "min": 3,
+              "stat": 322
+            }
+          ],
+          "probability": 1,
+          "quest": "Level_150-224_12"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0,
+              "extent": 1,
+              "msg": "Your 3rd Aetheria slot may not be unlocked, until level 225."
+            }
+          ],
+          "probability": 1,
+          "quest": "AetheriaBitfield_3_12"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 36,
+              "delay": 0,
+              "extent": 1,
+              "msg": "AetheriaBitfield_1_12",
+              "max": 2147483647,
+              "min": 1,
+              "stat": 322
+            }
+          ],
+          "probability": 1,
+          "quest": "Level_75-149_12"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0,
+              "extent": 1,
+              "msg": "Your 2nd Aetheria slot may not be unlocked, until level 150."
+            }
+          ],
+          "probability": 1,
+          "quest": "AetheriaBitfield_1_12"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0,
+              "extent": 1,
+              "msg": "ArantahKill1@GiveFigurine"
+            }
+          ],
+          "probability": 1,
+          "quest": "Level_35-999_10"
+        },
+        {
+          "category": 22,
+          "emotes": [
+            {
+              "type": 21,
+              "delay": 0,
+              "extent": 1,
+              "msg": "OswaldManualCompleted@1"
+            }
+          ],
+          "probability": 1,
+          "quest": "Level_90-999_5"
+        }
+      ]
+    },
+    {
+      "key": 23,
+      "value": [
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0,
+              "extent": 1,
+              "msg": "A shiver moves across your body up into your chest and quickly down through your feet."
+            },
+            {
+              "type": 18,
+              "delay": 1,
+              "extent": 1,
+              "msg": "You feel a sense of completion as your aura aligns with that of the world around you."
+            },
+            {
+              "type": 53,
+              "delay": 0,
+              "extent": 1,
+              "amount": 7,
+              "stat": 322
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            }
+          ],
+          "probability": 1,
+          "quest": "AetheriaBitfield_7_12"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 36,
+              "delay": 0,
+              "extent": 1,
+              "msg": "Level_150-224_12",
+              "max": 224,
+              "min": 150,
+              "stat": 25
+            }
+          ],
+          "probability": 1,
+          "quest": "Level_225-999_12"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0,
+              "extent": 1,
+              "msg": "A shiver moves across your body up into your chest and quickly down through your feet."
+            },
+            {
+              "type": 18,
+              "delay": 1,
+              "extent": 1,
+              "msg": "You feel a sense of completion as your aura aligns with that of the world around you."
+            },
+            {
+              "type": 53,
+              "delay": 0,
+              "extent": 1,
+              "amount": 3,
+              "stat": 322
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            }
+          ],
+          "probability": 1,
+          "quest": "AetheriaBitfield_3_12"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 36,
+              "delay": 0,
+              "extent": 1,
+              "msg": "Level_75-149_12",
+              "max": 149,
+              "min": 75,
+              "stat": 25
+            }
+          ],
+          "probability": 1,
+          "quest": "Level_150-224_12"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0,
+              "extent": 1,
+              "msg": "A shiver moves across your body up into your chest and quickly down through your feet."
+            },
+            {
+              "type": 18,
+              "delay": 1,
+              "extent": 1,
+              "msg": "You feel a sense of completion as your aura aligns with that of the world around you."
+            },
+            {
+              "type": 53,
+              "delay": 0,
+              "extent": 1,
+              "amount": 1,
+              "stat": 322
+            },
+            {
+              "type": 3,
+              "delay": 0,
+              "extent": 1
+            }
+          ],
+          "probability": 1,
+          "quest": "AetheriaBitfield_1_12"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0,
+              "extent": 1,
+              "msg": "Your 1st Aetheria slot may not be unlocked, until level 75."
+            }
+          ],
+          "probability": 1,
+          "quest": "Level_75-149_12"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0,
+              "extent": 1,
+              "msg": "You may not complete this quest until level 35."
+            }
+          ],
+          "probability": 1,
+          "quest": "Level_35-999_10"
+        },
+        {
+          "category": 23,
+          "emotes": [
+            {
+              "type": 18,
+              "delay": 0,
+              "extent": 1,
+              "msg": "You may not complete this quest until level 90."
+            }
+          ],
+          "probability": 1,
+          "quest": "Level_90-999_5"
+        }
+      ]
+    }
+  ],
+  "lastModified": "2025-08-16T05:01:54.8840356Z",
+  "modifiedBy": "ACE.Adapter",
+  "changelog": [
+    {
+      "created": "2025-08-16T04:15:06.8740246Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    },
+    {
+      "created": "2025-08-16T04:18:21.1637374Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    },
+    {
+      "created": "2025-08-16T04:30:04.3148567Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    },
+    {
+      "created": "2025-08-16T04:37:04.6650006Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    },
+    {
+      "created": "2025-08-16T04:54:16.8773358Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    },
+    {
+      "created": "2025-08-16T04:59:07.9931271Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    },
+    {
+      "created": "2025-08-16T05:01:54.8835373Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "userChangeSummary": "Weenie exported from ACEmulator world database using ACE.Adapter",
+  "isDone": false
+}

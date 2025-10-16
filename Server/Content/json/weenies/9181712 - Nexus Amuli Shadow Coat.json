@@ -1,0 +1,455 @@
+{
+  "wcid": 9181712,
+  "weenieType": 2,
+  "boolStats": [
+    {
+      "key": 22,
+      "value": 1
+    },
+    {
+      "key": 23,
+      "value": 1
+    },
+    {
+      "key": 69,
+      "value": 0
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 2
+    },
+    {
+      "key": 3,
+      "value": 21
+    },
+    {
+      "key": 4,
+      "value": 13312
+    },
+    {
+      "key": 5,
+      "value": 150
+    },
+    {
+      "key": 8,
+      "value": 1000
+    },
+    {
+      "key": 9,
+      "value": 6656
+    },
+    {
+      "key": 19,
+      "value": 1
+    },
+    {
+      "key": 27,
+      "value": 2
+    },
+    {
+      "key": 28,
+      "value": 320
+    },
+    {
+      "key": 33,
+      "value": 1
+    },
+    {
+      "key": 93,
+      "value": 1044
+    },
+    {
+      "key": 106,
+      "value": 250
+    },
+    {
+      "key": 107,
+      "value": 400
+    },
+    {
+      "key": 108,
+      "value": 400
+    },
+    {
+      "key": 109,
+      "value": 100
+    },
+    {
+      "key": 114,
+      "value": 1
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33554854
+    },
+    {
+      "key": 3,
+      "value": 536870932
+    },
+    {
+      "key": 6,
+      "value": 67108990
+    },
+    {
+      "key": 7,
+      "value": 268435873
+    },
+    {
+      "key": 8,
+      "value": 100670435
+    },
+    {
+      "key": 22,
+      "value": 872415275
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 5,
+      "value": -0.025
+    },
+    {
+      "key": 12,
+      "value": 0.3
+    },
+    {
+      "key": 13,
+      "value": 1
+    },
+    {
+      "key": 14,
+      "value": 1
+    },
+    {
+      "key": 15,
+      "value": 1
+    },
+    {
+      "key": 16,
+      "value": 0.6
+    },
+    {
+      "key": 17,
+      "value": 0.6
+    },
+    {
+      "key": 18,
+      "value": 0.6
+    },
+    {
+      "key": 19,
+      "value": 0.6
+    },
+    {
+      "key": 110,
+      "value": 1
+    },
+    {
+      "key": 111,
+      "value": 1
+    },
+    {
+      "key": 165,
+      "value": 1
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Nexus Amuli Shadow Coat"
+    }
+  ],
+  "spellbook": [
+    {
+      "key": 5097,
+      "value": {
+        "casting_likelihood": 2
+      }
+    },
+    {
+      "key": 2190,
+      "value": {
+        "casting_likelihood": 2
+      }
+    },
+    {
+      "key": 2194,
+      "value": {
+        "casting_likelihood": 2
+      }
+    },
+    {
+      "key": 2196,
+      "value": {
+        "casting_likelihood": 2
+      }
+    },
+    {
+      "key": 2210,
+      "value": {
+        "casting_likelihood": 2
+      }
+    },
+    {
+      "key": 2214,
+      "value": {
+        "casting_likelihood": 2
+      }
+    },
+    {
+      "key": 2226,
+      "value": {
+        "casting_likelihood": 2
+      }
+    },
+    {
+      "key": 2232,
+      "value": {
+        "casting_likelihood": 2
+      }
+    },
+    {
+      "key": 2236,
+      "value": {
+        "casting_likelihood": 2
+      }
+    },
+    {
+      "key": 2240,
+      "value": {
+        "casting_likelihood": 2
+      }
+    },
+    {
+      "key": 2248,
+      "value": {
+        "casting_likelihood": 2
+      }
+    },
+    {
+      "key": 2250,
+      "value": {
+        "casting_likelihood": 2
+      }
+    },
+    {
+      "key": 2256,
+      "value": {
+        "casting_likelihood": 2
+      }
+    },
+    {
+      "key": 2262,
+      "value": {
+        "casting_likelihood": 2
+      }
+    },
+    {
+      "key": 2266,
+      "value": {
+        "casting_likelihood": 2
+      }
+    },
+    {
+      "key": 2270,
+      "value": {
+        "casting_likelihood": 2
+      }
+    },
+    {
+      "key": 2276,
+      "value": {
+        "casting_likelihood": 2
+      }
+    },
+    {
+      "key": 2286,
+      "value": {
+        "casting_likelihood": 2
+      }
+    },
+    {
+      "key": 2288,
+      "value": {
+        "casting_likelihood": 2
+      }
+    },
+    {
+      "key": 2292,
+      "value": {
+        "casting_likelihood": 2
+      }
+    },
+    {
+      "key": 2300,
+      "value": {
+        "casting_likelihood": 2
+      }
+    },
+    {
+      "key": 2322,
+      "value": {
+        "casting_likelihood": 2
+      }
+    },
+    {
+      "key": 2324,
+      "value": {
+        "casting_likelihood": 2
+      }
+    },
+    {
+      "key": 2058,
+      "value": {
+        "casting_likelihood": 2
+      }
+    },
+    {
+      "key": 2060,
+      "value": {
+        "casting_likelihood": 2
+      }
+    },
+    {
+      "key": 2066,
+      "value": {
+        "casting_likelihood": 2
+      }
+    },
+    {
+      "key": 2242,
+      "value": {
+        "casting_likelihood": 2
+      }
+    },
+    {
+      "key": 2244,
+      "value": {
+        "casting_likelihood": 2
+      }
+    },
+    {
+      "key": 2280,
+      "value": {
+        "casting_likelihood": 2
+      }
+    },
+    {
+      "key": 2080,
+      "value": {
+        "casting_likelihood": 2
+      }
+    },
+    {
+      "key": 2086,
+      "value": {
+        "casting_likelihood": 2
+      }
+    },
+    {
+      "key": 2090,
+      "value": {
+        "casting_likelihood": 2
+      }
+    },
+    {
+      "key": 5825,
+      "value": {
+        "casting_likelihood": 2
+      }
+    },
+    {
+      "key": 3512,
+      "value": {
+        "casting_likelihood": 2
+      }
+    },
+    {
+      "key": 5777,
+      "value": {
+        "casting_likelihood": 2
+      }
+    },
+    {
+      "key": 5801,
+      "value": {
+        "casting_likelihood": 2
+      }
+    },
+    {
+      "key": 2222,
+      "value": {
+        "casting_likelihood": 2
+      }
+    },
+    {
+      "key": 2308,
+      "value": {
+        "casting_likelihood": 2
+      }
+    },
+    {
+      "key": 2202,
+      "value": {
+        "casting_likelihood": 2
+      }
+    },
+    {
+      "key": 2206,
+      "value": {
+        "casting_likelihood": 2
+      }
+    },
+    {
+      "key": 5873,
+      "value": {
+        "casting_likelihood": 2
+      }
+    },
+    {
+      "key": 5849,
+      "value": {
+        "casting_likelihood": 2
+      }
+    },
+    {
+      "key": 6114,
+      "value": {
+        "casting_likelihood": 2
+      }
+    },
+    {
+      "key": 5409,
+      "value": {
+        "casting_likelihood": 2
+      }
+    }
+  ],
+  "lastModified": "2025-09-01T04:52:21.8307462Z",
+  "modifiedBy": "ACE.Adapter",
+  "changelog": [
+    {
+      "created": "2025-09-01T04:47:44.3941417Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    },
+    {
+      "created": "2025-09-01T04:51:21.0530954Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    },
+    {
+      "created": "2025-09-01T04:52:21.8303966Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "userChangeSummary": "Weenie exported from ACEmulator world database using ACE.Adapter",
+  "isDone": false
+}

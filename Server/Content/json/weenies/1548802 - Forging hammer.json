@@ -1,0 +1,119 @@
+{
+  "wcid": 1548802,
+  "weenieType": 38,
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 0
+    },
+    {
+      "key": 11,
+      "value": 1
+    },
+    {
+      "key": 13,
+      "value": 1
+    },
+    {
+      "key": 14,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 1
+    },
+    {
+      "key": 22,
+      "value": 1
+    },
+    {
+      "key": 69,
+      "value": 0
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 2048
+    },
+    {
+      "key": 5,
+      "value": 10
+    },
+    {
+      "key": 16,
+      "value": 524296
+    },
+    {
+      "key": 18,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 25
+    },
+    {
+      "key": 65,
+      "value": 101
+    },
+    {
+      "key": 93,
+      "value": 1044
+    },
+    {
+      "key": 94,
+      "value": 35215
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33554809
+    },
+    {
+      "key": 3,
+      "value": 536870932
+    },
+    {
+      "key": 6,
+      "value": 67111919
+    },
+    {
+      "key": 7,
+      "value": 268435723
+    },
+    {
+      "key": 8,
+      "value": 100688621
+    },
+    {
+      "key": 22,
+      "value": 872415275
+    },
+    {
+      "key": 52,
+      "value": 100686604
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Empyrean Forging Hammer"
+    },
+    {
+      "key": 14,
+      "value": "An extremely well-made blacksmithing hammer. This hammer looks ancient, crafted by the greatest of Empyrean Blacksmiths. This tool looks as if it was used to alter the set on armor or add one if no set is present. This can only be applied to a piece of armor once. May be used to alter the set on a peice of armor, or a chance to add one."
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2025-10-16T18:51:08.5429057Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

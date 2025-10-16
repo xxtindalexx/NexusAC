@@ -1,0 +1,218 @@
+{
+  "wcid": 590336,
+  "weenieType": 20,
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 2,
+      "value": 0
+    },
+    {
+      "key": 3,
+      "value": 1
+    },
+    {
+      "key": 12,
+      "value": 1
+    },
+    {
+      "key": 13,
+      "value": 0
+    },
+    {
+      "key": 33,
+      "value": 0
+    },
+    {
+      "key": 34,
+      "value": 0
+    },
+    {
+      "key": 35,
+      "value": 1
+    },
+    {
+      "key": 86,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 512
+    },
+    {
+      "key": 5,
+      "value": 9000
+    },
+    {
+      "key": 6,
+      "value": 20
+    },
+    {
+      "key": 7,
+      "value": 20
+    },
+    {
+      "key": 8,
+      "value": 3000
+    },
+    {
+      "key": 16,
+      "value": 48
+    },
+    {
+      "key": 19,
+      "value": 2500
+    },
+    {
+      "key": 38,
+      "value": 9999
+    },
+    {
+      "key": 81,
+      "value": 35
+    },
+    {
+      "key": 82,
+      "value": 35
+    },
+    {
+      "key": 93,
+      "value": 1048
+    },
+    {
+      "key": 96,
+      "value": 500
+    },
+    {
+      "key": 100,
+      "value": 1
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33559144
+    },
+    {
+      "key": 2,
+      "value": 150995379
+    },
+    {
+      "key": 3,
+      "value": 536870945
+    },
+    {
+      "key": 8,
+      "value": 100688392
+    },
+    {
+      "key": 22,
+      "value": 872415275
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 39,
+      "value": 2
+    },
+    {
+      "key": 41,
+      "value": 120
+    },
+    {
+      "key": 43,
+      "value": 1
+    },
+    {
+      "key": 54,
+      "value": 1
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Hera's Test Vault"
+    },
+    {
+      "key": 12,
+      "value": "heravault2"
+    }
+  ],
+  "generatorTable": [
+    {
+      "delay": 1,
+      "frame": {
+        "origin": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "angles": {
+          "w": 1,
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      },
+      "initCreate": 1,
+      "maxNum": 1,
+      "objcell_id": 0,
+      "probability": -1,
+      "ptid": 0,
+      "shade": 0,
+      "slot": 0,
+      "stackSize": -1,
+      "type": 10003,
+      "whenCreate": 2,
+      "whereCreate": 72
+    }
+  ],
+  "lastModified": "2025-09-06T03:19:53.7258587Z",
+  "modifiedBy": "ACE.Adapter",
+  "changelog": [
+    {
+      "created": "2025-09-02T21:40:39.7264524Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    },
+    {
+      "created": "2025-09-02T22:00:28.7992694Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    },
+    {
+      "created": "2025-09-02T22:00:37.5019336Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    },
+    {
+      "created": "2025-09-03T22:56:43.5079294Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    },
+    {
+      "created": "2025-09-06T02:49:43.2701801Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    },
+    {
+      "created": "2025-09-06T03:18:18.5096948Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    },
+    {
+      "created": "2025-09-06T03:19:53.7255978Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "userChangeSummary": "Weenie exported from ACEmulator world database using ACE.Adapter",
+  "isDone": false
+}

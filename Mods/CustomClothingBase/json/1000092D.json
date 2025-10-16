@@ -1,0 +1,981 @@
+{
+  "clothingBaseEffects": {
+    "33561112": {
+      "cloObjectEffects": [
+        {
+          "index": 9,
+          "modelId": 16796327,
+          "cloTextureEffects": [
+            {
+              "oldTexture": 83887061,
+              "newTexture": 83889766
+            },
+            {
+              "oldTexture": 83887060,
+              "newTexture": 83886776
+            }
+          ]
+        }
+      ]
+    },
+    "33561104": {
+      "cloObjectEffects": [
+        {
+          "index": 9,
+          "modelId": 16778425,
+          "cloTextureEffects": [
+            {
+              "oldTexture": 83887070,
+              "newTexture": 83886778
+            },
+            {
+              "oldTexture": 83887062,
+              "newTexture": 83886776
+            }
+          ]
+        }
+      ]
+    },
+    "33560944": {
+      "cloObjectEffects": [
+        {
+          "index": 9,
+          "modelId": 16778425,
+          "cloTextureEffects": [
+            {
+              "oldTexture": 83887070,
+              "newTexture": 83886778
+            },
+            {
+              "oldTexture": 83887062,
+              "newTexture": 83886776
+            }
+          ]
+        }
+      ]
+    },
+    "33554433": {
+      "cloObjectEffects": [
+        {
+          "index": 9,
+          "modelId": 16777300,
+          "cloTextureEffects": [
+            {
+              "oldTexture": 83887061,
+              "newTexture": 83886237
+            },
+            {
+              "oldTexture": 83887060,
+              "newTexture": 83886238
+            }
+          ]
+        }
+      ]
+    },
+    "33561114": {
+      "cloObjectEffects": [
+        {
+          "index": 9,
+          "modelId": 16777300,
+          "cloTextureEffects": [
+            {
+              "oldTexture": 83887061,
+              "newTexture": 83889766
+            },
+            {
+              "oldTexture": 83887060,
+              "newTexture": 83886776
+            }
+          ]
+        }
+      ]
+    },
+    "33561106": {
+      "cloObjectEffects": [
+        {
+          "index": 9,
+          "modelId": 16796327,
+          "cloTextureEffects": [
+            {
+              "oldTexture": 83887061,
+              "newTexture": 83889766
+            },
+            {
+              "oldTexture": 83887060,
+              "newTexture": 83886776
+            }
+          ]
+        }
+      ]
+    },
+    "33554642": {
+      "cloObjectEffects": [
+        {
+          "index": 0,
+          "modelId": 16778382,
+          "cloTextureEffects": [
+            {
+              "oldTexture": 83887061,
+              "newTexture": 83889766
+            },
+            {
+              "oldTexture": 83887060,
+              "newTexture": 83886776
+            }
+          ]
+        }
+      ]
+    },
+    "33561100": {
+      "cloObjectEffects": [
+        {
+          "index": 9,
+          "modelId": 16778425,
+          "cloTextureEffects": [
+            {
+              "oldTexture": 83887070,
+              "newTexture": 83886778
+            },
+            {
+              "oldTexture": 83887062,
+              "newTexture": 83886776
+            }
+          ]
+        }
+      ]
+    },
+    "33561108": {
+      "cloObjectEffects": [
+        {
+          "index": 9,
+          "modelId": 16778425,
+          "cloTextureEffects": [
+            {
+              "oldTexture": 83887070,
+              "newTexture": 83886778
+            },
+            {
+              "oldTexture": 83887062,
+              "newTexture": 83886776
+            }
+          ]
+        }
+      ]
+    },
+    "33560941": {
+      "cloObjectEffects": [
+        {
+          "index": 9,
+          "modelId": 16778425,
+          "cloTextureEffects": [
+            {
+              "oldTexture": 83887070,
+              "newTexture": 83886778
+            },
+            {
+              "oldTexture": 83887062,
+              "newTexture": 83886776
+            }
+          ]
+        }
+      ]
+    },
+    "33561102": {
+      "cloObjectEffects": [
+        {
+          "index": 9,
+          "modelId": 16777300,
+          "cloTextureEffects": [
+            {
+              "oldTexture": 83887061,
+              "newTexture": 83889766
+            },
+            {
+              "oldTexture": 83887060,
+              "newTexture": 83886776
+            }
+          ]
+        }
+      ]
+    },
+    "33561110": {
+      "cloObjectEffects": [
+        {
+          "index": 9,
+          "modelId": 16777300,
+          "cloTextureEffects": [
+            {
+              "oldTexture": 83887061,
+              "newTexture": 83889766
+            },
+            {
+              "oldTexture": 83887060,
+              "newTexture": 83886776
+            }
+          ]
+        }
+      ]
+    },
+    "33560942": {
+      "cloObjectEffects": [
+        {
+          "index": 9,
+          "modelId": 16777300,
+          "cloTextureEffects": [
+            {
+              "oldTexture": 83887061,
+              "newTexture": 83889766
+            },
+            {
+              "oldTexture": 83887060,
+              "newTexture": 83886776
+            }
+          ]
+        }
+      ]
+    },
+    "33554510": {
+      "cloObjectEffects": [
+        {
+          "index": 9,
+          "modelId": 16778425,
+          "cloTextureEffects": [
+            {
+              "oldTexture": 83887070,
+              "newTexture": 83886778
+            },
+            {
+              "oldTexture": 83887062,
+              "newTexture": 83886776
+            }
+          ]
+        }
+      ]
+    },
+    "33560943": {
+      "cloObjectEffects": [
+        {
+          "index": 9,
+          "modelId": 16777300,
+          "cloTextureEffects": [
+            {
+              "oldTexture": 83887061,
+              "newTexture": 83889766
+            },
+            {
+              "oldTexture": 83887060,
+              "newTexture": 83886776
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "clothingSubPalEffects": {
+    "2": {
+      "icon": 100670400,
+      "cloSubPalettes": [
+        {
+          "ranges": [
+            {
+              "offset": 1728,
+              "numColors": 192
+            }
+          ],
+          "paletteSet": 251658267
+        },
+        {
+          "ranges": [
+            {
+              "offset": 1488,
+              "numColors": 96
+            }
+          ],
+          "paletteSet": 251658277
+        },
+        {
+          "ranges": [
+            {
+              "offset": 1392,
+              "numColors": 96
+            }
+          ],
+          "paletteSet": 251658277
+        }
+      ]
+    },
+    "39": {
+      "icon": 100670403,
+      "cloSubPalettes": [
+        {
+          "ranges": [
+            {
+              "offset": 1728,
+              "numColors": 192
+            }
+          ],
+          "paletteSet": 251658414
+        },
+        {
+          "ranges": [
+            {
+              "offset": 1488,
+              "numColors": 96
+            }
+          ],
+          "paletteSet": 251658277
+        },
+        {
+          "ranges": [
+            {
+              "offset": 1392,
+              "numColors": 96
+            }
+          ],
+          "paletteSet": 251658277
+        }
+      ]
+    },
+    "8": {
+      "icon": 100670402,
+      "cloSubPalettes": [
+        {
+          "ranges": [
+            {
+              "offset": 1728,
+              "numColors": 192
+            }
+          ],
+          "paletteSet": 251658274
+        },
+        {
+          "ranges": [
+            {
+              "offset": 1488,
+              "numColors": 96
+            }
+          ],
+          "paletteSet": 251658277
+        },
+        {
+          "ranges": [
+            {
+              "offset": 1392,
+              "numColors": 96
+            }
+          ],
+          "paletteSet": 251658277
+        }
+      ]
+    },
+    "13": {
+      "icon": 100670404,
+      "cloSubPalettes": [
+        {
+          "ranges": [
+            {
+              "offset": 1728,
+              "numColors": 192
+            }
+          ],
+          "paletteSet": 251658269
+        },
+        {
+          "ranges": [
+            {
+              "offset": 1488,
+              "numColors": 96
+            }
+          ],
+          "paletteSet": 251658277
+        },
+        {
+          "ranges": [
+            {
+              "offset": 1392,
+              "numColors": 96
+            }
+          ],
+          "paletteSet": 251658277
+        }
+      ]
+    },
+    "14": {
+      "icon": 100670405,
+      "cloSubPalettes": [
+        {
+          "ranges": [
+            {
+              "offset": 1728,
+              "numColors": 192
+            }
+          ],
+          "paletteSet": 251658270
+        },
+        {
+          "ranges": [
+            {
+              "offset": 1488,
+              "numColors": 96
+            }
+          ],
+          "paletteSet": 251658277
+        },
+        {
+          "ranges": [
+            {
+              "offset": 1392,
+              "numColors": 96
+            }
+          ],
+          "paletteSet": 251658277
+        }
+      ]
+    },
+    "19": {
+      "icon": 100670401,
+      "cloSubPalettes": [
+        {
+          "ranges": [
+            {
+              "offset": 1728,
+              "numColors": 192
+            }
+          ],
+          "paletteSet": 251658268
+        },
+        {
+          "ranges": [
+            {
+              "offset": 1488,
+              "numColors": 96
+            }
+          ],
+          "paletteSet": 251658277
+        },
+        {
+          "ranges": [
+            {
+              "offset": 1392,
+              "numColors": 96
+            }
+          ],
+          "paletteSet": 251658277
+        }
+      ]
+    },
+    "84": {
+      "icon": 100670402,
+      "cloSubPalettes": [
+        {
+          "ranges": [
+            {
+              "offset": 1728,
+              "numColors": 192
+            }
+          ],
+          "paletteSet": 251658523
+        },
+        {
+          "ranges": [
+            {
+              "offset": 1488,
+              "numColors": 96
+            }
+          ],
+          "paletteSet": 251658277
+        },
+        {
+          "ranges": [
+            {
+              "offset": 1392,
+              "numColors": 96
+            }
+          ],
+          "paletteSet": 251658277
+        }
+      ]
+    },
+    "20": {
+      "icon": 100670403,
+      "cloSubPalettes": [
+        {
+          "ranges": [
+            {
+              "offset": 1728,
+              "numColors": 192
+            }
+          ],
+          "paletteSet": 251658271
+        },
+        {
+          "ranges": [
+            {
+              "offset": 1488,
+              "numColors": 96
+            }
+          ],
+          "paletteSet": 251658277
+        },
+        {
+          "ranges": [
+            {
+              "offset": 1392,
+              "numColors": 96
+            }
+          ],
+          "paletteSet": 251658277
+        }
+      ]
+    },
+    "85": {
+      "icon": 100670405,
+      "cloSubPalettes": [
+        {
+          "ranges": [
+            {
+              "offset": 1728,
+              "numColors": 192
+            }
+          ],
+          "paletteSet": 251658524
+        },
+        {
+          "ranges": [
+            {
+              "offset": 1488,
+              "numColors": 96
+            }
+          ],
+          "paletteSet": 251658277
+        },
+        {
+          "ranges": [
+            {
+              "offset": 1392,
+              "numColors": 96
+            }
+          ],
+          "paletteSet": 251658277
+        }
+      ]
+    },
+    "21": {
+      "icon": 100670406,
+      "cloSubPalettes": [
+        {
+          "ranges": [
+            {
+              "offset": 1728,
+              "numColors": 192
+            }
+          ],
+          "paletteSet": 251658272
+        },
+        {
+          "ranges": [
+            {
+              "offset": 1488,
+              "numColors": 96
+            }
+          ],
+          "paletteSet": 251658277
+        },
+        {
+          "ranges": [
+            {
+              "offset": 1392,
+              "numColors": 96
+            }
+          ],
+          "paletteSet": 251658277
+        }
+      ]
+    },
+    "86": {
+      "icon": 100670406,
+      "cloSubPalettes": [
+        {
+          "ranges": [
+            {
+              "offset": 1728,
+              "numColors": 192
+            }
+          ],
+          "paletteSet": 251658525
+        },
+        {
+          "ranges": [
+            {
+              "offset": 1488,
+              "numColors": 96
+            }
+          ],
+          "paletteSet": 251658277
+        },
+        {
+          "ranges": [
+            {
+              "offset": 1392,
+              "numColors": 96
+            }
+          ],
+          "paletteSet": 251658277
+        }
+      ]
+    },
+    "22": {
+      "icon": 100670399,
+      "cloSubPalettes": [
+        {
+          "ranges": [
+            {
+              "offset": 1728,
+              "numColors": 192
+            }
+          ],
+          "paletteSet": 251658273
+        },
+        {
+          "ranges": [
+            {
+              "offset": 1488,
+              "numColors": 96
+            }
+          ],
+          "paletteSet": 251658277
+        },
+        {
+          "ranges": [
+            {
+              "offset": 1392,
+              "numColors": 96
+            }
+          ],
+          "paletteSet": 251658277
+        }
+      ]
+    },
+    "87": {
+      "icon": 100670401,
+      "cloSubPalettes": [
+        {
+          "ranges": [
+            {
+              "offset": 1728,
+              "numColors": 192
+            }
+          ],
+          "paletteSet": 251658526
+        },
+        {
+          "ranges": [
+            {
+              "offset": 1488,
+              "numColors": 96
+            }
+          ],
+          "paletteSet": 251658277
+        },
+        {
+          "ranges": [
+            {
+              "offset": 1392,
+              "numColors": 96
+            }
+          ],
+          "paletteSet": 251658277
+        }
+      ]
+    },
+    "24": {
+      "icon": 100672612,
+      "cloSubPalettes": [
+        {
+          "ranges": [
+            {
+              "offset": 1728,
+              "numColors": 192
+            }
+          ],
+          "paletteSet": 251658890
+        },
+        {
+          "ranges": [
+            {
+              "offset": 1488,
+              "numColors": 96
+            }
+          ],
+          "paletteSet": 251658890
+        },
+        {
+          "ranges": [
+            {
+              "offset": 1392,
+              "numColors": 96
+            }
+          ],
+          "paletteSet": 251658890
+        }
+      ]
+    },
+    "88": {
+      "icon": 100670400,
+      "cloSubPalettes": [
+        {
+          "ranges": [
+            {
+              "offset": 1728,
+              "numColors": 192
+            }
+          ],
+          "paletteSet": 251658607
+        },
+        {
+          "ranges": [
+            {
+              "offset": 1488,
+              "numColors": 96
+            }
+          ],
+          "paletteSet": 251658277
+        },
+        {
+          "ranges": [
+            {
+              "offset": 1392,
+              "numColors": 96
+            }
+          ],
+          "paletteSet": 251658277
+        }
+      ]
+    },
+    "89": {
+      "icon": 100670402,
+      "cloSubPalettes": [
+        {
+          "ranges": [
+            {
+              "offset": 1728,
+              "numColors": 192
+            }
+          ],
+          "paletteSet": 251658608
+        },
+        {
+          "ranges": [
+            {
+              "offset": 1488,
+              "numColors": 96
+            }
+          ],
+          "paletteSet": 251658277
+        },
+        {
+          "ranges": [
+            {
+              "offset": 1392,
+              "numColors": 96
+            }
+          ],
+          "paletteSet": 251658277
+        }
+      ]
+    },
+    "90": {
+      "icon": 100670403,
+      "cloSubPalettes": [
+        {
+          "ranges": [
+            {
+              "offset": 1728,
+              "numColors": 192
+            }
+          ],
+          "paletteSet": 251658609
+        },
+        {
+          "ranges": [
+            {
+              "offset": 1488,
+              "numColors": 96
+            }
+          ],
+          "paletteSet": 251658277
+        },
+        {
+          "ranges": [
+            {
+              "offset": 1392,
+              "numColors": 96
+            }
+          ],
+          "paletteSet": 251658277
+        }
+      ]
+    },
+    "27": {
+      "icon": 100672613,
+      "cloSubPalettes": [
+        {
+          "ranges": [
+            {
+              "offset": 1728,
+              "numColors": 192
+            }
+          ],
+          "paletteSet": 251658891
+        },
+        {
+          "ranges": [
+            {
+              "offset": 1488,
+              "numColors": 96
+            }
+          ],
+          "paletteSet": 251658891
+        },
+        {
+          "ranges": [
+            {
+              "offset": 1392,
+              "numColors": 96
+            }
+          ],
+          "paletteSet": 251658891
+        }
+      ]
+    },
+    "91": {
+      "icon": 100670400,
+      "cloSubPalettes": [
+        {
+          "ranges": [
+            {
+              "offset": 1728,
+              "numColors": 192
+            }
+          ],
+          "paletteSet": 251658722
+        },
+        {
+          "ranges": [
+            {
+              "offset": 1488,
+              "numColors": 96
+            }
+          ],
+          "paletteSet": 251658277
+        },
+        {
+          "ranges": [
+            {
+              "offset": 1392,
+              "numColors": 96
+            }
+          ],
+          "paletteSet": 251658277
+        }
+      ]
+    },
+    "92": {
+      "icon": 100670404,
+      "cloSubPalettes": [
+        {
+          "ranges": [
+            {
+              "offset": 1728,
+              "numColors": 192
+            }
+          ],
+          "paletteSet": 251658724
+        },
+        {
+          "ranges": [
+            {
+              "offset": 1488,
+              "numColors": 96
+            }
+          ],
+          "paletteSet": 251658277
+        },
+        {
+          "ranges": [
+            {
+              "offset": 1392,
+              "numColors": 96
+            }
+          ],
+          "paletteSet": 251658277
+        }
+      ]
+    },
+    "29": {
+      "icon": 100672614,
+      "cloSubPalettes": [
+        {
+          "ranges": [
+            {
+              "offset": 1728,
+              "numColors": 192
+            }
+          ],
+          "paletteSet": 251658892
+        },
+        {
+          "ranges": [
+            {
+              "offset": 1488,
+              "numColors": 96
+            }
+          ],
+          "paletteSet": 251658892
+        },
+        {
+          "ranges": [
+            {
+              "offset": 1392,
+              "numColors": 96
+            }
+          ],
+          "paletteSet": 251658892
+        }
+      ]
+    },
+    "93": {
+      "icon": 100670403,
+      "cloSubPalettes": [
+        {
+          "ranges": [
+            {
+              "offset": 1728,
+              "numColors": 192
+            }
+          ],
+          "paletteSet": 251658723
+        },
+        {
+          "ranges": [
+            {
+              "offset": 1488,
+              "numColors": 96
+            }
+          ],
+          "paletteSet": 251658277
+        },
+        {
+          "ranges": [
+            {
+              "offset": 1392,
+              "numColors": 96
+            }
+          ],
+          "paletteSet": 251658277
+        }
+      ]
+    }
+  },
+  "id": 268437805
+}

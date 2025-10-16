@@ -1,0 +1,116 @@
+{
+  "wcid": 23948381,
+  "weenieType": 38,
+  "boolStats": [
+    {
+      "key": 69,
+      "value": 0
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 128
+    },
+    {
+      "key": 5,
+      "value": 150
+    },
+    {
+      "key": 11,
+      "value": 1
+    },
+    {
+      "key": 12,
+      "value": 1
+    },
+    {
+      "key": 13,
+      "value": 150
+    },
+    {
+      "key": 15,
+      "value": 40
+    },
+    {
+      "key": 16,
+      "value": 8
+    },
+    {
+      "key": 19,
+      "value": 400000
+    },
+    {
+      "key": 93,
+      "value": 1044
+    },
+    {
+      "key": 94,
+      "value": 16
+    },
+    {
+      "key": 269,
+      "value": 3000
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33554718
+    },
+    {
+      "key": 3,
+      "value": 536870932
+    },
+    {
+      "key": 8,
+      "value": 100674156
+    },
+    {
+      "key": 22,
+      "value": 872415275
+    },
+    {
+      "key": 38,
+      "value": 10006161
+    },
+    {
+      "key": 52,
+      "value": 100670252
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 39,
+      "value": 0.5
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Box Of 3000 Nexus Writs"
+    },
+    {
+      "key": 14,
+      "value": "Use this crate to retrieve its contents."
+    },
+    {
+      "key": 16,
+      "value": "A box containing 3000 Nexus Writs"
+    },
+    {
+      "key": 20,
+      "value": "Boxes Of 3k Nexus Writs"
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2025-09-02T22:45:20.8368739Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

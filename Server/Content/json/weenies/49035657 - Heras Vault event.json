@@ -1,0 +1,185 @@
+{
+  "wcid": 49035657,
+  "weenieType": 20,
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 2,
+      "value": 0
+    },
+    {
+      "key": 3,
+      "value": 1
+    },
+    {
+      "key": 12,
+      "value": 1
+    },
+    {
+      "key": 13,
+      "value": 0
+    },
+    {
+      "key": 33,
+      "value": 0
+    },
+    {
+      "key": 34,
+      "value": 0
+    },
+    {
+      "key": 35,
+      "value": 1
+    },
+    {
+      "key": 86,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 512
+    },
+    {
+      "key": 5,
+      "value": 9000
+    },
+    {
+      "key": 6,
+      "value": -1
+    },
+    {
+      "key": 7,
+      "value": -1
+    },
+    {
+      "key": 8,
+      "value": 3000
+    },
+    {
+      "key": 16,
+      "value": 48
+    },
+    {
+      "key": 19,
+      "value": 2500
+    },
+    {
+      "key": 38,
+      "value": 9999
+    },
+    {
+      "key": 81,
+      "value": 3
+    },
+    {
+      "key": 82,
+      "value": 3
+    },
+    {
+      "key": 93,
+      "value": 1048
+    },
+    {
+      "key": 96,
+      "value": 500
+    },
+    {
+      "key": 100,
+      "value": 1
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33559144
+    },
+    {
+      "key": 2,
+      "value": 150995379
+    },
+    {
+      "key": 3,
+      "value": 536870945
+    },
+    {
+      "key": 8,
+      "value": 100688392
+    },
+    {
+      "key": 22,
+      "value": 872415275
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 39,
+      "value": 2
+    },
+    {
+      "key": 41,
+      "value": 60
+    },
+    {
+      "key": 43,
+      "value": 1
+    },
+    {
+      "key": 54,
+      "value": 1
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Dragons vault"
+    },
+    {
+      "key": 12,
+      "value": "Dragons vault"
+    }
+  ],
+  "generatorTable": [
+    {
+      "delay": 1,
+      "frame": {
+        "origin": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "angles": {
+          "w": 1,
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      },
+      "initCreate": 1,
+      "maxNum": 1,
+      "objcell_id": 0,
+      "probability": -1,
+      "ptid": 0,
+      "shade": 0,
+      "slot": 0,
+      "stackSize": -1,
+      "type": 10003,
+      "whenCreate": 2,
+      "whereCreate": 72
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2025-10-01T18:59:34.4206298Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

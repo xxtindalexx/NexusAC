@@ -1,0 +1,85 @@
+{
+  "ClothingBaseEffects": {
+    "0x2001714": {
+      "CloObjectEffects": [
+        {
+          "Index": 0,
+          "ModelId": "0x1001C81",
+          "CloTextureEffects": [
+            {
+              "OldTexture": "0x500005E",
+              "NewTexture": "0x500005E"
+            },
+            {
+              "OldTexture": "0x5000155",
+              "NewTexture": "0x5000155"
+            }
+          ]
+        }
+      ]
+    },
+    "0x200086D": {
+      "CloObjectEffects": [
+        {
+          "Index": 0,
+          "ModelId": "0x1001C81",
+          "CloTextureEffects": [
+            {
+              "OldTexture": "0x500005E",
+              "NewTexture": "0x500005E"
+            },
+            {
+              "OldTexture": "0x5000155",
+              "NewTexture": "0x5000155"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "ClothingSubPalEffects": {
+    "2": {
+      "Icon": 0,
+      "CloSubPalettes": [
+        {
+          "Ranges": [
+            {
+              "Offset": 0,
+              "NumColors": 2048
+            }
+          ],
+          "PaletteSet": "0xF0000fe"
+        }
+      ]
+    },
+    "52": {
+      "Icon": 0,
+      "CloSubPalettes": [
+        {
+          "Ranges": [
+            {
+              "Offset": 0,
+              "NumColors": 2048
+            }
+          ],
+          "PaletteSet": "0xF0000fe"
+        }
+      ]
+    },
+    "60": {
+      "Icon": 0,
+      "CloSubPalettes": [
+        {
+          "Ranges": [
+            {
+              "Offset": 0,
+              "NumColors": 2048
+            }
+          ],
+          "PaletteSet": "0xF000037"
+        }
+      ]
+    }
+  },
+  "Id": "0x1000021E"
+}

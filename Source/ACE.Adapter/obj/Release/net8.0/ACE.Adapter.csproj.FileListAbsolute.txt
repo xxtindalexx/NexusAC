@@ -1,0 +1,100 @@
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Adapter\bin\Release\net8.0\ACE.Adapter.deps.json
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Adapter\bin\Release\net8.0\ACE.Adapter.dll
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Adapter\bin\Release\net8.0\ACE.Adapter.pdb
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Adapter\bin\Release\net8.0\ACE.Common.dll
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Adapter\bin\Release\net8.0\ACE.Database.dll
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Adapter\bin\Release\net8.0\ACE.Entity.dll
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Adapter\bin\Release\net8.0\Lifestoned.DataModel.dll
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Adapter\bin\Release\net8.0\ACE.Database.pdb
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Adapter\bin\Release\net8.0\ACE.Entity.pdb
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Adapter\bin\Release\net8.0\ACE.Common.pdb
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Adapter\obj\Release\net8.0\ACE.Adapter.csproj.AssemblyReference.cache
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Adapter\obj\Release\net8.0\ACE.Adapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Adapter\obj\Release\net8.0\ACE.Adapter.AssemblyInfoInputs.cache
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Adapter\obj\Release\net8.0\ACE.Adapter.AssemblyInfo.cs
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Adapter\obj\Release\net8.0\ACE.Adapter.csproj.CoreCompileInputs.cache
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Adapter\obj\Release\net8.0\ACE.Adap.42C71C4F.Up2Date
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Adapter\obj\Release\net8.0\ACE.Adapter.dll
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Adapter\obj\Release\net8.0\refint\ACE.Adapter.dll
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Adapter\obj\Release\net8.0\ACE.Adapter.pdb
+C:\Users\meh\Desktop\ACE-feat-retail-casting\Source\ACE.Adapter\obj\Release\net8.0\ref\ACE.Adapter.dll
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Adapter\bin\Release\net8.0\ACE.Adapter.deps.json
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Adapter\bin\Release\net8.0\ACE.Adapter.dll
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Adapter\bin\Release\net8.0\ACE.Adapter.pdb
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Adapter\bin\Release\net8.0\ACE.Common.dll
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Adapter\bin\Release\net8.0\ACE.Database.dll
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Adapter\bin\Release\net8.0\ACE.Entity.dll
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Adapter\bin\Release\net8.0\Lifestoned.DataModel.dll
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Adapter\bin\Release\net8.0\ACE.Database.pdb
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Adapter\bin\Release\net8.0\ACE.Entity.pdb
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Adapter\bin\Release\net8.0\ACE.Common.pdb
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Adapter\obj\Release\net8.0\ACE.Adapter.csproj.AssemblyReference.cache
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Adapter\obj\Release\net8.0\ACE.Adapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Adapter\obj\Release\net8.0\ACE.Adapter.AssemblyInfoInputs.cache
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Adapter\obj\Release\net8.0\ACE.Adapter.AssemblyInfo.cs
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Adapter\obj\Release\net8.0\ACE.Adapter.csproj.CoreCompileInputs.cache
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Adapter\obj\Release\net8.0\ACE.Adap.42C71C4F.Up2Date
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Adapter\obj\Release\net8.0\ACE.Adapter.dll
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Adapter\obj\Release\net8.0\refint\ACE.Adapter.dll
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Adapter\obj\Release\net8.0\ACE.Adapter.pdb
+C:\Users\meh\Desktop\ACE-feat-retail-casting - Copy\Source\ACE.Adapter\obj\Release\net8.0\ref\ACE.Adapter.dll
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Adapter\bin\Release\net8.0\ACE.Adapter.deps.json
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Adapter\bin\Release\net8.0\ACE.Adapter.dll
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Adapter\bin\Release\net8.0\ACE.Adapter.pdb
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Adapter\bin\Release\net8.0\ACE.Common.dll
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Adapter\bin\Release\net8.0\ACE.Database.dll
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Adapter\bin\Release\net8.0\ACE.Entity.dll
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Adapter\bin\Release\net8.0\Lifestoned.DataModel.dll
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Adapter\bin\Release\net8.0\ACE.Database.pdb
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Adapter\bin\Release\net8.0\ACE.Entity.pdb
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Adapter\bin\Release\net8.0\ACE.Common.pdb
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Adapter\obj\Release\net8.0\ACE.Adapter.csproj.AssemblyReference.cache
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Adapter\obj\Release\net8.0\ACE.Adapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Adapter\obj\Release\net8.0\ACE.Adapter.AssemblyInfoInputs.cache
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Adapter\obj\Release\net8.0\ACE.Adapter.AssemblyInfo.cs
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Adapter\obj\Release\net8.0\ACE.Adapter.csproj.CoreCompileInputs.cache
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Adapter\obj\Release\net8.0\ACE.Adap.42C71C4F.Up2Date
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Adapter\obj\Release\net8.0\ACE.Adapter.dll
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Adapter\obj\Release\net8.0\refint\ACE.Adapter.dll
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Adapter\obj\Release\net8.0\ACE.Adapter.pdb
+C:\Users\Trey\Desktop\nexus full\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Adapter\obj\Release\net8.0\ref\ACE.Adapter.dll
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Adapter\bin\Release\net8.0\ACE.Adapter.deps.json
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Adapter\bin\Release\net8.0\ACE.Adapter.dll
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Adapter\bin\Release\net8.0\ACE.Adapter.pdb
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Adapter\bin\Release\net8.0\ACE.Common.dll
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Adapter\bin\Release\net8.0\ACE.Database.dll
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Adapter\bin\Release\net8.0\ACE.Entity.dll
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Adapter\bin\Release\net8.0\Lifestoned.DataModel.dll
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Adapter\bin\Release\net8.0\ACE.Database.pdb
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Adapter\bin\Release\net8.0\ACE.Entity.pdb
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Adapter\bin\Release\net8.0\ACE.Common.pdb
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Adapter\obj\Release\net8.0\ACE.Adapter.csproj.AssemblyReference.cache
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Adapter\obj\Release\net8.0\ACE.Adapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Adapter\obj\Release\net8.0\ACE.Adapter.AssemblyInfoInputs.cache
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Adapter\obj\Release\net8.0\ACE.Adapter.AssemblyInfo.cs
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Adapter\obj\Release\net8.0\ACE.Adapter.csproj.CoreCompileInputs.cache
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Adapter\obj\Release\net8.0\ACE.Adap.42C71C4F.Up2Date
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Adapter\obj\Release\net8.0\ACE.Adapter.dll
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Adapter\obj\Release\net8.0\refint\ACE.Adapter.dll
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Adapter\obj\Release\net8.0\ACE.Adapter.pdb
+C:\Nexus Server Source\ACE-feat-retail-casting - Copy\ACE-feat-retail-casting - Copy\Source\ACE.Adapter\obj\Release\net8.0\ref\ACE.Adapter.dll
+C:\Nexus Server Source\Source\ACE.Adapter\bin\Release\net8.0\ACE.Adapter.deps.json
+C:\Nexus Server Source\Source\ACE.Adapter\bin\Release\net8.0\ACE.Adapter.dll
+C:\Nexus Server Source\Source\ACE.Adapter\bin\Release\net8.0\ACE.Adapter.pdb
+C:\Nexus Server Source\Source\ACE.Adapter\bin\Release\net8.0\ACE.Common.dll
+C:\Nexus Server Source\Source\ACE.Adapter\bin\Release\net8.0\ACE.Database.dll
+C:\Nexus Server Source\Source\ACE.Adapter\bin\Release\net8.0\ACE.Entity.dll
+C:\Nexus Server Source\Source\ACE.Adapter\bin\Release\net8.0\Lifestoned.DataModel.dll
+C:\Nexus Server Source\Source\ACE.Adapter\bin\Release\net8.0\ACE.Database.pdb
+C:\Nexus Server Source\Source\ACE.Adapter\bin\Release\net8.0\ACE.Entity.pdb
+C:\Nexus Server Source\Source\ACE.Adapter\bin\Release\net8.0\ACE.Common.pdb
+C:\Nexus Server Source\Source\ACE.Adapter\obj\Release\net8.0\ACE.Adapter.csproj.AssemblyReference.cache
+C:\Nexus Server Source\Source\ACE.Adapter\obj\Release\net8.0\ACE.Adapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nexus Server Source\Source\ACE.Adapter\obj\Release\net8.0\ACE.Adapter.AssemblyInfoInputs.cache
+C:\Nexus Server Source\Source\ACE.Adapter\obj\Release\net8.0\ACE.Adapter.AssemblyInfo.cs
+C:\Nexus Server Source\Source\ACE.Adapter\obj\Release\net8.0\ACE.Adapter.csproj.CoreCompileInputs.cache
+C:\Nexus Server Source\Source\ACE.Adapter\obj\Release\net8.0\ACE.Adap.42C71C4F.Up2Date
+C:\Nexus Server Source\Source\ACE.Adapter\obj\Release\net8.0\ACE.Adapter.dll
+C:\Nexus Server Source\Source\ACE.Adapter\obj\Release\net8.0\refint\ACE.Adapter.dll
+C:\Nexus Server Source\Source\ACE.Adapter\obj\Release\net8.0\ACE.Adapter.pdb
+C:\Nexus Server Source\Source\ACE.Adapter\obj\Release\net8.0\ref\ACE.Adapter.dll

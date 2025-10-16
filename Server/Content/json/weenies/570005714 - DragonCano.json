@@ -1,0 +1,113 @@
+{
+  "wcid": 570005714,
+  "weenieType": 7,
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 11,
+      "value": 0
+    },
+    {
+      "key": 12,
+      "value": 1
+    },
+    {
+      "key": 13,
+      "value": 1
+    },
+    {
+      "key": 15,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 65536
+    },
+    {
+      "key": 16,
+      "value": 32
+    },
+    {
+      "key": 86,
+      "value": 150
+    },
+    {
+      "key": 93,
+      "value": 3084
+    },
+    {
+      "key": 111,
+      "value": 129
+    },
+    {
+      "key": 133,
+      "value": 4
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33555925
+    },
+    {
+      "key": 2,
+      "value": 150994947
+    },
+    {
+      "key": 8,
+      "value": 100667499
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 39,
+      "value": 2
+    },
+    {
+      "key": 54,
+      "value": -0.1
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "DragonCano"
+    }
+  ],
+  "posStats": [
+    {
+      "key": 2,
+      "value": {
+        "frame": {
+          "origin": {
+            "x": 50.8276,
+            "y": 26.7176,
+            "z": 20.2498
+          },
+          "angles": {
+            "w": 0.995309,
+            "x": 0,
+            "y": 0,
+            "z": 0.096748
+          }
+        },
+        "objcell_id": 151519250
+      }
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2025-10-05T06:04:25.7076618Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

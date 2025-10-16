@@ -1,0 +1,163 @@
+{
+  "wcid": 49007057,
+  "weenieType": 38,
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 0
+    },
+    {
+      "key": 11,
+      "value": 1
+    },
+    {
+      "key": 13,
+      "value": 1
+    },
+    {
+      "key": 14,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 1
+    },
+    {
+      "key": 69,
+      "value": 0
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 2048
+    },
+    {
+      "key": 5,
+      "value": 5
+    },
+    {
+      "key": 11,
+      "value": 100
+    },
+    {
+      "key": 12,
+      "value": 1
+    },
+    {
+      "key": 13,
+      "value": 10
+    },
+    {
+      "key": 15,
+      "value": 10000
+    },
+    {
+      "key": 16,
+      "value": 8
+    },
+    {
+      "key": 18,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 0
+    },
+    {
+      "key": 33,
+      "value": 1
+    },
+    {
+      "key": 93,
+      "value": 1044
+    },
+    {
+      "key": 94,
+      "value": 16
+    },
+    {
+      "key": 106,
+      "value": 325
+    },
+    {
+      "key": 107,
+      "value": 10000
+    },
+    {
+      "key": 108,
+      "value": 10000
+    },
+    {
+      "key": 109,
+      "value": 0
+    },
+    {
+      "key": 114,
+      "value": 1
+    },
+    {
+      "key": 151,
+      "value": 11
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33554809
+    },
+    {
+      "key": 3,
+      "value": 536870932
+    },
+    {
+      "key": 6,
+      "value": 67111919
+    },
+    {
+      "key": 8,
+      "value": 100670850
+    },
+    {
+      "key": 22,
+      "value": 872415275
+    },
+    {
+      "key": 23,
+      "value": 64
+    },
+    {
+      "key": 27,
+      "value": 318767233
+    },
+    {
+      "key": 52,
+      "value": 100667857
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Twisted Water of Enlightenment"
+    },
+    {
+      "key": 16,
+      "value": "This water appears to have a unique glow and was drawn from the Font of Enlightenment. It appears to have been instilled with experience. Drinking this water will grant the Player 1 Billion experience. This potion has been enhanced and appears to work for Enlightened characters. The experience gained will be decreased based on the enlightenment level of the Player."
+    },
+    {
+      "key": 20,
+      "value": "Water of Enlightenment"
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2025-10-05T19:26:58.763213Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

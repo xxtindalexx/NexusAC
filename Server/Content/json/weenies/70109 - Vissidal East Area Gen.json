@@ -1,0 +1,27 @@
+{
+  "wcid": 70109,
+  "weenieType": 1,
+  "boolStats": [],
+  "intStats": [],
+  "didStats": [],
+  "iidStats": [],
+  "floatStats": [],
+  "int64Stats": [],
+  "stringStats": [],
+  "lastModified": "2025-09-16T19:09:38.3052074Z",
+  "modifiedBy": "ACE.Adapter",
+  "changelog": [
+    {
+      "created": "2025-09-16T19:09:03.5937289Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    },
+    {
+      "created": "2025-09-16T19:09:38.3049359Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "userChangeSummary": "Weenie exported from ACEmulator world database using ACE.Adapter",
+  "isDone": false
+}

@@ -1,0 +1,118 @@
+{
+  "wcid": 423278,
+  "weenieType": 51,
+  "boolStats": [
+    {
+      "key": 69,
+      "value": 0
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 128
+    },
+    {
+      "key": 5,
+      "value": 10
+    },
+    {
+      "key": 11,
+      "value": 100
+    },
+    {
+      "key": 12,
+      "value": 1
+    },
+    {
+      "key": 13,
+      "value": 10
+    },
+    {
+      "key": 15,
+      "value": 10000
+    },
+    {
+      "key": 16,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 1
+    },
+    {
+      "key": 33,
+      "value": -1
+    },
+    {
+      "key": 93,
+      "value": 1044
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33557006
+    },
+    {
+      "key": 3,
+      "value": 536870932
+    },
+    {
+      "key": 7,
+      "value": 268436162
+    },
+    {
+      "key": 8,
+      "value": 100670644
+    },
+    {
+      "key": 22,
+      "value": 872415275
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 39,
+      "value": 0.67
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Uber-Stakes Gambling Gem"
+    },
+    {
+      "key": 16,
+      "value": "A gambling gem accepted by all Uber-Stakes Gamemasters."
+    }
+  ],
+  "lastModified": "2025-09-09T21:02:46.9950188Z",
+  "modifiedBy": "ACE.Adapter",
+  "changelog": [
+    {
+      "created": "2025-08-31T15:17:13.026507Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    },
+    {
+      "created": "2025-08-31T18:27:18.7459064Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    },
+    {
+      "created": "2025-09-01T02:58:50.1180192Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    },
+    {
+      "created": "2025-09-09T21:02:46.9885534Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "userChangeSummary": "Weenie exported from ACEmulator world database using ACE.Adapter",
+  "isDone": false
+}

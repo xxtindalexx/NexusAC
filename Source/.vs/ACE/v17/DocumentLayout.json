@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Nexus Server Source\\Source\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{943276B8-1DCC-48C6-A98D-692D60F53E43}|ACE.Server\\ACE.Server.csproj|c:\\nexus server source\\source\\ace.server\\entity\\pkquests\\pkquests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{943276B8-1DCC-48C6-A98D-692D60F53E43}|ACE.Server\\ACE.Server.csproj|solutionrelative:ace.server\\entity\\pkquests\\pkquests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{943276B8-1DCC-48C6-A98D-692D60F53E43}|ACE.Server\\ACE.Server.csproj|c:\\nexus server source\\source\\ace.server\\worldobjects\\player_pkquests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{943276B8-1DCC-48C6-A98D-692D60F53E43}|ACE.Server\\ACE.Server.csproj|solutionrelative:ace.server\\worldobjects\\player_pkquests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{943276B8-1DCC-48C6-A98D-692D60F53E43}|ACE.Server\\ACE.Server.csproj|c:\\nexus server source\\source\\ace.server\\worldobjects\\gem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{943276B8-1DCC-48C6-A98D-692D60F53E43}|ACE.Server\\ACE.Server.csproj|solutionrelative:ace.server\\worldobjects\\gem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PKQuests.cs",
+              "DocumentMoniker": "C:\\Nexus Server Source\\Source\\ACE.Server\\Entity\\PKQuests\\PKQuests.cs",
+              "RelativeDocumentMoniker": "ACE.Server\\Entity\\PKQuests\\PKQuests.cs",
+              "ToolTip": "C:\\Nexus Server Source\\Source\\ACE.Server\\Entity\\PKQuests\\PKQuests.cs",
+              "RelativeToolTip": "ACE.Server\\Entity\\PKQuests\\PKQuests.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T21:38:41.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Player_PkQuests.cs",
+              "DocumentMoniker": "C:\\Nexus Server Source\\Source\\ACE.Server\\WorldObjects\\Player_PkQuests.cs",
+              "RelativeDocumentMoniker": "ACE.Server\\WorldObjects\\Player_PkQuests.cs",
+              "ToolTip": "C:\\Nexus Server Source\\Source\\ACE.Server\\WorldObjects\\Player_PkQuests.cs",
+              "RelativeToolTip": "ACE.Server\\WorldObjects\\Player_PkQuests.cs",
+              "ViewState": "AgIAAEEBAAAAAAAAAAAmwGkBAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T21:38:30.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Gem.cs",
+              "DocumentMoniker": "C:\\Nexus Server Source\\Source\\ACE.Server\\WorldObjects\\Gem.cs",
+              "RelativeDocumentMoniker": "ACE.Server\\WorldObjects\\Gem.cs",
+              "ToolTip": "C:\\Nexus Server Source\\Source\\ACE.Server\\WorldObjects\\Gem.cs",
+              "RelativeToolTip": "ACE.Server\\WorldObjects\\Gem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T01:12:29.417Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
