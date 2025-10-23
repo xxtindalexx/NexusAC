@@ -329,6 +329,21 @@ namespace ACE.Server.Factories
                     else
                         magicMod = 5;
                     break;
+                case 8:
+                    chance = ThreadSafeRandom.Next(1, 1000);
+                    if (chance > 900)
+                        magicMod = 10;
+                    else if (chance > 800)
+                        magicMod = 9;
+                    else if (chance > 700)
+                        magicMod = 8;
+                    else if (chance > 600)
+                        magicMod = 7;
+                    else if (chance > 500)
+                        magicMod = 6;
+                    else
+                        magicMod = 5;
+                    break;
                 default:
                     chance = ThreadSafeRandom.Next(1, 1000);
                     if (chance > 900)
@@ -415,7 +430,7 @@ namespace ACE.Server.Factories
                         elementBonus = 0.11;
                     break;
 
-                default:
+                case 385:
                     // 385
                     if (chance > 95)
                         elementBonus = 0.18;
@@ -423,6 +438,16 @@ namespace ACE.Server.Factories
                         elementBonus = 0.17;
                     else
                         elementBonus = 0.16;
+                    break;
+
+                default:
+                    // 550
+                    if (chance > 95)
+                        elementBonus = 0.22;
+                    else if (chance > 65)
+                        elementBonus = 0.21;
+                    else
+                        elementBonus = 0.20;
                     break;
             }
 

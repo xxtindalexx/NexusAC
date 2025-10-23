@@ -117,7 +117,8 @@ namespace ACE.Server.Factories
                     wo.WieldDifficulty = profile.Tier switch
                     {
                         7 => 150,  // In this instance, used for indicating player level, rather than skill level
-                        _ => 180,  // In this instance, used for indicating player level, rather than skill level
+                        8 => 180,  // In this instance, used for indicating player level, rather than skill level
+                        _ => 225,  // In this instance, used for indicating player level, rather than skill level
                     };
                 }
             }
@@ -152,12 +153,15 @@ namespace ACE.Server.Factories
             if (profile.Tier > 6 && armorType != LootTables.ArmorType.SocietyArmor)
                 TryRollEquipmentSet(wo, profile, roll);
 
-            if (roll != null && profile.Tier == 8)
+            if (roll != null && profile.Tier >= 8 && profile.Tier < 9)
                 TryMutateGearRating(wo, profile, roll);
+
+            if (roll != null && profile.Tier == 9)
+                TryMutateGearRatingT9(wo, profile, roll);
 
             // item value
             //if (wo.HasMutateFilter(MutateFilter.Value))   // fixme: data
-                MutateValue(wo, profile.Tier, roll);
+            MutateValue(wo, profile.Tier, roll);
 
             wo.LongDesc = GetLongDesc(wo);
         }
@@ -571,7 +575,8 @@ namespace ACE.Server.Factories
                 5 => ThreadSafeRandom.Next(1, 5),
                 6 => ThreadSafeRandom.Next(1, 6),
                 7 => ThreadSafeRandom.Next(1, 7),
-                _ => ThreadSafeRandom.Next(1, 8),
+                8 => ThreadSafeRandom.Next(1, 8),
+                _ => ThreadSafeRandom.Next(1, 9),
             };
 
             var wield = skill switch
@@ -585,7 +590,8 @@ namespace ACE.Server.Factories
                     5 => 270,
                     6 => 290,
                     7 => 310,
-                    _ => 320,
+                    8 => 320,
+                    _ => 330,
                 },
                 Skill.MissileDefense => index switch
                 {
@@ -596,7 +602,8 @@ namespace ACE.Server.Factories
                     5 => 290,
                     6 => 305,
                     7 => 330,
-                    _ => 340,
+                    8 => 340,
+                    _ => 350,
                 },
                 _ => index switch
                 {
@@ -607,7 +614,8 @@ namespace ACE.Server.Factories
                     5 => 350,
                     6 => 370,
                     7 => 400,
-                    _ => 410,
+                    8 => 410,
+                    _ => 420,
                 },
             };
             return wield;
@@ -842,12 +850,14 @@ namespace ACE.Server.Factories
             // workmanship
             wo.Workmanship = WorkmanshipChance.Roll(profile.Tier);
 
-            if (roll != null && profile.Tier == 8)
+            if (roll != null && profile.Tier <= 8)
                 TryMutateGearRating(wo, profile, roll);
+            else if (roll != null && profile.Tier == 9)
+                TryMutateGearRatingT9(wo, profile, roll);
 
             // item value
             //if (wo.HasMutateFilter(MutateFilter.Value))
-                MutateValue(wo, profile.Tier, roll);
+            MutateValue(wo, profile.Tier, roll);
         }
 
         private static int RollCloak_ItemMaxLevel(TreasureDeath profile)
@@ -904,6 +914,14 @@ namespace ACE.Server.Factories
                     else if (chance <= 920)
                         cloakLevel = 3;
                     else if (chance <= 975)
+                        cloakLevel = 4;
+                    else
+                        cloakLevel = 5;
+                    break;
+                case 9:  // From data, no chance to get a lvl 1 cloak
+                    if (chance <= 451)
+                        cloakLevel = 3;
+                    else if (chance <= 920)
                         cloakLevel = 4;
                     else
                         cloakLevel = 5;
@@ -988,7 +1006,7 @@ namespace ACE.Server.Factories
             if (profile.DisableRatings)
                 return false;
 
-            if (profile.Tier != 8)
+            if (profile.Tier < 8 && profile.Tier != 9)
                 return false;
 
             // shields don't have gear ratings
@@ -1003,7 +1021,7 @@ namespace ACE.Server.Factories
 
             var rng = ThreadSafeRandom.Next(0, 1);
 
-            if (roll.HasArmorLevel(wo))
+            if (roll.HasArmorLevel(wo) && profile.Tier >= 7 && profile.Tier != 9)
             {
                 // clothing w/ al, and crowns would be included in this group
                 if (rng == 0)
@@ -1038,7 +1056,57 @@ namespace ACE.Server.Factories
             return true;
         }
 
-        private static void SetWieldLevelReq(WorldObject wo, int level)
+        private static bool TryMutateGearRatingT9(WorldObject wo, TreasureDeath profile, TreasureRoll roll)
+        {
+            if (profile.Tier != 9)
+                return false;
+
+            // shields don't have gear ratings
+            if (wo.IsShield) return false;
+
+            var gearRatingT9 = GearRatingChance.RollT9(wo, profile, roll);
+
+            if (gearRatingT9 == 0)
+                return false;
+
+            //Console.WriteLine($"TryMutateGearRating({wo.Name}, {profile.TreasureType}, {roll.ItemType}): rolled gear rating {gearRating}");
+
+            var rngT9 = ThreadSafeRandom.Next(0, 1);
+
+            if (roll.HasArmorLevel(wo) && profile.Tier == 9)
+            {
+                // clothing w/ al, and crowns would be included in this group
+                if (rngT9 == 0)
+                    wo.GearCritDamage = gearRatingT9;
+                else
+                    wo.GearCritDamageResist = gearRatingT9;
+            }
+            else if (roll.IsClothing || roll.IsCloak)
+            {
+                if (rngT9 == 0)
+                    wo.GearDamage = gearRatingT9;
+                else
+                    wo.GearDamageResist = gearRatingT9;
+            }
+
+            else if (roll.IsJewelry)
+            {
+                if (rngT9 == 0)
+                    wo.GearHealingBoost = gearRatingT9;
+                else
+                    wo.GearMaxHealth = gearRatingT9;
+            }
+            else 
+            {
+                log.Error($"TryMutateGearRating({wo.Name}, {profile.TreasureType}, {roll.ItemType}): unknown item type");
+                return false;
+            }
+            if (roll.ArmorType != TreasureArmorType.Society)
+                SetWieldLevelReq(wo, 225);
+
+            return true;
+        }
+                private static void SetWieldLevelReq(WorldObject wo, int level)
         {
             if (wo.WieldRequirements == WieldRequirement.Invalid)
             {

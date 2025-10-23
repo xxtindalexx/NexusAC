@@ -784,6 +784,7 @@ namespace ACE.Server.Factories
             (400, 3500),    // T6
             (600, 4000),    // T7
             (600, 4500),    // T8
+            (800, 5000),    // T9
         };
 
         private static int Roll_ItemValue(WorldObject wo, int tier)
@@ -857,7 +858,7 @@ namespace ACE.Server.Factories
             var materialMod = MaterialTable.GetValueMod(wo.MaterialType);
             var gemValue = GemMaterialChance.GemValue(wo.GemType);
 
-            var tierMod = ItemValue_TierMod[Math.Clamp(tier, 1, 8) - 1];
+            var tierMod = ItemValue_TierMod[Math.Clamp(tier, 1,10) - 1];
 
             var newValue = (int)wo.Value * valueFactor + materialMod * tierMod + gemValue;
 
@@ -906,6 +907,7 @@ namespace ACE.Server.Factories
             1000,   // T6
             2000,   // T7
             3000,   // T8
+            4000,   // T9
         };
 
         /// <summary>
@@ -1217,6 +1219,7 @@ namespace ACE.Server.Factories
             (250, 5000), // T6
             (250, 5000), // T7
             (250, 5000), // T8
+            (500, 10000),// T9
         };
 
         private static void MutateCoins(WorldObject wo, TreasureDeath profile)
@@ -1269,7 +1272,7 @@ namespace ACE.Server.Factories
 
             var wieldLevelReq = 150;
 
-            if (profile.Tier == 8)
+            if (profile.Tier >= 8)
             {
                 // t8 had a 90% chance for 180
                 // loot quality mod?
