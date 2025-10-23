@@ -1,0 +1,6 @@
+
+# VS local caches 
+**/.vs/ 
+**/*.vsidx 
+**/*.dtbcache 
+**/*.dtbcache.v2 
