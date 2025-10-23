@@ -1,20 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Nexus Server Source\\Source\\ACE.Database.Tests\\ACE.Database.Tests.csproj": {}
+    "C:\\Users\\xxtin\\Documents\\NexusAC\\Source\\ACE.Database.Tests\\ACE.Database.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Nexus Server Source\\Source\\ACE.Common\\ACE.Common.csproj": {
+    "C:\\Users\\xxtin\\Documents\\NexusAC\\Source\\ACE.Common\\ACE.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Nexus Server Source\\Source\\ACE.Common\\ACE.Common.csproj",
+        "projectUniqueName": "C:\\Users\\xxtin\\Documents\\NexusAC\\Source\\ACE.Common\\ACE.Common.csproj",
         "projectName": "ACE.Common",
-        "projectPath": "C:\\Nexus Server Source\\Source\\ACE.Common\\ACE.Common.csproj",
-        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Nexus Server Source\\Source\\ACE.Common\\obj\\",
+        "projectPath": "C:\\Users\\xxtin\\Documents\\NexusAC\\Source\\ACE.Common\\ACE.Common.csproj",
+        "packagesPath": "C:\\Users\\xxtin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\xxtin\\Documents\\NexusAC\\Source\\ACE.Common\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\xxtin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -34,13 +39,7 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.300"
+        }
       },
       "frameworks": {
         "netstandard2.0": {
@@ -84,21 +83,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Nexus Server Source\\Source\\ACE.Database.Tests\\ACE.Database.Tests.csproj": {
+    "C:\\Users\\xxtin\\Documents\\NexusAC\\Source\\ACE.Database.Tests\\ACE.Database.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Nexus Server Source\\Source\\ACE.Database.Tests\\ACE.Database.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\xxtin\\Documents\\NexusAC\\Source\\ACE.Database.Tests\\ACE.Database.Tests.csproj",
         "projectName": "ACE.Database.Tests",
-        "projectPath": "C:\\Nexus Server Source\\Source\\ACE.Database.Tests\\ACE.Database.Tests.csproj",
-        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Nexus Server Source\\Source\\ACE.Database.Tests\\obj\\",
+        "projectPath": "C:\\Users\\xxtin\\Documents\\NexusAC\\Source\\ACE.Database.Tests\\ACE.Database.Tests.csproj",
+        "packagesPath": "C:\\Users\\xxtin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\xxtin\\Documents\\NexusAC\\Source\\ACE.Database.Tests\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\xxtin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -112,11 +116,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Nexus Server Source\\Source\\ACE.Common\\ACE.Common.csproj": {
-                "projectPath": "C:\\Nexus Server Source\\Source\\ACE.Common\\ACE.Common.csproj"
+              "C:\\Users\\xxtin\\Documents\\NexusAC\\Source\\ACE.Common\\ACE.Common.csproj": {
+                "projectPath": "C:\\Users\\xxtin\\Documents\\NexusAC\\Source\\ACE.Common\\ACE.Common.csproj"
               },
-              "C:\\Nexus Server Source\\Source\\ACE.Database\\ACE.Database.csproj": {
-                "projectPath": "C:\\Nexus Server Source\\Source\\ACE.Database\\ACE.Database.csproj"
+              "C:\\Users\\xxtin\\Documents\\NexusAC\\Source\\ACE.Database\\ACE.Database.csproj": {
+                "projectPath": "C:\\Users\\xxtin\\Documents\\NexusAC\\Source\\ACE.Database\\ACE.Database.csproj"
               }
             }
           }
@@ -125,13 +129,7 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.300"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -170,21 +168,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Nexus Server Source\\Source\\ACE.Database\\ACE.Database.csproj": {
+    "C:\\Users\\xxtin\\Documents\\NexusAC\\Source\\ACE.Database\\ACE.Database.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Nexus Server Source\\Source\\ACE.Database\\ACE.Database.csproj",
+        "projectUniqueName": "C:\\Users\\xxtin\\Documents\\NexusAC\\Source\\ACE.Database\\ACE.Database.csproj",
         "projectName": "ACE.Database",
-        "projectPath": "C:\\Nexus Server Source\\Source\\ACE.Database\\ACE.Database.csproj",
-        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Nexus Server Source\\Source\\ACE.Database\\obj\\",
+        "projectPath": "C:\\Users\\xxtin\\Documents\\NexusAC\\Source\\ACE.Database\\ACE.Database.csproj",
+        "packagesPath": "C:\\Users\\xxtin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\xxtin\\Documents\\NexusAC\\Source\\ACE.Database\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\xxtin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -198,8 +201,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Nexus Server Source\\Source\\ACE.Entity\\ACE.Entity.csproj": {
-                "projectPath": "C:\\Nexus Server Source\\Source\\ACE.Entity\\ACE.Entity.csproj"
+              "C:\\Users\\xxtin\\Documents\\NexusAC\\Source\\ACE.Entity\\ACE.Entity.csproj": {
+                "projectPath": "C:\\Users\\xxtin\\Documents\\NexusAC\\Source\\ACE.Entity\\ACE.Entity.csproj"
               }
             }
           }
@@ -208,13 +211,7 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.300"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -249,21 +246,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Nexus Server Source\\Source\\ACE.Entity\\ACE.Entity.csproj": {
+    "C:\\Users\\xxtin\\Documents\\NexusAC\\Source\\ACE.Entity\\ACE.Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Nexus Server Source\\Source\\ACE.Entity\\ACE.Entity.csproj",
+        "projectUniqueName": "C:\\Users\\xxtin\\Documents\\NexusAC\\Source\\ACE.Entity\\ACE.Entity.csproj",
         "projectName": "ACE.Entity",
-        "projectPath": "C:\\Nexus Server Source\\Source\\ACE.Entity\\ACE.Entity.csproj",
-        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Nexus Server Source\\Source\\ACE.Entity\\obj\\",
+        "projectPath": "C:\\Users\\xxtin\\Documents\\NexusAC\\Source\\ACE.Entity\\ACE.Entity.csproj",
+        "packagesPath": "C:\\Users\\xxtin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\xxtin\\Documents\\NexusAC\\Source\\ACE.Entity\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\xxtin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -277,8 +279,8 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "C:\\Nexus Server Source\\Source\\ACE.Common\\ACE.Common.csproj": {
-                "projectPath": "C:\\Nexus Server Source\\Source\\ACE.Common\\ACE.Common.csproj"
+              "C:\\Users\\xxtin\\Documents\\NexusAC\\Source\\ACE.Common\\ACE.Common.csproj": {
+                "projectPath": "C:\\Users\\xxtin\\Documents\\NexusAC\\Source\\ACE.Common\\ACE.Common.csproj"
               }
             }
           }
@@ -287,13 +289,7 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.300"
+        }
       },
       "frameworks": {
         "netstandard2.0": {
@@ -321,7 +317,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
