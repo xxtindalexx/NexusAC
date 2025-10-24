@@ -39,6 +39,12 @@ namespace ACE.Server.Factories.Tables
             ( 7, 1.00f )
         };
 
+        private static ChanceTable<int> T9_ScrollLevelChances = new ChanceTable<int>()
+        {
+            ( 7, 0.80f ),
+            ( 8, 0.20f )
+        };
+
         private static readonly List<ChanceTable<int>> scrollLevelChances = new List<ChanceTable<int>>()
         {
             T1_ScrollLevelChances,
@@ -49,6 +55,7 @@ namespace ACE.Server.Factories.Tables
             T5_T8_ScrollLevelChances,
             T5_T8_ScrollLevelChances,
             T5_T8_ScrollLevelChances,
+            T9_ScrollLevelChances
         };
 
         public static int Roll(TreasureDeath profile)
